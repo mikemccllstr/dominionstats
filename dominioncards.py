@@ -135,6 +135,23 @@ def indexes(cards):
     """ Return a list of index for the passed list of cards """
     return [card.index for card in cards]
 
+import collections
+def get_expansion_weight(supply):
+    weights = collections.defaultdict(float)
+    total = 0
+
+    for c in supply:
+        expansion = c.get_expansion()
+        if expansion == 'Common':
+            continue
+        weights[expansion] += 1.0
+        total += 1
+
+    for expansion in weights:
+        weights[expansion] /= float(total)
+
+    return weights
+
 import simplejson as json
 class CardEncoder(json.JSONEncoder):
     def default(self, obj):

@@ -380,22 +380,6 @@ class Game(object):
     def game_state_iterator(self):
         return GameState(self)
 
-    def get_expansion_weight(self):
-        weights = collections.defaultdict(float)
-        total = 0
-
-        for c in self.supply:
-            expansion = c.get_expansion()
-            if expansion == 'Common':
-                continue
-            weights[expansion] += 1.0
-            total += 1
-
-        for expansion in weights:
-            weights[expansion] /= float(total)
-
-        return weights
-
     def get_opening(self, player):
         opening = []
         count = 0
@@ -411,10 +395,13 @@ class Game(object):
         
 
 
-    def __repr__(self):
+    def __repr__(self, print_turns=False):
         s = '== %s ==\n\tSupply: %s\n'%(self.id, self.supply)
         for pd in self.player_decks:
             s += '%s\n'%str(pd)
+        if print_turns:
+            for turn in self.turns:
+                s += '%s\n'%str(turn)
         return s
 
 

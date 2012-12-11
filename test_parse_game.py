@@ -423,6 +423,23 @@ DEF_NAME_LIST)
 DEF_NAME_LIST)
         assert_equal_card_lists(turn_info[OPP]['3'][TRASHES], ['Gold'])
 
+    def test_noble_brigand_talisman(self):
+        turn_info = parse_game.parse_turn(
+"""--- player1's turn 15 ---
+player1 plays an <span class=card-none>Alchemist</span>.
+... drawing 2 cards and getting +1 action.
+player1 plays a <span class=card-none>Workshop</span>.
+... gaining a <span class=card-treasure>Talisman</span>.
+player1 plays 3 <span class=card-treasure>Coppers</span> and a <span class=card-treasure>Talisman</span>.
+player1 buys a <span class=card-none>Noble Brigand</span>.
+... player2 reveals and discards a <span class=card-treasure>Copper</span> and a <span class=card-none>Hunting Party</span>.
+... gaining another <span class=card-none>Noble Brigand</span>.
+<span class=logonly>(player1 draws: an <span class=card-victory>Estate</span>, a <span class=card-none>Scrying Pool</span>, a <span class=card-treasure>Potion</
+span>, an <span class=card-none>Alchemist</span>, and a <span class=card-treasure>Silver</span>.)</span>
+""", DEF_NAME_LIST)
+        assert_equal_card_lists(turn_info[GAINS], ['Talisman', 'Noble Brigand'])
+        
+
 
     def test_bank_turn(self):
         turn_info = parse_game.parse_turn(u"""

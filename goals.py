@@ -629,6 +629,23 @@ def GetGoalImageFilename(goal_name):
 def GetGoalDescription(goal_name):
     return goal_check_funcs[goal_name].__doc__
 
+GOAL_BOX = """<table class="goal_box">
+    <td>%(link)s<img src="%(img)s" title="%(goal_name)s" width="50px"></a>
+    <td width="100px">%(link)s
+                      <span class="goal_description">%(reason)s</span><br>
+                      <span class="goal_date">%(date)s</span></a>
+</table>
+"""
+
+GOAL_CHUNK = """<div onclick="javascript:toggle(\'%(goal_name)s\');" style="cursor:pointer; display: inline-block" class="cardborder2 blue" id="%(goal_name)s">
+ <span style="display: inline-block; text-align: center">
+  <img src="%(img)s" title="%(goal_name)s x%(freq)d" style="vertical-align: middle; display:block" id="%(goal_name)s_img">
+  <span style="font-size: 14; font-weight: 700; display: block;" id="%(goal_name)s_caption">%(goal_name)s</span>
+ </span>
+ <span class="goal_name" id="%(goal_name)s_title" style="display: none">&nbsp; %(goal_name)s &nbsp; x%(freq)d</span>
+ <div id="%(goal_name)s_list" class="goal_list"><br>
+"""
+
 def MaybeRenderGoals(db, norm_target_player):
     game_matches = list(db.goals.find({'goals.player': norm_target_player}))
     ret = ''
@@ -682,35 +699,27 @@ function toggle(item) {
 
         ret += '<div style="width: 1000px">'
         for goal_name in goals_achieved:
-            img = GetGoalImageFilename(goal_name)
+            m = {'goal_name': goal_name}
+            m['img'] = GetGoalImageFilename(goal_name)
             found_goals = goals_by_name[goal_name]
-            freq = len(found_goals)
-
-            ret += '<div onclick="javascript:toggle(\'%s\');" style="cursor:pointer; display: inline-block" class="cardborder2 blue" id="%s">' % (goal_name, goal_name)
-            ret += '<span style="display: inline-block; text-align: center">'
-            ret += '<img src="%s" title="%s x%d" style="vertical-align: middle; display:block" id="%s_img">' % (img, goal_name, freq, goal_name)
-            ret += '<span style="font-size: 14; font-weight: 700; display: block;" id="%s_caption">%s</span>' % (goal_name, goal_name)
-            ret += '</span>'
-            ret += '<span class="goal_name" id="%s_title" style="display: none">&nbsp; %s &nbsp; x%d</span>' % (goal_name, goal_name, freq)
-
-            ret += '<div id="%s_list" class="goal_list"><br>' % goal_name
+            m['freq'] = len(found_goals)
+            ret += GOAL_CHUNK % m
 
             def KeyAndDate(goal):
                 return goal.get('sort_key'), goal['_id']
             found_goals.sort(key = KeyAndDate)
             
+            temp_ret = ''
             for match in found_goals:
                 game_id = match['_id']
-                reason = match.get('reason', '')
-                link = game.Game.get_councilroom_link_from_id(game_id, ' class="goal"')
-                date = game.Game.get_datetime_from_id(game_id).strftime("%d %b %Y")
-                ret += '<table class="goal_box">'
-                ret += '<td>%s<img src="%s" title="%s" width="50px"></a>' % (link, img, goal_name)
-                ret += '<td width="100px">%s' % link
-                ret += '<span class="goal_description">%s</span><br>' % reason
-                ret += '<span class="goal_date">%s</span></a>' % date
-                ret += '</table>'
 
+                m['reason'] = match.get('reason', '')
+                m['link'] = game.Game.get_councilroom_link_from_id(game_id, ' class="goal"')
+                m['date'] = game.Game.get_datetime_from_id(game_id).strftime("%d %b %Y")
+                
+                temp_ret += GOAL_BOX % m
+
+            ret += temp_ret
             ret += '</div></div>'
         ret += '</div>'
         ret += '<div style="clear: both;">&nbsp;</div>'

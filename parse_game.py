@@ -653,7 +653,7 @@ def parse_turn(turn_blob, names_list):
                 targ_obj[TRASHES].extend(capture_cards(lines[line_idx - 1]))
             if KW_REVEALING in line or KW_REVEALS in line:
                 # reveals watchtower trashing ...
-                # noble brigand reveals xx, yy and treashes yy
+                # noble brigand reveals xx, yy and trashes yy
                 trashed = capture_cards(line[line.find(KW_TRASHING):])
                 targ_obj[TRASHES].extend(trashed)
             else:

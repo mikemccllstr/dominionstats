@@ -12,6 +12,7 @@ ORDER = 'O'
 DECK = ':'
 POINTS = '*'
 NAME = 'N'
+RESULT = '~'
 
 BUYS = 'b'
 GAINS = 'g'

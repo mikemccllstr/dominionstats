@@ -203,9 +203,9 @@ class PlayerPage(object):
         target_player = query_dict['player'].decode('utf-8')
 
         db = utils.get_mongo_database()
-        games = db.games
+        game_stats = db.game_stats
         norm_target_player = norm_name(target_player)
-        games_coll = games.find({PLAYERS: norm_target_player})
+        games_coll = game_stats.find({NAME: norm_target_player})
 
         leaderboard_history_result = db.leaderboard_history.find_one(
             {'_id': norm_target_player})
@@ -225,42 +225,32 @@ class PlayerPage(object):
         expansion_win_points = collections.defaultdict(float)
 
         date_buckets = [1, 3, 5, 10]
-        for g in games_coll:
-            game_val = game.Game(g)
-            if game_val.dubious_quality():
-                continue
-            all_player_names = game_val.all_player_names()
-            norm_names = map(norm_name, all_player_names)
-            if len(set(norm_names)) != len(all_player_names):
-                continue
-            target_player_cur_name_cand = [
-                n for n in all_player_names
-                if norm_name(n) == norm_target_player]
-            if len(target_player_cur_name_cand) != 1:
-                continue
-            game_list.append(game_val)
-            target_player_cur_name = target_player_cur_name_cand[0]
-            aliases.add(target_player_cur_name)
+        cutoffs = {}
+        for delta in date_buckets:
+            cutoff = datetime.datetime.now().date() + datetime.timedelta(days = -delta)
+            cutoffs[delta] = cutoff.strftime("%Y%m%d")
 
-            pd = game_val.get_player_deck(target_player_cur_name)
-            wp = pd.WinPoints()
+        for g in games_coll.sort('_id', pymongo.DESCENDING):
+            g_id = g['_id']
+            g_id = g_id[: g_id.index('/')]
+            game_list.append(g_id)
 
-            res = game_val.win_loss_tie(target_player_cur_name)
+            name = g[NAME]
+            #aliases.add(target_player_cur_name) TODO: Turn this back
+            wp = g[WIN_POINTS]
+            res = g[RESULT]
             overall_record.record_result(res, wp)
-            game_len = len(game_val.get_player_decks())
+            game_len = len( g[PLAYERS] ) + 1
             rec_by_game_size[game_len].record_result(res, wp)
 
-            _ord = pd.TurnOrder()
+            _ord = g[ORDER]
             rec_by_turn_order[_ord].record_result(res, wp)
             for delta in date_buckets:
-                _padded = (game_val.date() +
-                           datetime.timedelta(days = delta))
-                delta_padded_date = _padded.date()
-                today = datetime.datetime.now().date()
-                if delta_padded_date >= today:
+                if g['game_date'] >= cutoffs[delta]:
                     rec_by_date[delta].record_result(res, wp)
+            supply = [dominioncards.index_to_card(i) for i in g[SUPPLY]]
 
-            for (ex, wt) in game_val.get_expansion_weight().items():
+            for (ex, wt) in dominioncards.get_expansion_weight(supply).items():
                 expansion_dist[ex] += wt
                 expansion_win_points[ex] += wt * wp
 
@@ -337,10 +327,11 @@ class PlayerPage(object):
                     json.dumps(leaderboard_history)))
 
         ret += '<h2>Most recent games</h2>\n'
-        game_list.sort(key = game.Game.get_id, reverse = True)
         qm = query_matcher.QueryMatcher(p1_name=target_player)
-        for g in game_list[:3]:
-            ret += (query_matcher.GameMatcher(g, qm).display_game_snippet() +
+        for g_id in game_list[:3]:
+            g = db.games.find_one({'_id': g_id})
+            game_val = game.Game(g)
+            ret += (query_matcher.GameMatcher(game_val, qm).display_game_snippet() +
                     '<br>')
 
         ret += ('<A HREF="/search_result?p1_name=%s">(See more)</A>' % 
