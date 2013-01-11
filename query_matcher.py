@@ -158,7 +158,7 @@ class QueryMatcher(object):
         if 'kingdom' in args:
             self.kingdom_restrict = []
             for k in args['kingdom'].split(','):
-                card = dominioncards.get_card(k)
+                card = dominioncards.get_card(k.strip())
                 self.kingdom_restrict.append(card.index)
 
         self.db_query = {}

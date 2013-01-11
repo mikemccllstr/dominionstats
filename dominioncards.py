@@ -107,7 +107,23 @@ representations (singular, plural, and __repr__()"""
 
 def get_card(name):
     """Look up a card by its name."""
-    return _CARDS[name]
+    try:
+        return _CARDS[name]
+    except KeyError:
+        raise CardNameError(name)
+
+def is_valid_card_name(name):
+    """Determines if the given string is a valid dominion card name"""
+    return name in _CARDS
+
+class CardNameError(Exception):
+    """Indicates a user-inputted card name is invalid."""
+    def __init__(self, name):
+        self.args = "Invalid card name: %s"%name,
+        self.reason = self.args[0]
+
+    def __str__(self):
+        return '<Card name error %s>' % self.reason
 
 _INDEXED = {}
 """dict containing all card objects, indexed by the `Index` column

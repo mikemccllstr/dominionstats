@@ -475,13 +475,16 @@ class SearchResultPage(object):
 
         ret += '<a href="/search_query">Back to search query page</a><BR><BR>'
 
-        matcher = query_matcher.QueryMatcher(**query_dict)
-        found_any = False
-        for idx, game_match in enumerate(matcher.query_db(games)):
-            found_any = True
-            ret += game_match.display_game_snippet() + '<br>'
-        if not found_any:
-            ret += 'Your search returned no matches<br>'
+        try:
+            matcher = query_matcher.QueryMatcher(**query_dict)
+            found_any = False
+            for idx, game_match in enumerate(matcher.query_db(games)):
+                found_any = True
+                ret += game_match.display_game_snippet() + '<br>'
+            if not found_any:
+                ret += 'Your search returned no matches<br>'
+        except dominioncards.CardNameError, e:
+            ret += e.reason + '<br>'
 
         ret += '<a href="/search_query">Back to search query page</a>'
         return ret
