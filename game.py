@@ -50,6 +50,9 @@ class PlayerDeckChange(object):
                 s.append(cat + '(' + ','.join(map(str, j)) + ')')
         return s
 
+    def accumulates(self):
+        return self.buys + self.gains
+
 
 
 def turn_decode(turn_dict, field):
@@ -66,7 +69,19 @@ class Turn(object):
         self.trashes = turn_decode(turn_dict, TRASHES)
         self.turn_no = turn_no
         self.poss_no = poss_no
-        self.turn_dict = turn_dict
+        self.is_outpost = OUTPOST in turn_dict
+        self.money = turn_dict.get(MONEY, 0)
+        self.vp_tokens = turn_dict.get(VP_TOKENS, 0)
+
+        self.opp_info = {}
+        for opp_index, info_dict in turn_dict.get(OPP, {}).iteritems():
+            opp_name = self.game_dict[PLAYERS][int(opp_index)]
+            change = PlayerDeckChange(opp_name)
+            getattr(change, 'gains' ).extend(turn_decode(info_dict, GAINS))
+            getattr(change, 'trashes').extend(turn_decode(info_dict, TRASHES))
+            getattr(change, 'returns').extend(turn_decode(info_dict, RETURNS))
+            change.vp_tokens += info_dict.get(VP_TOKENS, 0)
+            self.opp_info[opp_name] = change
 
     def __repr__(self):
         return "{classname}(player={player}, turn/pos={turn_no}/{poss_no}, plays={plays_list})".format( \
@@ -105,8 +120,11 @@ class Turn(object):
     def get_poss_no(self):
         return self.poss_no
 
+    def get_opp_info(self):
+        return self.opp_info
+
     def turn_label(self, for_anchor=False, for_display=False):
-        if OUTPOST in self.turn_dict:
+        if self.is_outpost:
             fmt = u'%(pname)s-%(show)soutpost-turn-%(turn_no)d'
         elif self.poss_no:
             fmt = u'%(pname)s-%(show)sposs-turn-%(turn_no)d-%(poss_no)d'
@@ -128,7 +146,7 @@ class Turn(object):
         return ret
 
     def money(self):
-        return self.turn_dict.get(MONEY, 0)
+        return self.money
 
     def deck_changes(self):
         ret = []
@@ -138,16 +156,9 @@ class Turn(object):
         setattr(my_change, 'buys' , self.buys)
         setattr(my_change, 'trashes', self.trashes)
         setattr(my_change, 'returns', self.returns)
-        my_change.vp_tokens += self.turn_dict.get(VP_TOKENS, 0)
+        my_change.vp_tokens += self.vp_tokens
 
-        opp_info = self.turn_dict.get(OPP, {})
-        for opp_index, info_dict in opp_info.iteritems():
-            opp_name = self.game_dict[PLAYERS][int(opp_index)]
-            change = PlayerDeckChange(opp_name)
-            getattr(change, 'gains' ).extend(turn_decode(info_dict, GAINS))
-            getattr(change, 'trashes').extend(turn_decode(info_dict, TRASHES))
-            getattr(change, 'returns').extend(turn_decode(info_dict, RETURNS))
-            change.vp_tokens += info_dict.get(VP_TOKENS, 0)
+        for opp_name, change in self.opp_info.iteritems():
             ret.append(change)
 
         return ret
@@ -344,6 +355,9 @@ class Game(object):
         for turn in self.get_turns():
             for accumed_card in turn.player_accumulates():
                 ret[turn.get_player().name()][accumed_card] += 1
+            for name, change in turn.get_opp_info().iteritems():
+                for card in change.accumulates():
+                    ret[name][card] += 1
         self.card_accum_cache = ret
         return ret
 

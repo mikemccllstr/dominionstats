@@ -102,7 +102,7 @@ def CheckMatchPileDriver(g):
                 if card == dominioncards.Curse:
                     continue
                 ret.append(
-                    achievement(player, 'Gained all copies of %s (and won)' % card.singular, card))
+                    achievement(player, 'Gained all copies of %s (and won)' % card.singular, card.index))
     return ret
 
 def CheckMatchPurplePileDriver(g):
@@ -112,11 +112,10 @@ def CheckMatchPurplePileDriver(g):
 
     for player, piles_gained in gain_map.iteritems():
         if g.get_player_deck(player).WinPoints() > 1.0:
-            if len(piles_gained)==1:
-                card = piles_gained[0]
+            for card in piles_gained:
                 if card == dominioncards.Curse:
                     ret.append(
-                        achievement(player, 'Gained all the curses (and won)', card))
+                        achievement(player, 'Gained all the curses (and won)'))
     return ret
 
 def CheckMatchDoublePileDriver(g):
@@ -129,7 +128,7 @@ def CheckMatchDoublePileDriver(g):
             if len(piles_gained)==2:
                 ret.append(
                     achievement(player, 'Gained all copies of %s AND %s (and won)' % (
-                            piles_gained[0], piles_gained[1]), piles_gained))
+                            piles_gained[0].singular, piles_gained[1].singular), [c.index for c in piles_gained]))
     return ret
 
 def CheckMatchTriplePileDriver(g):
@@ -142,7 +141,7 @@ def CheckMatchTriplePileDriver(g):
             if len(piles_gained)==3:
                 ret.append(
                     achievement(player, 'Gained all copies of %s, %s AND %s (and won)' % (
-                            piles_gained[0], piles_gained[1], piles_gained[2]), piles_gained))
+                            piles_gained[0].singular, piles_gained[1].singular, piles_gained[2].singular), [c.index for c in piles_gained]))
     return ret
 
 GroupFuncs([CheckMatchPileDriver, CheckMatchDoublePileDriver, CheckMatchTriplePileDriver], 'piledriver')
@@ -600,8 +599,7 @@ def CheckMatchOscarTheGrouch(g):
     """Trash more than 7 cards in one turn"""
     ret = []
     for turn in g.get_turns():
-	#FIXME: Update Turn Object to have Trashes Member
-        trashes = len(turn.turn_dict.get(TRASHES,[]))
+        trashes = len(turn.trashes)
         if trashes >= 7:
             ret.append(achievement(turn.player.name(),
                                    "Trashed %d cards in one turn" % trashes,
