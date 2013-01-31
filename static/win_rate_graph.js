@@ -67,7 +67,7 @@ function DisplayCardData(card_names_str, graph_name, weight_func) {
   if (all_card_data.card_stats[card_names[i]]) {
     series_list.push(GrabDataIntoSeries(card_names[i]));
   } else {
-    console.log('bogus ' + card_names[j]);
+    console.log('bogus ' + card_names[i]);
     // handle bogus card name?
     }
   }
