@@ -1,0 +1,784 @@
+------------ Game Setup ------------
+Supply cards: Poor House, Secret Chamber, Storeroom, Trade Route, Ironmonger, Ironworks, Tournament, City, Tribute, Vault, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: unrated
+ftl - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Serf Bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ftl - shuffles deck
+Serf Bot - shuffles deck
+ftl - draws Copper, Copper, Copper, Estate, Copper
+Serf Bot - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- ftl: turn 1 ----------
+ftl - plays 4 Copper
+ftl - buys Ironworks
+ftl - gains Ironworks
+ftl - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Serf Bot: turn 1 ----------
+Serf Bot - plays 3 Copper
+Serf Bot - buys Storeroom
+Serf Bot - gains Storeroom
+Serf Bot - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- ftl: turn 2 ----------
+ftl - plays 3 Copper
+ftl - buys Silver
+ftl - gains Silver
+ftl - shuffles deck
+ftl - draws Copper, Silver, Estate, Copper, Copper
+ 
+---------- Serf Bot: turn 2 ----------
+Serf Bot - plays 4 Copper
+Serf Bot - buys Ironmonger
+Serf Bot - gains Ironmonger
+Serf Bot - shuffles deck
+Serf Bot - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- ftl: turn 3 ----------
+ftl - plays 3 Copper, 1 Silver
+ftl - buys Tribute
+ftl - gains Tribute
+ftl - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Serf Bot: turn 3 ----------
+Serf Bot - plays 5 Copper
+Serf Bot - buys Vault
+Serf Bot - gains Vault
+Serf Bot - draws Copper, Estate, Ironmonger, Copper, Estate
+ 
+---------- ftl: turn 4 ----------
+ftl - plays 3 Copper
+ftl - buys Trade Route
+ftl - gains Trade Route
+ftl - draws Ironworks, Copper
+ftl - shuffles deck
+ftl - draws Copper, Copper, Tribute
+ 
+---------- Serf Bot: turn 4 ----------
+Serf Bot - plays Ironmonger
+Serf Bot - draws Storeroom
+Serf Bot - reveals: Estate
+Serf Bot - discards Estate
+Serf Bot - shuffles deck
+Serf Bot - draws Copper
+Serf Bot - plays Storeroom
+Serf Bot - discards Estate
+Serf Bot - discards Estate
+Serf Bot - discards Copper
+Serf Bot - discards Copper
+Serf Bot - discards Copper
+Serf Bot - draws Copper, Copper, Copper, Copper, Vault
+Serf Bot - discards Vault
+Serf Bot - discards Copper
+Serf Bot - discards Copper
+Serf Bot - discards Copper
+Serf Bot - discards Copper
+Serf Bot - buys Vault
+Serf Bot - gains Vault
+Serf Bot - draws Estate
+Serf Bot - shuffles deck
+Serf Bot - draws Copper, Estate, Vault, Vault
+ 
+---------- ftl: turn 5 ----------
+ftl - plays Ironworks
+ftl - gains Ironmonger
+ftl - plays Tribute
+Serf Bot - reveals: Estate, Copper
+ftl - receives 2 coins
+ftl - draws Copper, Copper
+Serf Bot - discards: Estate, Copper
+ftl - plays 5 Copper
+ftl - buys City
+ftl - gains City
+ftl - draws Silver, Copper, Trade Route, Copper, Estate
+ 
+---------- Serf Bot: turn 5 ----------
+Serf Bot - plays Vault
+Serf Bot - draws Ironmonger, Storeroom
+Serf Bot - discards Storeroom
+Serf Bot - discards Vault
+Serf Bot - discards Ironmonger
+Serf Bot - discards Estate
+Serf Bot - discards Estate
+Serf Bot - discards Copper
+ftl - discards Trade Route
+ftl - discards Estate
+Serf Bot - buys Gold
+Serf Bot - gains Gold
+Serf Bot - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- ftl: turn 6 ----------
+ftl - plays 2 Copper, 1 Silver
+ftl - buys Tournament
+ftl - gains Tournament
+ftl - draws Estate
+ftl - shuffles deck
+ftl - draws Tribute, Ironworks, Trade Route, Copper
+ 
+---------- Serf Bot: turn 6 ----------
+Serf Bot - plays 5 Copper
+Serf Bot - buys City
+Serf Bot - gains City
+Serf Bot - shuffles deck
+Serf Bot - draws Gold, Copper, Vault, Estate, Copper
+ 
+---------- ftl: turn 7 ----------
+ftl - plays Ironworks
+ftl - gains Tournament
+ftl - plays Tribute
+Serf Bot - reveals: Copper, Storeroom
+ftl - receives 2 coins
+ftl - receives 2 actions
+Serf Bot - discards: Copper, Storeroom
+ftl - plays Trade Route
+ftl - trashes Estate
+ftl - plays 1 Copper
+ftl - buys Silver
+ftl - gains Silver
+ftl - draws Copper, Copper, Copper, Copper, City
+ 
+---------- Serf Bot: turn 7 ----------
+Serf Bot - plays Vault
+Serf Bot - draws City, Copper
+Serf Bot - discards City
+Serf Bot - discards Estate
+Serf Bot - discards Copper
+Serf Bot - discards Copper
+Serf Bot - discards Copper
+ftl - discards Copper
+ftl - discards Copper
+Serf Bot - plays 1 Gold
+Serf Bot - buys Province
+Serf Bot - gains Province
+Serf Bot - draws Vault, Estate, Copper, Estate, Ironmonger
+ 
+---------- ftl: turn 8 ----------
+ftl - plays City
+ftl - draws Ironmonger
+ftl - plays Ironmonger
+ftl - draws Tournament
+ftl - reveals: Copper
+ftl - discards Copper
+ftl - plays Tournament
+ftl - draws Estate
+ftl - plays 3 Copper
+ftl - buys City
+ftl - gains City
+ftl - draws Silver, Estate
+ftl - shuffles deck
+ftl - draws Tournament, Ironmonger, Trade Route
+ 
+---------- Serf Bot: turn 8 ----------
+Serf Bot - plays Ironmonger
+Serf Bot - draws Copper
+Serf Bot - reveals: Copper
+Serf Bot - places Copper on top of deck
+Serf Bot - plays Vault
+Serf Bot - draws Copper
+Serf Bot - shuffles deck
+Serf Bot - draws Copper
+Serf Bot - discards Estate
+Serf Bot - discards Estate
+Serf Bot - discards Copper
+Serf Bot - discards Copper
+Serf Bot - discards Copper
+Serf Bot - discards Copper
+Serf Bot - buys Gold
+Serf Bot - gains Gold
+Serf Bot - draws Province, Copper, Estate, Copper, Storeroom
+ 
+---------- ftl: turn 9 ----------
+ftl - plays Ironmonger
+ftl - draws City
+ftl - reveals: Copper
+ftl - discards Copper
+ftl - plays City
+ftl - draws Copper
+ftl - plays Trade Route
+ftl - trashes Estate
+ftl - plays Tournament
+Serf Bot - reveals Province
+ftl - plays 1 Silver, 1 Copper
+ftl - buys City
+ftl - gains City
+ftl - draws Tournament, Estate, Copper, City, Copper
+ 
+---------- Serf Bot: turn 9 ----------
+Serf Bot - plays Storeroom
+Serf Bot - discards Province
+Serf Bot - discards Estate
+Serf Bot - discards Copper
+Serf Bot - discards Copper
+Serf Bot - draws Gold, Copper, City, Vault
+Serf Bot - discards Vault
+Serf Bot - discards City
+Serf Bot - discards Copper
+Serf Bot - plays 1 Gold
+Serf Bot - buys Ironworks
+Serf Bot - gains Ironworks
+Serf Bot - buys Secret Chamber
+Serf Bot - gains Secret Chamber
+Serf Bot - shuffles deck
+Serf Bot - draws Secret Chamber, Vault, Estate, City, Copper
+ 
+---------- ftl: turn 10 ----------
+ftl - plays City
+ftl - draws Silver
+ftl - plays Tournament
+ftl - draws Ironworks
+ftl - plays Ironworks
+ftl - gains Silver
+ftl - plays 2 Copper, 1 Silver
+ftl - buys Gold
+ftl - gains Gold
+ftl - draws Tribute, Copper, Copper, Copper
+ftl - shuffles deck
+ftl - draws City
+ 
+---------- Serf Bot: turn 10 ----------
+Serf Bot - plays City
+Serf Bot - draws Storeroom
+Serf Bot - plays Vault
+Serf Bot - draws Copper, Province
+Serf Bot - discards Storeroom
+Serf Bot - discards Secret Chamber
+Serf Bot - discards Province
+Serf Bot - discards Estate
+Serf Bot - discards Copper
+Serf Bot - discards Copper
+ftl - discards Copper
+ftl - discards Copper
+Serf Bot - buys Gold
+Serf Bot - gains Gold
+Serf Bot - draws Copper, Gold, Estate, Copper, Vault
+ 
+---------- ftl: turn 11 ----------
+ftl - plays City
+ftl - draws Gold
+ftl - plays Tribute
+Serf Bot - reveals: Estate, Copper
+ftl - receives 2 coins
+ftl - draws Tournament, Silver
+Serf Bot - discards: Estate, Copper
+ftl - plays Tournament
+ftl - draws Ironmonger
+ftl - plays Tournament
+ftl - draws Copper
+ftl - plays Ironmonger
+ftl - draws Ironworks
+ftl - reveals: Silver
+ftl - discards Silver
+ftl - plays Ironworks
+ftl - gains Storeroom
+ftl - plays 2 Copper, 1 Gold, 1 Silver
+ftl - buys Province
+ftl - gains Province
+ftl - draws Estate, Trade Route, City, Copper, Copper
+ 
+---------- Serf Bot: turn 11 ----------
+Serf Bot - plays Vault
+Serf Bot - draws Gold, Copper
+Serf Bot - discards Estate
+Serf Bot - discards Copper
+Serf Bot - discards Copper
+Serf Bot - discards Copper
+Serf Bot - plays 2 Gold
+Serf Bot - buys Province
+Serf Bot - gains Province
+Serf Bot - draws Copper, Ironworks, Ironmonger
+Serf Bot - shuffles deck
+Serf Bot - draws Copper, Vault
+ 
+---------- ftl: turn 12 ----------
+ftl - plays City
+ftl - draws City
+ftl - plays City
+ftl - draws Silver
+ftl - plays Trade Route
+ftl - trashes Estate
+ftl - plays 2 Copper, 1 Silver
+ftl - buys City
+ftl - gains City
+ftl - draws Copper
+ftl - shuffles deck
+ftl - draws Silver, Copper, Silver, Copper
+ 
+---------- Serf Bot: turn 12 ----------
+Serf Bot - plays Ironworks
+Serf Bot - gains Tournament
+Serf Bot - plays Ironmonger
+Serf Bot - draws Estate
+Serf Bot - reveals: Copper
+Serf Bot - discards Copper
+Serf Bot - plays Vault
+Serf Bot - draws Copper, Vault
+Serf Bot - discards Vault
+Serf Bot - discards Estate
+Serf Bot - discards Copper
+Serf Bot - discards Copper
+Serf Bot - discards Copper
+ftl - discards Copper
+ftl - discards Copper
+Serf Bot - buys Gold
+Serf Bot - gains Gold
+Serf Bot - draws Secret Chamber, Estate, Copper, Province, City
+ 
+---------- ftl: turn 13 ----------
+ftl - plays 2 Copper, 2 Silver
+ftl - buys City
+ftl - gains City
+ftl - draws Gold, Copper, City, Trade Route, Silver
+ 
+---------- Serf Bot: turn 13 ----------
+Serf Bot - plays City
+Serf Bot - draws Copper
+Serf Bot - plays Secret Chamber
+Serf Bot - discards Province
+Serf Bot - discards Estate
+Serf Bot - discards Copper
+Serf Bot - discards Copper
+Serf Bot - buys Ironworks
+Serf Bot - gains Ironworks
+Serf Bot - draws Gold, Province, Estate, Copper, Gold
+ 
+---------- ftl: turn 14 ----------
+ftl - plays City
+ftl - draws City
+ftl - plays City
+ftl - draws Ironworks
+ftl - plays Ironworks
+ftl - gains Poor House
+ftl - plays Trade Route
+ftl - trashes Copper
+ftl - plays 1 Gold, 1 Silver
+ftl - buys City
+ftl - gains City
+ftl - draws Storeroom, Copper, Tournament, Tournament, City
+ 
+---------- Serf Bot: turn 14 ----------
+Serf Bot - plays 2 Gold, 1 Copper
+Serf Bot - buys Gold
+Serf Bot - gains Gold
+Serf Bot - draws Storeroom, Gold
+Serf Bot - shuffles deck
+Serf Bot - draws Estate, Ironmonger, Gold
+ 
+---------- ftl: turn 15 ----------
+ftl - plays City
+ftl - draws Province
+ftl - plays Tournament
+ftl - reveals Province
+ftl - discards Province
+ftl - gains Followers
+ftl - draws Followers
+ftl - plays Followers
+ftl - draws Tribute, Copper
+ftl - gains Estate
+Serf Bot - gains Curse
+Serf Bot - discards Estate
+Serf Bot - discards Gold
+ftl - plays Tournament
+ftl - draws City
+ftl - plays City
+ftl - draws Ironmonger
+ftl - plays Ironmonger
+ftl - shuffles deck
+ftl - draws Copper
+ftl - reveals: Silver
+ftl - discards Silver
+ftl - plays Tribute
+Serf Bot - reveals: Vault, Copper
+ftl - receives 2 coins
+ftl - receives 2 actions
+Serf Bot - discards: Vault, Copper
+ftl - plays Storeroom
+ftl - discards Copper
+ftl - discards Copper
+ftl - discards Copper
+ftl - draws City, Gold, Copper
+ftl - discards Copper
+ftl - plays City
+ftl - draws Estate
+ftl - plays Gold
+ftl - buys City
+ftl - gains City
+ftl - buys Tournament
+ftl - gains Tournament
+ftl - draws Poor House, Ironworks, City, City, Silver
+ 
+---------- Serf Bot: turn 15 ----------
+Serf Bot - plays Ironmonger
+Serf Bot - draws Copper
+Serf Bot - reveals: Copper
+Serf Bot - places Copper on top of deck
+Serf Bot - plays Storeroom
+Serf Bot - discards Copper
+Serf Bot - draws Copper
+Serf Bot - discards Copper
+Serf Bot - plays 1 Gold
+Serf Bot - buys Duchy
+Serf Bot - gains Duchy
+Serf Bot - buys Copper
+Serf Bot - gains Copper
+Serf Bot - draws Gold, Copper, Estate, Gold, Copper
+ 
+---------- ftl: turn 16 ----------
+ftl - plays City
+ftl - draws Silver
+ftl - plays City
+ftl - draws Copper
+ftl - plays Poor House
+ftl - reveals hand: Ironworks, Silver, Silver, Copper
+ftl - plays Ironworks
+ftl - gains Storeroom
+ftl - plays 2 Silver, 1 Copper
+ftl - buys City
+ftl - gains City
+ftl - draws Province, Trade Route, Copper, City
+ftl - shuffles deck
+ftl - draws Tournament
+ 
+---------- Serf Bot: turn 16 ----------
+Serf Bot - plays 2 Gold, 2 Copper
+Serf Bot - buys Province
+Serf Bot - gains Province
+Serf Bot - draws City, Secret Chamber, Vault, Gold, Ironworks
+ 
+---------- ftl: turn 17 ----------
+ftl - plays City
+ftl - draws Copper
+ftl - plays Tournament
+ftl - reveals Province
+ftl - discards Province
+ftl - gains Diadem
+ftl - draws Diadem
+ftl - plays Trade Route
+ftl - trashes Copper
+ftl - plays 1 Copper, 1 Diadem
+ftl - buys City
+ftl - gains City
+ftl - buys Storeroom
+ftl - gains Storeroom
+ftl - draws Tribute, Ironworks, Copper, Copper, Ironmonger
+ 
+---------- Serf Bot: turn 17 ----------
+Serf Bot - plays City
+Serf Bot - draws Province, Province
+Serf Bot - plays Ironworks
+Serf Bot - gains Ironworks
+Serf Bot - plays Vault
+Serf Bot - draws Tournament, Estate
+Serf Bot - discards Secret Chamber
+Serf Bot - discards Province
+Serf Bot - discards Province
+Serf Bot - discards Estate
+ftl - discards Copper
+ftl - discards Copper
+Serf Bot - plays Tournament
+Serf Bot - draws Copper
+Serf Bot - plays 1 Gold, 1 Copper
+Serf Bot - buys Province
+Serf Bot - gains Province
+Serf Bot - draws Copper, Ironworks
+Serf Bot - shuffles deck
+Serf Bot - draws Province, Secret Chamber, Duchy
+ 
+---------- ftl: turn 18 ----------
+ftl - plays Ironmonger
+ftl - draws City
+ftl - reveals: City
+ftl - places City on top of deck
+ftl - plays City
+ftl - draws City, Storeroom
+ftl - plays City
+ftl - draws Silver, Estate
+ftl - plays Tribute
+Serf Bot - reveals: Estate, Vault
+ftl - receives 2 actions
+ftl - draws Copper, Silver
+Serf Bot - discards: Estate, Vault
+ftl - plays Storeroom
+ftl - discards Estate
+ftl - discards Copper
+ftl - draws Followers, Storeroom
+ftl - plays Poor House
+ftl - reveals hand: Ironworks, Silver, Silver, Followers, Storeroom
+ftl - plays Followers
+Serf Bot - reveals reaction Secret Chamber
+Serf Bot - draws Copper, Province
+Serf Bot - places Secret Chamber on top of deck
+Serf Bot - places Province on top of deck
+ftl - draws Tournament, City
+ftl - gains Estate
+Serf Bot - gains Curse
+Serf Bot - discards Province
+Serf Bot - discards Duchy
+ftl - plays City
+ftl - draws City, City
+ftl - plays City
+ftl - draws Silver, Tournament
+ftl - plays City
+ftl - draws City, City
+ftl - plays City
+ftl - draws Copper, Gold
+ftl - plays City
+ftl - shuffles deck
+ftl - draws City, City
+ftl - plays City
+ftl - draws Copper, Trade Route
+ftl - plays Trade Route
+ftl - trashes City
+ftl - plays Tournament
+ftl - draws Copper
+ftl - plays Tournament
+ftl - draws Estate
+ftl - plays Ironworks
+ftl - gains Tournament
+ftl - plays Storeroom
+ftl - discards Estate
+ftl - discards Copper
+ftl - discards Copper
+ftl - discards Copper
+ftl - draws Province, Storeroom, Diadem, Tournament
+ftl - discards Province
+ftl - plays Tournament
+ftl - draws Estate
+ftl - plays Storeroom
+ftl - discards Estate
+ftl - draws Copper
+ftl - discards Copper
+ftl - plays 3 Silver, 1 Gold, 1 Diadem
+ftl - buys Tournament
+ftl - gains Tournament
+ftl - buys Tournament
+ftl - gains Tournament
+ftl - buys Tournament
+ftl - gains Tournament
+ftl - buys Tournament
+ftl - gains Tournament
+ftl - buys Tournament
+ftl - gains Tournament
+ftl - draws Copper
+ftl - shuffles deck
+ftl - draws Estate, City, Silver, Province
+ 
+---------- Serf Bot: turn 18 ----------
+Serf Bot - plays Ironworks
+Serf Bot - gains Ironmonger
+Serf Bot - plays 2 Copper
+Serf Bot - buys Estate
+Serf Bot - gains Estate
+Serf Bot - draws Province, Secret Chamber, Province, Estate, Ironworks
+ 
+---------- ftl: turn 19 ----------
+ftl - plays City
+ftl - draws Copper, Gold
+ftl - plays 2 Copper, 1 Silver, 1 Gold
+ftl - buys Province
+ftl - gains Province
+ftl - draws Ironworks, Followers, Copper, City, Poor House
+ 
+---------- Serf Bot: turn 19 ----------
+Serf Bot - plays Ironworks
+Serf Bot - gains Ironmonger
+Serf Bot - plays Secret Chamber
+Serf Bot - discards Province
+Serf Bot - discards Province
+Serf Bot - discards Estate
+Serf Bot - buys Silver
+Serf Bot - gains Silver
+Serf Bot - draws Storeroom, Copper, Copper, City, Copper
+ 
+---------- ftl: turn 20 ----------
+ftl - plays City
+ftl - draws Storeroom, Tribute
+ftl - plays Followers
+ftl - draws Diadem, Copper
+ftl - gains Estate
+Serf Bot - gains Curse
+Serf Bot - discards Copper
+Serf Bot - discards Copper
+ftl - plays Tribute
+Serf Bot - reveals: Copper, Copper
+ftl - receives 2 coins
+Serf Bot - discards: Copper, Copper
+ftl - plays 2 Copper, 1 Diadem
+ftl - buys Duchy
+ftl - gains Duchy
+ftl - buys Estate
+ftl - gains Estate
+ftl - draws City, Copper, Tournament, Ironmonger, Silver
+ 
+---------- Serf Bot: turn 20 ----------
+Serf Bot - plays City
+Serf Bot - draws Ironworks, Vault
+Serf Bot - plays Ironworks
+Serf Bot - gains Ironmonger
+Serf Bot - plays Vault
+Serf Bot - draws Estate, Tournament
+Serf Bot - discards Storeroom
+Serf Bot - discards Estate
+Serf Bot - discards Copper
+ftl - discards Copper
+ftl - discards Silver
+Serf Bot - plays Tournament
+Serf Bot - draws Gold
+Serf Bot - plays 1 Gold
+Serf Bot - buys Duchy
+Serf Bot - gains Duchy
+Serf Bot - buys Storeroom
+Serf Bot - gains Storeroom
+Serf Bot - draws Gold, Copper, Province, Gold, Ironmonger
+ 
+---------- ftl: turn 21 ----------
+ftl - plays City
+ftl - draws Tournament, Storeroom
+ftl - plays Tournament
+Serf Bot - reveals Province
+ftl - plays Tournament
+Serf Bot - reveals Province
+ftl - plays Ironmonger
+ftl - draws City
+ftl - reveals: City
+ftl - places City on top of deck
+ftl - plays City
+ftl - draws City, Tournament
+ftl - plays City
+ftl - draws Estate, Tournament
+ftl - plays Storeroom
+ftl - discards Tournament
+ftl - discards Estate
+ftl - discards Tournament
+ftl - draws Storeroom, City, Tournament
+ftl - discards City
+ftl - discards Tournament
+ftl - discards Storeroom
+ftl - discards Silver
+ftl - buys Duchy
+ftl - gains Duchy
+ftl - buys Estate
+ftl - gains Estate
+ftl - draws City, Tournament, Tournament, Tournament, Trade Route
+ 
+---------- Serf Bot: turn 21 ----------
+Serf Bot - plays Ironmonger
+Serf Bot - draws Gold
+Serf Bot - reveals: Curse
+Serf Bot - discards Curse
+Serf Bot - plays 3 Gold, 1 Copper
+Serf Bot - buys Province
+Serf Bot - gains Province
+Serf Bot - draws Gold
+Serf Bot - shuffles deck
+Serf Bot - draws Copper, Ironworks, Gold, Copper
+ 
+---------- ftl: turn 22 ----------
+ftl - plays City
+ftl - draws City, Tournament
+ftl - plays City
+ftl - shuffles deck
+ftl - draws Silver, Storeroom
+ftl - plays Tournament
+ftl - draws City
+ftl - plays City
+ftl - draws Province, Province
+ftl - plays Tournament
+ftl - draws Ironworks
+ftl - plays Tournament
+ftl - draws Estate
+ftl - plays Trade Route
+ftl - trashes Estate
+ftl - plays Tournament
+ftl - draws Estate
+ftl - plays Ironworks
+ftl - gains Estate
+ftl - draws Duchy
+ftl - plays Storeroom
+ftl - discards Silver
+ftl - discards Province
+ftl - discards Province
+ftl - discards Estate
+ftl - discards Duchy
+ftl - draws Copper, Copper, Silver, City, Tournament
+ftl - plays City
+ftl - draws Storeroom, Storeroom
+ftl - plays Tournament
+ftl - draws Tournament
+ftl - plays Tournament
+ftl - draws Ironmonger
+ftl - plays Ironmonger
+ftl - draws Estate
+ftl - reveals: Estate
+ftl - discards Estate
+ftl - draws City
+ftl - plays City
+ftl - draws City, Gold
+ftl - plays City
+ftl - draws Tournament, Silver
+ftl - plays Tournament
+ftl - draws Estate
+ftl - plays Storeroom
+ftl - discards Copper
+ftl - discards Copper
+ftl - discards Estate
+ftl - discards Estate
+ftl - draws Copper, Diadem, Poor House, Tournament
+ftl - plays Tournament
+ftl - draws Copper
+ftl - plays Storeroom
+ftl - discards Copper
+ftl - discards Poor House
+ftl - discards Copper
+ftl - draws Followers, Tribute, Duchy
+ftl - discards Duchy
+ftl - plays Followers
+ftl - draws Copper, Tournament
+ftl - gains Estate
+Serf Bot - gains Curse
+Serf Bot - discards Copper
+Serf Bot - discards Copper
+ftl - plays Tournament
+ftl - draws City
+ftl - plays City
+ftl - draws City
+ftl - shuffles deck
+ftl - draws Copper
+ftl - plays City
+ftl - draws Estate, Estate
+ftl - plays Tribute
+Serf Bot - reveals: Silver, Gold
+ftl - receives 4 coins
+Serf Bot - discards: Silver, Gold
+ftl - plays 2 Silver, 2 Copper, 1 Gold, 1 Diadem
+ftl - buys Province
+ftl - gains Province
+ftl - buys Duchy
+ftl - gains Duchy
+ftl - buys Duchy
+ftl - gains Duchy
+ftl - buys Duchy
+ftl - gains Duchy
+ftl - buys Duchy
+ftl - gains Duchy
+ftl - buys Gold
+ftl - gains Gold
+ftl - buys Silver
+ftl - gains Silver
+ftl - buys Copper
+ftl - gains Copper
+ftl - buys Poor House
+ftl - gains Poor House
+ftl - draws Copper, Silver, Copper, Duchy, Duchy
+ 
+------------ Game Over ------------
+ftl - cards: 9 Tournament, 8 City, 3 Storeroom, 2 Poor House, 1 Trade Route, 1 Tribute, 1 Followers, 1 Ironmonger, 1 Ironworks, 6 Copper, 4 Silver, 2 Gold, 1 Diadem, 6 Duchy, 6 Estate, 3 Province
+ftl - total victory points: 42
+ftl - turns: 22
+ 
+Serf Bot - cards: 4 Ironmonger, 3 Ironworks, 2 Vault, 2 Storeroom, 1 Secret Chamber, 1 Tournament, 1 City, 8 Copper, 5 Gold, 1 Silver, 5 Province, 4 Estate, 2 Duchy, 4 Curse
+Serf Bot - total victory points: 36
+Serf Bot - turns: 21
+ 
+1st place: ftl
+2nd place: Serf Bot
+ 

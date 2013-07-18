@@ -1,0 +1,767 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Native Village, Pearl Diver, Smugglers, Warehouse, Caravan, Cutpurse, Bazaar, Laboratory, Outpost, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+radleybrown - starting cards: Silver, Silver, Silver, Silver, Silver, Silver, Duchy, Duchy, Duchy, Estate
+Soldier - starting cards: Copper, Copper, Silver, Silver, Silver, Silver, Silver, Duchy, Duchy, Province
+Serf Hague - starting cards: Copper, Copper, Copper, Copper, Copper, Copper, Copper, Estate, Estate, Estate
+radleybrown - shuffles deck
+Soldier - shuffles deck
+Serf Hague - shuffles deck
+radleybrown - draws Silver, Silver, Silver, Duchy, Duchy
+Soldier - draws Duchy, Province, Silver, Silver, Duchy
+Serf Hague - draws Estate, Copper, Estate, Copper, Estate
+ 
+---------- Serf Hague: turn 1 ----------
+Serf Hague - plays 2 Copper
+Serf Hague - buys Pearl Diver
+Serf Hague - gains Pearl Diver
+Serf Hague - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- radleybrown: turn 1 ----------
+radleybrown - plays 3 Silver
+radleybrown - buys Outpost
+radleybrown - gains Outpost
+radleybrown - draws Estate, Silver, Silver, Duchy, Silver
+ 
+---------- Soldier: turn 1 ----------
+Soldier - plays 2 Silver
+Soldier - buys Cutpurse
+Soldier - gains Cutpurse
+Soldier - draws Copper, Silver, Silver, Copper, Silver
+ 
+---------- Serf Hague: turn 2 ----------
+Serf Hague - plays 5 Copper
+Serf Hague - buys Outpost
+Serf Hague - gains Outpost
+Serf Hague - shuffles deck
+Serf Hague - draws Copper, Copper, Estate, Outpost, Copper
+ 
+---------- radleybrown: turn 2 ----------
+radleybrown - plays 3 Silver
+radleybrown - buys Gold
+radleybrown - gains Gold
+radleybrown - shuffles deck
+radleybrown - draws Silver, Silver, Duchy, Gold, Duchy
+ 
+---------- Soldier: turn 2 ----------
+Soldier - plays 3 Silver, 2 Copper
+Soldier - buys Province
+Soldier - gains Province
+Soldier - shuffles deck
+Soldier - draws Copper, Silver, Silver, Duchy, Copper
+ 
+---------- Serf Hague: turn 3 ----------
+Serf Hague - plays Outpost
+Serf Hague - plays 3 Copper
+Serf Hague - buys Warehouse
+Serf Hague - gains Warehouse
+Serf Hague - draws Estate, Copper, Copper
+Serf Hague - duration Outpost
+ 
+---------- Serf Hague: turn 3 ----------
+Serf Hague - plays 2 Copper
+Serf Hague - buys Embargo
+Serf Hague - gains Embargo
+Serf Hague - draws Copper, Estate, Pearl Diver, Copper
+Serf Hague - shuffles deck
+Serf Hague - draws Outpost
+ 
+---------- radleybrown: turn 3 ----------
+radleybrown - plays 2 Silver, 1 Gold
+radleybrown - buys Gold
+radleybrown - gains Gold
+radleybrown - draws Silver, Duchy, Silver, Estate, Silver
+ 
+---------- Soldier: turn 3 ----------
+Soldier - plays 2 Copper, 2 Silver
+Soldier - buys Gold
+Soldier - gains Gold
+Soldier - draws Province, Duchy, Cutpurse, Province, Silver
+ 
+---------- Serf Hague: turn 4 ----------
+Serf Hague - plays Pearl Diver
+Serf Hague - draws Copper
+Serf Hague - places Estate on bottom of deck
+Serf Hague - plays Outpost
+Serf Hague - plays 3 Copper
+Serf Hague - buys Smugglers
+Serf Hague - gains Smugglers
+Serf Hague - draws Embargo, Copper, Estate
+Serf Hague - duration Outpost
+ 
+---------- Serf Hague: turn 4 ----------
+Serf Hague - plays Embargo
+Serf Hague - embargoes Warehouse
+Serf Hague - trashes Embargo
+Serf Hague - plays 1 Copper
+Serf Hague - buys Silver
+Serf Hague - gains Silver
+Serf Hague - draws Copper, Copper, Warehouse, Copper, Estate
+ 
+---------- radleybrown: turn 4 ----------
+radleybrown - plays 3 Silver
+radleybrown - buys Outpost
+radleybrown - gains Outpost
+radleybrown - draws Outpost, Silver
+radleybrown - shuffles deck
+radleybrown - draws Gold, Silver, Silver
+ 
+---------- Soldier: turn 4 ----------
+Soldier - plays Cutpurse
+Serf Hague - discards Copper
+radleybrown - reveals Outpost, Silver, Gold, Silver, Silver
+Soldier - plays 1 Silver
+Soldier - buys Cutpurse
+Soldier - gains Cutpurse
+Soldier - draws Silver, Silver
+Soldier - shuffles deck
+Soldier - draws Gold, Copper, Silver
+ 
+---------- Serf Hague: turn 5 ----------
+Serf Hague - plays Warehouse
+Serf Hague - shuffles deck
+Serf Hague - draws Copper, Smugglers, Pearl Diver
+Serf Hague - discards Estate
+Serf Hague - discards Copper
+Serf Hague - discards Copper
+Serf Hague - plays Pearl Diver
+Serf Hague - draws Copper
+Serf Hague - places Estate on bottom of deck
+Serf Hague - plays Smugglers
+Serf Hague - gains Cutpurse
+Serf Hague - plays 2 Copper
+Serf Hague - buys Pearl Diver
+Serf Hague - gains Pearl Diver
+Serf Hague - draws Outpost, Copper, Silver, Copper, Copper
+ 
+---------- radleybrown: turn 5 ----------
+radleybrown - plays Outpost
+radleybrown - plays 3 Silver, 1 Gold
+radleybrown - buys Province
+radleybrown - gains Province
+radleybrown - draws Outpost, Silver, Silver
+radleybrown - duration Outpost
+ 
+---------- radleybrown: turn 5 ----------
+radleybrown - plays 2 Silver
+radleybrown - buys Caravan
+radleybrown - gains Caravan
+radleybrown - draws Duchy, Silver, Duchy, Duchy, Estate
+ 
+---------- Soldier: turn 5 ----------
+Soldier - plays 3 Silver, 1 Gold, 1 Copper
+Soldier - buys Province
+Soldier - gains Province
+Soldier - draws Duchy, Duchy, Province, Copper, Silver
+ 
+---------- Serf Hague: turn 6 ----------
+Serf Hague - plays Outpost
+Serf Hague - plays 3 Copper, 1 Silver
+Serf Hague - buys Outpost
+Serf Hague - gains Outpost
+Serf Hague - draws Estate, Estate
+Serf Hague - shuffles deck
+Serf Hague - draws Copper
+Serf Hague - duration Outpost
+ 
+---------- Serf Hague: turn 6 ----------
+Serf Hague - plays 1 Copper
+Serf Hague - draws Estate, Copper, Smugglers, Copper, Cutpurse
+ 
+---------- radleybrown: turn 6 ----------
+radleybrown - plays 1 Silver
+radleybrown - buys Native Village
+radleybrown - gains Native Village
+radleybrown - draws Gold
+radleybrown - shuffles deck
+radleybrown - draws Silver, Estate, Gold, Province
+ 
+---------- Soldier: turn 6 ----------
+Soldier - plays 1 Copper, 1 Silver
+Soldier - buys Native Village
+Soldier - gains Native Village
+Soldier - draws Cutpurse, Province, Silver, Cutpurse
+Soldier - shuffles deck
+Soldier - draws Copper
+ 
+---------- Serf Hague: turn 7 ----------
+Serf Hague - plays Cutpurse
+radleybrown - reveals Gold, Silver, Estate, Gold, Province
+Soldier - discards Copper
+Serf Hague - plays 2 Copper
+Serf Hague - buys Cutpurse
+Serf Hague - gains Cutpurse
+Serf Hague - draws Pearl Diver, Silver, Pearl Diver, Copper, Warehouse
+ 
+---------- radleybrown: turn 7 ----------
+radleybrown - plays 2 Gold, 1 Silver
+radleybrown - buys Province
+radleybrown - gains Province
+radleybrown - draws Outpost, Silver, Duchy, Silver, Silver
+ 
+---------- Soldier: turn 7 ----------
+Soldier - plays Cutpurse
+Serf Hague - discards Copper
+radleybrown - reveals Outpost, Silver, Duchy, Silver, Silver
+Soldier - plays 1 Silver
+Soldier - buys Caravan
+Soldier - gains Caravan
+Soldier - draws Duchy, Silver, Copper, Silver, Province
+ 
+---------- Serf Hague: turn 8 ----------
+Serf Hague - plays Pearl Diver
+Serf Hague - draws Outpost
+Serf Hague - places Copper on bottom of deck
+Serf Hague - plays Pearl Diver
+Serf Hague - draws Copper
+Serf Hague - places Copper on bottom of deck
+Serf Hague - plays Warehouse
+Serf Hague - draws Copper, Copper
+Serf Hague - shuffles deck
+Serf Hague - draws Cutpurse
+Serf Hague - discards Cutpurse
+Serf Hague - discards Copper
+Serf Hague - discards Copper
+Serf Hague - plays Outpost
+Serf Hague - plays 1 Silver, 1 Copper
+Serf Hague - buys Smugglers
+Serf Hague - gains Smugglers
+Serf Hague - draws Smugglers, Estate, Outpost
+Serf Hague - duration Outpost
+ 
+---------- Serf Hague: turn 8 ----------
+Serf Hague - plays Smugglers
+Serf Hague - gains Caravan
+Serf Hague - buys Copper
+Serf Hague - gains Copper
+Serf Hague - draws Copper, Cutpurse, Estate, Copper, Estate
+ 
+---------- radleybrown: turn 8 ----------
+radleybrown - plays Outpost
+radleybrown - plays 3 Silver
+radleybrown - buys Gold
+radleybrown - gains Gold
+radleybrown - draws Silver, Caravan, Outpost
+radleybrown - duration Outpost
+ 
+---------- radleybrown: turn 8 ----------
+radleybrown - plays Caravan
+radleybrown - draws Duchy
+radleybrown - plays 1 Silver
+radleybrown - buys Native Village
+radleybrown - gains Native Village
+radleybrown - draws Native Village, Duchy, Silver
+radleybrown - shuffles deck
+radleybrown - draws Native Village, Gold
+ 
+---------- Soldier: turn 8 ----------
+Soldier - plays 2 Silver, 1 Copper
+Soldier - buys Laboratory
+Soldier - gains Laboratory
+Soldier - draws Native Village, Silver, Silver, Duchy, Province
+ 
+---------- Serf Hague: turn 9 ----------
+Serf Hague - plays Cutpurse
+radleybrown - reveals Native Village, Duchy, Silver, Native Village, Gold
+Soldier - reveals Native Village, Silver, Silver, Duchy, Province
+Serf Hague - plays 2 Copper
+Serf Hague - buys Cutpurse
+Serf Hague - gains Cutpurse
+Serf Hague - draws Copper, Copper
+Serf Hague - shuffles deck
+Serf Hague - draws Cutpurse, Pearl Diver, Smugglers
+ 
+---------- radleybrown: turn 9 ----------
+radleybrown - duration Caravan
+radleybrown - draws Silver
+radleybrown - plays Native Village
+radleybrown - sets aside Province
+radleybrown - plays Native Village
+radleybrown - sets aside Silver
+radleybrown - plays 2 Silver, 1 Gold
+radleybrown - buys Gold
+radleybrown - gains Gold
+radleybrown - draws Silver, Outpost, Duchy, Gold, Province
+ 
+---------- Soldier: turn 9 ----------
+Soldier - plays Native Village
+Soldier - sets aside Gold
+Soldier - plays 2 Silver
+Soldier - buys Caravan
+Soldier - gains Caravan
+Soldier - shuffles deck
+Soldier - draws Cutpurse, Silver, Caravan, Province, Copper
+ 
+---------- Serf Hague: turn 10 ----------
+Serf Hague - plays Pearl Diver
+Serf Hague - draws Estate
+Serf Hague - places Estate on bottom of deck
+Serf Hague - plays Cutpurse
+radleybrown - reveals Silver, Outpost, Duchy, Gold, Province
+Soldier - discards Copper
+Serf Hague - plays 2 Copper
+Serf Hague - buys Cutpurse
+Serf Hague - gains Cutpurse
+Serf Hague - draws Warehouse, Copper, Pearl Diver, Cutpurse, Outpost
+ 
+---------- radleybrown: turn 10 ----------
+radleybrown - plays Outpost
+radleybrown - plays 1 Silver, 1 Gold
+radleybrown - buys Duchy
+radleybrown - gains Duchy
+radleybrown - draws Duchy, Gold, Outpost
+radleybrown - duration Outpost
+ 
+---------- radleybrown: turn 10 ----------
+radleybrown - plays 1 Gold
+radleybrown - buys Warehouse
+radleybrown - gains Curse
+radleybrown - gains Warehouse
+radleybrown - draws Estate, Silver, Silver
+radleybrown - shuffles deck
+radleybrown - draws Gold, Duchy
+ 
+---------- Soldier: turn 10 ----------
+Soldier - plays Caravan
+Soldier - draws Silver
+Soldier - plays Cutpurse
+Serf Hague - discards Copper
+radleybrown - reveals Estate, Silver, Silver, Gold, Duchy
+Soldier - plays 2 Silver
+Soldier - buys Gold
+Soldier - gains Gold
+Soldier - draws Native Village, Silver, Province, Caravan, Laboratory
+ 
+---------- Serf Hague: turn 11 ----------
+Serf Hague - plays Pearl Diver
+Serf Hague - draws Copper
+Serf Hague - places Estate on bottom of deck
+Serf Hague - plays Warehouse
+Serf Hague - draws Copper, Copper, Copper
+Serf Hague - discards Cutpurse
+Serf Hague - discards Copper
+Serf Hague - discards Copper
+Serf Hague - plays Outpost
+Serf Hague - plays 2 Copper
+Serf Hague - buys Pearl Diver
+Serf Hague - gains Pearl Diver
+Serf Hague - draws Copper, Estate, Smugglers
+Serf Hague - duration Outpost
+ 
+---------- Serf Hague: turn 11 ----------
+Serf Hague - plays Smugglers
+Serf Hague - gains Gold
+Serf Hague - plays 1 Copper
+Serf Hague - buys Copper
+Serf Hague - gains Copper
+Serf Hague - draws Caravan, Outpost, Silver, Cutpurse, Estate
+ 
+---------- radleybrown: turn 11 ----------
+radleybrown - plays 2 Silver, 1 Gold
+radleybrown - buys Gold
+radleybrown - gains Gold
+radleybrown - draws Gold, Gold, Silver, Outpost, Duchy
+ 
+---------- Soldier: turn 11 ----------
+Soldier - duration Caravan
+Soldier - draws Copper
+Soldier - plays Native Village
+Soldier - takes set aside cards: Gold
+Soldier - plays Laboratory
+Soldier - draws Cutpurse, Province
+Soldier - plays Caravan
+Soldier - draws Duchy
+Soldier - plays Cutpurse
+Serf Hague - reveals Caravan, Outpost, Silver, Cutpurse, Estate
+radleybrown - reveals Gold, Gold, Silver, Outpost, Duchy
+Soldier - plays 1 Silver, 1 Copper, 1 Gold
+Soldier - buys Province
+Soldier - gains Province
+Soldier - draws Silver, Duchy, Silver
+Soldier - shuffles deck
+Soldier - draws Province, Laboratory
+ 
+---------- Serf Hague: turn 12 ----------
+Serf Hague - plays Caravan
+Serf Hague - shuffles deck
+Serf Hague - draws Copper
+Serf Hague - plays Outpost
+Serf Hague - plays 1 Silver, 1 Copper
+Serf Hague - buys Smugglers
+Serf Hague - gains Smugglers
+Serf Hague - draws Copper, Cutpurse, Smugglers
+Serf Hague - duration Outpost
+ 
+---------- Serf Hague: turn 12 ----------
+Serf Hague - duration Caravan
+Serf Hague - draws Copper
+Serf Hague - plays Cutpurse
+radleybrown - reveals Gold, Gold, Silver, Outpost, Duchy
+Soldier - reveals Silver, Duchy, Silver, Province, Laboratory
+Serf Hague - plays 2 Copper
+Serf Hague - buys Caravan
+Serf Hague - gains Caravan
+Serf Hague - draws Pearl Diver, Gold, Pearl Diver, Copper, Cutpurse
+ 
+---------- radleybrown: turn 12 ----------
+radleybrown - plays Outpost
+radleybrown - plays 2 Gold, 1 Silver
+radleybrown - buys Province
+radleybrown - gains Province
+radleybrown - draws Curse, Caravan, Native Village
+radleybrown - duration Outpost
+ 
+---------- radleybrown: turn 12 ----------
+radleybrown - plays Caravan
+radleybrown - draws Gold
+radleybrown - plays Native Village
+radleybrown - sets aside Warehouse
+radleybrown - plays 1 Gold
+radleybrown - buys Smugglers
+radleybrown - gains Smugglers
+radleybrown - draws Outpost, Native Village, Province, Duchy, Duchy
+ 
+---------- Soldier: turn 12 ----------
+Soldier - duration Caravan
+Soldier - draws Silver
+Soldier - plays Laboratory
+Soldier - draws Silver, Province
+Soldier - plays 4 Silver
+Soldier - buys Province
+Soldier - gains Province
+Soldier - draws Cutpurse, Duchy, Native Village, Silver, Province
+ 
+---------- Serf Hague: turn 13 ----------
+Serf Hague - plays Pearl Diver
+Serf Hague - draws Pearl Diver
+Serf Hague - places Estate on bottom of deck
+Serf Hague - plays Pearl Diver
+Serf Hague - draws Cutpurse
+Serf Hague - places Estate on bottom of deck
+Serf Hague - plays Pearl Diver
+Serf Hague - draws Warehouse
+Serf Hague - places Estate on bottom of deck
+Serf Hague - plays Warehouse
+Serf Hague - draws Smugglers, Estate, Copper
+Serf Hague - discards Estate
+Serf Hague - discards Smugglers
+Serf Hague - discards Cutpurse
+Serf Hague - plays Cutpurse
+radleybrown - reveals Outpost, Native Village, Province, Duchy, Duchy
+Soldier - reveals Cutpurse, Duchy, Native Village, Silver, Province
+Serf Hague - plays 2 Copper, 1 Gold
+Serf Hague - buys Gold
+Serf Hague - gains Gold
+Serf Hague - draws Copper, Copper, Copper, Outpost, Copper
+ 
+---------- radleybrown: turn 13 ----------
+radleybrown - duration Caravan
+radleybrown - draws Silver
+radleybrown - plays Native Village
+radleybrown - sets aside Silver
+radleybrown - plays Outpost
+radleybrown - plays 1 Silver
+radleybrown - buys Native Village
+radleybrown - gains Native Village
+radleybrown - shuffles deck
+radleybrown - draws Duchy, Gold, Silver
+radleybrown - duration Outpost
+ 
+---------- radleybrown: turn 13 ----------
+radleybrown - plays 1 Gold, 1 Silver
+radleybrown - buys Duchy
+radleybrown - gains Duchy
+radleybrown - draws Gold, Province, Silver, Duchy, Gold
+ 
+---------- Soldier: turn 13 ----------
+Soldier - plays Native Village
+Soldier - sets aside Gold
+Soldier - plays Cutpurse
+Serf Hague - discards Copper
+radleybrown - reveals Gold, Province, Silver, Duchy, Gold
+Soldier - plays 1 Silver
+Soldier - buys Caravan
+Soldier - gains Caravan
+Soldier - draws Province, Cutpurse, Copper, Copper, Gold
+ 
+---------- Serf Hague: turn 14 ----------
+Serf Hague - plays Outpost
+Serf Hague - plays 3 Copper
+Serf Hague - buys Silver
+Serf Hague - gains Silver
+Serf Hague - draws Estate
+Serf Hague - shuffles deck
+Serf Hague - draws Smugglers, Copper
+Serf Hague - duration Outpost
+ 
+---------- Serf Hague: turn 14 ----------
+Serf Hague - plays Smugglers
+Serf Hague - gains Caravan
+Serf Hague - plays 1 Copper
+Serf Hague - draws Estate, Copper, Smugglers, Copper, Warehouse
+ 
+---------- radleybrown: turn 14 ----------
+radleybrown - plays 2 Gold, 1 Silver
+radleybrown - buys Province
+radleybrown - gains Province
+radleybrown - draws Gold, Silver, Caravan, Duchy, Estate
+ 
+---------- Soldier: turn 14 ----------
+Soldier - plays Cutpurse
+Serf Hague - discards Copper
+radleybrown - reveals Gold, Silver, Caravan, Duchy, Estate
+Soldier - plays 2 Copper, 1 Gold
+Soldier - buys Duchy
+Soldier - gains Duchy
+Soldier - draws Caravan
+Soldier - shuffles deck
+Soldier - draws Province, Cutpurse, Province, Silver
+ 
+---------- Serf Hague: turn 15 ----------
+Serf Hague - plays Warehouse
+Serf Hague - draws Silver, Copper, Copper
+Serf Hague - discards Estate
+Serf Hague - discards Copper
+Serf Hague - discards Copper
+Serf Hague - plays Smugglers
+Serf Hague - gains Duchy
+Serf Hague - plays 1 Silver, 1 Copper
+Serf Hague - buys Silver
+Serf Hague - gains Silver
+Serf Hague - draws Caravan, Outpost, Copper, Copper, Pearl Diver
+ 
+---------- radleybrown: turn 15 ----------
+radleybrown - plays Caravan
+radleybrown - draws Curse
+radleybrown - plays 1 Gold, 1 Silver
+radleybrown - buys Duchy
+radleybrown - gains Duchy
+radleybrown - draws Silver, Outpost, Native Village, Gold, Native Village
+ 
+---------- Soldier: turn 15 ----------
+Soldier - plays Caravan
+Soldier - draws Silver
+Soldier - plays Cutpurse
+Serf Hague - discards Copper
+radleybrown - reveals Silver, Outpost, Native Village, Gold, Native Village
+Soldier - plays 2 Silver
+Soldier - buys Duchy
+Soldier - gains Duchy
+Soldier - draws Province, Caravan, Cutpurse, Duchy, Province
+ 
+---------- Serf Hague: turn 16 ----------
+Serf Hague - plays Caravan
+Serf Hague - draws Cutpurse
+Serf Hague - plays Pearl Diver
+Serf Hague - draws Copper
+Serf Hague - places Silver on top of deck
+Serf Hague - plays Outpost
+Serf Hague - plays 2 Copper
+Serf Hague - buys Estate
+Serf Hague - gains Estate
+Serf Hague - draws Silver, Cutpurse, Estate
+Serf Hague - duration Outpost
+ 
+---------- Serf Hague: turn 16 ----------
+Serf Hague - duration Caravan
+Serf Hague - draws Gold
+Serf Hague - plays Cutpurse
+radleybrown - reveals Silver, Outpost, Native Village, Gold, Native Village
+Soldier - reveals Province, Caravan, Cutpurse, Duchy, Province
+Serf Hague - plays 1 Silver, 1 Gold
+Serf Hague - buys Gold
+Serf Hague - gains Gold
+Serf Hague - draws Cutpurse, Gold, Smugglers, Caravan, Copper
+ 
+---------- radleybrown: turn 16 ----------
+radleybrown - duration Caravan
+radleybrown - draws Native Village
+radleybrown - plays Native Village
+radleybrown - sets aside Smugglers
+radleybrown - plays Native Village
+radleybrown - sets aside Province
+radleybrown - plays Native Village
+radleybrown - sets aside Duchy
+radleybrown - plays Outpost
+radleybrown - plays 1 Silver, 1 Gold
+radleybrown - buys Duchy
+radleybrown - gains Duchy
+radleybrown - shuffles deck
+radleybrown - draws Duchy, Native Village, Estate
+radleybrown - duration Outpost
+ 
+---------- radleybrown: turn 16 ----------
+radleybrown - plays Native Village
+radleybrown - takes set aside cards: Province, Silver, Warehouse, Silver, Smugglers, Province, Duchy
+radleybrown - plays Warehouse
+radleybrown - draws Duchy, Silver, Duchy
+radleybrown - discards Duchy
+radleybrown - discards Duchy
+radleybrown - discards Duchy
+radleybrown - plays Smugglers
+radleybrown - gains Gold
+radleybrown - plays 3 Silver
+radleybrown - buys Gold
+radleybrown - gains Gold
+radleybrown - draws Gold, Silver, Gold, Outpost, Curse
+ 
+---------- Soldier: turn 16 ----------
+Soldier - duration Caravan
+Soldier - draws Duchy
+Soldier - plays Caravan
+Soldier - draws Silver
+Soldier - plays Cutpurse
+Serf Hague - discards Copper
+radleybrown - reveals Gold, Silver, Gold, Outpost, Curse
+Soldier - plays 1 Silver
+Soldier - buys Caravan
+Soldier - gains Caravan
+Soldier - draws Gold, Duchy, Copper, Province, Silver
+ 
+---------- Serf Hague: turn 17 ----------
+Serf Hague - plays Caravan
+Serf Hague - draws Cutpurse
+Serf Hague - plays Cutpurse
+radleybrown - reveals Gold, Silver, Gold, Outpost, Curse
+Soldier - discards Copper
+Serf Hague - plays 1 Gold
+Serf Hague - buys Outpost
+Serf Hague - gains Outpost
+Serf Hague - draws Pearl Diver, Pearl Diver
+Serf Hague - shuffles deck
+Serf Hague - draws Pearl Diver, Estate, Copper
+ 
+---------- radleybrown: turn 17 ----------
+radleybrown - plays Outpost
+radleybrown - plays 2 Gold, 1 Silver
+radleybrown - buys Province
+radleybrown - gains Province
+radleybrown - draws Native Village, Gold, Province
+radleybrown - duration Outpost
+ 
+---------- radleybrown: turn 17 ----------
+radleybrown - plays Native Village
+radleybrown - sets aside Native Village
+radleybrown - plays 1 Gold
+radleybrown - buys Silver
+radleybrown - gains Silver
+radleybrown - draws Duchy, Gold, Caravan, Silver, Duchy
+ 
+---------- Soldier: turn 17 ----------
+Soldier - duration Caravan
+Soldier - draws Silver
+Soldier - plays 2 Silver, 1 Gold
+Soldier - buys Estate
+Soldier - gains Estate
+Soldier - draws Caravan, Native Village, Laboratory, Copper
+Soldier - shuffles deck
+Soldier - draws Caravan
+ 
+---------- Serf Hague: turn 18 ----------
+Serf Hague - duration Caravan
+Serf Hague - draws Copper
+Serf Hague - plays Pearl Diver
+Serf Hague - draws Copper
+Serf Hague - places Estate on bottom of deck
+Serf Hague - plays Pearl Diver
+Serf Hague - draws Outpost
+Serf Hague - places Estate on bottom of deck
+Serf Hague - plays Pearl Diver
+Serf Hague - draws Cutpurse
+Serf Hague - places Estate on bottom of deck
+Serf Hague - plays Outpost
+Serf Hague - plays 3 Copper
+Serf Hague - buys Estate
+Serf Hague - gains Estate
+Serf Hague - draws Smugglers, Outpost, Cutpurse
+Serf Hague - duration Outpost
+ 
+---------- Serf Hague: turn 18 ----------
+Serf Hague - plays Cutpurse
+radleybrown - reveals Duchy, Gold, Caravan, Silver, Duchy
+Soldier - discards Copper
+Serf Hague - buys Estate
+Serf Hague - gains Estate
+Serf Hague - draws Gold, Smugglers, Copper, Duchy, Cutpurse
+ 
+---------- radleybrown: turn 18 ----------
+radleybrown - plays Caravan
+radleybrown - draws Gold
+radleybrown - plays 2 Gold, 1 Silver
+radleybrown - buys Province
+radleybrown - gains Province
+radleybrown - draws Duchy, Silver, Province
+radleybrown - shuffles deck
+radleybrown - draws Curse, Province
+ 
+---------- Soldier: turn 18 ----------
+Soldier - plays Native Village
+Soldier - takes set aside cards: Gold
+Soldier - plays Laboratory
+Soldier - draws Cutpurse, Province
+Soldier - plays Caravan
+Soldier - draws Cutpurse
+Soldier - plays Caravan
+Soldier - draws Duchy
+Soldier - plays Cutpurse
+Serf Hague - discards Copper
+radleybrown - reveals Duchy, Silver, Province, Curse, Province
+Soldier - plays Cutpurse
+Serf Hague - reveals Gold, Smugglers, Duchy, Cutpurse
+radleybrown - reveals Duchy, Silver, Province, Curse, Province
+Soldier - plays 1 Gold
+Soldier - buys Estate
+Soldier - gains Estate
+Soldier - draws Province, Silver, Duchy, Gold, Silver
+ 
+---------- Serf Hague: turn 19 ----------
+Serf Hague - plays Cutpurse
+radleybrown - reveals Duchy, Silver, Province, Curse, Province
+Soldier - reveals Province, Silver, Duchy, Gold, Silver
+Serf Hague - plays 1 Gold
+Serf Hague - buys Laboratory
+Serf Hague - gains Laboratory
+Serf Hague - draws Copper, Silver, Silver, Caravan, Gold
+ 
+---------- radleybrown: turn 19 ----------
+radleybrown - duration Caravan
+radleybrown - draws Gold
+radleybrown - plays 1 Silver, 1 Gold
+radleybrown - buys Outpost
+radleybrown - gains Outpost
+radleybrown - draws Duchy, Province, Native Village, Duchy, Gold
+ 
+---------- Soldier: turn 19 ----------
+Soldier - duration Caravan
+Soldier - draws Copper
+Soldier - duration Caravan
+Soldier - draws Silver
+Soldier - plays 3 Silver, 1 Gold, 1 Copper
+Soldier - buys Estate
+Soldier - gains Estate
+Soldier - draws Caravan, Province, Caravan, Silver, Province
+ 
+---------- Serf Hague: turn 20 ----------
+Serf Hague - plays Caravan
+Serf Hague - draws Copper
+Serf Hague - plays 2 Copper, 2 Silver, 1 Gold
+Serf Hague - buys Province
+Serf Hague - gains Province
+Serf Hague - draws Copper, Estate, Copper, Smugglers, Cutpurse
+ 
+------------ Game Over ------------
+radleybrown - cards: 3 Native Village, 3 Outpost, 1 Caravan, 1 Warehouse, 1 Smugglers, 7 Silver, 7 Gold, 7 Duchy, 6 Province, 1 Estate, 1 Curse
+radleybrown - total victory points: 57
+radleybrown - turns: 19
+ 
+Soldier - cards: 4 Caravan, 2 Cutpurse, 1 Native Village, 1 Laboratory, 5 Silver, 2 Copper, 2 Gold, 5 Province, 4 Duchy, 3 Estate
+Soldier - total victory points: 45
+Soldier - turns: 19
+ 
+Serf Hague - cards: 4 Cutpurse, 3 Outpost, 3 Smugglers, 3 Caravan, 3 Pearl Diver, 1 Warehouse, 1 Laboratory, 9 Copper, 3 Gold, 3 Silver, 6 Estate, 1 Duchy, 1 Province
+Serf Hague - total victory points: 15
+Serf Hague - turns: 20
+ 
+1st place: radleybrown
+2nd place: Soldier
+3rd place: Serf Hague
+ 

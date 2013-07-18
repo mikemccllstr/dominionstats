@@ -1,0 +1,371 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Village, Fortress, Mining Village, Procession, Throne Room, Band of Misfits, Adventurer, Forge, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: unrated
+ftl - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Serf Bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ftl - shuffles deck
+Serf Bot - shuffles deck
+ftl - draws Copper, Copper, Estate, Copper, Copper
+Serf Bot - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Serf Bot: turn 1 ----------
+Serf Bot - plays 3 Copper
+Serf Bot - buys Village
+Serf Bot - gains Village
+Serf Bot - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- ftl: turn 1 ----------
+ftl - plays 4 Copper
+ftl - buys Fortress
+ftl - gains Fortress
+ftl - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Serf Bot: turn 2 ----------
+Serf Bot - plays 4 Copper
+Serf Bot - buys Procession
+Serf Bot - gains Procession
+Serf Bot - shuffles deck
+Serf Bot - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- ftl: turn 2 ----------
+ftl - plays 3 Copper
+ftl - buys Chapel
+ftl - gains Chapel
+ftl - shuffles deck
+ftl - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Serf Bot: turn 3 ----------
+Serf Bot - plays 3 Copper
+Serf Bot - buys Village
+Serf Bot - gains Village
+Serf Bot - draws Copper, Copper, Copper, Procession, Village
+ 
+---------- ftl: turn 3 ----------
+ftl - plays 4 Copper
+ftl - buys Procession
+ftl - gains Procession
+ftl - draws Chapel, Copper, Estate, Copper, Fortress
+ 
+---------- Serf Bot: turn 4 ----------
+Serf Bot - plays Procession
+Serf Bot - plays Village
+Serf Bot - draws Estate
+Serf Bot - plays Village
+Serf Bot - draws Copper
+Serf Bot - trashes Village
+Serf Bot - gains Mining Village
+Serf Bot - plays 4 Copper
+Serf Bot - buys Fortress
+Serf Bot - gains Fortress
+Serf Bot - shuffles deck
+Serf Bot - draws Village, Copper, Copper, Copper, Estate
+ 
+---------- ftl: turn 4 ----------
+ftl - plays Fortress
+ftl - draws Copper
+ftl - plays Chapel
+ftl - trashes Copper, Estate, Copper, Copper
+ftl - draws Estate
+ftl - shuffles deck
+ftl - draws Fortress, Copper, Copper, Copper
+ 
+---------- Serf Bot: turn 5 ----------
+Serf Bot - plays Village
+Serf Bot - draws Copper
+Serf Bot - plays 4 Copper
+Serf Bot - buys Fortress
+Serf Bot - gains Fortress
+Serf Bot - draws Mining Village, Estate, Copper, Copper, Fortress
+ 
+---------- ftl: turn 5 ----------
+ftl - plays Fortress
+ftl - draws Estate
+ftl - plays 3 Copper
+ftl - buys Silver
+ftl - gains Silver
+ftl - draws Copper, Chapel, Procession
+ftl - shuffles deck
+ftl - draws Estate, Fortress
+ 
+---------- Serf Bot: turn 6 ----------
+Serf Bot - plays Mining Village
+Serf Bot - draws Copper
+Serf Bot - plays Fortress
+Serf Bot - draws Procession
+Serf Bot - plays 3 Copper
+Serf Bot - buys Village
+Serf Bot - gains Village
+Serf Bot - draws Estate
+Serf Bot - shuffles deck
+Serf Bot - draws Copper, Procession, Estate, Copper
+ 
+---------- ftl: turn 6 ----------
+ftl - plays Procession
+ftl - plays Fortress
+ftl - draws Silver
+ftl - plays Fortress
+ftl - draws Copper
+ftl - trashes Fortress
+ftl - gains Band of Misfits
+ftl - plays Fortress
+ftl - draws Copper
+ftl - plays Chapel
+ftl - trashes Copper, Estate, Copper, Copper
+ftl - draws Copper, Estate
+ftl - shuffles deck
+ftl - draws Chapel, Silver, Procession
+ 
+---------- Serf Bot: turn 7 ----------
+Serf Bot - plays 2 Copper
+Serf Bot - buys Chapel
+Serf Bot - gains Chapel
+Serf Bot - draws Mining Village, Village, Copper, Estate, Fortress
+ 
+---------- ftl: turn 7 ----------
+ftl - plays Procession
+ftl - plays Chapel
+ftl - trashes Copper, Estate, Silver
+ftl - plays Chapel
+ftl - trashes Chapel
+ftl - gains Village
+ftl - draws Fortress, Band of Misfits
+ftl - shuffles deck
+ftl - draws Procession, Village
+ 
+---------- Serf Bot: turn 8 ----------
+Serf Bot - plays Mining Village
+Serf Bot - draws Copper
+Serf Bot - plays Fortress
+Serf Bot - draws Village
+Serf Bot - plays Village
+Serf Bot - draws Copper
+Serf Bot - plays Village
+Serf Bot - draws Copper
+Serf Bot - plays 4 Copper
+Serf Bot - buys Fortress
+Serf Bot - gains Fortress
+Serf Bot - draws Fortress, Copper
+Serf Bot - shuffles deck
+Serf Bot - draws Estate, Fortress, Estate
+ 
+---------- ftl: turn 8 ----------
+ftl - plays Procession
+ftl - plays Village
+ftl - plays Village
+ftl - trashes Village
+ftl - gains Procession
+ftl - plays Fortress
+ftl - shuffles deck
+ftl - draws Procession
+ftl - plays Procession
+ftl - plays Band of Misfits
+ftl - chooses Mining Village
+ftl - plays Mining Village
+ftl - plays Mining Village
+ftl - trashes Mining Village
+ftl - gains Adventurer
+ftl - buys Chapel
+ftl - gains Chapel
+ftl - shuffles deck
+ftl - draws Adventurer, Chapel, Fortress, Procession, Procession
+ 
+---------- Serf Bot: turn 9 ----------
+Serf Bot - plays Fortress
+Serf Bot - draws Chapel
+Serf Bot - plays Fortress
+Serf Bot - draws Fortress
+Serf Bot - plays Fortress
+Serf Bot - draws Estate
+Serf Bot - plays Chapel
+Serf Bot - trashes Estate, Estate, Estate, Copper
+Serf Bot - draws Mining Village, Copper, Copper, Procession, Village
+ 
+---------- ftl: turn 9 ----------
+ftl - plays Procession
+ftl - plays Procession
+ftl - plays Fortress
+ftl - plays Fortress
+ftl - trashes Fortress
+ftl - gains Band of Misfits
+ftl - plays Procession
+ftl - plays Adventurer
+ftl - shuffles deck
+ftl - reveals Band of Misfits
+ftl - discards Band of Misfits
+ftl - plays Adventurer
+ftl - shuffles deck
+ftl - reveals Band of Misfits
+ftl - discards Band of Misfits
+ftl - trashes Adventurer
+ftl - gains King's Court
+ftl - trashes Procession
+ftl - gains Band of Misfits
+ftl - plays Fortress
+ftl - shuffles deck
+ftl - draws King's Court
+ftl - plays King's Court
+ftl - plays Chapel
+ftl - plays Chapel
+ftl - plays Chapel
+ftl - draws Band of Misfits, Band of Misfits
+ftl - shuffles deck
+ftl - draws King's Court, Procession, Chapel
+ 
+---------- Serf Bot: turn 10 ----------
+Serf Bot - plays Procession
+Serf Bot - plays Mining Village
+Serf Bot - draws Copper
+Serf Bot - plays Mining Village
+Serf Bot - draws Copper
+Serf Bot - trashes Mining Village
+Serf Bot - gains Band of Misfits
+Serf Bot - plays Village
+Serf Bot - draws Village
+Serf Bot - plays Village
+Serf Bot - draws Copper
+Serf Bot - plays 5 Copper
+Serf Bot - buys Band of Misfits
+Serf Bot - gains Band of Misfits
+Serf Bot - draws Copper
+Serf Bot - shuffles deck
+Serf Bot - draws Copper, Village, Fortress, Band of Misfits
+ 
+---------- ftl: turn 10 ----------
+ftl - plays King's Court
+ftl - plays Band of Misfits
+ftl - chooses Mining Village
+ftl - plays Mining Village
+ftl - draws Fortress
+ftl - plays Mining Village
+ftl - trashes Mining Village
+ftl - plays Band of Misfits
+ftl - plays Mining Village
+ftl - plays Procession
+ftl - plays Fortress
+ftl - plays Fortress
+ftl - trashes Fortress
+ftl - gains Band of Misfits
+ftl - plays Fortress
+ftl - shuffles deck
+ftl - draws Band of Misfits
+ftl - plays Band of Misfits
+ftl - chooses Throne Room
+ftl - plays Throne Room
+ftl - plays Band of Misfits
+ftl - chooses Mining Village
+ftl - plays Mining Village
+ftl - trashes Mining Village
+ftl - plays Band of Misfits
+ftl - plays Mining Village
+ftl - plays Chapel
+ftl - buys Fortress
+ftl - gains Fortress
+ftl - shuffles deck
+ftl - draws King's Court, Band of Misfits, Chapel, Fortress, Procession
+ 
+---------- Serf Bot: turn 11 ----------
+Serf Bot - plays Fortress
+Serf Bot - draws Procession
+Serf Bot - plays Village
+Serf Bot - draws Band of Misfits
+Serf Bot - plays Procession
+Serf Bot - plays Band of Misfits
+Serf Bot - chooses Throne Room
+Serf Bot - plays Throne Room
+Serf Bot - plays Band of Misfits
+Serf Bot - chooses Mining Village
+Serf Bot - plays Mining Village
+Serf Bot - draws Fortress
+Serf Bot - plays Mining Village
+Serf Bot - draws Chapel
+Serf Bot - plays Throne Room
+Serf Bot - plays Fortress
+Serf Bot - draws Copper
+Serf Bot - plays Fortress
+Serf Bot - draws Fortress
+Serf Bot - trashes Throne Room
+Serf Bot - gains Adventurer
+Serf Bot - plays Fortress
+Serf Bot - draws Copper
+Serf Bot - plays Chapel
+Serf Bot - trashes Copper, Copper
+Serf Bot - plays 2 Copper
+Serf Bot - buys Chapel
+Serf Bot - gains Chapel
+Serf Bot - draws Village, Copper, Copper
+Serf Bot - shuffles deck
+Serf Bot - draws Copper, Procession
+ 
+---------- ftl: turn 11 ----------
+ftl - plays King's Court
+ftl - plays Procession
+ftl - plays Band of Misfits
+ftl - chooses Mining Village
+ftl - plays Mining Village
+ftl - draws Fortress
+ftl - trashes Mining Village
+ftl - plays Band of Misfits
+ftl - plays Mining Village
+ftl - gains Adventurer
+ftl - plays Procession
+ftl - plays Fortress
+ftl - shuffles deck
+ftl - draws Adventurer
+ftl - plays Fortress
+ftl - trashes Fortress
+ftl - gains Band of Misfits
+ftl - plays Procession
+ftl - plays Adventurer
+ftl - shuffles deck
+ftl - reveals Band of Misfits
+ftl - discards Band of Misfits
+ftl - plays Adventurer
+ftl - shuffles deck
+ftl - reveals Band of Misfits
+ftl - discards Band of Misfits
+ftl - trashes Adventurer
+ftl - gains Forge
+ftl - plays Fortress
+ftl - shuffles deck
+ftl - draws Band of Misfits
+ftl - plays Fortress
+ftl - draws Forge
+ftl - plays Band of Misfits
+ftl - chooses Mining Village
+ftl - plays Mining Village
+ftl - trashes Mining Village
+ftl - shuffles deck
+ftl - draws Chapel, Fortress, Fortress, Procession, Forge
+ 
+---------- Serf Bot: turn 12 ----------
+Serf Bot - plays Procession
+Serf Bot - plays Village
+Serf Bot - draws Chapel
+Serf Bot - plays Village
+Serf Bot - draws Fortress
+Serf Bot - trashes Village
+Serf Bot - gains Procession
+Serf Bot - plays Fortress
+Serf Bot - draws Chapel
+Serf Bot - plays Chapel
+Serf Bot - plays Chapel
+Serf Bot - plays 3 Copper
+Serf Bot - buys Village
+Serf Bot - gains Village
+Serf Bot - draws Fortress, Adventurer, Fortress, Village, Copper
+ 
+---------- ftl: turn 12 ----------
+ 
+------------ Game Over ------------
+Serf Bot - cards: 3 Fortress, 2 Village, 2 Procession, 2 Chapel, 1 Adventurer, 1 Band of Misfits, 4 Copper
+Serf Bot - total victory points: 0
+Serf Bot - turns: 12
+ 
+ftl - resigned
+ftl - cards: 2 Fortress, 1 Chapel, 1 Procession, 1 Forge, 1 King's Court
+ftl - total victory points: 0
+ftl - turns: 11
+ 
+1st place: Serf Bot
+2nd place: ftl
+ 

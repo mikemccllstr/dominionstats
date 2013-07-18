@@ -1,0 +1,635 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Oracle, Coppersmith, Mining Village, Monument, Highway, Ill-Gotten Gains, Merchant Ship, Fairgrounds, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Kyre - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+radimir0609 - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Kyre - shuffles deck
+radimir0609 - shuffles deck
+Kyre - draws Copper, Hovel, Copper, Copper, Copper
+radimir0609 - draws Hovel, Copper, Necropolis, Overgrown Estate, Copper
+ 
+---------- radimir0609: turn 1 ----------
+radimir0609 - plays 2 Copper
+radimir0609 - buys Vagrant
+radimir0609 - gains Vagrant
+radimir0609 - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Kyre: turn 1 ----------
+Kyre - plays 4 Copper
+Kyre - buys Monument
+Kyre - gains Monument
+Kyre - draws Copper, Copper, Overgrown Estate, Copper, Necropolis
+ 
+---------- radimir0609: turn 2 ----------
+radimir0609 - plays 5 Copper
+radimir0609 - buys Highway
+radimir0609 - gains Highway
+radimir0609 - shuffles deck
+radimir0609 - draws Copper, Hovel, Copper, Highway, Overgrown Estate
+ 
+---------- Kyre: turn 2 ----------
+Kyre - plays Necropolis
+Kyre - plays 3 Copper
+Kyre - buys Oracle
+Kyre - gains Oracle
+Kyre - shuffles deck
+Kyre - draws Copper, Oracle, Copper, Monument, Hovel
+ 
+---------- radimir0609: turn 3 ----------
+radimir0609 - plays Highway
+radimir0609 - draws Copper
+radimir0609 - plays 3 Copper
+radimir0609 - buys Monument
+radimir0609 - gains Monument
+radimir0609 - draws Copper, Copper, Copper, Copper, Vagrant
+ 
+---------- Kyre: turn 3 ----------
+Kyre - plays Monument
+Kyre - receives 1 victory point chips
+Kyre - plays 2 Copper
+Kyre - buys Monument
+Kyre - gains Monument
+Kyre - draws Copper, Overgrown Estate, Copper, Copper, Copper
+ 
+---------- radimir0609: turn 4 ----------
+radimir0609 - plays Vagrant
+radimir0609 - draws Necropolis
+radimir0609 - shuffles deck
+radimir0609 - reveals: Overgrown Estate
+radimir0609 - places Overgrown Estate in hand
+radimir0609 - plays 4 Copper
+radimir0609 - buys Silver
+radimir0609 - gains Silver
+radimir0609 - draws Copper, Hovel, Copper, Monument, Copper
+ 
+---------- Kyre: turn 4 ----------
+Kyre - plays 4 Copper
+Kyre - buys Mining Village
+Kyre - gains Mining Village
+Kyre - draws Copper, Necropolis
+Kyre - shuffles deck
+Kyre - draws Copper, Oracle, Copper
+ 
+---------- radimir0609: turn 5 ----------
+radimir0609 - plays Monument
+radimir0609 - receives 1 victory point chips
+radimir0609 - plays 3 Copper
+radimir0609 - buys Ill-Gotten Gains
+radimir0609 - gains Ill-Gotten Gains
+Kyre - gains Curse
+radimir0609 - draws Highway
+radimir0609 - shuffles deck
+radimir0609 - draws Copper, Silver, Hovel, Necropolis
+ 
+---------- Kyre: turn 5 ----------
+Kyre - plays Necropolis
+Kyre - plays Oracle
+Kyre - reveals: Copper, Hovel
+Kyre - discards: Copper, Hovel
+radimir0609 - reveals: Ill-Gotten Gains, Copper
+radimir0609 - discards: Ill-Gotten Gains, Copper
+Kyre - draws Overgrown Estate, Mining Village
+Kyre - plays Mining Village
+Kyre - draws Copper
+Kyre - plays 4 Copper
+Kyre - buys Mining Village
+Kyre - gains Mining Village
+Kyre - draws Copper, Monument, Copper, Monument
+Kyre - shuffles deck
+Kyre - draws Copper
+ 
+---------- radimir0609: turn 6 ----------
+radimir0609 - plays Necropolis
+radimir0609 - plays Highway
+radimir0609 - draws Overgrown Estate
+radimir0609 - plays 1 Copper, 1 Silver
+radimir0609 - buys Mining Village
+radimir0609 - gains Mining Village
+radimir0609 - draws Copper, Monument, Copper, Copper, Vagrant
+ 
+---------- Kyre: turn 6 ----------
+Kyre - plays Monument
+Kyre - receives 1 victory point chips
+Kyre - plays 3 Copper
+Kyre - buys Highway
+Kyre - gains Highway
+Kyre - draws Mining Village, Copper, Mining Village, Copper, Copper
+ 
+---------- radimir0609: turn 7 ----------
+radimir0609 - plays Vagrant
+radimir0609 - draws Copper
+radimir0609 - reveals: Copper
+radimir0609 - places Copper on top of deck
+radimir0609 - plays Monument
+radimir0609 - receives 1 victory point chips
+radimir0609 - plays 4 Copper
+radimir0609 - buys Gold
+radimir0609 - gains Gold
+radimir0609 - draws Copper
+radimir0609 - shuffles deck
+radimir0609 - draws Hovel, Copper, Necropolis, Copper
+ 
+---------- Kyre: turn 7 ----------
+Kyre - plays Mining Village
+Kyre - draws Overgrown Estate
+Kyre - plays Mining Village
+Kyre - draws Curse
+Kyre - plays 3 Copper
+Kyre - buys Oracle
+Kyre - gains Oracle
+Kyre - draws Copper, Hovel, Oracle, Necropolis
+Kyre - shuffles deck
+Kyre - draws Copper
+ 
+---------- radimir0609: turn 8 ----------
+radimir0609 - plays 3 Copper
+radimir0609 - buys Oracle
+radimir0609 - gains Oracle
+radimir0609 - draws Mining Village, Copper, Highway, Copper, Gold
+ 
+---------- Kyre: turn 8 ----------
+Kyre - plays Necropolis
+Kyre - plays Oracle
+Kyre - reveals: Copper, Monument
+Kyre - places Monument on top of deck
+Kyre - places Copper on top of deck
+radimir0609 - reveals: Copper, Monument
+radimir0609 - discards: Copper, Monument
+Kyre - draws Copper, Monument
+Kyre - plays Monument
+Kyre - receives 1 victory point chips
+Kyre - plays 3 Copper
+Kyre - buys Highway
+Kyre - gains Highway
+Kyre - draws Curse, Copper, Overgrown Estate, Monument, Mining Village
+ 
+---------- radimir0609: turn 9 ----------
+radimir0609 - plays Mining Village
+radimir0609 - draws Overgrown Estate
+radimir0609 - plays Highway
+radimir0609 - draws Ill-Gotten Gains
+radimir0609 - plays Ill-Gotten Gains
+radimir0609 - plays 2 Copper, 1 Gold
+radimir0609 - buys Forge
+radimir0609 - gains Forge
+radimir0609 - draws Silver, Vagrant, Copper
+radimir0609 - shuffles deck
+radimir0609 - draws Highway, Copper
+ 
+---------- Kyre: turn 9 ----------
+Kyre - plays Mining Village
+Kyre - draws Copper
+Kyre - plays Monument
+Kyre - receives 1 victory point chips
+Kyre - plays 2 Copper
+Kyre - buys Mining Village
+Kyre - gains Mining Village
+Kyre - draws Oracle, Copper, Copper, Mining Village, Highway
+ 
+---------- radimir0609: turn 10 ----------
+radimir0609 - plays Vagrant
+radimir0609 - draws Copper
+radimir0609 - reveals: Copper
+radimir0609 - places Copper on top of deck
+radimir0609 - plays Highway
+radimir0609 - draws Copper
+radimir0609 - plays 4 Copper, 1 Silver
+radimir0609 - buys Monument
+radimir0609 - gains Monument
+radimir0609 - draws Forge, Overgrown Estate, Copper, Copper, Gold
+ 
+---------- Kyre: turn 10 ----------
+Kyre - plays Mining Village
+Kyre - shuffles deck
+Kyre - draws Monument
+Kyre - plays Highway
+Kyre - draws Copper
+Kyre - plays Oracle
+Kyre - reveals: Copper, Hovel
+Kyre - discards: Copper, Hovel
+radimir0609 - reveals: Hovel, Ill-Gotten Gains
+radimir0609 - places Ill-Gotten Gains on top of deck
+radimir0609 - places Hovel on top of deck
+Kyre - draws Copper, Mining Village
+Kyre - plays Mining Village
+Kyre - draws Necropolis
+Kyre - plays Monument
+Kyre - receives 1 victory point chips
+Kyre - plays 4 Copper
+Kyre - buys Forge
+Kyre - gains Forge
+Kyre - draws Mining Village, Overgrown Estate, Highway, Oracle, Copper
+ 
+---------- radimir0609: turn 11 ----------
+radimir0609 - plays Forge
+radimir0609 - trashes Overgrown Estate, Copper, Copper
+radimir0609 - draws Hovel
+radimir0609 - plays 1 Gold
+radimir0609 - buys Oracle
+radimir0609 - gains Oracle
+radimir0609 - draws Ill-Gotten Gains, Oracle, Necropolis, Mining Village, Monument
+ 
+---------- Kyre: turn 11 ----------
+Kyre - plays Mining Village
+Kyre - draws Copper
+Kyre - plays Highway
+Kyre - draws Monument
+Kyre - plays Oracle
+Kyre - reveals: Curse
+Kyre - shuffles deck
+Kyre - reveals: Highway
+Kyre - discards: Curse, Highway
+radimir0609 - reveals: Copper
+radimir0609 - shuffles deck
+radimir0609 - reveals: Silver
+radimir0609 - discards: Copper, Silver
+Kyre - draws Copper, Copper
+Kyre - plays Monument
+Kyre - receives 1 victory point chips
+Kyre - plays 4 Copper
+Kyre - buys Forge
+Kyre - gains Forge
+Kyre - draws Copper, Hovel, Necropolis, Mining Village, Mining Village
+ 
+---------- radimir0609: turn 12 ----------
+radimir0609 - plays Necropolis
+radimir0609 - plays Monument
+radimir0609 - receives 1 victory point chips
+radimir0609 - plays Mining Village
+radimir0609 - draws Oracle
+radimir0609 - plays Oracle
+radimir0609 - reveals: Forge, Gold
+radimir0609 - places Forge on top of deck
+radimir0609 - places Gold on top of deck
+Kyre - reveals: Copper, Forge
+Kyre - discards: Copper, Forge
+radimir0609 - draws Gold, Forge
+radimir0609 - plays Ill-Gotten Gains
+radimir0609 - plays 1 Gold
+radimir0609 - buys Gold
+radimir0609 - gains Gold
+radimir0609 - draws Monument, Copper, Highway, Hovel, Copper
+ 
+---------- Kyre: turn 12 ----------
+Kyre - plays Mining Village
+Kyre - draws Monument
+Kyre - plays Mining Village
+Kyre - draws Oracle
+Kyre - plays Oracle
+Kyre - reveals: Copper
+Kyre - shuffles deck
+Kyre - reveals: Mining Village
+Kyre - discards: Copper, Mining Village
+radimir0609 - reveals: Copper, Copper
+radimir0609 - places Copper on top of deck
+radimir0609 - places Copper on top of deck
+Kyre - draws Copper, Highway
+Kyre - plays Highway
+Kyre - draws Copper
+Kyre - plays Monument
+Kyre - receives 1 victory point chips
+Kyre - plays Necropolis
+Kyre - plays 3 Copper
+Kyre - buys Merchant Ship
+Kyre - gains Merchant Ship
+Kyre - draws Copper, Oracle, Highway, Forge, Overgrown Estate
+ 
+---------- radimir0609: turn 13 ----------
+radimir0609 - plays Highway
+radimir0609 - draws Copper
+radimir0609 - plays Monument
+radimir0609 - receives 1 victory point chips
+radimir0609 - plays 3 Copper
+radimir0609 - buys Merchant Ship
+radimir0609 - gains Merchant Ship
+radimir0609 - draws Copper, Vagrant
+radimir0609 - shuffles deck
+radimir0609 - draws Copper, Gold, Oracle
+ 
+---------- Kyre: turn 13 ----------
+Kyre - plays Forge
+Kyre - trashes Highway, Overgrown Estate, Copper
+Kyre - draws Forge
+Kyre - gains Gold
+Kyre - draws Monument, Curse, Copper, Copper
+Kyre - shuffles deck
+Kyre - draws Monument
+ 
+---------- radimir0609: turn 14 ----------
+radimir0609 - plays Vagrant
+radimir0609 - draws Copper
+radimir0609 - reveals: Oracle
+radimir0609 - places Oracle on top of deck
+radimir0609 - plays Oracle
+radimir0609 - reveals: Oracle, Monument
+radimir0609 - places Oracle on top of deck
+radimir0609 - places Monument on top of deck
+Kyre - reveals: Gold, Copper
+Kyre - discards: Gold, Copper
+radimir0609 - draws Monument, Oracle
+radimir0609 - plays 3 Copper, 1 Gold
+radimir0609 - buys Mining Village
+radimir0609 - gains Mining Village
+radimir0609 - draws Forge, Silver, Copper, Merchant Ship, Ill-Gotten Gains
+ 
+---------- Kyre: turn 14 ----------
+Kyre - plays Monument
+Kyre - receives 1 victory point chips
+Kyre - plays 2 Copper
+Kyre - buys Mining Village
+Kyre - gains Mining Village
+Kyre - draws Forge, Mining Village, Highway, Mining Village, Hovel
+ 
+---------- radimir0609: turn 15 ----------
+radimir0609 - plays Forge
+radimir0609 - trashes Copper
+radimir0609 - gains Copper
+radimir0609 - plays 1 Silver
+radimir0609 - plays Ill-Gotten Gains
+radimir0609 - buys Silver
+radimir0609 - gains Silver
+radimir0609 - draws Monument, Necropolis, Mining Village, Hovel, Gold
+ 
+---------- Kyre: turn 15 ----------
+Kyre - plays Mining Village
+Kyre - draws Merchant Ship
+Kyre - plays Mining Village
+Kyre - draws Copper
+Kyre - plays Highway
+Kyre - draws Copper
+Kyre - plays Merchant Ship
+Kyre - plays Forge
+Kyre - trashes Hovel, Copper, Copper
+Kyre - gains Copper
+Kyre - buys Vagrant
+Kyre - gains Vagrant
+Kyre - draws Mining Village, Necropolis, Oracle, Oracle, Forge
+ 
+---------- radimir0609: turn 16 ----------
+radimir0609 - plays Necropolis
+radimir0609 - plays Monument
+radimir0609 - receives 1 victory point chips
+radimir0609 - plays Mining Village
+radimir0609 - draws Highway
+radimir0609 - plays Highway
+radimir0609 - draws Copper
+radimir0609 - plays 1 Gold, 1 Copper
+radimir0609 - buys Gold
+radimir0609 - gains Gold
+radimir0609 - shuffles deck
+radimir0609 - draws Copper, Copper, Gold, Highway, Monument
+ 
+---------- Kyre: turn 16 ----------
+Kyre - duration Merchant Ship
+Kyre - plays Mining Village
+Kyre - draws Copper
+Kyre - plays Oracle
+Kyre - shuffles deck
+Kyre - reveals: Gold, Highway
+Kyre - places Highway on top of deck
+Kyre - places Gold on top of deck
+radimir0609 - reveals: Ill-Gotten Gains, Silver
+radimir0609 - discards: Ill-Gotten Gains, Silver
+Kyre - draws Gold, Highway
+Kyre - plays Necropolis
+Kyre - plays Oracle
+Kyre - reveals: Monument, Copper
+Kyre - places Monument on top of deck
+Kyre - places Copper on top of deck
+radimir0609 - reveals: Vagrant, Mining Village
+radimir0609 - discards: Vagrant, Mining Village
+Kyre - draws Copper, Monument
+Kyre - plays Highway
+Kyre - draws Monument
+Kyre - plays Monument
+Kyre - receives 1 victory point chips
+Kyre - plays 2 Copper, 1 Gold
+Kyre - buys Province
+Kyre - gains Province
+Kyre - draws Mining Village, Curse, Copper, Vagrant, Copper
+ 
+---------- radimir0609: turn 17 ----------
+radimir0609 - plays Highway
+radimir0609 - draws Merchant Ship
+radimir0609 - plays Monument
+radimir0609 - receives 1 victory point chips
+radimir0609 - plays 2 Copper, 1 Gold
+radimir0609 - buys Mining Village
+radimir0609 - gains Mining Village
+radimir0609 - draws Copper, Necropolis, Oracle, Gold, Gold
+ 
+---------- Kyre: turn 17 ----------
+Kyre - plays Vagrant
+Kyre - draws Copper
+Kyre - reveals: Mining Village
+Kyre - places Mining Village on top of deck
+Kyre - plays Mining Village
+Kyre - draws Mining Village
+Kyre - plays Mining Village
+Kyre - draws Mining Village
+Kyre - plays Mining Village
+Kyre - draws Forge
+Kyre - plays Forge
+Kyre - trashes Copper, Copper, Curse, Copper
+Kyre - gains Copper
+Kyre - shuffles deck
+Kyre - draws Province, Highway, Copper, Necropolis, Mining Village
+ 
+---------- radimir0609: turn 18 ----------
+radimir0609 - plays Necropolis
+radimir0609 - plays Oracle
+radimir0609 - reveals: Hovel, Copper
+radimir0609 - discards: Hovel, Copper
+Kyre - reveals: Copper, Monument
+Kyre - discards: Copper, Monument
+radimir0609 - draws Oracle, Silver
+radimir0609 - plays Oracle
+radimir0609 - reveals: Monument, Copper
+radimir0609 - places Monument on top of deck
+radimir0609 - places Copper on top of deck
+Kyre - reveals: Forge, Oracle
+Kyre - discards: Forge, Oracle
+radimir0609 - draws Copper, Monument
+radimir0609 - plays 2 Copper, 2 Gold, 1 Silver
+radimir0609 - buys Province
+radimir0609 - gains Province
+radimir0609 - draws Forge, Mining Village
+radimir0609 - shuffles deck
+radimir0609 - draws Copper, Highway, Ill-Gotten Gains
+ 
+---------- Kyre: turn 18 ----------
+Kyre - plays Mining Village
+Kyre - draws Merchant Ship
+Kyre - plays Highway
+Kyre - draws Vagrant
+Kyre - plays Vagrant
+Kyre - draws Mining Village
+Kyre - reveals: Monument
+Kyre - places Monument on top of deck
+Kyre - plays Mining Village
+Kyre - draws Monument
+Kyre - plays Merchant Ship
+Kyre - plays Monument
+Kyre - receives 1 victory point chips
+Kyre - buys Merchant Ship
+Kyre - gains Merchant Ship
+Kyre - draws Mining Village, Gold, Copper, Forge, Oracle
+ 
+---------- radimir0609: turn 19 ----------
+radimir0609 - plays Mining Village
+radimir0609 - draws Province
+radimir0609 - plays Highway
+radimir0609 - draws Silver
+radimir0609 - plays Forge
+radimir0609 - trashes Copper, Ill-Gotten Gains
+radimir0609 - gains Highway
+radimir0609 - plays 1 Silver
+radimir0609 - buys Silver
+radimir0609 - gains Silver
+radimir0609 - draws Vagrant, Gold, Silver, Copper, Oracle
+ 
+---------- Kyre: turn 19 ----------
+Kyre - duration Merchant Ship
+Kyre - plays Mining Village
+Kyre - draws Mining Village
+Kyre - plays Mining Village
+Kyre - shuffles deck
+Kyre - draws Mining Village
+Kyre - plays Oracle
+Kyre - reveals: Monument, Copper
+Kyre - discards: Monument, Copper
+radimir0609 - reveals: Merchant Ship, Hovel
+radimir0609 - discards: Merchant Ship, Hovel
+Kyre - draws Forge, Oracle
+Kyre - plays Mining Village
+Kyre - draws Copper
+Kyre - trashes Mining Village
+Kyre - plays Oracle
+Kyre - reveals: Mining Village, Province
+Kyre - discards: Mining Village, Province
+radimir0609 - reveals: Necropolis, Copper
+radimir0609 - places Copper on top of deck
+radimir0609 - places Necropolis on top of deck
+Kyre - draws Vagrant, Necropolis
+Kyre - plays Vagrant
+Kyre - draws Merchant Ship
+Kyre - reveals: Monument
+Kyre - places Monument on top of deck
+Kyre - plays Merchant Ship
+Kyre - plays Forge
+Kyre - trashes Copper, Copper, Necropolis, Forge
+Kyre - gains Province
+Kyre - plays 1 Gold
+Kyre - buys Province
+Kyre - gains Province
+Kyre - draws Monument, Highway
+Kyre - shuffles deck
+Kyre - draws Province, Mining Village, Forge
+ 
+---------- radimir0609: turn 20 ----------
+radimir0609 - plays Vagrant
+radimir0609 - draws Necropolis
+radimir0609 - reveals: Copper
+radimir0609 - places Copper on top of deck
+radimir0609 - plays Necropolis
+radimir0609 - plays Oracle
+radimir0609 - reveals: Copper, Copper
+radimir0609 - discards: Copper, Copper
+Kyre - reveals: Oracle, Merchant Ship
+Kyre - discards: Oracle, Merchant Ship
+radimir0609 - draws Copper, Gold
+radimir0609 - plays 2 Gold, 2 Copper, 1 Silver
+radimir0609 - buys Province
+radimir0609 - gains Province
+radimir0609 - draws Mining Village, Oracle, Monument, Gold, Mining Village
+ 
+---------- Kyre: turn 20 ----------
+Kyre - duration Merchant Ship
+Kyre - plays Mining Village
+Kyre - draws Mining Village
+Kyre - plays Forge
+Kyre - trashes Mining Village, Monument
+Kyre - gains Province
+Kyre - plays Highway
+Kyre - draws Mining Village
+Kyre - plays Mining Village
+Kyre - draws Province
+Kyre - trashes Mining Village
+Kyre - buys Duchy
+Kyre - gains Duchy
+Kyre - draws Monument, Province, Copper, Oracle, Vagrant
+ 
+---------- radimir0609: turn 21 ----------
+radimir0609 - plays Mining Village
+radimir0609 - draws Monument
+radimir0609 - plays Monument
+radimir0609 - receives 1 victory point chips
+radimir0609 - plays Mining Village
+radimir0609 - shuffles deck
+radimir0609 - draws Gold
+radimir0609 - plays Monument
+radimir0609 - receives 1 victory point chips
+radimir0609 - plays Oracle
+radimir0609 - reveals: Highway, Silver
+radimir0609 - places Highway on top of deck
+radimir0609 - places Silver on top of deck
+Kyre - reveals: Gold
+Kyre - shuffles deck
+Kyre - reveals: Oracle
+Kyre - discards: Gold, Oracle
+radimir0609 - draws Silver, Highway
+radimir0609 - plays 2 Gold, 1 Silver
+radimir0609 - buys Province
+radimir0609 - gains Province
+radimir0609 - draws Forge, Mining Village, Necropolis, Silver, Copper
+ 
+---------- Kyre: turn 21 ----------
+Kyre - plays Vagrant
+Kyre - draws Merchant Ship
+Kyre - reveals: Duchy
+Kyre - places Duchy in hand
+Kyre - plays Monument
+Kyre - receives 1 victory point chips
+Kyre - plays 1 Copper
+Kyre - buys Estate
+Kyre - gains Estate
+Kyre - draws Highway, Forge, Merchant Ship, Province, Province
+ 
+---------- radimir0609: turn 22 ----------
+radimir0609 - plays Necropolis
+radimir0609 - plays Mining Village
+radimir0609 - draws Merchant Ship
+radimir0609 - plays Merchant Ship
+radimir0609 - plays 1 Silver, 1 Copper
+radimir0609 - buys Duchy
+radimir0609 - gains Duchy
+radimir0609 - draws Highway, Oracle, Copper, Province, Copper
+ 
+---------- Kyre: turn 22 ----------
+Kyre - plays Highway
+Kyre - draws Mining Village
+Kyre - plays Mining Village
+Kyre - draws Province
+Kyre - trashes Mining Village
+Kyre - plays Merchant Ship
+Kyre - plays Forge
+Kyre - trashes Province
+Kyre - gains Province
+Kyre - buys Duchy
+Kyre - gains Duchy
+Kyre - shuffles deck
+Kyre - draws Province, Highway, Monument, Copper, Oracle
+ 
+------------ Game Over ------------
+Kyre - cards: 2 Oracle, 2 Merchant Ship, 1 Vagrant, 1 Monument, 1 Highway, 1 Forge, 1 Copper, 1 Gold, 4 Province, 2 Duchy, 1 Estate
+Kyre - victory point chips: 11
+Kyre - total victory points: 42
+Kyre - turns: 22
+ 
+radimir0609 - cards: 3 Mining Village, 2 Highway, 2 Monument, 2 Oracle, 1 Merchant Ship, 1 Vagrant, 1 Necropolis, 1 Forge, 4 Copper, 3 Gold, 3 Silver, 3 Province, 1 Duchy, 1 Hovel
+radimir0609 - victory point chips: 8
+radimir0609 - total victory points: 29
+radimir0609 - turns: 22
+ 
+1st place: Kyre
+2nd place: radimir0609
+ 

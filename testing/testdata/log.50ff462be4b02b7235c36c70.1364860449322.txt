@@ -1,0 +1,481 @@
+------------ Game Setup ------------
+Supply cards: Chapel, JackOfAllTrades, Remake, Wandering Minstrel, Festival, Jester, Junk Dealer, Knights, Vault, Wharf, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Daniel Jonathan Roy - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Conqueror Bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Daniel Jonathan Roy - shuffles deck
+Conqueror Bot - shuffles deck
+Daniel Jonathan Roy - draws Estate, Estate, Copper, Copper, Estate
+Conqueror Bot - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Conqueror Bot: turn 1 ----------
+Conqueror Bot - plays 3 Copper
+Conqueror Bot - buys Silver
+Conqueror Bot - gains Silver
+Conqueror Bot - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Daniel Jonathan Roy: turn 1 ----------
+Daniel Jonathan Roy - plays 2 Copper
+Daniel Jonathan Roy - buys Chapel
+Daniel Jonathan Roy - gains Chapel
+Daniel Jonathan Roy - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Conqueror Bot: turn 2 ----------
+Conqueror Bot - plays 4 Copper
+Conqueror Bot - buys Remake
+Conqueror Bot - gains Remake
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Estate, Silver, Copper, Copper, Copper
+ 
+---------- Daniel Jonathan Roy: turn 2 ----------
+Daniel Jonathan Roy - plays 5 Copper
+Daniel Jonathan Roy - buys Jester
+Daniel Jonathan Roy - gains Jester
+Daniel Jonathan Roy - shuffles deck
+Daniel Jonathan Roy - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Conqueror Bot: turn 3 ----------
+Conqueror Bot - plays 3 Copper, 1 Silver
+Conqueror Bot - buys Jester
+Conqueror Bot - gains Jester
+Conqueror Bot - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Daniel Jonathan Roy: turn 3 ----------
+Daniel Jonathan Roy - plays 4 Copper
+Daniel Jonathan Roy - buys JackOfAllTrades
+Daniel Jonathan Roy - gains JackOfAllTrades
+Daniel Jonathan Roy - draws Chapel, Jester, Copper, Copper, Estate
+ 
+---------- Conqueror Bot: turn 4 ----------
+Conqueror Bot - plays 4 Copper
+Conqueror Bot - buys JackOfAllTrades
+Conqueror Bot - gains JackOfAllTrades
+Conqueror Bot - draws Remake, Estate
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Copper, Estate, Silver
+ 
+---------- Daniel Jonathan Roy: turn 4 ----------
+Daniel Jonathan Roy - plays Jester
+Conqueror Bot - reveals Jester
+Conqueror Bot - discards Jester
+Daniel Jonathan Roy - gains Jester
+Daniel Jonathan Roy - plays 2 Copper
+Daniel Jonathan Roy - buys Wandering Minstrel
+Daniel Jonathan Roy - gains Wandering Minstrel
+Daniel Jonathan Roy - draws Estate, Copper
+Daniel Jonathan Roy - shuffles deck
+Daniel Jonathan Roy - draws Estate, Jester, Copper
+ 
+---------- Conqueror Bot: turn 5 ----------
+Conqueror Bot - plays Remake
+Conqueror Bot - trashes Estate
+Conqueror Bot - gains Silver
+Conqueror Bot - trashes Estate
+Conqueror Bot - gains Silver
+Conqueror Bot - plays 1 Copper, 1 Silver
+Conqueror Bot - buys Silver
+Conqueror Bot - gains Silver
+Conqueror Bot - draws JackOfAllTrades, Copper, Copper, Copper, Estate
+ 
+---------- Daniel Jonathan Roy: turn 5 ----------
+Daniel Jonathan Roy - plays Jester
+Conqueror Bot - reveals Copper
+Conqueror Bot - discards Copper
+Conqueror Bot - gains Copper
+Daniel Jonathan Roy - plays 2 Copper
+Daniel Jonathan Roy - buys Wandering Minstrel
+Daniel Jonathan Roy - gains Wandering Minstrel
+Daniel Jonathan Roy - draws Jester, Copper, JackOfAllTrades, Copper, Estate
+ 
+---------- Conqueror Bot: turn 6 ----------
+Conqueror Bot - plays JackOfAllTrades
+Conqueror Bot - gains Silver
+Conqueror Bot - discards Copper
+Conqueror Bot - trashes Estate
+Conqueror Bot - plays 4 Copper
+Conqueror Bot - buys Wandering Minstrel
+Conqueror Bot - gains Wandering Minstrel
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Jester, Copper, Wandering Minstrel, Silver, Copper
+ 
+---------- Daniel Jonathan Roy: turn 6 ----------
+Daniel Jonathan Roy - plays JackOfAllTrades
+Daniel Jonathan Roy - gains Silver
+Daniel Jonathan Roy - discards Chapel
+Daniel Jonathan Roy - trashes Estate
+Daniel Jonathan Roy - plays 3 Copper
+Daniel Jonathan Roy - buys Silver
+Daniel Jonathan Roy - gains Silver
+Daniel Jonathan Roy - draws Copper, Copper, Wandering Minstrel
+Daniel Jonathan Roy - shuffles deck
+Daniel Jonathan Roy - draws JackOfAllTrades, Jester
+ 
+---------- Conqueror Bot: turn 7 ----------
+Conqueror Bot - plays Wandering Minstrel
+Conqueror Bot - draws Remake
+Conqueror Bot - reveals: Copper, JackOfAllTrades, Silver
+Conqueror Bot - places JackOfAllTrades on top of deck
+Conqueror Bot - discards: Copper, Silver
+Conqueror Bot - plays Jester
+Daniel Jonathan Roy - reveals Estate
+Daniel Jonathan Roy - discards Estate
+Daniel Jonathan Roy - gains Curse
+Conqueror Bot - plays Remake
+Conqueror Bot - trashes Silver
+Conqueror Bot - gains JackOfAllTrades
+Conqueror Bot - trashes Copper
+Conqueror Bot - plays 1 Copper
+Conqueror Bot - buys Silver
+Conqueror Bot - gains Silver
+Conqueror Bot - draws JackOfAllTrades, Copper, Silver, Copper, Silver
+ 
+---------- Daniel Jonathan Roy: turn 7 ----------
+Daniel Jonathan Roy - plays Wandering Minstrel
+Daniel Jonathan Roy - draws Wandering Minstrel
+Daniel Jonathan Roy - reveals: Copper, Copper, Silver
+Daniel Jonathan Roy - discards: Copper, Copper, Silver
+Daniel Jonathan Roy - plays Wandering Minstrel
+Daniel Jonathan Roy - draws Jester
+Daniel Jonathan Roy - reveals: Copper, Chapel, Estate
+Daniel Jonathan Roy - places Chapel on top of deck
+Daniel Jonathan Roy - discards: Copper, Estate
+Daniel Jonathan Roy - plays Jester
+Conqueror Bot - reveals Silver
+Conqueror Bot - discards Silver
+Daniel Jonathan Roy - gains Silver
+Daniel Jonathan Roy - plays Jester
+Conqueror Bot - reveals Copper
+Conqueror Bot - discards Copper
+Conqueror Bot - gains Copper
+Daniel Jonathan Roy - plays JackOfAllTrades
+Daniel Jonathan Roy - gains Silver
+Daniel Jonathan Roy - discards Chapel
+Daniel Jonathan Roy - plays 4 Copper, 1 Silver
+Daniel Jonathan Roy - buys Dame Molly
+Daniel Jonathan Roy - gains Dame Molly
+Daniel Jonathan Roy - shuffles deck
+Daniel Jonathan Roy - draws Silver, Estate, Copper, Copper, JackOfAllTrades
+ 
+---------- Conqueror Bot: turn 8 ----------
+Conqueror Bot - plays JackOfAllTrades
+Conqueror Bot - gains Silver
+Conqueror Bot - discards Copper
+Conqueror Bot - plays 3 Copper, 2 Silver
+Conqueror Bot - buys Gold
+Conqueror Bot - gains Gold
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Copper, Copper, JackOfAllTrades, Jester, Copper
+ 
+---------- Daniel Jonathan Roy: turn 8 ----------
+Daniel Jonathan Roy - plays JackOfAllTrades
+Daniel Jonathan Roy - gains Silver
+Daniel Jonathan Roy - places Jester on top of deck
+Daniel Jonathan Roy - trashes Estate
+Daniel Jonathan Roy - plays 2 Copper, 1 Silver
+Daniel Jonathan Roy - buys Wandering Minstrel
+Daniel Jonathan Roy - gains Wandering Minstrel
+Daniel Jonathan Roy - draws Copper, Silver, Copper, Silver, Estate
+ 
+---------- Conqueror Bot: turn 9 ----------
+Conqueror Bot - plays Jester
+Daniel Jonathan Roy - reveals Copper
+Daniel Jonathan Roy - discards Copper
+Daniel Jonathan Roy - gains Copper
+Conqueror Bot - plays 3 Copper
+Conqueror Bot - buys Festival
+Conqueror Bot - gains Festival
+Conqueror Bot - draws Copper, Copper, Silver, Silver, Silver
+ 
+---------- Daniel Jonathan Roy: turn 9 ----------
+Daniel Jonathan Roy - plays 2 Copper, 2 Silver
+Daniel Jonathan Roy - buys Gold
+Daniel Jonathan Roy - gains Gold
+Daniel Jonathan Roy - draws Wandering Minstrel, Copper, Wandering Minstrel, Dame Molly, Copper
+ 
+---------- Conqueror Bot: turn 10 ----------
+Conqueror Bot - plays 3 Silver, 2 Copper
+Conqueror Bot - buys Province
+Conqueror Bot - gains Province
+Conqueror Bot - draws Wandering Minstrel, Copper, Gold, Copper, Silver
+ 
+---------- Daniel Jonathan Roy: turn 10 ----------
+Daniel Jonathan Roy - plays Wandering Minstrel
+Daniel Jonathan Roy - draws Silver
+Daniel Jonathan Roy - reveals: Chapel, Curse, Jester
+Daniel Jonathan Roy - places Jester on top of deck
+Daniel Jonathan Roy - places Chapel on top of deck
+Daniel Jonathan Roy - discards Curse
+Daniel Jonathan Roy - plays Wandering Minstrel
+Daniel Jonathan Roy - draws Chapel
+Daniel Jonathan Roy - reveals: Jester
+Daniel Jonathan Roy - shuffles deck
+Daniel Jonathan Roy - reveals: Copper, Silver
+Daniel Jonathan Roy - places Jester on top of deck
+Daniel Jonathan Roy - discards: Copper, Silver
+Daniel Jonathan Roy - plays Dame Molly
+Conqueror Bot - reveals: Silver, Remake
+Conqueror Bot - trashes Silver
+Conqueror Bot - discards Remake
+Daniel Jonathan Roy - plays 2 Copper, 1 Silver
+Daniel Jonathan Roy - buys Remake
+Daniel Jonathan Roy - gains Remake
+Daniel Jonathan Roy - draws Jester, Silver, Wandering Minstrel, Jester, JackOfAllTrades
+ 
+---------- Conqueror Bot: turn 11 ----------
+Conqueror Bot - plays Wandering Minstrel
+Conqueror Bot - draws Copper
+Conqueror Bot - reveals: Silver, JackOfAllTrades
+Conqueror Bot - shuffles deck
+Conqueror Bot - reveals: JackOfAllTrades
+Conqueror Bot - places JackOfAllTrades on top of deck
+Conqueror Bot - places JackOfAllTrades on top of deck
+Conqueror Bot - discards Silver
+Conqueror Bot - plays 3 Copper, 1 Gold, 1 Silver
+Conqueror Bot - buys Province
+Conqueror Bot - gains Province
+Conqueror Bot - draws JackOfAllTrades, JackOfAllTrades, Copper, Jester, Remake
+ 
+---------- Daniel Jonathan Roy: turn 11 ----------
+Daniel Jonathan Roy - plays Wandering Minstrel
+Daniel Jonathan Roy - draws Curse
+Daniel Jonathan Roy - reveals: Copper, Copper, Copper
+Daniel Jonathan Roy - discards: Copper, Copper, Copper
+Daniel Jonathan Roy - plays Jester
+Conqueror Bot - reveals Province
+Conqueror Bot - discards Province
+Conqueror Bot - gains Curse
+Daniel Jonathan Roy - plays Jester
+Conqueror Bot - reveals Copper
+Conqueror Bot - discards Copper
+Conqueror Bot - gains Copper
+Daniel Jonathan Roy - plays 1 Silver
+Daniel Jonathan Roy - buys Gold
+Daniel Jonathan Roy - gains Gold
+Daniel Jonathan Roy - draws Gold, Silver, Silver, Copper, Copper
+ 
+---------- Conqueror Bot: turn 12 ----------
+Conqueror Bot - plays Jester
+Daniel Jonathan Roy - reveals Estate
+Daniel Jonathan Roy - discards Estate
+Daniel Jonathan Roy - gains Curse
+Conqueror Bot - plays 1 Copper
+Conqueror Bot - buys Silver
+Conqueror Bot - gains Silver
+Conqueror Bot - draws Festival, Copper, Copper, Copper, Silver
+ 
+---------- Daniel Jonathan Roy: turn 12 ----------
+Daniel Jonathan Roy - plays 2 Silver, 2 Copper, 1 Gold
+Daniel Jonathan Roy - buys Province
+Daniel Jonathan Roy - gains Province
+Daniel Jonathan Roy - shuffles deck
+Daniel Jonathan Roy - draws Silver, Copper, Copper, Jester, Copper
+ 
+---------- Conqueror Bot: turn 13 ----------
+Conqueror Bot - plays Festival
+Conqueror Bot - plays 3 Copper, 1 Silver
+Conqueror Bot - buys Duchy
+Conqueror Bot - gains Duchy
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - draws Silver, Silver
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Copper, Festival, JackOfAllTrades
+ 
+---------- Daniel Jonathan Roy: turn 13 ----------
+Daniel Jonathan Roy - plays Jester
+Conqueror Bot - reveals Copper
+Conqueror Bot - discards Copper
+Conqueror Bot - gains Copper
+Daniel Jonathan Roy - plays 3 Copper, 1 Silver
+Daniel Jonathan Roy - buys Gold
+Daniel Jonathan Roy - gains Gold
+Daniel Jonathan Roy - draws Dame Molly, Jester, Remake, Copper, Wandering Minstrel
+ 
+---------- Conqueror Bot: turn 14 ----------
+Conqueror Bot - plays Festival
+Conqueror Bot - plays JackOfAllTrades
+Conqueror Bot - gains Silver
+Conqueror Bot - discards Copper
+Conqueror Bot - plays 3 Silver, 2 Copper
+Conqueror Bot - buys Province
+Conqueror Bot - gains Province
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - draws JackOfAllTrades, Silver, Copper, Silver, Copper
+ 
+---------- Daniel Jonathan Roy: turn 14 ----------
+Daniel Jonathan Roy - plays Wandering Minstrel
+Daniel Jonathan Roy - draws Wandering Minstrel
+Daniel Jonathan Roy - reveals: Copper, Silver, Curse
+Daniel Jonathan Roy - discards: Copper, Silver, Curse
+Daniel Jonathan Roy - plays Wandering Minstrel
+Daniel Jonathan Roy - draws Chapel
+Daniel Jonathan Roy - reveals: Gold, Silver, Estate
+Daniel Jonathan Roy - discards: Gold, Silver, Estate
+Daniel Jonathan Roy - plays Dame Molly
+Conqueror Bot - reveals: Curse, Copper
+Daniel Jonathan Roy - plays Jester
+Conqueror Bot - reveals Duchy
+Conqueror Bot - discards Duchy
+Conqueror Bot - gains Curse
+Daniel Jonathan Roy - plays Remake
+Daniel Jonathan Roy - trashes Chapel
+Daniel Jonathan Roy - gains Silver
+Daniel Jonathan Roy - trashes Copper
+Daniel Jonathan Roy - buys Chapel
+Daniel Jonathan Roy - gains Chapel
+Daniel Jonathan Roy - draws Copper, Copper, Copper, Silver, Silver
+ 
+---------- Conqueror Bot: turn 15 ----------
+Conqueror Bot - plays JackOfAllTrades
+Conqueror Bot - gains Silver
+Conqueror Bot - discards Copper
+Conqueror Bot - plays 2 Silver, 2 Copper
+Conqueror Bot - buys Duchy
+Conqueror Bot - gains Duchy
+Conqueror Bot - draws Silver, Gold, Jester, Province, Estate
+ 
+---------- Daniel Jonathan Roy: turn 15 ----------
+Daniel Jonathan Roy - plays 3 Copper, 2 Silver
+Daniel Jonathan Roy - buys Gold
+Daniel Jonathan Roy - gains Gold
+Daniel Jonathan Roy - draws Curse, JackOfAllTrades, Wandering Minstrel, Gold, Province
+ 
+---------- Conqueror Bot: turn 16 ----------
+Conqueror Bot - plays Jester
+Daniel Jonathan Roy - shuffles deck
+Daniel Jonathan Roy - reveals Dame Molly
+Daniel Jonathan Roy - discards Dame Molly
+Conqueror Bot - plays 1 Silver, 1 Gold
+Conqueror Bot - buys Duchy
+Conqueror Bot - gains Duchy
+Conqueror Bot - draws Remake, Wandering Minstrel, Copper
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Copper, Silver
+ 
+---------- Daniel Jonathan Roy: turn 16 ----------
+Daniel Jonathan Roy - plays Wandering Minstrel
+Daniel Jonathan Roy - draws Gold
+Daniel Jonathan Roy - reveals: Copper, Jester, Wandering Minstrel
+Daniel Jonathan Roy - places Wandering Minstrel on top of deck
+Daniel Jonathan Roy - places Jester on top of deck
+Daniel Jonathan Roy - discards Copper
+Daniel Jonathan Roy - plays JackOfAllTrades
+Daniel Jonathan Roy - gains Silver
+Daniel Jonathan Roy - places Jester on top of deck
+Daniel Jonathan Roy - trashes Curse
+Daniel Jonathan Roy - plays Jester
+Conqueror Bot - reveals Copper
+Conqueror Bot - discards Copper
+Conqueror Bot - gains Copper
+Daniel Jonathan Roy - plays 2 Gold
+Daniel Jonathan Roy - buys Province
+Daniel Jonathan Roy - gains Province
+Daniel Jonathan Roy - draws Wandering Minstrel, Wandering Minstrel, Silver, Silver, Silver
+ 
+---------- Conqueror Bot: turn 17 ----------
+Conqueror Bot - plays Wandering Minstrel
+Conqueror Bot - draws Copper
+Conqueror Bot - reveals: Curse, Duchy, JackOfAllTrades
+Conqueror Bot - places JackOfAllTrades on top of deck
+Conqueror Bot - discards: Curse, Duchy
+Conqueror Bot - plays Remake
+Conqueror Bot - trashes Silver
+Conqueror Bot - gains Remake
+Conqueror Bot - trashes Copper
+Conqueror Bot - plays 2 Copper
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - draws JackOfAllTrades, Silver, JackOfAllTrades, Estate, Province
+ 
+---------- Daniel Jonathan Roy: turn 17 ----------
+Daniel Jonathan Roy - plays Wandering Minstrel
+Daniel Jonathan Roy - draws Silver
+Daniel Jonathan Roy - reveals: Copper, Copper, Copper
+Daniel Jonathan Roy - discards: Copper, Copper, Copper
+Daniel Jonathan Roy - plays Wandering Minstrel
+Daniel Jonathan Roy - draws Copper
+Daniel Jonathan Roy - reveals: Gold, Copper, Jester
+Daniel Jonathan Roy - places Jester on top of deck
+Daniel Jonathan Roy - discards: Gold, Copper
+Daniel Jonathan Roy - plays 4 Silver, 1 Copper
+Daniel Jonathan Roy - buys Province
+Daniel Jonathan Roy - gains Province
+Daniel Jonathan Roy - draws Jester, Copper, Estate, Remake, Chapel
+ 
+---------- Conqueror Bot: turn 18 ----------
+Conqueror Bot - plays JackOfAllTrades
+Conqueror Bot - gains Silver
+Conqueror Bot - discards Copper
+Conqueror Bot - plays 2 Silver
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - draws Silver, Silver, Copper, Gold, Duchy
+ 
+---------- Daniel Jonathan Roy: turn 18 ----------
+Daniel Jonathan Roy - plays Jester
+Conqueror Bot - reveals Copper
+Conqueror Bot - discards Copper
+Conqueror Bot - gains Copper
+Daniel Jonathan Roy - plays Copper
+Daniel Jonathan Roy - buys Estate
+Daniel Jonathan Roy - gains Estate
+Daniel Jonathan Roy - draws Curse, Silver, Gold, Silver
+Daniel Jonathan Roy - shuffles deck
+Daniel Jonathan Roy - draws Dame Molly
+ 
+---------- Conqueror Bot: turn 19 ----------
+Conqueror Bot - plays 2 Silver, 1 Copper, 1 Gold
+Conqueror Bot - buys Province
+Conqueror Bot - gains Province
+Conqueror Bot - draws Duchy, Copper, Silver, Silver, Estate
+ 
+---------- Daniel Jonathan Roy: turn 19 ----------
+Daniel Jonathan Roy - plays Dame Molly
+Conqueror Bot - reveals: Copper, Province
+Daniel Jonathan Roy - plays 2 Silver, 1 Gold
+Daniel Jonathan Roy - buys Duchy
+Daniel Jonathan Roy - gains Duchy
+Daniel Jonathan Roy - draws Copper, JackOfAllTrades, Wandering Minstrel, Gold, Wandering Minstrel
+ 
+---------- Conqueror Bot: turn 20 ----------
+Conqueror Bot - plays 2 Silver, 1 Copper
+Conqueror Bot - buys Duchy
+Conqueror Bot - gains Duchy
+Conqueror Bot - draws Province, Festival, Silver, Curse, Jester
+ 
+---------- Daniel Jonathan Roy: turn 20 ----------
+Daniel Jonathan Roy - plays Wandering Minstrel
+Daniel Jonathan Roy - draws Silver
+Daniel Jonathan Roy - reveals: Province, Copper, Silver
+Daniel Jonathan Roy - discards: Province, Copper, Silver
+Daniel Jonathan Roy - plays Wandering Minstrel
+Daniel Jonathan Roy - draws Jester
+Daniel Jonathan Roy - reveals: Wandering Minstrel, Silver, Chapel
+Daniel Jonathan Roy - places Wandering Minstrel on top of deck
+Daniel Jonathan Roy - places Chapel on top of deck
+Daniel Jonathan Roy - discards Silver
+Daniel Jonathan Roy - plays Jester
+Conqueror Bot - reveals Copper
+Conqueror Bot - discards Copper
+Conqueror Bot - gains Copper
+Daniel Jonathan Roy - plays JackOfAllTrades
+Daniel Jonathan Roy - gains Silver
+Daniel Jonathan Roy - discards Chapel
+Daniel Jonathan Roy - trashes Wandering Minstrel
+Daniel Jonathan Roy - plays 2 Copper, 1 Gold, 1 Silver
+Daniel Jonathan Roy - buys Province
+Daniel Jonathan Roy - gains Province
+Daniel Jonathan Roy - draws Estate, Copper, Estate, Remake, Gold
+ 
+------------ Game Over ------------
+Conqueror Bot - cards: 2 JackOfAllTrades, 2 Remake, 12 Copper, 1 Jester, 1 Festival, 1 Wandering Minstrel, 8 Silver, 1 Gold, 4 Estate, 4 Province, 4 Duchy, 2 Curse
+Conqueror Bot - total victory points: 38
+Conqueror Bot - turns: 20
+ 
+Daniel Jonathan Roy - cards: 2 Jester, 2 Wandering Minstrel, 1 JackOfAllTrades, 1 Remake, 1 Dame Molly, 1 Chapel, 8 Silver, 7 Copper, 4 Gold, 4 Province, 2 Estate, 1 Duchy, 1 Curse
+Daniel Jonathan Roy - total victory points: 28
+Daniel Jonathan Roy - turns: 20
+ 
+1st place: Conqueror Bot
+2nd place: Daniel Jonathan Roy
+ 

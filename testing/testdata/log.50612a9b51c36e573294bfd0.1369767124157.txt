@@ -1,0 +1,555 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Hermit, Urchin, Village, Feast, Horse Traders, Mining Village, Procession, Treasure Map, Band of Misfits, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: unrated
+ftl - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Serf Bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ftl - shuffles deck
+Serf Bot - shuffles deck
+ftl - draws Estate, Copper, Copper, Copper, Copper
+Serf Bot - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- ftl: turn 1 ----------
+ftl - plays 4 Copper
+ftl - buys Horse Traders
+ftl - gains Horse Traders
+ftl - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Serf Bot: turn 1 ----------
+Serf Bot - plays 4 Copper
+Serf Bot - buys Mining Village
+Serf Bot - gains Mining Village
+Serf Bot - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- ftl: turn 2 ----------
+ftl - plays 3 Copper
+ftl - buys Village
+ftl - gains Village
+ftl - shuffles deck
+ftl - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Serf Bot: turn 2 ----------
+Serf Bot - plays 3 Copper
+Serf Bot - buys Urchin
+Serf Bot - gains Urchin
+Serf Bot - shuffles deck
+Serf Bot - draws Copper, Estate, Estate, Copper, Mining Village
+ 
+---------- ftl: turn 3 ----------
+ftl - plays 4 Copper
+ftl - buys Horse Traders
+ftl - gains Horse Traders
+ftl - draws Horse Traders, Estate, Copper, Village, Copper
+ 
+---------- Serf Bot: turn 3 ----------
+Serf Bot - plays Mining Village
+Serf Bot - draws Copper
+Serf Bot - plays 3 Copper
+Serf Bot - buys Village
+Serf Bot - gains Village
+Serf Bot - draws Copper, Copper, Copper, Urchin, Estate
+ 
+---------- ftl: turn 4 ----------
+ftl - plays Village
+ftl - draws Estate
+ftl - plays Horse Traders
+ftl - discards Estate
+ftl - discards Estate
+ftl - plays 2 Copper
+ftl - buys Band of Misfits
+ftl - gains Band of Misfits
+ftl - draws Copper
+ftl - shuffles deck
+ftl - draws Copper, Village, Copper, Copper
+ 
+---------- Serf Bot: turn 4 ----------
+Serf Bot - plays Urchin
+Serf Bot - draws Copper
+ftl - discards Copper
+Serf Bot - plays 4 Copper
+Serf Bot - buys Procession
+Serf Bot - gains Procession
+Serf Bot - shuffles deck
+Serf Bot - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- ftl: turn 5 ----------
+ftl - plays Village
+ftl - draws Estate
+ftl - plays 3 Copper
+ftl - buys Village
+ftl - gains Village
+ftl - draws Horse Traders, Copper, Horse Traders, Band of Misfits, Copper
+ 
+---------- Serf Bot: turn 5 ----------
+Serf Bot - plays 3 Copper
+Serf Bot - buys Hermit
+Serf Bot - gains Hermit
+Serf Bot - draws Estate, Procession, Village, Copper, Copper
+ 
+---------- ftl: turn 6 ----------
+ftl - plays Band of Misfits
+ftl - chooses Mining Village
+ftl - plays Mining Village
+ftl - draws Estate
+ftl - trashes Mining Village
+ftl - plays Horse Traders
+ftl - discards Estate
+ftl - discards Copper
+ftl - plays Horse Traders
+ftl - discards Copper
+ftl - buys Band of Misfits
+ftl - gains Band of Misfits
+ftl - buys Village
+ftl - gains Village
+ftl - draws Estate, Copper
+ftl - shuffles deck
+ftl - draws Estate, Horse Traders, Village
+ 
+---------- Serf Bot: turn 6 ----------
+Serf Bot - plays Procession
+Serf Bot - plays Village
+Serf Bot - draws Copper
+Serf Bot - plays Village
+Serf Bot - draws Mining Village
+Serf Bot - trashes Village
+Serf Bot - gains Treasure Map
+Serf Bot - plays Mining Village
+Serf Bot - draws Copper
+Serf Bot - plays 4 Copper
+Serf Bot - buys Feast
+Serf Bot - gains Feast
+Serf Bot - draws Urchin
+Serf Bot - shuffles deck
+Serf Bot - draws Estate, Copper, Estate, Copper
+ 
+---------- ftl: turn 7 ----------
+ftl - plays Village
+ftl - draws Copper
+ftl - plays Horse Traders
+ftl - discards Estate
+ftl - discards Estate
+ftl - plays 2 Copper
+ftl - buys Band of Misfits
+ftl - gains Band of Misfits
+ftl - draws Copper, Copper, Copper, Copper, Horse Traders
+ 
+---------- Serf Bot: turn 7 ----------
+Serf Bot - plays Urchin
+ftl - reveals reaction Horse Traders
+Serf Bot - draws Copper
+Serf Bot - plays 3 Copper
+Serf Bot - buys Urchin
+Serf Bot - gains Urchin
+Serf Bot - draws Copper, Hermit, Copper, Mining Village, Copper
+ 
+---------- ftl: turn 8 ----------
+ftl - duration Horse Traders
+ftl - draws Copper
+ftl - plays Horse Traders
+ftl - discards Copper
+ftl - discards Copper
+ftl - plays 3 Copper
+ftl - buys Band of Misfits
+ftl - gains Band of Misfits
+ftl - draws Estate, Band of Misfits, Village, Village
+ftl - shuffles deck
+ftl - draws Copper
+ 
+---------- Serf Bot: turn 8 ----------
+Serf Bot - plays Mining Village
+Serf Bot - draws Procession
+Serf Bot - plays Procession
+Serf Bot - plays Hermit
+Serf Bot - trashes Estate
+Serf Bot - gains Silver
+Serf Bot - plays Hermit
+Serf Bot - trashes Estate
+Serf Bot - gains Urchin
+Serf Bot - trashes Hermit
+Serf Bot - gains Mining Village
+Serf Bot - plays 3 Copper
+Serf Bot - buys Hermit
+Serf Bot - gains Hermit
+Serf Bot - draws Estate, Copper, Treasure Map, Feast
+Serf Bot - shuffles deck
+Serf Bot - draws Mining Village
+ 
+---------- ftl: turn 9 ----------
+ftl - plays Village
+ftl - draws Copper
+ftl - plays Village
+ftl - draws Copper
+ftl - plays Band of Misfits
+ftl - chooses Feast
+ftl - plays Feast
+ftl - trashes Feast
+ftl - gains Band of Misfits
+ftl - plays 3 Copper
+ftl - buys Village
+ftl - gains Village
+ftl - draws Copper, Horse Traders, Band of Misfits, Copper, Estate
+ 
+---------- Serf Bot: turn 9 ----------
+Serf Bot - plays Mining Village
+Serf Bot - draws Silver
+Serf Bot - plays Feast
+Serf Bot - trashes Feast
+Serf Bot - gains Band of Misfits
+Serf Bot - plays 1 Copper, 1 Silver
+Serf Bot - buys Urchin
+Serf Bot - gains Urchin
+Serf Bot - draws Copper, Copper, Procession, Copper, Urchin
+ 
+---------- ftl: turn 10 ----------
+ftl - plays Band of Misfits
+ftl - chooses Embargo
+ftl - plays Embargo
+ftl - embargoes Colony
+ftl - trashes Embargo
+ftl - plays 2 Copper
+ftl - buys Village
+ftl - gains Village
+ftl - draws Horse Traders, Village, Estate, Band of Misfits, Copper
+ 
+---------- Serf Bot: turn 10 ----------
+Serf Bot - plays Procession
+Serf Bot - plays Urchin
+ftl - reveals reaction Horse Traders
+Serf Bot - draws Copper
+Serf Bot - plays Urchin
+Serf Bot - draws Copper
+Serf Bot - trashes Urchin
+Serf Bot - gains Feast
+Serf Bot - plays 5 Copper
+Serf Bot - buys Band of Misfits
+Serf Bot - gains Band of Misfits
+Serf Bot - draws Copper, Urchin, Hermit, Urchin, Mining Village
+ 
+---------- ftl: turn 11 ----------
+ftl - duration Horse Traders
+ftl - draws Copper
+ftl - plays Village
+ftl - shuffles deck
+ftl - draws Village
+ftl - plays Village
+ftl - draws Horse Traders
+ftl - plays Band of Misfits
+ftl - chooses Treasure Map
+ftl - plays Treasure Map
+ftl - trashes Treasure Map
+ftl - plays Horse Traders
+ftl - discards Estate
+ftl - discards Copper
+ftl - plays Horse Traders
+ftl - discards Copper
+ftl - buys Band of Misfits
+ftl - gains Band of Misfits
+ftl - draws Copper, Village, Copper, Estate, Copper
+ 
+---------- Serf Bot: turn 11 ----------
+Serf Bot - plays Mining Village
+Serf Bot - shuffles deck
+Serf Bot - draws Silver
+Serf Bot - plays Urchin
+Serf Bot - draws Copper
+ftl - discards Estate
+Serf Bot - plays Urchin
+Serf Bot - trashes Urchin
+Serf Bot - gains Mercenary
+Serf Bot - draws Copper
+Serf Bot - plays Hermit
+Serf Bot - gains Silver
+Serf Bot - plays 3 Copper, 1 Silver
+Serf Bot - buys Horse Traders
+Serf Bot - gains Horse Traders
+Serf Bot - draws Estate, Mining Village, Procession, Copper, Treasure Map
+ 
+---------- ftl: turn 12 ----------
+ftl - plays Village
+ftl - draws Band of Misfits
+ftl - plays Band of Misfits
+ftl - chooses Hermit
+ftl - plays Hermit
+ftl - trashes Estate
+ftl - gains Village
+ftl - draws Copper, Village, Copper, Estate, Village
+ 
+---------- Serf Bot: turn 12 ----------
+Serf Bot - plays Mining Village
+Serf Bot - draws Feast
+Serf Bot - plays Procession
+Serf Bot - plays Feast
+Serf Bot - trashes Feast
+Serf Bot - gains Band of Misfits
+Serf Bot - plays Feast
+Serf Bot - trashes Feast
+Serf Bot - gains Band of Misfits
+Serf Bot - plays Treasure Map
+Serf Bot - trashes Treasure Map
+Serf Bot - plays 1 Copper
+Serf Bot - draws Band of Misfits, Copper, Copper, Band of Misfits, Copper
+ 
+---------- ftl: turn 13 ----------
+ftl - plays Village
+ftl - shuffles deck
+ftl - draws Copper
+ftl - plays Village
+ftl - draws Village
+ftl - plays Village
+ftl - draws Village
+ftl - plays Village
+ftl - draws Village
+ftl - plays Village
+ftl - draws Horse Traders
+ftl - plays Horse Traders
+ftl - discards Estate
+ftl - discards Copper
+ftl - plays 2 Copper
+ftl - buys Procession
+ftl - gains Procession
+ftl - draws Band of Misfits, Village, Estate, Copper, Band of Misfits
+ 
+---------- Serf Bot: turn 13 ----------
+Serf Bot - plays Band of Misfits
+Serf Bot - chooses Feast
+Serf Bot - plays Feast
+Serf Bot - trashes Feast
+Serf Bot - gains Procession
+Serf Bot - plays 3 Copper
+Serf Bot - buys Hermit
+Serf Bot - gains Hermit
+Serf Bot - draws Urchin
+Serf Bot - shuffles deck
+Serf Bot - draws Hermit, Mercenary, Procession, Mining Village
+ 
+---------- ftl: turn 14 ----------
+ftl - plays Village
+ftl - draws Horse Traders
+ftl - plays Band of Misfits
+ftl - chooses Urchin
+ftl - plays Urchin
+ftl - draws Copper
+Serf Bot - discards Mercenary
+ftl - plays Band of Misfits
+ftl - chooses Urchin
+ftl - plays Urchin
+ftl - trashes Urchin
+ftl - gains Mercenary
+ftl - draws Copper
+ftl - plays Horse Traders
+ftl - discards Estate
+ftl - discards Copper
+ftl - plays 2 Copper
+ftl - buys Procession
+ftl - gains Procession
+ftl - draws Copper
+ftl - shuffles deck
+ftl - draws Procession, Village, Copper, Village
+ 
+---------- Serf Bot: turn 14 ----------
+Serf Bot - plays Mining Village
+Serf Bot - draws Copper
+Serf Bot - plays Urchin
+Serf Bot - draws Silver
+ftl - discards Copper
+Serf Bot - plays Procession
+Serf Bot - plays Hermit
+Serf Bot - gains Village
+Serf Bot - plays Hermit
+Serf Bot - gains Village
+Serf Bot - trashes Hermit
+Serf Bot - gains Mining Village
+Serf Bot - plays 1 Copper, 1 Silver
+Serf Bot - buys Urchin
+Serf Bot - gains Urchin
+Serf Bot - draws Horse Traders, Band of Misfits, Urchin, Silver, Copper
+ 
+---------- ftl: turn 15 ----------
+ftl - plays Village
+ftl - draws Mercenary
+ftl - plays Procession
+ftl - plays Village
+ftl - draws Copper
+ftl - plays Village
+ftl - draws Horse Traders
+ftl - trashes Village
+ftl - gains Procession
+ftl - plays Mercenary
+Serf Bot - reveals reaction Horse Traders
+ftl - trashes Copper, Copper
+ftl - draws Estate, Village
+Serf Bot - discards Copper
+ftl - plays Village
+ftl - draws Procession
+ftl - plays Procession
+ftl - plays Horse Traders
+ftl - discards Estate
+ftl - plays Horse Traders
+ftl - trashes Horse Traders
+ftl - buys Procession
+ftl - gains Procession
+ftl - buys Procession
+ftl - gains Procession
+ftl - draws Village, Band of Misfits, Copper, Copper, Copper
+ 
+---------- Serf Bot: turn 15 ----------
+Serf Bot - duration Horse Traders
+Serf Bot - draws Procession
+Serf Bot - plays Procession
+Serf Bot - plays Urchin
+Serf Bot - draws Band of Misfits
+ftl - discards Copper
+Serf Bot - plays Urchin
+Serf Bot - draws Copper
+Serf Bot - trashes Urchin
+Serf Bot - gains Treasure Map
+Serf Bot - plays Band of Misfits
+Serf Bot - chooses Feast
+Serf Bot - plays Feast
+Serf Bot - trashes Feast
+Serf Bot - gains Duchy
+Serf Bot - plays Band of Misfits
+Serf Bot - chooses Feast
+Serf Bot - plays Feast
+Serf Bot - trashes Feast
+Serf Bot - gains Duchy
+Serf Bot - plays 1 Silver, 1 Copper
+Serf Bot - buys Hermit
+Serf Bot - gains Hermit
+Serf Bot - draws Estate, Mining Village, Hermit, Copper, Copper
+ 
+---------- ftl: turn 16 ----------
+ftl - plays Village
+ftl - draws Estate
+ftl - plays Band of Misfits
+ftl - chooses Village
+ftl - plays Village
+ftl - draws Village
+ftl - plays Village
+ftl - draws Village
+ftl - plays Village
+ftl - draws Horse Traders
+ftl - plays Horse Traders
+ftl - discards Estate
+ftl - discards Copper
+ftl - plays 1 Copper
+ftl - buys Procession
+ftl - gains Procession
+ftl - draws Copper
+ftl - shuffles deck
+ftl - draws Village, Mercenary, Procession, Procession
+ 
+---------- Serf Bot: turn 16 ----------
+Serf Bot - plays Mining Village
+Serf Bot - draws Copper
+Serf Bot - trashes Mining Village
+Serf Bot - plays Hermit
+Serf Bot - gains Village
+Serf Bot - plays 3 Copper
+Serf Bot - buys Feast
+Serf Bot - gains Feast
+Serf Bot - draws Band of Misfits, Copper
+Serf Bot - shuffles deck
+Serf Bot - draws Mercenary, Hermit, Duchy
+ 
+---------- ftl: turn 17 ----------
+ftl - plays Procession
+ftl - plays Procession
+ftl - plays Village
+ftl - draws Estate
+ftl - plays Village
+ftl - draws Procession
+ftl - trashes Village
+ftl - gains Procession
+ftl - plays Procession
+ftl - plays Procession
+ftl - plays Mercenary
+ftl - trashes Estate, Copper
+ftl - draws Estate, Village
+Serf Bot - discards Duchy
+Serf Bot - discards Mercenary
+ftl - plays Mercenary
+ftl - trashes Estate, Village
+ftl - draws Copper, Copper
+ftl - trashes Mercenary
+ftl - plays Procession
+ftl - trashes Procession
+ftl - trashes Procession
+ftl - plays 2 Copper
+ftl - buys Duchy
+ftl - gains Duchy
+ftl - draws Copper, Horse Traders, Village, Copper, Village
+ 
+---------- Serf Bot: turn 17 ----------
+Serf Bot - plays Band of Misfits
+Serf Bot - chooses Procession
+Serf Bot - plays Procession
+Serf Bot - plays Hermit
+Serf Bot - gains Hermit
+Serf Bot - plays Hermit
+Serf Bot - gains Urchin
+Serf Bot - trashes Hermit
+Serf Bot - gains Mining Village
+Serf Bot - plays 1 Copper
+Serf Bot - buys Copper
+Serf Bot - gains Copper
+Serf Bot - draws Village, Urchin, Estate, Mining Village, Copper
+ 
+---------- ftl: turn 18 ----------
+ftl - plays Village
+ftl - draws Village
+ftl - plays Village
+ftl - draws Procession
+ftl - plays Village
+ftl - draws Procession
+ftl - plays Procession
+ftl - plays Procession
+ftl - plays Horse Traders
+ftl - discards Copper
+ftl - discards Copper
+ftl - plays Horse Traders
+ftl - trashes Horse Traders
+ftl - plays Procession
+ftl - trashes Procession
+ftl - buys Duchy
+ftl - gains Duchy
+ftl - draws Procession, Band of Misfits
+ftl - shuffles deck
+ftl - draws Village, Copper, Copper
+ 
+---------- Serf Bot: turn 18 ----------
+Serf Bot - plays Mining Village
+Serf Bot - draws Horse Traders
+Serf Bot - trashes Mining Village
+Serf Bot - plays Village
+Serf Bot - draws Hermit
+Serf Bot - plays Urchin
+Serf Bot - draws Procession
+ftl - discards Copper
+Serf Bot - plays Procession
+Serf Bot - plays Hermit
+Serf Bot - gains Silver
+Serf Bot - plays Hermit
+Serf Bot - gains Silver
+Serf Bot - trashes Hermit
+Serf Bot - gains Procession
+Serf Bot - plays Horse Traders
+Serf Bot - discards Estate
+Serf Bot - discards Copper
+Serf Bot - buys Silver
+Serf Bot - gains Silver
+Serf Bot - buys Embargo
+Serf Bot - gains Embargo
+Serf Bot - draws Copper, Silver, Village, Urchin, Mining Village
+ 
+------------ Game Over ------------
+Serf Bot - cards: 3 Village, 3 Urchin, 3 Procession, 2 Mining Village, 1 Hermit, 1 Feast, 1 Mercenary, 1 Horse Traders, 1 Band of Misfits, 1 Treasure Map, 1 Embargo, 8 Copper, 5 Silver, 2 Duchy, 1 Estate
+Serf Bot - total victory points: 7
+Serf Bot - turns: 18
+ 
+ftl - cards: 4 Procession, 3 Village, 1 Band of Misfits, 4 Copper, 2 Duchy
+ftl - total victory points: 6
+ftl - turns: 18
+ 
+1st place: Serf Bot
+2nd place: ftl
+ 

@@ -1,0 +1,795 @@
+------------ Game Setup ------------
+Supply cards: Hamlet, Scrying Pool, Smugglers, Watchtower, Woodcutter, Philosopher's Stone, Mining Village, Bazaar, Witch, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Nick Jalbert - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Conqueror Bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Villager Bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Nick Jalbert - shuffles deck
+Conqueror Bot - shuffles deck
+Villager Bot - shuffles deck
+Nick Jalbert - draws Estate, Estate, Copper, Estate, Copper
+Conqueror Bot - draws Estate, Copper, Estate, Copper, Copper
+Villager Bot - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Nick Jalbert: turn 1 ----------
+Nick Jalbert - plays 2 Copper
+Nick Jalbert - buys Hamlet
+Nick Jalbert - gains Hamlet
+Nick Jalbert - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Conqueror Bot: turn 1 ----------
+Conqueror Bot - plays 3 Copper
+Conqueror Bot - buys Silver
+Conqueror Bot - gains Silver
+Conqueror Bot - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Villager Bot: turn 1 ----------
+Villager Bot - plays 4 Copper
+Villager Bot - buys Potion
+Villager Bot - gains Potion
+Villager Bot - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Nick Jalbert: turn 2 ----------
+Nick Jalbert - plays 5 Copper
+Nick Jalbert - buys Witch
+Nick Jalbert - gains Witch
+Nick Jalbert - shuffles deck
+Nick Jalbert - draws Copper, Copper, Copper, Estate, Witch
+ 
+---------- Conqueror Bot: turn 2 ----------
+Conqueror Bot - plays 4 Copper
+Conqueror Bot - buys Potion
+Conqueror Bot - gains Potion
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Copper, Copper, Silver, Potion, Estate
+ 
+---------- Villager Bot: turn 2 ----------
+Villager Bot - plays 3 Copper
+Villager Bot - buys Silver
+Villager Bot - gains Silver
+Villager Bot - shuffles deck
+Villager Bot - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Nick Jalbert: turn 3 ----------
+Nick Jalbert - plays Witch
+Nick Jalbert - draws Hamlet, Copper
+Conqueror Bot - gains Curse
+Villager Bot - gains Curse
+Nick Jalbert - plays 4 Copper
+Nick Jalbert - buys Mining Village
+Nick Jalbert - gains Mining Village
+Nick Jalbert - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Conqueror Bot: turn 3 ----------
+Conqueror Bot - plays Potion
+Conqueror Bot - plays 2 Copper, 1 Silver
+Conqueror Bot - buys Scrying Pool
+Conqueror Bot - gains Scrying Pool
+Conqueror Bot - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Villager Bot: turn 3 ----------
+Villager Bot - plays 5 Copper
+Villager Bot - buys Witch
+Villager Bot - gains Witch
+Villager Bot - draws Estate, Estate, Copper, Potion, Estate
+ 
+---------- Nick Jalbert: turn 4 ----------
+Nick Jalbert - plays 3 Copper
+Nick Jalbert - buys Silver
+Nick Jalbert - gains Silver
+Nick Jalbert - shuffles deck
+Nick Jalbert - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Conqueror Bot: turn 4 ----------
+Conqueror Bot - plays 3 Copper
+Conqueror Bot - buys Silver
+Conqueror Bot - gains Silver
+Conqueror Bot - draws Copper, Copper
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Silver, Potion, Copper
+ 
+---------- Villager Bot: turn 4 ----------
+Villager Bot - plays Potion
+Villager Bot - plays 1 Copper
+Villager Bot - draws Copper, Silver
+Villager Bot - shuffles deck
+Villager Bot - draws Copper, Copper, Estate
+ 
+---------- Nick Jalbert: turn 5 ----------
+Nick Jalbert - plays 3 Copper
+Nick Jalbert - buys Silver
+Nick Jalbert - gains Silver
+Nick Jalbert - draws Hamlet, Copper, Estate, Copper, Copper
+ 
+---------- Conqueror Bot: turn 5 ----------
+Conqueror Bot - plays Potion
+Conqueror Bot - plays 3 Copper, 1 Silver
+Conqueror Bot - buys Witch
+Conqueror Bot - gains Witch
+Conqueror Bot - draws Estate, Silver, Estate, Estate, Copper
+ 
+---------- Villager Bot: turn 5 ----------
+Villager Bot - plays 3 Copper, 1 Silver
+Villager Bot - buys Witch
+Villager Bot - gains Witch
+Villager Bot - draws Potion, Witch, Copper, Copper, Curse
+ 
+---------- Nick Jalbert: turn 6 ----------
+Nick Jalbert - plays Hamlet
+Nick Jalbert - draws Copper
+Nick Jalbert - plays 4 Copper
+Nick Jalbert - buys Mining Village
+Nick Jalbert - gains Mining Village
+Nick Jalbert - draws Mining Village, Witch, Silver
+Nick Jalbert - shuffles deck
+Nick Jalbert - draws Copper, Mining Village
+ 
+---------- Conqueror Bot: turn 6 ----------
+Conqueror Bot - plays 1 Silver, 1 Copper
+Conqueror Bot - buys Watchtower
+Conqueror Bot - gains Watchtower
+Conqueror Bot - draws Copper, Copper, Scrying Pool, Curse, Copper
+ 
+---------- Villager Bot: turn 6 ----------
+Villager Bot - plays Witch
+Villager Bot - draws Copper, Copper
+Nick Jalbert - gains Curse
+Conqueror Bot - gains Curse
+Villager Bot - plays Potion
+Villager Bot - plays 4 Copper
+Villager Bot - buys Mining Village
+Villager Bot - gains Mining Village
+Villager Bot - draws Estate, Estate
+Villager Bot - shuffles deck
+Villager Bot - draws Witch, Copper, Potion
+ 
+---------- Nick Jalbert: turn 7 ----------
+Nick Jalbert - plays Mining Village
+Nick Jalbert - draws Copper
+Nick Jalbert - plays Mining Village
+Nick Jalbert - draws Estate
+Nick Jalbert - plays Witch
+Nick Jalbert - draws Estate, Copper
+Conqueror Bot - gains Curse
+Villager Bot - gains Curse
+Nick Jalbert - plays 3 Copper, 1 Silver
+Nick Jalbert - buys Witch
+Nick Jalbert - gains Witch
+Nick Jalbert - draws Copper, Copper, Copper, Estate, Hamlet
+ 
+---------- Conqueror Bot: turn 7 ----------
+Conqueror Bot - plays Scrying Pool
+Conqueror Bot - shuffles deck
+Conqueror Bot - discards Estate
+Villager Bot - discards Mining Village
+Nick Jalbert - places Copper on top of deck
+Conqueror Bot - reveals Curse
+Conqueror Bot - plays 3 Copper
+Conqueror Bot - buys Watchtower
+Conqueror Bot - gains Watchtower
+Conqueror Bot - draws Silver, Witch, Copper, Silver, Curse
+ 
+---------- Villager Bot: turn 7 ----------
+Villager Bot - plays Witch
+Villager Bot - draws Copper, Witch
+Nick Jalbert - gains Curse
+Conqueror Bot - gains Curse
+Villager Bot - plays Potion
+Villager Bot - plays 2 Copper
+Villager Bot - buys Scrying Pool
+Villager Bot - gains Scrying Pool
+Villager Bot - draws Curse, Copper, Copper, Copper, Silver
+ 
+---------- Nick Jalbert: turn 8 ----------
+Nick Jalbert - plays Hamlet
+Nick Jalbert - draws Copper
+Nick Jalbert - plays 4 Copper
+Nick Jalbert - buys Mining Village
+Nick Jalbert - gains Mining Village
+Nick Jalbert - draws Silver
+Nick Jalbert - shuffles deck
+Nick Jalbert - draws Mining Village, Mining Village, Copper, Copper
+ 
+---------- Conqueror Bot: turn 8 ----------
+Conqueror Bot - plays Witch
+Conqueror Bot - draws Estate, Copper
+Villager Bot - gains Curse
+Nick Jalbert - gains Curse
+Conqueror Bot - plays 2 Silver, 2 Copper
+Conqueror Bot - buys Gold
+Conqueror Bot - gains Gold
+Conqueror Bot - draws Watchtower, Potion, Copper, Copper, Estate
+ 
+---------- Villager Bot: turn 8 ----------
+Villager Bot - plays 3 Copper, 1 Silver
+Villager Bot - buys Witch
+Villager Bot - gains Witch
+Villager Bot - draws Copper, Estate, Copper
+Villager Bot - shuffles deck
+Villager Bot - draws Estate, Copper
+ 
+---------- Nick Jalbert: turn 9 ----------
+Nick Jalbert - plays Mining Village
+Nick Jalbert - draws Mining Village
+Nick Jalbert - plays Mining Village
+Nick Jalbert - draws Copper
+Nick Jalbert - plays Mining Village
+Nick Jalbert - draws Silver
+Nick Jalbert - plays 3 Copper, 2 Silver
+Nick Jalbert - buys Forge
+Nick Jalbert - gains Forge
+Nick Jalbert - draws Hamlet, Estate, Copper, Copper, Estate
+ 
+---------- Conqueror Bot: turn 9 ----------
+Conqueror Bot - plays Watchtower
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Curse, Gold
+Conqueror Bot - plays Potion
+Conqueror Bot - plays 2 Copper, 1 Gold
+Conqueror Bot - buys Bazaar
+Conqueror Bot - gains Bazaar
+Conqueror Bot - draws Copper, Silver, Copper, Curse, Curse
+ 
+---------- Villager Bot: turn 9 ----------
+Villager Bot - plays 3 Copper
+Villager Bot - buys Silver
+Villager Bot - gains Silver
+Villager Bot - draws Curse, Mining Village, Witch, Curse, Copper
+ 
+---------- Nick Jalbert: turn 10 ----------
+Nick Jalbert - plays Hamlet
+Nick Jalbert - draws Estate
+Nick Jalbert - discards Estate
+Nick Jalbert - receives one action
+Nick Jalbert - discards Estate
+Nick Jalbert - receives one buy
+Nick Jalbert - plays 2 Copper
+Nick Jalbert - draws Copper, Witch, Witch, Curse, Curse
+ 
+---------- Conqueror Bot: turn 10 ----------
+Conqueror Bot - plays 2 Copper, 1 Silver
+Conqueror Bot - buys Mining Village
+Conqueror Bot - gains Mining Village
+Conqueror Bot - draws Witch, Watchtower, Estate, Copper, Copper
+ 
+---------- Villager Bot: turn 10 ----------
+Villager Bot - plays Mining Village
+Villager Bot - draws Potion
+Villager Bot - plays Witch
+Villager Bot - draws Copper, Witch
+Nick Jalbert - gains Curse
+Conqueror Bot - gains Curse
+Conqueror Bot - applied Watchtower to trash Curse
+Conqueror Bot - trashes Curse
+Villager Bot - plays Witch
+Villager Bot - draws Estate, Silver
+Nick Jalbert - gains Curse
+Conqueror Bot - gains Curse
+Conqueror Bot - applied Watchtower to trash Curse
+Conqueror Bot - trashes Curse
+Villager Bot - plays Potion
+Villager Bot - plays 2 Copper, 1 Silver
+Villager Bot - buys Mining Village
+Villager Bot - gains Mining Village
+Villager Bot - draws Copper, Witch, Scrying Pool, Copper, Curse
+ 
+---------- Nick Jalbert: turn 11 ----------
+Nick Jalbert - plays Witch
+Nick Jalbert - draws Copper
+Nick Jalbert - shuffles deck
+Nick Jalbert - draws Copper
+Conqueror Bot - gains Curse
+Conqueror Bot - applied Watchtower to trash Curse
+Conqueror Bot - trashes Curse
+Villager Bot - gains Curse
+Nick Jalbert - plays 3 Copper
+Nick Jalbert - buys Silver
+Nick Jalbert - gains Silver
+Nick Jalbert - draws Silver, Curse, Copper, Estate, Silver
+ 
+---------- Conqueror Bot: turn 11 ----------
+Conqueror Bot - plays Witch
+Conqueror Bot - draws Silver, Copper
+Villager Bot - gains Curse
+Nick Jalbert - gains Curse
+Conqueror Bot - plays 3 Copper, 1 Silver
+Conqueror Bot - buys Duchy
+Conqueror Bot - gains Duchy
+Conqueror Bot - draws Scrying Pool, Estate, Curse
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Potion, Curse
+ 
+---------- Villager Bot: turn 11 ----------
+Villager Bot - plays Scrying Pool
+Villager Bot - shuffles deck
+Villager Bot - places Mining Village on top of deck
+Nick Jalbert - places Curse on top of deck
+Conqueror Bot - discards Bazaar
+Villager Bot - reveals Mining Village, Copper
+Villager Bot - plays Mining Village
+Villager Bot - draws Silver
+Villager Bot - plays Witch
+Villager Bot - draws Mining Village, Estate
+Nick Jalbert - gains Curse
+Conqueror Bot - gains Curse
+Villager Bot - plays Mining Village
+Villager Bot - draws Curse
+Villager Bot - plays 3 Copper, 1 Silver
+Villager Bot - buys Duchy
+Villager Bot - gains Duchy
+Villager Bot - draws Silver, Curse, Copper, Copper, Witch
+ 
+---------- Nick Jalbert: turn 12 ----------
+Nick Jalbert - plays 2 Silver, 1 Copper
+Nick Jalbert - buys Bazaar
+Nick Jalbert - gains Bazaar
+Nick Jalbert - draws Curse, Copper, Estate, Copper, Mining Village
+ 
+---------- Conqueror Bot: turn 12 ----------
+Conqueror Bot - plays Scrying Pool
+Conqueror Bot - discards Copper
+Villager Bot - discards Witch
+Nick Jalbert - places Estate on top of deck
+Conqueror Bot - reveals Mining Village, Copper
+Conqueror Bot - plays Mining Village
+Conqueror Bot - draws Estate
+Conqueror Bot - plays Potion
+Conqueror Bot - plays 1 Copper
+Conqueror Bot - draws Silver, Watchtower, Duchy, Silver, Curse
+ 
+---------- Villager Bot: turn 12 ----------
+Villager Bot - plays Witch
+Villager Bot - draws Copper, Estate
+Villager Bot - plays 3 Copper, 1 Silver
+Villager Bot - buys Duchy
+Villager Bot - gains Duchy
+Villager Bot - draws Estate, Copper, Curse, Curse, Potion
+ 
+---------- Nick Jalbert: turn 13 ----------
+Nick Jalbert - plays Mining Village
+Nick Jalbert - draws Estate
+Nick Jalbert - plays 2 Copper
+Nick Jalbert - draws Mining Village, Curse, Mining Village, Copper, Forge
+ 
+---------- Conqueror Bot: turn 13 ----------
+Conqueror Bot - plays Watchtower
+Conqueror Bot - draws Watchtower, Copper
+Conqueror Bot - plays 2 Silver, 1 Copper
+Conqueror Bot - buys Duchy
+Conqueror Bot - gains Duchy
+Conqueror Bot - draws Copper, Copper, Curse, Gold, Witch
+ 
+---------- Villager Bot: turn 13 ----------
+Villager Bot - plays Potion
+Villager Bot - plays 1 Copper
+Villager Bot - buys Copper
+Villager Bot - gains Copper
+Villager Bot - shuffles deck
+Villager Bot - draws Mining Village, Curse, Witch, Copper, Copper
+ 
+---------- Nick Jalbert: turn 14 ----------
+Nick Jalbert - plays Mining Village
+Nick Jalbert - draws Hamlet
+Nick Jalbert - plays Mining Village
+Nick Jalbert - shuffles deck
+Nick Jalbert - draws Estate
+Nick Jalbert - plays Forge
+Nick Jalbert - trashes Estate, Hamlet, Copper, Curse
+Nick Jalbert - gains Mining Village
+Nick Jalbert - draws Witch, Curse, Mining Village, Curse, Estate
+ 
+---------- Conqueror Bot: turn 14 ----------
+Conqueror Bot - plays Witch
+Conqueror Bot - draws Copper, Copper
+Conqueror Bot - plays 4 Copper, 1 Gold
+Conqueror Bot - buys Duchy
+Conqueror Bot - gains Duchy
+Conqueror Bot - draws Estate
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Gold, Watchtower, Estate, Copper
+ 
+---------- Villager Bot: turn 14 ----------
+Villager Bot - plays Mining Village
+Villager Bot - draws Witch
+Villager Bot - plays Witch
+Villager Bot - draws Copper, Curse
+Villager Bot - plays Witch
+Villager Bot - draws Witch, Silver
+Villager Bot - plays 3 Copper, 1 Silver
+Villager Bot - buys Duchy
+Villager Bot - gains Duchy
+Villager Bot - draws Estate, Copper, Duchy, Curse, Duchy
+ 
+---------- Nick Jalbert: turn 15 ----------
+Nick Jalbert - plays Mining Village
+Nick Jalbert - draws Silver
+Nick Jalbert - plays Witch
+Nick Jalbert - draws Copper, Witch
+Nick Jalbert - plays Witch
+Nick Jalbert - draws Bazaar, Curse
+Nick Jalbert - plays 1 Silver, 1 Copper
+Nick Jalbert - buys Silver
+Nick Jalbert - gains Silver
+Nick Jalbert - draws Silver, Silver, Curse, Curse, Curse
+ 
+---------- Conqueror Bot: turn 15 ----------
+Conqueror Bot - plays Watchtower
+Conqueror Bot - draws Duchy, Copper
+Conqueror Bot - plays 2 Copper, 1 Gold
+Conqueror Bot - buys Duchy
+Conqueror Bot - gains Duchy
+Conqueror Bot - draws Copper, Duchy, Copper, Silver, Curse
+ 
+---------- Villager Bot: turn 15 ----------
+Villager Bot - plays 1 Copper
+Villager Bot - buys Copper
+Villager Bot - gains Copper
+Villager Bot - draws Copper, Silver, Curse, Potion, Estate
+ 
+---------- Nick Jalbert: turn 16 ----------
+Nick Jalbert - plays 2 Silver
+Nick Jalbert - buys Mining Village
+Nick Jalbert - gains Mining Village
+Nick Jalbert - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Conqueror Bot: turn 16 ----------
+Conqueror Bot - plays 2 Copper, 1 Silver
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - draws Scrying Pool, Watchtower, Duchy, Mining Village, Curse
+ 
+---------- Villager Bot: turn 16 ----------
+Villager Bot - plays Potion
+Villager Bot - plays 1 Copper, 1 Silver
+Villager Bot - buys Philosopher's Stone
+Villager Bot - gains Philosopher's Stone
+Villager Bot - draws Copper, Copper, Estate, Copper, Mining Village
+ 
+---------- Nick Jalbert: turn 17 ----------
+Nick Jalbert - plays 4 Copper
+Nick Jalbert - buys Silver
+Nick Jalbert - gains Silver
+Nick Jalbert - draws Copper
+Nick Jalbert - shuffles deck
+Nick Jalbert - draws Bazaar, Copper, Silver, Curse
+ 
+---------- Conqueror Bot: turn 17 ----------
+Conqueror Bot - plays Mining Village
+Conqueror Bot - draws Copper
+Conqueror Bot - plays Scrying Pool
+Conqueror Bot - discards Curse
+Villager Bot - discards Scrying Pool
+Nick Jalbert - places Curse on top of deck
+Conqueror Bot - reveals Estate
+Conqueror Bot - plays Watchtower
+Conqueror Bot - draws Witch, Copper
+Conqueror Bot - plays Witch
+Conqueror Bot - draws Potion, Bazaar
+Conqueror Bot - plays Potion
+Conqueror Bot - plays 2 Copper
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - draws Silver, Curse, Curse, Copper
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Potion
+ 
+---------- Villager Bot: turn 17 ----------
+Villager Bot - plays Mining Village
+Villager Bot - draws Curse
+Villager Bot - plays 3 Copper
+Villager Bot - buys Watchtower
+Villager Bot - gains Watchtower
+Villager Bot - shuffles deck
+Villager Bot - draws Watchtower, Witch, Mining Village, Silver, Copper
+ 
+---------- Nick Jalbert: turn 18 ----------
+Nick Jalbert - plays Bazaar
+Nick Jalbert - draws Curse
+Nick Jalbert - plays 2 Copper, 1 Silver
+Nick Jalbert - buys Bazaar
+Nick Jalbert - gains Bazaar
+Nick Jalbert - draws Curse, Estate, Silver, Silver, Copper
+ 
+---------- Conqueror Bot: turn 18 ----------
+Conqueror Bot - plays Potion
+Conqueror Bot - plays 1 Silver, 1 Copper
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - draws Duchy, Scrying Pool, Witch, Duchy, Copper
+ 
+---------- Villager Bot: turn 18 ----------
+Villager Bot - plays Mining Village
+Villager Bot - draws Curse
+Villager Bot - plays Watchtower
+Villager Bot - draws Philosopher's Stone, Witch
+Villager Bot - plays Witch
+Villager Bot - draws Copper, Curse
+Villager Bot - plays Philosopher's Stone
+Villager Bot - has 0 cards in discards
+Villager Bot - receives 4 coins
+Villager Bot - plays 2 Copper, 1 Silver
+Villager Bot - buys Province
+Villager Bot - gains Province
+Villager Bot - draws Curse, Copper, Estate, Duchy, Silver
+ 
+---------- Nick Jalbert: turn 19 ----------
+Nick Jalbert - plays 2 Silver, 1 Copper
+Nick Jalbert - buys Bazaar
+Nick Jalbert - gains Bazaar
+Nick Jalbert - draws Mining Village, Mining Village, Silver, Curse, Copper
+ 
+---------- Conqueror Bot: turn 19 ----------
+Conqueror Bot - plays Scrying Pool
+Conqueror Bot - discards Estate
+Villager Bot - places Duchy on top of deck
+Nick Jalbert - discards Forge
+Conqueror Bot - reveals Copper
+Conqueror Bot - plays Witch
+Conqueror Bot - draws Duchy, Copper
+Conqueror Bot - plays 3 Copper
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - draws Estate, Bazaar, Gold, Mining Village, Curse
+ 
+---------- Villager Bot: turn 19 ----------
+Villager Bot - plays 1 Copper, 1 Silver
+Villager Bot - buys Silver
+Villager Bot - gains Silver
+Villager Bot - draws Duchy, Copper, Witch, Scrying Pool, Copper
+ 
+---------- Nick Jalbert: turn 20 ----------
+Nick Jalbert - plays Mining Village
+Nick Jalbert - draws Mining Village
+Nick Jalbert - plays Mining Village
+Nick Jalbert - draws Mining Village
+Nick Jalbert - plays Mining Village
+Nick Jalbert - draws Estate
+Nick Jalbert - plays Mining Village
+Nick Jalbert - draws Silver
+Nick Jalbert - plays 2 Silver, 1 Copper
+Nick Jalbert - buys Duchy
+Nick Jalbert - gains Duchy
+Nick Jalbert - draws Mining Village, Witch, Witch, Curse, Copper
+ 
+---------- Conqueror Bot: turn 20 ----------
+Conqueror Bot - plays Bazaar
+Conqueror Bot - draws Copper
+Conqueror Bot - plays Mining Village
+Conqueror Bot - draws Watchtower
+Conqueror Bot - plays Watchtower
+Conqueror Bot - draws Curse, Curse
+Conqueror Bot - plays 1 Gold, 1 Copper
+Conqueror Bot - buys Duchy
+Conqueror Bot - gains Duchy
+Conqueror Bot - draws Duchy, Copper, Silver, Copper, Estate
+ 
+---------- Villager Bot: turn 20 ----------
+Villager Bot - plays Scrying Pool
+Villager Bot - discards Curse
+Nick Jalbert - places Copper on top of deck
+Conqueror Bot - places Estate on top of deck
+Villager Bot - reveals Mining Village, Copper
+Villager Bot - plays Mining Village
+Villager Bot - draws Duchy
+Villager Bot - trashes Mining Village
+Villager Bot - plays Witch
+Villager Bot - draws Estate, Estate
+Villager Bot - plays 3 Copper
+Villager Bot - buys Duchy
+Villager Bot - gains Duchy
+Villager Bot - draws Copper, Copper, Curse, Copper, Potion
+ 
+---------- Nick Jalbert: turn 21 ----------
+Nick Jalbert - plays Mining Village
+Nick Jalbert - draws Copper
+Nick Jalbert - plays Witch
+Nick Jalbert - draws Curse
+Nick Jalbert - shuffles deck
+Nick Jalbert - draws Silver
+Nick Jalbert - plays Witch
+Nick Jalbert - draws Mining Village, Silver
+Nick Jalbert - plays 2 Copper, 2 Silver
+Nick Jalbert - buys Gold
+Nick Jalbert - gains Gold
+Nick Jalbert - draws Mining Village, Mining Village, Forge, Silver, Mining Village
+ 
+---------- Conqueror Bot: turn 21 ----------
+Conqueror Bot - plays 2 Copper, 1 Silver
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - draws Estate, Watchtower, Estate
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Estate, Curse
+ 
+---------- Villager Bot: turn 21 ----------
+Villager Bot - plays Potion
+Villager Bot - plays 3 Copper
+Villager Bot - buys Philosopher's Stone
+Villager Bot - gains Philosopher's Stone
+Villager Bot - shuffles deck
+Villager Bot - draws Province, Copper, Silver, Copper, Duchy
+ 
+---------- Nick Jalbert: turn 22 ----------
+Nick Jalbert - plays Mining Village
+Nick Jalbert - draws Curse
+Nick Jalbert - trashes Mining Village
+Nick Jalbert - plays Forge
+Nick Jalbert - trashes Mining Village, Mining Village, Curse
+Nick Jalbert - gains Province
+Nick Jalbert - plays 1 Silver
+Nick Jalbert - buys Mining Village
+Nick Jalbert - gains Mining Village
+Nick Jalbert - draws Curse, Silver, Curse, Estate, Curse
+ 
+---------- Conqueror Bot: turn 22 ----------
+Conqueror Bot - plays Watchtower
+Conqueror Bot - draws Curse, Curse
+Conqueror Bot - buys Copper
+Conqueror Bot - gains Copper
+Conqueror Bot - draws Copper, Witch, Silver, Curse, Copper
+ 
+---------- Villager Bot: turn 22 ----------
+Villager Bot - plays 2 Copper, 1 Silver
+Villager Bot - buys Mining Village
+Villager Bot - gains Mining Village
+Villager Bot - draws Witch, Witch, Copper, Estate, Estate
+ 
+---------- Nick Jalbert: turn 23 ----------
+Nick Jalbert - draws Copper, Silver, Bazaar, Estate, Bazaar
+ 
+---------- Conqueror Bot: turn 23 ----------
+Conqueror Bot - plays Witch
+Conqueror Bot - draws Estate, Scrying Pool
+Conqueror Bot - plays 2 Copper, 1 Silver
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - draws Estate, Duchy, Duchy, Copper, Potion
+ 
+---------- Villager Bot: turn 23 ----------
+Villager Bot - plays Witch
+Villager Bot - draws Watchtower, Silver
+Villager Bot - plays 1 Copper, 1 Silver
+Villager Bot - buys Estate
+Villager Bot - gains Estate
+Villager Bot - draws Copper, Silver, Witch, Curse, Curse
+ 
+---------- Nick Jalbert: turn 24 ----------
+Nick Jalbert - plays Bazaar
+Nick Jalbert - draws Bazaar
+Nick Jalbert - plays Bazaar
+Nick Jalbert - draws Duchy
+Nick Jalbert - plays Bazaar
+Nick Jalbert - draws Copper
+Nick Jalbert - plays 2 Copper, 1 Silver
+Nick Jalbert - buys Gold
+Nick Jalbert - gains Gold
+Nick Jalbert - draws Copper, Copper
+Nick Jalbert - shuffles deck
+Nick Jalbert - draws Curse, Silver, Gold
+ 
+---------- Conqueror Bot: turn 24 ----------
+Conqueror Bot - plays Potion
+Conqueror Bot - plays 1 Copper
+Conqueror Bot - buys Copper
+Conqueror Bot - gains Copper
+Conqueror Bot - draws Duchy, Watchtower, Estate, Bazaar, Silver
+ 
+---------- Villager Bot: turn 24 ----------
+Villager Bot - plays Witch
+Villager Bot - draws Philosopher's Stone, Curse
+Villager Bot - plays Philosopher's Stone
+Villager Bot - has 14 cards in discards
+Villager Bot - receives 5 coins
+Villager Bot - plays 1 Copper, 1 Silver
+Villager Bot - buys Province
+Villager Bot - gains Province
+Villager Bot - draws Scrying Pool, Duchy, Curse, Copper, Mining Village
+ 
+---------- Nick Jalbert: turn 25 ----------
+Nick Jalbert - plays 2 Copper, 1 Silver, 1 Gold
+Nick Jalbert - buys Gold
+Nick Jalbert - gains Gold
+Nick Jalbert - draws Silver, Gold, Duchy, Mining Village, Bazaar
+ 
+---------- Conqueror Bot: turn 25 ----------
+Conqueror Bot - plays Bazaar
+Conqueror Bot - draws Duchy
+Conqueror Bot - plays Watchtower
+Conqueror Bot - draws Copper, Estate
+Conqueror Bot - plays 1 Silver, 1 Copper
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - draws Copper, Copper, Mining Village, Duchy, Estate
+ 
+---------- Villager Bot: turn 25 ----------
+Villager Bot - plays Mining Village
+Villager Bot - draws Curse
+Villager Bot - trashes Mining Village
+Villager Bot - plays Scrying Pool
+Villager Bot - discards Estate
+Nick Jalbert - places Province on top of deck
+Conqueror Bot - places Curse on top of deck
+Villager Bot - reveals Duchy
+Villager Bot - plays 1 Copper
+Villager Bot - buys Estate
+Villager Bot - gains Estate
+Villager Bot - draws Philosopher's Stone, Duchy, Copper, Copper, Potion
+ 
+---------- Nick Jalbert: turn 26 ----------
+Nick Jalbert - plays Mining Village
+Nick Jalbert - draws Province
+Nick Jalbert - trashes Mining Village
+Nick Jalbert - plays Bazaar
+Nick Jalbert - draws Estate
+Nick Jalbert - plays 1 Silver, 1 Gold
+Nick Jalbert - buys Province
+Nick Jalbert - gains Province
+Nick Jalbert - draws Silver, Silver, Forge, Mining Village, Curse
+ 
+---------- Conqueror Bot: turn 26 ----------
+Conqueror Bot - plays Mining Village
+Conqueror Bot - draws Curse
+Conqueror Bot - trashes Mining Village
+Conqueror Bot - plays 2 Copper
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - draws Gold, Copper
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Bazaar, Watchtower, Curse
+ 
+---------- Villager Bot: turn 26 ----------
+Villager Bot - plays Philosopher's Stone
+Villager Bot - has 30 cards in discards
+Villager Bot - receives 6 coins
+Villager Bot - plays Potion
+Villager Bot - plays 2 Copper
+Villager Bot - buys Province
+Villager Bot - gains Province
+Villager Bot - draws Copper, Copper
+Villager Bot - shuffles deck
+Villager Bot - draws Philosopher's Stone, Estate, Duchy
+ 
+---------- Nick Jalbert: turn 27 ----------
+Nick Jalbert - plays Mining Village
+Nick Jalbert - draws Curse
+Nick Jalbert - plays Forge
+Nick Jalbert - trashes Curse, Curse, Silver, Silver
+Nick Jalbert - gains Gold
+Nick Jalbert - draws Bazaar, Bazaar, Estate, Mining Village, Copper
+ 
+---------- Conqueror Bot: turn 27 ----------
+Conqueror Bot - plays Bazaar
+Conqueror Bot - draws Potion
+Conqueror Bot - plays Watchtower
+Conqueror Bot - draws Duchy, Duchy
+Conqueror Bot - plays Potion
+Conqueror Bot - plays 1 Gold, 1 Copper
+Conqueror Bot - buys Duchy
+Conqueror Bot - gains Duchy
+Conqueror Bot - draws Estate, Curse, Silver, Estate, Copper
+ 
+---------- Villager Bot: turn 27 ----------
+Villager Bot - plays Philosopher's Stone
+Villager Bot - has 0 cards in discards
+Villager Bot - receives 6 coins
+Villager Bot - plays 2 Copper
+Villager Bot - buys Duchy
+Villager Bot - gains Duchy
+Villager Bot - draws Estate, Watchtower, Witch, Duchy, Copper
+ 
+------------ Game Over ------------
+Villager Bot - cards: 3 Witch, 1 Scrying Pool, 1 Watchtower, 1 Mining Village, 9 Copper, 3 Silver, 2 Philosopher's Stone, 1 Potion, 5 Estate, 5 Duchy, 3 Province, 5 Curse
+Villager Bot - total victory points: 33
+Villager Bot - turns: 27
+ 
+Conqueror Bot - cards: 2 Watchtower, 1 Bazaar, 1 Scrying Pool, 1 Witch, 9 Copper, 2 Silver, 11 Estate, 1 Potion, 1 Gold, 6 Duchy, 5 Curse
+Conqueror Bot - total victory points: 24
+Conqueror Bot - turns: 27
+ 
+Nick Jalbert - cards: 3 Bazaar, 2 Witch, 2 Mining Village, 1 Forge, 6 Copper, 4 Gold, 3 Silver, 2 Estate, 2 Province, 1 Duchy, 3 Curse
+Nick Jalbert - total victory points: 14
+Nick Jalbert - turns: 27
+ 
+1st place: Villager Bot
+2nd place: Conqueror Bot
+3rd place: Nick Jalbert
+ 

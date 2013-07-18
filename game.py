@@ -7,6 +7,7 @@ players in the game or other games in the collection belongs here.
 
 import collections
 import itertools
+import re
 
 from dominioncards import index_to_card, EVERY_SET_CARDS
 from keys import *
@@ -22,7 +23,7 @@ GAINED=1           # Player bought or gained in any turn
 
 class PlayerDeckChange(object):
     " This represents a change to a players deck in response to a game event."
-    CATEGORIES = ['buys', 'gains', 'returns', 'trashes']
+    CATEGORIES = ['buys', 'gains', 'receives', 'returns', 'trashes', 'passes']
 
     def __init__(self, name):
         self.name = name
@@ -55,7 +56,7 @@ class PlayerDeckChange(object):
         return s
 
     def accumulates(self):
-        return self.buys + self.gains
+        return self.buys + self.gains + self.receives
 
 
 
@@ -71,6 +72,8 @@ class Turn(object):
         self.buys    = turn_decode(turn_dict, BUYS)
         self.returns = turn_decode(turn_dict, RETURNS)
         self.trashes = turn_decode(turn_dict, TRASHES)
+        self.passes = turn_decode(turn_dict, PASSES)
+        self.receives = turn_decode(turn_dict, RECEIVES)
         self.turn_no = turn_no
         self.poss_no = poss_no
         self.is_outpost = OUTPOST in turn_dict
@@ -84,6 +87,8 @@ class Turn(object):
             getattr(change, 'gains' ).extend(turn_decode(info_dict, GAINS))
             getattr(change, 'trashes').extend(turn_decode(info_dict, TRASHES))
             getattr(change, 'returns').extend(turn_decode(info_dict, RETURNS))
+            getattr(change, 'receives').extend(turn_decode(info_dict, RECEIVES))
+            getattr(change, 'passes').extend(turn_decode(info_dict, PASSES))
             change.vp_tokens += info_dict.get(VP_TOKENS, 0)
             self.opp_info[opp_name] = change
 
@@ -109,6 +114,10 @@ class Turn(object):
             played.append('Trashes: %s' % self.trashes)
         if self.returns:
             played.append('Returns: %s' % self.returns)
+        if self.passes:
+            played.append('Passes: %s' % self.passes)
+        if self.receives:
+            played.append('Receives: %s' % self.receives)
         return played
 
 
@@ -116,7 +125,13 @@ class Turn(object):
         return self.player
 
     def player_accumulates(self):
+        return self.buys + self.gains + self.receives
+
+    def player_accumulates_except_receives(self):
         return self.buys + self.gains
+
+    def player_receives(self):
+        return self.receives
 
     def get_turn_no(self):
         return self.turn_no
@@ -157,6 +172,8 @@ class Turn(object):
         setattr(my_change, 'buys' , self.buys)
         setattr(my_change, 'trashes', self.trashes)
         setattr(my_change, 'returns', self.returns)
+        setattr(my_change, 'passes', self.passes)
+        setattr(my_change, 'receives', self.receives)
         my_change.vp_tokens += self.vp_tokens
 
         for change in self.opp_info.itervalues():
@@ -171,7 +188,7 @@ class PlayerDeck(object):
         self.player_name = player_deck_dict[NAME]
         self.win_points = player_deck_dict[WIN_POINTS]
         self.points = player_deck_dict[POINTS]
-        self.deck = {}
+        self.deck = dict()
         for (index, count) in player_deck_dict[DECK].iteritems():
             self.deck[ index_to_card(int(index)) ] = count
         self.turn_order = player_deck_dict[ORDER]
@@ -233,6 +250,11 @@ class Game(object):
         # pprint.pprint(game_dict)
 
         self.player_decks = [PlayerDeck(pd, self) for pd in game_dict[DECKS]]
+        if START_DECKS in game_dict:
+            self.player_start_decks = game_dict[START_DECKS]
+        else:
+            self.player_start_decks = None
+
         self.id = game_dict.get('_id', '')
 
         for raw_pd, pd in zip(game_dict[DECKS], self.player_decks):
@@ -254,6 +276,13 @@ class Game(object):
                                        x.get_player().TurnOrder(),
                                        x.get_poss_no()))
 
+
+    def get_player_start_deck(self, player_name):
+        """ Return the initial deck for the named player. """
+        for p in self.player_start_decks:
+            if p[NAME] == player_name:
+                return p[START_DECK]
+        assert ValueError, "%s not in players" % player_name
 
     def get_player_deck(self, player_name):
         """ Return the deck for the named player. """
@@ -280,8 +309,13 @@ class Game(object):
 
     @staticmethod
     def get_date_from_id(game_id):
-        yyyymmdd_date = game_id.split('-')[1]
-        return yyyymmdd_date
+        GOKO_ID_RE = re.compile('([\d]{4}[\d]{2}[\d]{2})/log.*')
+        match = GOKO_ID_RE.match(game_id)
+        if match:
+            return match.group(1)
+        else:
+            yyyymmdd_date = game_id.split('-')[1]
+            return yyyymmdd_date
 
     @staticmethod
     def get_datetime_from_id(game_id):
@@ -294,6 +328,9 @@ class Game(object):
 
     def get_id(self):
         return self.id
+
+    def goko_url(self):
+        return 'http://archive-dominionlogs.goko.com/%s' % self.id
 
     def isotropic_url(self):
         yyyymmdd_date = Game.get_date_from_id(self.id)
@@ -349,7 +386,7 @@ class Game(object):
 
         Structure is an array of dict of dicts, containing how the
         cards were acquired (game.BOUGHT and game.GAINED), then player
-        name and card.
+        name and card. Lump in Masq receiving with gains.
 
         This keeps track of cards accumulated on a player's turn and
         those gained during the turns of other players.
@@ -363,8 +400,10 @@ class Game(object):
                            pd in self.get_player_decks())
 
         for turn in self.get_turns():
-            for accumed_card in turn.player_accumulates():
+            for accumed_card in turn.player_accumulates_except_receives():
                 ret[BOUGHT][turn.get_player().name()][accumed_card] += 1
+                ret[GAINED][turn.get_player().name()][accumed_card] += 1
+            for accumed_card in turn.player_receives():
                 ret[GAINED][turn.get_player().name()][accumed_card] += 1
             for name, change in turn.get_opp_info().iteritems():
                 for card in change.accumulates():
@@ -433,6 +472,8 @@ class Game(object):
 def score_deck(deck_comp):
     """ Given a dict of cards (as card.Card) and frequency, return the score. """
     ret = 0
+    if dominioncards.Feodum in deck_comp:
+        ret += score_feodum(deck_comp)
     if dominioncards.Gardens in deck_comp:
         ret += score_gardens(deck_comp)
     if dominioncards.Duke in deck_comp:
@@ -448,6 +489,9 @@ def score_deck(deck_comp):
         ret += cardinst.vp * deck_comp[cardinst]
 
     return ret
+
+def score_feodum(deck_comp):
+    return deck_comp[dominioncards.Feodum] * (deck_comp.get(dominioncards.Silver, 0)/3)
 
 def score_gardens(deck_comp):
     deck_size = sum(deck_comp.itervalues())
@@ -474,20 +518,26 @@ class GameState(object):
             sort_by_turn_order=True)
         self.supply = ConvertibleDefaultDict(value_type=int)
         num_players = len(game.get_player_decks())
-        for cardinst in itertools.chain(EVERY_SET_CARDS,
-                                        game.get_supply()):
+        for cardinst in set(EVERY_SET_CARDS + game.get_supply()):
             self.supply[cardinst] = cardinst.num_copies_per_game(num_players)
 
         self.player_decks = ConvertibleDefaultDict(
             value_type=lambda: ConvertibleDefaultDict(int))
+        self.player_start_decks = ConvertibleDefaultDict(
+            value_type=lambda: ConvertibleDefaultDict(int))
         self.player_vp_tokens = collections.defaultdict(int)
 
-        self.supply[dominioncards.Copper] = self.supply[dominioncards.Copper] - (
-            len(self.turn_ordered_players) * 7)
+        if game.player_start_decks is None:
+            self.supply[dominioncards.Copper] = self.supply[dominioncards.Copper] - (len(self.turn_ordered_players) * 7)
 
-        for player in self.turn_ordered_players:
-            self.player_decks[player.name()][dominioncards.Copper] = 7
-            self.player_decks[player.name()][dominioncards.Estate] = 3
+            for player in self.turn_ordered_players:
+                self.player_decks[player.name()][dominioncards.Copper] = 7
+                self.player_decks[player.name()][dominioncards.Estate] = 3
+        else:
+            for start_deck in game.player_start_decks:
+                for card in start_deck[START_DECK]:
+                    self.supply[dominioncards.index_to_card(card)] -= 1
+                    self.player_decks[start_deck[NAME]][dominioncards.index_to_card(card)] += 1
 
         self.turn_ind = 0
 
@@ -537,10 +587,11 @@ class GameState(object):
                 self.player_decks[name][cardinst] += deck_dir
 
         for deck_change in turn.deck_changes():
-            apply_diff(getattr(deck_change, 'buys') + getattr(deck_change, 'gains'),
-                      deck_change.name, -1, 1)
+            apply_diff(getattr(deck_change, 'buys') + getattr(deck_change, 'gains') + getattr(deck_change, 'receives'),
+                      deck_change.name, 0, 1)
             apply_diff(getattr(deck_change, 'trashes'), deck_change.name, 0, -1)
             apply_diff(getattr(deck_change, 'returns'), deck_change.name, 1, -1)
+            apply_diff(getattr(deck_change, 'passes'), deck_change.name, 0, -1)
             self.player_vp_tokens[deck_change.name] += deck_change.vp_tokens
 
     def turn_label(self, for_anchor=False, for_display=False):

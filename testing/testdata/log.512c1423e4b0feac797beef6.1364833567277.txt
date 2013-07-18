@@ -1,0 +1,271 @@
+------------ Game Setup ------------
+Supply cards: Fool's Gold, Woodcutter, Salvager, Smithy, Spice Merchant, Trader, Cache, Explorer, Festival, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Dalton Alvis - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+KingZog3 - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Dalton Alvis - shuffles deck
+KingZog3 - shuffles deck
+Dalton Alvis - draws Copper, Copper, Estate, Copper, Copper
+KingZog3 - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- KingZog3: turn 1 ----------
+KingZog3 - plays 3 Copper
+KingZog3 - buys Silver
+KingZog3 - gains Silver
+KingZog3 - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Dalton Alvis: turn 1 ----------
+Dalton Alvis - plays 4 Copper
+Dalton Alvis - buys Trader
+Dalton Alvis - gains Trader
+Dalton Alvis - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- KingZog3: turn 2 ----------
+KingZog3 - plays 4 Copper
+KingZog3 - buys Spice Merchant
+KingZog3 - gains Spice Merchant
+KingZog3 - shuffles deck
+KingZog3 - draws Copper, Copper, Silver, Estate, Copper
+ 
+---------- Dalton Alvis: turn 2 ----------
+Dalton Alvis - plays 3 Copper
+Dalton Alvis - buys Silver
+Dalton Alvis - gains Silver
+Dalton Alvis - shuffles deck
+Dalton Alvis - draws Copper, Estate, Copper, Silver, Copper
+ 
+---------- KingZog3: turn 3 ----------
+KingZog3 - plays 3 Copper, 1 Silver
+KingZog3 - buys Cache
+KingZog3 - gains Cache
+KingZog3 - gains Copper
+KingZog3 - gains Copper
+KingZog3 - draws Copper, Copper, Estate, Spice Merchant, Estate
+ 
+---------- Dalton Alvis: turn 3 ----------
+Dalton Alvis - plays 3 Copper, 1 Silver
+Dalton Alvis - buys Explorer
+Dalton Alvis - gains Explorer
+Dalton Alvis - draws Copper, Estate, Copper, Trader, Copper
+ 
+---------- KingZog3: turn 4 ----------
+KingZog3 - plays Spice Merchant
+KingZog3 - trashes Copper
+KingZog3 - chooses two cards and one action
+KingZog3 - draws Copper, Copper
+KingZog3 - plays 3 Copper
+KingZog3 - buys Silver
+KingZog3 - gains Silver
+KingZog3 - shuffles deck
+KingZog3 - draws Copper, Copper, Estate, Spice Merchant, Estate
+ 
+---------- Dalton Alvis: turn 4 ----------
+Dalton Alvis - plays Trader
+Dalton Alvis - trashes Estate
+Dalton Alvis - gains Silver
+Dalton Alvis - gains Silver
+Dalton Alvis - plays 3 Copper
+Dalton Alvis - buys Silver
+Dalton Alvis - gains Silver
+Dalton Alvis - draws Estate, Copper
+Dalton Alvis - shuffles deck
+Dalton Alvis - draws Silver, Copper, Trader
+ 
+---------- KingZog3: turn 5 ----------
+KingZog3 - plays Spice Merchant
+KingZog3 - trashes Copper
+KingZog3 - chooses two cards and one action
+KingZog3 - draws Silver, Copper
+KingZog3 - plays 2 Copper, 1 Silver
+KingZog3 - buys Spice Merchant
+KingZog3 - gains Spice Merchant
+KingZog3 - draws Copper, Estate, Copper, Silver, Cache
+ 
+---------- Dalton Alvis: turn 5 ----------
+Dalton Alvis - plays Trader
+Dalton Alvis - trashes Estate
+Dalton Alvis - gains Silver
+Dalton Alvis - gains Silver
+Dalton Alvis - plays 2 Copper, 1 Silver
+Dalton Alvis - buys Spice Merchant
+Dalton Alvis - gains Spice Merchant
+Dalton Alvis - draws Copper, Silver, Copper, Copper, Estate
+ 
+---------- KingZog3: turn 6 ----------
+KingZog3 - plays 2 Copper, 1 Silver, 1 Cache
+KingZog3 - buys Hoard
+KingZog3 - gains Hoard
+KingZog3 - draws Copper, Copper, Copper
+KingZog3 - shuffles deck
+KingZog3 - draws Estate, Copper
+ 
+---------- Dalton Alvis: turn 6 ----------
+Dalton Alvis - plays 3 Copper, 1 Silver
+Dalton Alvis - buys Festival
+Dalton Alvis - gains Festival
+Dalton Alvis - draws Explorer, Copper, Copper, Silver, Silver
+ 
+---------- KingZog3: turn 7 ----------
+KingZog3 - plays 4 Copper
+KingZog3 - buys Smithy
+KingZog3 - gains Smithy
+KingZog3 - draws Copper, Estate, Cache, Hoard, Silver
+ 
+---------- Dalton Alvis: turn 7 ----------
+Dalton Alvis - plays Explorer
+Dalton Alvis - gains Silver
+Dalton Alvis - plays 3 Silver, 2 Copper
+Dalton Alvis - buys Province
+Dalton Alvis - gains Province
+Dalton Alvis - shuffles deck
+Dalton Alvis - draws Silver, Explorer, Copper, Silver, Silver
+ 
+---------- KingZog3: turn 8 ----------
+KingZog3 - plays 1 Copper, 1 Cache, 1 Silver
+KingZog3 - plays Hoard
+KingZog3 - buys Province
+KingZog3 - gains Gold
+KingZog3 - gains Province
+KingZog3 - draws Copper, Spice Merchant, Estate, Silver, Spice Merchant
+ 
+---------- Dalton Alvis: turn 8 ----------
+Dalton Alvis - plays Explorer
+Dalton Alvis - gains Silver
+Dalton Alvis - plays 4 Silver, 1 Copper
+Dalton Alvis - buys Province
+Dalton Alvis - gains Province
+Dalton Alvis - draws Trader, Copper, Copper, Copper, Silver
+ 
+---------- KingZog3: turn 9 ----------
+KingZog3 - plays Spice Merchant
+KingZog3 - trashes Copper
+KingZog3 - chooses two cards and one action
+KingZog3 - draws Copper
+KingZog3 - shuffles deck
+KingZog3 - draws Gold
+KingZog3 - plays Spice Merchant
+KingZog3 - trashes Copper
+KingZog3 - chooses two cards and one action
+KingZog3 - draws Smithy, Copper
+KingZog3 - plays Smithy
+KingZog3 - draws Copper, Copper, Hoard
+KingZog3 - plays 3 Copper, 1 Silver, 1 Gold
+KingZog3 - plays Hoard
+KingZog3 - buys Province
+KingZog3 - gains Gold
+KingZog3 - gains Province
+KingZog3 - draws Copper, Silver, Estate, Estate, Province
+ 
+---------- Dalton Alvis: turn 9 ----------
+Dalton Alvis - plays 3 Copper, 1 Silver
+Dalton Alvis - buys Cache
+Dalton Alvis - gains Cache
+Dalton Alvis - reveals reaction Trader
+Dalton Alvis - gains Silver
+Dalton Alvis - reveals reaction Trader
+Dalton Alvis - gains Silver
+Dalton Alvis - draws Silver, Festival, Silver, Estate, Copper
+ 
+---------- KingZog3: turn 10 ----------
+KingZog3 - plays 1 Copper, 1 Silver
+KingZog3 - buys Estate
+KingZog3 - gains Estate
+KingZog3 - draws Copper, Cache
+KingZog3 - shuffles deck
+KingZog3 - draws Estate, Copper, Spice Merchant
+ 
+---------- Dalton Alvis: turn 10 ----------
+Dalton Alvis - plays Festival
+Dalton Alvis - plays 2 Silver, 1 Copper
+Dalton Alvis - buys Hoard
+Dalton Alvis - gains Hoard
+Dalton Alvis - draws Silver, Copper, Province, Copper, Spice Merchant
+ 
+---------- KingZog3: turn 11 ----------
+KingZog3 - plays Spice Merchant
+KingZog3 - trashes Copper
+KingZog3 - chooses two cards and one action
+KingZog3 - draws Copper, Copper
+KingZog3 - plays 3 Copper, 1 Cache
+KingZog3 - buys Duchy
+KingZog3 - gains Duchy
+KingZog3 - draws Province, Estate, Estate, Silver, Province
+ 
+---------- Dalton Alvis: turn 11 ----------
+Dalton Alvis - plays Spice Merchant
+Dalton Alvis - trashes Copper
+Dalton Alvis - chooses two coins and one buy
+Dalton Alvis - plays 1 Silver, 1 Copper
+Dalton Alvis - buys Duchy
+Dalton Alvis - gains Duchy
+Dalton Alvis - shuffles deck
+Dalton Alvis - draws Silver, Silver, Silver, Copper, Festival
+ 
+---------- KingZog3: turn 12 ----------
+KingZog3 - plays 1 Silver
+KingZog3 - buys Estate
+KingZog3 - gains Estate
+KingZog3 - draws Spice Merchant, Silver, Gold, Estate, Smithy
+ 
+---------- Dalton Alvis: turn 12 ----------
+Dalton Alvis - plays Festival
+Dalton Alvis - plays 3 Silver, 1 Copper
+Dalton Alvis - buys Province
+Dalton Alvis - gains Province
+Dalton Alvis - draws Copper, Silver, Spice Merchant, Province, Silver
+ 
+---------- KingZog3: turn 13 ----------
+KingZog3 - plays Smithy
+KingZog3 - draws Gold, Copper, Hoard
+KingZog3 - plays 2 Gold, 1 Silver, 1 Copper
+KingZog3 - plays Hoard
+KingZog3 - buys Province
+KingZog3 - gains Gold
+KingZog3 - gains Province
+KingZog3 - shuffles deck
+KingZog3 - draws Estate, Estate, Gold, Gold, Estate
+ 
+---------- Dalton Alvis: turn 13 ----------
+Dalton Alvis - plays Spice Merchant
+Dalton Alvis - trashes Copper
+Dalton Alvis - chooses two coins and one buy
+Dalton Alvis - plays 2 Silver
+Dalton Alvis - buys Duchy
+Dalton Alvis - gains Duchy
+Dalton Alvis - draws Copper, Silver, Silver, Hoard, Silver
+ 
+---------- KingZog3: turn 14 ----------
+KingZog3 - plays 2 Gold
+KingZog3 - buys Duchy
+KingZog3 - gains Duchy
+KingZog3 - draws Gold, Spice Merchant, Province, Smithy, Province
+ 
+---------- Dalton Alvis: turn 14 ----------
+Dalton Alvis - plays 3 Silver, 1 Copper
+Dalton Alvis - plays Hoard
+Dalton Alvis - buys Province
+Dalton Alvis - gains Gold
+Dalton Alvis - gains Province
+Dalton Alvis - draws Copper, Duchy, Trader, Silver, Copper
+ 
+---------- KingZog3: turn 15 ----------
+KingZog3 - plays Smithy
+KingZog3 - draws Hoard, Estate, Cache
+KingZog3 - plays 1 Gold, 1 Cache
+KingZog3 - plays Hoard
+KingZog3 - buys Province
+KingZog3 - gains Gold
+KingZog3 - gains Province
+KingZog3 - draws Province, Spice Merchant, Copper, Silver, Silver
+ 
+------------ Game Over ------------
+KingZog3 - cards: 2 Spice Merchant, 1 Smithy, 4 Copper, 4 Gold, 2 Silver, 1 Cache, 1 Hoard, 5 Estate, 4 Province, 2 Duchy
+KingZog3 - total victory points: 35
+KingZog3 - turns: 15
+ 
+Dalton Alvis - cards: 1 Spice Merchant, 1 Explorer, 1 Trader, 10 Silver, 1 Festival, 5 Copper, 1 Gold, 1 Hoard, 1 Cache, 4 Province, 2 Duchy, 1 Estate
+Dalton Alvis - total victory points: 31
+Dalton Alvis - turns: 14
+ 
+1st place: KingZog3
+2nd place: Dalton Alvis
+ 

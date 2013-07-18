@@ -9,6 +9,7 @@ import logging
 import time
 
 import analyze
+import analyze2
 import background.tasks
 import count_buys
 import dominionstats.utils.log
@@ -83,11 +84,12 @@ def watch_and_log(signature, log_interval=15, timeout=600):
 def main(parsed_args):
     """Primary update cycle"""
 
-    # Scrape and load the data from isotropic, proceeding from the
-    # current day backwards, until no games are inserted
+    # Scrape and load the data from goko, proceeding from the
+    # previous day backwards, until no games are inserted
+    today = datetime.date.today()
     log.info("Starting scrape for raw games")
-    for date in utils.daterange(datetime.date(2010, 10, 15),
-                                datetime.date.today(), reverse=True):
+    dates = utils.daterange(datetime.date(2010,10,14), today, reverse=True)
+    for date in dates:
         log.info("Invoking scrape_raw_games async task for %s", date)
         async_result = watch_and_log(background.tasks.scrape_raw_games.s(date))
         inserted = async_result.get()
@@ -104,27 +106,20 @@ def main(parsed_args):
 
     # Check for goals
     log.info("Starting search for goals acheived")
-    for date in utils.daterange(datetime.date(2010, 10, 15),
-                                datetime.date.today(), reverse=True):
+    # Check for game_stats
+    log.info("Starting game_stats summarization")
+    dates = utils.daterange(datetime.date(2010,10,14), today, reverse=True)
+    for date in dates:
         log.info("Invoking calc_goals_for_days async task for %s", date)
         async_result = watch_and_log(background.tasks.calc_goals_for_days.s([date]))
         inserted = async_result.get()
 
+        log.info("Invoking summarize_game_stats_for_days async task for %s", date)
+        async_result = watch_and_log(background.tasks.summarize_game_stats_for_days.s([date]))
         if inserted == 0:
             log.info("No games parsed for goals on %s", date)
             break
 
-    # Check for game_stats
-    log.info("Starting game_stats summarization")
-    for date in utils.daterange(datetime.date(2010, 10, 15),
-                                datetime.date.today(), reverse=True):
-        log.info("Invoking summarize_game_stats_for_days async task for %s", date)
-        async_result = watch_and_log(background.tasks.summarize_game_stats_for_days.s([date]))
-        inserted = async_result.get()
-
-        if inserted == 0:
-            log.info("No new games summarized on %s", date)
-            break
 
     # Invoke the count_buys script
     log.info("Counting buys")
@@ -150,6 +145,8 @@ def main(parsed_args):
     log.info("Loading the leaderboard")
     load_leaderboard.main()
 
+    log.info("Starting analyze2") # This is slow. Is it fast enough on cr?
+    analyze2.main(parsed_args)
     log.info("Done with the update.py process")
 
 

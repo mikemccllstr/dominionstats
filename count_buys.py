@@ -39,6 +39,8 @@ class BuyStat(primitive_util.PrimitiveConversion, mergeable.MergeableObject):
         self.gains = MVS()
         self.trashes = MVS()
         self.returns = MVS()
+        self.passes = MVS()
+        self.receives = MVS()
         self.any_gained = MVS()
         self.available = MVS()
 

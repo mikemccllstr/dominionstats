@@ -49,7 +49,8 @@ update_loop.py script, which will take a few hours to download one months of
 games logs from councilroom, and then parse through it all and load it into a 
 database::
 
-     python update_loop.py
+     python update_loop.py 
+These instructions are outdated and no longer work. Use update.py, which is run through a worker script.
 
 
 And after that is down, this starts webserver running on localhost:8080::

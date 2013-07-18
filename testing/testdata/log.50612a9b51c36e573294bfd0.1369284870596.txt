@@ -1,0 +1,1509 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Scrying Pool, Sage, Fortress, Throne Room, Golem, Apprentice, Outpost, Possession, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: unrated
+ftl - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Guest_979018 - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+guest5451 - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ftl - shuffles deck
+Guest_979018 - shuffles deck
+guest5451 - shuffles deck
+ftl - draws Copper, Copper, Estate, Estate, Estate
+Guest_979018 - draws Estate, Copper, Estate, Copper, Copper
+guest5451 - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- guest5451: turn 1 ----------
+guest5451 - plays 3 Copper
+guest5451 - buys Silver
+guest5451 - gains Silver
+guest5451 - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- ftl: turn 1 ----------
+ftl - plays 2 Copper
+ftl - buys Vagrant
+ftl - gains Vagrant
+ftl - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Guest_979018: turn 1 ----------
+Guest_979018 - plays 3 Copper
+Guest_979018 - buys Silver
+Guest_979018 - gains Silver
+Guest_979018 - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- guest5451: turn 2 ----------
+guest5451 - plays 4 Copper
+guest5451 - buys Potion
+guest5451 - gains Potion
+guest5451 - shuffles deck
+guest5451 - draws Estate, Copper, Silver, Copper, Copper
+ 
+---------- ftl: turn 2 ----------
+ftl - plays 5 Copper
+ftl - buys Apprentice
+ftl - gains Apprentice
+ftl - shuffles deck
+ftl - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- Guest_979018: turn 2 ----------
+Guest_979018 - plays 4 Copper
+Guest_979018 - buys Potion
+Guest_979018 - gains Potion
+Guest_979018 - shuffles deck
+Guest_979018 - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- guest5451: turn 3 ----------
+guest5451 - plays 3 Copper, 1 Silver
+guest5451 - buys Apprentice
+guest5451 - gains Apprentice
+guest5451 - draws Copper, Copper, Copper, Potion, Copper
+ 
+---------- ftl: turn 3 ----------
+ftl - plays 2 Copper
+ftl - buys Vagrant
+ftl - gains Vagrant
+ftl - draws Apprentice, Copper, Copper, Copper, Copper
+ 
+---------- Guest_979018: turn 3 ----------
+Guest_979018 - plays 3 Copper
+Guest_979018 - buys Silver
+Guest_979018 - gains Silver
+Guest_979018 - draws Potion, Copper, Silver, Estate, Copper
+ 
+---------- guest5451: turn 4 ----------
+guest5451 - plays 4 Copper, 1 Potion
+guest5451 - buys Golem
+guest5451 - gains Golem
+guest5451 - draws Estate, Estate
+guest5451 - shuffles deck
+guest5451 - draws Silver, Copper, Potion
+ 
+---------- ftl: turn 4 ----------
+ftl - plays Apprentice
+ftl - trashes Copper
+ftl - plays 3 Copper
+ftl - buys Silver
+ftl - gains Silver
+ftl - draws Vagrant, Copper
+ftl - shuffles deck
+ftl - draws Copper, Copper, Estate
+ 
+---------- Guest_979018: turn 4 ----------
+Guest_979018 - plays 2 Copper, 1 Potion, 1 Silver
+Guest_979018 - buys Golem
+Guest_979018 - gains Golem
+Guest_979018 - draws Copper, Copper
+Guest_979018 - shuffles deck
+Guest_979018 - draws Golem, Potion, Copper
+ 
+---------- guest5451: turn 5 ----------
+guest5451 - plays 1 Silver, 1 Copper, 1 Potion
+guest5451 - buys Scrying Pool
+guest5451 - gains Scrying Pool
+guest5451 - draws Estate, Copper, Copper, Copper, Apprentice
+ 
+---------- ftl: turn 5 ----------
+ftl - plays Vagrant
+ftl - draws Copper
+ftl - reveals: Copper
+ftl - places Copper on top of deck
+ftl - plays 4 Copper
+ftl - buys Potion
+ftl - gains Potion
+ftl - draws Copper, Estate, Estate, Copper, Apprentice
+ 
+---------- Guest_979018: turn 5 ----------
+Guest_979018 - plays Golem
+Guest_979018 - reveals Estate, Copper, Estate, Copper, Copper, Silver, Silver, Copper, Estate
+Guest_979018 - discards: Estate, Copper, Estate, Copper, Copper, Silver, Silver, Copper, Estate
+Guest_979018 - plays 3 Copper, 1 Potion
+Guest_979018 - buys Scrying Pool
+Guest_979018 - gains Scrying Pool
+Guest_979018 - shuffles deck
+Guest_979018 - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- guest5451: turn 6 ----------
+guest5451 - plays Apprentice
+guest5451 - trashes Estate
+guest5451 - draws Copper, Copper
+guest5451 - plays 5 Copper
+guest5451 - buys Outpost
+guest5451 - gains Outpost
+guest5451 - draws Golem, Copper
+guest5451 - shuffles deck
+guest5451 - draws Estate, Copper, Silver
+ 
+---------- ftl: turn 6 ----------
+ftl - plays Apprentice
+ftl - trashes Estate
+ftl - draws Vagrant, Silver
+ftl - plays Vagrant
+ftl - shuffles deck
+ftl - draws Copper
+ftl - reveals: Vagrant
+ftl - places Vagrant on top of deck
+ftl - plays 3 Copper, 1 Silver
+ftl - buys Outpost
+ftl - gains Outpost
+ftl - draws Vagrant, Estate, Copper, Copper, Potion
+ 
+---------- Guest_979018: turn 6 ----------
+Guest_979018 - plays 4 Copper
+Guest_979018 - buys Fortress
+Guest_979018 - gains Fortress
+Guest_979018 - draws Copper, Estate, Copper, Estate, Scrying Pool
+ 
+---------- guest5451: turn 7 ----------
+guest5451 - plays Golem
+guest5451 - reveals Outpost, Copper, Copper, Scrying Pool
+guest5451 - discards: Copper, Copper
+guest5451 - plays Scrying Pool
+guest5451 - discards Copper
+ftl - discards Copper
+Guest_979018 - discards Silver
+guest5451 - reveals Estate
+guest5451 - plays Outpost
+guest5451 - plays 2 Copper, 1 Silver
+guest5451 - buys Fortress
+guest5451 - gains Fortress
+guest5451 - draws Copper, Copper, Apprentice
+guest5451 - duration Outpost
+ 
+---------- guest5451: turn 7 ----------
+guest5451 - plays Apprentice
+guest5451 - trashes Copper
+guest5451 - draws Potion
+guest5451 - shuffles deck
+guest5451 - draws Fortress, Copper, Apprentice, Copper
+ 
+---------- ftl: turn 7 ----------
+ftl - plays Vagrant
+ftl - shuffles deck
+ftl - draws Vagrant
+ftl - reveals: Outpost
+ftl - places Outpost on top of deck
+ftl - plays Vagrant
+ftl - draws Outpost
+ftl - reveals: Estate
+ftl - places Estate in hand
+ftl - plays Outpost
+ftl - plays 2 Copper, 1 Potion
+ftl - buys Scrying Pool
+ftl - gains Scrying Pool
+ftl - draws Copper, Apprentice, Silver
+ftl - duration Outpost
+ 
+---------- ftl: turn 7 ----------
+ftl - plays Apprentice
+ftl - trashes Copper
+ftl - plays 1 Silver
+ftl - buys Vagrant
+ftl - gains Vagrant
+ftl - draws Copper, Copper, Copper
+ftl - shuffles deck
+ftl - draws Estate, Vagrant
+ 
+---------- Guest_979018: turn 7 ----------
+Guest_979018 - plays Scrying Pool
+Guest_979018 - places Silver on top of deck
+guest5451 - discards Copper
+ftl - places Estate on top of deck
+Guest_979018 - reveals Silver
+Guest_979018 - plays 2 Copper, 1 Silver
+Guest_979018 - buys Silver
+Guest_979018 - gains Silver
+Guest_979018 - draws Copper, Golem, Potion
+Guest_979018 - shuffles deck
+Guest_979018 - draws Copper, Scrying Pool
+ 
+---------- guest5451: turn 8 ----------
+guest5451 - plays Apprentice
+guest5451 - trashes Fortress
+guest5451 - draws Estate, Silver, Copper, Golem
+guest5451 - plays Fortress
+guest5451 - draws Copper
+guest5451 - plays Golem
+guest5451 - reveals Scrying Pool, Estate, Outpost
+guest5451 - discards Estate
+guest5451 - plays Scrying Pool
+guest5451 - discards Copper
+ftl - places Estate on top of deck
+Guest_979018 - places Estate on top of deck
+guest5451 - shuffles deck
+guest5451 - reveals Copper
+guest5451 - plays Outpost
+guest5451 - plays 5 Copper, 1 Potion, 1 Silver
+guest5451 - buys Possession
+guest5451 - gains Possession
+guest5451 - draws Estate, Copper
+guest5451 - shuffles deck
+guest5451 - draws Apprentice
+guest5451 - duration Outpost
+ 
+---------- guest5451: turn 8 ----------
+guest5451 - plays Apprentice
+guest5451 - trashes Estate
+guest5451 - draws Estate, Possession
+guest5451 - plays Possession
+guest5451 - draws Golem, Scrying Pool, Copper, Copper, Copper
+ 
+---------- ftl: turn 8 [possessed] ----------
+ftl - plays Vagrant
+ftl - draws Estate
+ftl - reveals: Apprentice
+ftl - places Apprentice on top of deck
+ftl - plays 3 Copper
+ftl - buys Silver
+guest5451 - gains Silver
+ftl - draws Apprentice, Scrying Pool, Vagrant, Copper, Copper
+ 
+---------- ftl: turn 8 ----------
+ftl - plays Vagrant
+ftl - draws Potion
+ftl - reveals: Outpost
+ftl - places Outpost on top of deck
+ftl - plays Scrying Pool
+ftl - places Outpost on top of deck
+Guest_979018 - places Estate on top of deck
+guest5451 - places Copper on top of deck
+ftl - reveals Outpost, Vagrant, Silver
+ftl - plays Vagrant
+ftl - shuffles deck
+ftl - draws Estate
+ftl - reveals: Copper
+ftl - places Copper on top of deck
+ftl - plays Apprentice
+ftl - trashes Estate
+ftl - draws Copper, Estate
+ftl - plays Outpost
+ftl - plays 3 Copper, 1 Potion, 1 Silver
+ftl - buys Golem
+ftl - gains Golem
+ftl - draws Vagrant, Copper, Copper
+ftl - duration Outpost
+ 
+---------- ftl: turn 8 ----------
+ftl - plays Vagrant
+ftl - shuffles deck
+ftl - draws Copper
+ftl - reveals: Apprentice
+ftl - places Apprentice on top of deck
+ftl - plays 3 Copper
+ftl - buys Silver
+ftl - gains Silver
+ftl - draws Apprentice, Vagrant, Golem, Vagrant, Estate
+ 
+---------- Guest_979018: turn 8 ----------
+Guest_979018 - plays Scrying Pool
+Guest_979018 - discards Estate
+guest5451 - places Copper on top of deck
+ftl - discards Scrying Pool
+Guest_979018 - reveals Silver
+Guest_979018 - plays Golem
+Guest_979018 - shuffles deck
+Guest_979018 - reveals Silver, Copper, Estate, Silver, Fortress, Estate, Copper, Copper, Copper, Copper, Estate
+Guest_979018 - discards: Silver, Copper, Estate, Silver, Estate, Copper, Copper, Copper, Copper, Estate
+Guest_979018 - plays Fortress
+Guest_979018 - shuffles deck
+Guest_979018 - draws Silver
+Guest_979018 - plays 2 Copper, 2 Silver, 1 Potion
+Guest_979018 - buys Possession
+Guest_979018 - gains Possession
+Guest_979018 - draws Copper, Estate, Silver, Copper, Copper
+ 
+---------- guest5451: turn 9 ----------
+guest5451 - plays Scrying Pool
+guest5451 - discards Copper
+ftl - discards Silver
+Guest_979018 - discards Copper
+guest5451 - reveals Fortress, Copper
+guest5451 - plays Golem
+guest5451 - shuffles deck
+guest5451 - reveals Potion, Silver, Possession, Copper, Silver, Estate, Outpost
+guest5451 - discards: Potion, Silver, Copper, Silver, Estate
+guest5451 - plays Possession
+guest5451 - plays Outpost
+guest5451 - plays 4 Copper
+guest5451 - buys Throne Room
+guest5451 - gains Throne Room
+guest5451 - draws Apprentice, Copper
+guest5451 - shuffles deck
+guest5451 - draws Silver
+guest5451 - duration Outpost
+ 
+---------- guest5451: turn 9 ----------
+guest5451 - plays Apprentice
+guest5451 - trashes Copper
+guest5451 - plays 1 Silver
+guest5451 - buys Vagrant
+guest5451 - gains Vagrant
+guest5451 - draws Scrying Pool, Silver, Copper, Copper, Golem
+ 
+---------- ftl: turn 9 [possessed] ----------
+ftl - plays Vagrant
+ftl - draws Potion
+ftl - reveals: Copper
+ftl - places Copper on top of deck
+ftl - plays Vagrant
+ftl - draws Copper
+ftl - reveals: Copper
+ftl - places Copper on top of deck
+ftl - plays Apprentice
+ftl - trashes Estate
+ftl - draws Copper
+ftl - shuffles deck
+ftl - draws Silver
+ftl - plays Golem
+ftl - reveals Copper, Scrying Pool, Outpost
+ftl - discards Copper
+ftl - plays Scrying Pool
+ftl - discards Copper
+Guest_979018 - discards Estate
+guest5451 - discards Estate
+ftl - reveals Silver
+ftl - plays Outpost
+ftl - plays 2 Copper, 2 Silver, 1 Potion
+ftl - buys Possession
+guest5451 - gains Possession
+ftl - draws Vagrant, Copper
+ftl - shuffles deck
+ftl - draws Vagrant
+ftl - duration Outpost
+ 
+---------- ftl: turn 9 ----------
+ftl - plays Vagrant
+ftl - draws Silver
+ftl - reveals: Golem
+ftl - places Golem on top of deck
+ftl - plays Vagrant
+ftl - draws Golem
+ftl - reveals: Scrying Pool
+ftl - places Scrying Pool on top of deck
+ftl - plays Golem
+ftl - reveals Scrying Pool, Copper, Vagrant
+ftl - discards Copper
+ftl - plays Scrying Pool
+ftl - discards Potion
+Guest_979018 - discards Estate
+guest5451 - places Possession on top of deck
+ftl - reveals Copper
+ftl - plays Vagrant
+ftl - draws Copper
+ftl - reveals: Silver
+ftl - places Silver on top of deck
+ftl - plays 3 Copper, 1 Silver
+ftl - buys Apprentice
+ftl - gains Apprentice
+ftl - draws Silver, Copper, Apprentice
+ftl - shuffles deck
+ftl - draws Potion, Copper
+ 
+---------- Guest_979018: turn 9 ----------
+Guest_979018 - plays 3 Copper, 1 Silver
+Guest_979018 - buys Apprentice
+Guest_979018 - gains Apprentice
+Guest_979018 - draws Copper
+Guest_979018 - shuffles deck
+Guest_979018 - draws Estate, Scrying Pool, Golem, Copper
+ 
+---------- guest5451: turn 10 ----------
+guest5451 - plays Scrying Pool
+guest5451 - places Possession on top of deck
+ftl - places Outpost on top of deck
+Guest_979018 - places Possession on top of deck
+guest5451 - reveals Possession, Copper
+guest5451 - plays Golem
+guest5451 - reveals Throne Room, Copper, Potion, Fortress
+guest5451 - discards: Copper, Potion
+guest5451 - plays Throne Room
+guest5451 - plays Possession
+guest5451 - plays Possession
+guest5451 - plays Fortress
+guest5451 - draws Copper
+guest5451 - plays 4 Copper, 1 Silver
+guest5451 - buys Gold
+guest5451 - gains Gold
+guest5451 - shuffles deck
+guest5451 - draws Copper, Possession, Copper, Potion, Copper
+ 
+---------- ftl: turn 10 [possessed] ----------
+ftl - plays 2 Copper, 1 Silver, 1 Potion
+ftl - buys Golem
+guest5451 - gains Golem
+ftl - draws Outpost, Copper, Estate, Apprentice, Silver
+ 
+---------- ftl: turn 10 [possessed] ----------
+ftl - plays Apprentice
+ftl - trashes Silver
+ftl - draws Vagrant, Vagrant, Vagrant
+ftl - plays Vagrant
+ftl - draws Scrying Pool
+ftl - reveals: Golem
+ftl - places Golem on top of deck
+ftl - plays Vagrant
+ftl - draws Golem
+ftl - reveals: Copper
+ftl - places Copper on top of deck
+ftl - plays Vagrant
+ftl - draws Copper
+ftl - reveals: Copper
+ftl - places Copper on top of deck
+ftl - plays Scrying Pool
+ftl - discards Copper
+Guest_979018 - places Possession on top of deck
+guest5451 - places Throne Room on top of deck
+ftl - shuffles deck
+ftl - reveals Copper
+ftl - plays Golem
+ftl - reveals Silver, Copper, Apprentice, Potion, Copper
+ftl - discards: Silver, Copper, Potion, Copper
+ftl - plays Apprentice
+ftl - trashes Estate
+ftl - shuffles deck
+ftl - draws Copper, Silver
+ftl - plays Outpost
+ftl - plays 4 Copper, 1 Silver
+ftl - buys Gold
+guest5451 - gains Gold
+ftl - draws Copper, Potion
+ftl - shuffles deck
+ftl - draws Vagrant
+ftl - duration Outpost
+ 
+---------- ftl: turn 10 ----------
+ftl - plays Vagrant
+ftl - draws Apprentice
+ftl - reveals: Apprentice
+ftl - places Apprentice on top of deck
+ftl - plays Apprentice
+ftl - trashes Copper
+ftl - draws Apprentice, Vagrant, Vagrant, Copper, Copper
+ 
+---------- Guest_979018: turn 10 ----------
+Guest_979018 - plays Scrying Pool
+Guest_979018 - places Possession on top of deck
+guest5451 - places Throne Room on top of deck
+ftl - discards Silver
+Guest_979018 - reveals Possession, Estate
+Guest_979018 - plays Golem
+Guest_979018 - reveals Apprentice, Copper, Copper, Fortress
+Guest_979018 - discards: Copper, Copper
+Guest_979018 - plays Fortress
+Guest_979018 - draws Copper
+Guest_979018 - plays Apprentice
+Guest_979018 - trashes Estate
+Guest_979018 - draws Copper, Silver
+Guest_979018 - plays Possession
+Guest_979018 - plays 4 Copper, 1 Silver
+Guest_979018 - buys Outpost
+Guest_979018 - gains Outpost
+Guest_979018 - draws Potion, Silver, Estate, Copper, Silver
+ 
+---------- guest5451: turn 11 [possessed] ----------
+guest5451 - plays Possession
+guest5451 - plays 3 Copper, 1 Potion
+guest5451 - buys Scrying Pool
+Guest_979018 - gains Scrying Pool
+guest5451 - draws Throne Room, Apprentice, Copper, Golem, Scrying Pool
+ 
+---------- guest5451: turn 11 ----------
+guest5451 - plays Throne Room
+guest5451 - plays Golem
+guest5451 - reveals Vagrant, Outpost
+guest5451 - plays Vagrant
+guest5451 - draws Silver
+guest5451 - reveals: Estate
+guest5451 - places Estate in hand
+guest5451 - plays Outpost
+guest5451 - plays Golem
+guest5451 - reveals Fortress, Copper, Silver, Gold, Possession
+guest5451 - discards: Copper, Silver, Gold
+guest5451 - plays Possession
+guest5451 - plays Fortress
+guest5451 - shuffles deck
+guest5451 - draws Copper
+guest5451 - plays Apprentice
+guest5451 - trashes Estate
+guest5451 - draws Potion, Gold
+guest5451 - plays Scrying Pool
+guest5451 - discards Copper
+ftl - places Scrying Pool on top of deck
+Guest_979018 - shuffles deck
+Guest_979018 - discards Copper
+guest5451 - reveals Possession, Copper
+guest5451 - plays Possession
+guest5451 - plays 3 Copper, 1 Silver, 1 Potion, 1 Gold
+guest5451 - buys King's Court
+guest5451 - gains King's Court
+guest5451 - draws Copper, Gold, Golem
+guest5451 - duration Outpost
+ 
+---------- guest5451: turn 11 ----------
+guest5451 - plays Golem
+guest5451 - shuffles deck
+guest5451 - reveals Silver, Scrying Pool, Copper, Vagrant
+guest5451 - discards: Silver, Copper
+guest5451 - plays Scrying Pool
+guest5451 - discards Copper
+ftl - places Scrying Pool on top of deck
+Guest_979018 - places Scrying Pool on top of deck
+guest5451 - reveals Throne Room, King's Court, Potion
+guest5451 - plays Vagrant
+guest5451 - draws Copper
+guest5451 - reveals: Apprentice
+guest5451 - places Apprentice on top of deck
+guest5451 - plays King's Court
+guest5451 - plays Throne Room
+guest5451 - plays Throne Room
+guest5451 - plays Throne Room
+guest5451 - plays 2 Copper, 1 Gold, 1 Potion
+guest5451 - buys Golem
+guest5451 - gains Golem
+guest5451 - draws Apprentice, Silver, Copper, Possession, Golem
+ 
+---------- ftl: turn 11 [possessed] ----------
+ftl - plays Vagrant
+ftl - draws Scrying Pool
+ftl - reveals: Copper
+ftl - places Copper on top of deck
+ftl - plays Vagrant
+ftl - draws Copper
+ftl - reveals: Copper
+ftl - places Copper on top of deck
+ftl - plays Scrying Pool
+ftl - discards Copper
+Guest_979018 - places Scrying Pool on top of deck
+guest5451 - discards Gold
+ftl - shuffles deck
+ftl - reveals Golem, Silver
+ftl - plays Golem
+ftl - reveals Outpost, Potion, Apprentice
+ftl - discards Potion
+ftl - plays Outpost
+ftl - plays Apprentice
+ftl - trashes Copper
+ftl - plays Apprentice
+ftl - trashes Copper
+ftl - plays 1 Copper, 1 Silver
+ftl - buys Sage
+guest5451 - gains Sage
+ftl - draws Vagrant, Copper, Silver
+ftl - duration Outpost
+ 
+---------- ftl: turn 11 [possessed] ----------
+ftl - plays Vagrant
+ftl - draws Estate
+ftl - shuffles deck
+ftl - reveals: Apprentice
+ftl - places Apprentice on top of deck
+ftl - plays 1 Copper, 1 Silver
+ftl - buys Sage
+guest5451 - gains Sage
+ftl - draws Apprentice, Potion, Copper, Apprentice, Vagrant
+ 
+---------- ftl: turn 11 [possessed] ----------
+ftl - plays Vagrant
+ftl - draws Copper
+ftl - reveals: Golem
+ftl - places Golem on top of deck
+ftl - plays Apprentice
+ftl - trashes Copper
+ftl - plays Apprentice
+ftl - trashes Copper
+ftl - draws Golem, Scrying Pool, Copper, Vagrant, Silver
+ 
+---------- ftl: turn 11 ----------
+ftl - plays Golem
+ftl - shuffles deck
+ftl - reveals Apprentice, Estate, Copper, Vagrant
+ftl - discards: Estate, Copper
+ftl - plays Vagrant
+ftl - draws Potion
+ftl - reveals: Outpost
+ftl - places Outpost on top of deck
+ftl - plays Apprentice
+ftl - trashes Copper
+ftl - plays Vagrant
+ftl - draws Outpost
+ftl - reveals: Silver
+ftl - places Silver on top of deck
+ftl - plays Scrying Pool
+ftl - discards Silver
+Guest_979018 - places Scrying Pool on top of deck
+guest5451 - places Fortress on top of deck
+ftl - reveals Copper
+ftl - plays Outpost
+ftl - plays 1 Silver, 1 Potion, 1 Copper
+ftl - buys Scrying Pool
+ftl - gains Scrying Pool
+ftl - draws Copper, Apprentice, Vagrant
+ftl - duration Outpost
+ 
+---------- ftl: turn 11 ----------
+ftl - plays Vagrant
+ftl - shuffles deck
+ftl - draws Estate
+ftl - reveals: Potion
+ftl - places Potion on top of deck
+ftl - plays Apprentice
+ftl - trashes Estate
+ftl - draws Potion, Apprentice
+ftl - plays Apprentice
+ftl - trashes Copper
+ftl - draws Vagrant, Copper, Vagrant, Silver, Copper
+ 
+---------- Guest_979018: turn 11 ----------
+Guest_979018 - plays 2 Silver, 1 Potion, 1 Copper
+Guest_979018 - buys Golem
+Guest_979018 - gains Golem
+Guest_979018 - draws Scrying Pool, Copper, Copper, Copper, Silver
+ 
+---------- guest5451: turn 12 ----------
+guest5451 - plays Golem
+guest5451 - reveals Fortress, Possession
+guest5451 - plays Fortress
+guest5451 - shuffles deck
+guest5451 - draws Sage
+guest5451 - plays Possession
+guest5451 - plays Sage
+guest5451 - reveals Outpost
+guest5451 - places Outpost in hand
+guest5451 - plays Apprentice
+guest5451 - trashes Copper
+guest5451 - plays Possession
+guest5451 - plays Outpost
+guest5451 - plays 1 Silver
+guest5451 - buys Vagrant
+guest5451 - gains Vagrant
+guest5451 - draws Golem, Copper, Gold
+guest5451 - duration Outpost
+ 
+---------- guest5451: turn 12 ----------
+guest5451 - plays Golem
+guest5451 - reveals Scrying Pool, Gold, Copper, Vagrant
+guest5451 - discards: Gold, Copper
+guest5451 - plays Scrying Pool
+guest5451 - places Sage on top of deck
+ftl - discards Silver
+Guest_979018 - places Scrying Pool on top of deck
+guest5451 - reveals Sage, King's Court, Throne Room, Silver
+guest5451 - plays Vagrant
+guest5451 - draws Copper
+guest5451 - reveals: Potion
+guest5451 - places Potion on top of deck
+guest5451 - plays King's Court
+guest5451 - plays Throne Room
+guest5451 - plays Sage
+guest5451 - reveals Potion
+guest5451 - places Potion in hand
+guest5451 - plays Sage
+guest5451 - reveals Golem
+guest5451 - places Golem in hand
+guest5451 - plays Throne Room
+guest5451 - plays Golem
+guest5451 - shuffles deck
+guest5451 - reveals Copper, Fortress, Copper, Possession
+guest5451 - discards: Copper, Copper
+guest5451 - plays Fortress
+guest5451 - draws Apprentice
+guest5451 - plays Possession
+guest5451 - plays Golem
+guest5451 - reveals Gold, Vagrant, Golem, Sage
+guest5451 - discards: Gold, Golem
+guest5451 - plays Vagrant
+guest5451 - draws Silver
+guest5451 - reveals: Possession
+guest5451 - places Possession on top of deck
+guest5451 - plays Sage
+guest5451 - reveals Possession
+guest5451 - places Possession in hand
+guest5451 - plays Throne Room
+guest5451 - plays Possession
+guest5451 - plays Possession
+guest5451 - plays Apprentice
+guest5451 - trashes Copper
+guest5451 - plays 2 Silver, 1 Copper, 1 Gold, 1 Potion
+guest5451 - buys King's Court
+guest5451 - gains King's Court
+guest5451 - shuffles deck
+guest5451 - draws Copper, Sage, Silver, Apprentice, Gold
+ 
+---------- ftl: turn 12 [possessed] ----------
+ftl - plays Vagrant
+ftl - draws Scrying Pool
+ftl - reveals: Scrying Pool
+ftl - places Scrying Pool on top of deck
+ftl - plays Scrying Pool
+ftl - places Scrying Pool on top of deck
+Guest_979018 - places Scrying Pool on top of deck
+guest5451 - places King's Court on top of deck
+ftl - shuffles deck
+ftl - reveals Scrying Pool, Golem, Vagrant, Apprentice, Potion
+ftl - plays Vagrant
+ftl - draws Apprentice
+ftl - reveals: Outpost
+ftl - places Outpost on top of deck
+ftl - plays Golem
+ftl - reveals Outpost, Silver
+ftl - discards Silver
+ftl - plays Outpost
+ftl - plays 2 Copper, 1 Silver, 1 Potion
+ftl - buys Throne Room
+guest5451 - gains Throne Room
+ftl - shuffles deck
+ftl - draws Vagrant, Scrying Pool, Silver
+ftl - duration Outpost
+ 
+---------- ftl: turn 12 [possessed] ----------
+ftl - plays Vagrant
+ftl - draws Scrying Pool
+ftl - reveals: Apprentice
+ftl - places Apprentice on top of deck
+ftl - plays Scrying Pool
+ftl - places Apprentice on top of deck
+Guest_979018 - places Scrying Pool on top of deck
+guest5451 - places King's Court on top of deck
+ftl - reveals Apprentice, Potion
+ftl - plays Scrying Pool
+ftl - places Golem on top of deck
+Guest_979018 - places Scrying Pool on top of deck
+guest5451 - places King's Court on top of deck
+ftl - reveals Golem, Apprentice, Vagrant, Vagrant, Copper
+ftl - plays Apprentice
+ftl - trashes Apprentice
+ftl - draws Silver, Copper
+ftl - plays Golem
+ftl - plays 2 Silver, 2 Copper, 1 Potion
+ftl - buys Gold
+guest5451 - gains Gold
+ftl - shuffles deck
+ftl - draws Copper, Silver, Golem, Scrying Pool, Scrying Pool
+ 
+---------- ftl: turn 12 [possessed] ----------
+ftl - plays Golem
+ftl - reveals Vagrant, Vagrant
+ftl - plays Vagrant
+ftl - draws Potion
+ftl - reveals: Apprentice
+ftl - places Apprentice on top of deck
+ftl - plays Vagrant
+ftl - draws Apprentice
+ftl - reveals: Vagrant
+ftl - places Vagrant on top of deck
+ftl - plays Scrying Pool
+ftl - places Vagrant on top of deck
+Guest_979018 - places Scrying Pool on top of deck
+guest5451 - places King's Court on top of deck
+ftl - reveals Vagrant, Outpost, Copper
+ftl - plays Scrying Pool
+ftl - discards Silver
+Guest_979018 - places Scrying Pool on top of deck
+guest5451 - places King's Court on top of deck
+ftl - shuffles deck
+ftl - reveals Silver
+ftl - plays Vagrant
+ftl - draws Apprentice
+ftl - plays Outpost
+ftl - plays Apprentice
+ftl - trashes Apprentice
+ftl - plays 2 Copper, 2 Silver, 1 Potion
+ftl - buys Possession
+guest5451 - gains Possession
+ftl - shuffles deck
+ftl - draws Vagrant, Apprentice, Potion
+ftl - duration Outpost
+ 
+---------- ftl: turn 12 [possessed] ----------
+ftl - plays Vagrant
+ftl - draws Silver
+ftl - reveals: Golem
+ftl - places Golem on top of deck
+ftl - plays Apprentice
+ftl - trashes Potion
+ftl - draws Golem, Copper, Vagrant, Copper
+ftl - plays Golem
+ftl - reveals Vagrant, Silver, Scrying Pool
+ftl - discards Silver
+ftl - plays Scrying Pool
+ftl - places Scrying Pool on top of deck
+Guest_979018 - places Scrying Pool on top of deck
+guest5451 - places King's Court on top of deck
+ftl - shuffles deck
+ftl - reveals Scrying Pool, Silver
+ftl - plays Vagrant
+ftl - draws Apprentice
+ftl - plays Apprentice
+ftl - trashes Scrying Pool
+ftl - plays Vagrant
+ftl - plays 2 Silver, 2 Copper
+ftl - buys Gold
+guest5451 - gains Gold
+ftl - shuffles deck
+ftl - draws Scrying Pool, Copper, Apprentice, Golem, Outpost
+ 
+---------- ftl: turn 12 [possessed] ----------
+ftl - plays Golem
+ftl - reveals Silver, Copper, Silver, Vagrant, Vagrant
+ftl - discards: Silver, Copper, Silver
+ftl - plays Vagrant
+ftl - draws Vagrant
+ftl - reveals: Apprentice
+ftl - places Apprentice on top of deck
+ftl - plays Vagrant
+ftl - draws Apprentice
+ftl - shuffles deck
+ftl - reveals: Scrying Pool
+ftl - places Scrying Pool on top of deck
+ftl - plays Scrying Pool
+ftl - places Scrying Pool on top of deck
+Guest_979018 - places Scrying Pool on top of deck
+guest5451 - places King's Court on top of deck
+ftl - reveals Scrying Pool, Silver
+ftl - plays Apprentice
+ftl - trashes Apprentice
+ftl - draws Silver, Potion, Copper
+ftl - plays Outpost
+ftl - plays 2 Copper, 2 Silver, 1 Potion
+ftl - buys Possession
+guest5451 - gains Possession
+ftl - shuffles deck
+ftl - draws Vagrant, Vagrant, Silver
+ftl - duration Outpost
+ 
+---------- ftl: turn 12 ----------
+ftl - plays Vagrant
+ftl - draws Potion
+ftl - reveals: Golem
+ftl - places Golem on top of deck
+ftl - plays Vagrant
+ftl - draws Golem
+ftl - reveals: Copper
+ftl - places Copper on top of deck
+ftl - plays Golem
+ftl - reveals Copper, Copper, Silver, Scrying Pool, Apprentice
+ftl - discards: Copper, Copper, Silver
+ftl - plays Scrying Pool
+ftl - places Scrying Pool on top of deck
+Guest_979018 - places Scrying Pool on top of deck
+guest5451 - places King's Court on top of deck
+ftl - shuffles deck
+ftl - reveals Scrying Pool, Vagrant, Copper
+ftl - plays Apprentice
+ftl - trashes Vagrant
+ftl - draws Copper, Apprentice
+ftl - plays Scrying Pool
+ftl - places Silver on top of deck
+Guest_979018 - places Scrying Pool on top of deck
+guest5451 - places King's Court on top of deck
+ftl - reveals Silver
+ftl - plays 2 Silver, 2 Copper, 1 Potion
+ftl - buys Possession
+ftl - gains Possession
+ftl - shuffles deck
+ftl - draws Apprentice, Potion, Scrying Pool, Vagrant, Outpost
+ 
+---------- Guest_979018: turn 12 ----------
+Guest_979018 - plays Scrying Pool
+Guest_979018 - places Scrying Pool on top of deck
+guest5451 - places King's Court on top of deck
+ftl - discards Copper
+Guest_979018 - reveals Scrying Pool, Outpost, Copper
+Guest_979018 - plays Scrying Pool
+Guest_979018 - discards Copper
+guest5451 - places King's Court on top of deck
+ftl - places Scrying Pool on top of deck
+Guest_979018 - reveals Estate
+Guest_979018 - plays Outpost
+Guest_979018 - plays 4 Copper, 1 Silver
+Guest_979018 - buys Gold
+Guest_979018 - gains Gold
+Guest_979018 - draws Apprentice, Golem, Fortress
+Guest_979018 - duration Outpost
+ 
+---------- Guest_979018: turn 12 ----------
+Guest_979018 - plays Apprentice
+Guest_979018 - trashes Fortress
+Guest_979018 - draws Possession
+Guest_979018 - shuffles deck
+Guest_979018 - draws Estate, Silver, Copper
+Guest_979018 - plays Fortress
+Guest_979018 - draws Copper
+Guest_979018 - plays Golem
+Guest_979018 - reveals Copper, Copper, Golem, Gold, Silver, Estate, Copper, Scrying Pool, Copper, Copper, Scrying Pool
+Guest_979018 - discards: Copper, Copper, Golem, Gold, Silver, Estate, Copper, Copper, Copper
+Guest_979018 - plays Scrying Pool
+Guest_979018 - places Potion on top of deck
+guest5451 - places King's Court on top of deck
+ftl - places Scrying Pool on top of deck
+Guest_979018 - reveals Potion
+Guest_979018 - plays Scrying Pool
+Guest_979018 - discards Silver
+guest5451 - places King's Court on top of deck
+ftl - places Scrying Pool on top of deck
+Guest_979018 - shuffles deck
+Guest_979018 - reveals Estate
+Guest_979018 - plays Possession
+Guest_979018 - plays 2 Copper, 1 Silver, 1 Potion
+Guest_979018 - buys Golem
+Guest_979018 - gains Golem
+Guest_979018 - draws Copper, Golem, Copper, Silver, Silver
+ 
+---------- guest5451: turn 13 [possessed] ----------
+guest5451 - plays Sage
+guest5451 - reveals King's Court
+guest5451 - places King's Court in hand
+guest5451 - plays Apprentice
+guest5451 - trashes Silver
+guest5451 - draws Possession, Golem, Gold
+guest5451 - plays King's Court
+guest5451 - plays Golem
+guest5451 - reveals King's Court, Vagrant
+guest5451 - plays King's Court
+guest5451 - plays Possession
+guest5451 - plays Possession
+guest5451 - plays Possession
+guest5451 - plays Vagrant
+guest5451 - draws Potion
+guest5451 - reveals: Copper
+guest5451 - places Copper on top of deck
+guest5451 - plays Golem
+guest5451 - reveals Copper, Copper, Possession, Golem, Fortress
+guest5451 - discards: Copper, Copper, Golem
+guest5451 - plays Fortress
+guest5451 - draws Golem
+guest5451 - plays Possession
+guest5451 - plays Golem
+guest5451 - reveals Throne Room, Vagrant
+guest5451 - plays Throne Room
+guest5451 - plays Golem
+guest5451 - reveals Scrying Pool, Sage
+guest5451 - plays Scrying Pool
+guest5451 - places Outpost on top of deck
+ftl - places Scrying Pool on top of deck
+Guest_979018 - discards Copper
+guest5451 - reveals Outpost, Silver
+guest5451 - plays Sage
+guest5451 - shuffles deck
+guest5451 - reveals Possession
+guest5451 - places Possession in hand
+guest5451 - plays Golem
+guest5451 - reveals Gold, Copper, Possession, Throne Room
+guest5451 - discards: Gold, Copper
+guest5451 - plays Throne Room
+guest5451 - plays Possession
+guest5451 - plays Possession
+guest5451 - plays Possession
+guest5451 - plays Vagrant
+guest5451 - draws Golem
+guest5451 - reveals: Gold
+guest5451 - places Gold on top of deck
+guest5451 - plays Golem
+guest5451 - shuffles deck
+guest5451 - reveals Gold, Copper, Copper, Gold
+guest5451 - discards: Gold, Copper, Copper, Gold
+guest5451 - plays Outpost
+guest5451 - plays 2 Gold, 1 Copper, 1 Potion, 1 Silver
+guest5451 - buys King's Court
+Guest_979018 - gains King's Court
+guest5451 - shuffles deck
+guest5451 - draws Golem, Fortress, Possession
+guest5451 - duration Outpost
+ 
+---------- guest5451: turn 13 ----------
+guest5451 - plays Fortress
+guest5451 - draws Potion
+guest5451 - plays Golem
+guest5451 - reveals Sage, Gold, King's Court
+guest5451 - discards Gold
+guest5451 - plays Sage
+guest5451 - reveals Scrying Pool, Gold
+guest5451 - places Gold in hand
+guest5451 - discards Scrying Pool
+guest5451 - plays King's Court
+guest5451 - plays Possession
+guest5451 - plays Possession
+guest5451 - plays Possession
+guest5451 - plays 1 Potion, 1 Gold
+guest5451 - buys Scrying Pool
+guest5451 - gains Scrying Pool
+guest5451 - draws Gold, Copper, Copper, Copper, Vagrant
+ 
+---------- ftl: turn 13 [possessed] ----------
+ftl - plays Scrying Pool
+ftl - places Scrying Pool on top of deck
+Guest_979018 - places Copper on top of deck
+guest5451 - places Sage on top of deck
+ftl - reveals Scrying Pool, Possession, Silver
+ftl - plays Scrying Pool
+ftl - discards Copper
+Guest_979018 - discards Copper
+guest5451 - places Sage on top of deck
+ftl - reveals Golem, Apprentice, Vagrant, Silver
+ftl - plays Vagrant
+ftl - shuffles deck
+ftl - draws Copper
+ftl - reveals: Copper
+ftl - places Copper on top of deck
+ftl - plays Vagrant
+ftl - draws Copper
+ftl - plays Apprentice
+ftl - trashes Copper
+ftl - plays Apprentice
+ftl - trashes Copper
+ftl - plays Possession
+ftl - plays 2 Silver, 1 Potion
+ftl - buys Fortress
+guest5451 - gains Fortress
+ftl - shuffles deck
+ftl - draws Golem, Scrying Pool, Silver, Silver, Vagrant
+ 
+---------- ftl: turn 13 [possessed] ----------
+ftl - plays Golem
+ftl - reveals Outpost, Potion, Apprentice
+ftl - discards Potion
+ftl - plays Apprentice
+ftl - trashes Vagrant
+ftl - draws Scrying Pool, Possession
+ftl - plays Outpost
+ftl - plays Scrying Pool
+ftl - places Apprentice on top of deck
+Guest_979018 - discards Copper
+guest5451 - places Sage on top of deck
+ftl - shuffles deck
+ftl - reveals Apprentice, Vagrant, Copper
+ftl - plays Scrying Pool
+ftl - discards Potion
+Guest_979018 - discards Gold
+guest5451 - places Sage on top of deck
+ftl - reveals Copper
+ftl - plays Vagrant
+ftl - shuffles deck
+ftl - draws Potion
+ftl - plays Possession
+ftl - plays 2 Silver, 2 Copper, 1 Potion
+ftl - buys Possession
+guest5451 - gains Possession
+ftl - shuffles deck
+ftl - draws Copper, Vagrant, Copper
+ftl - duration Outpost
+ 
+---------- ftl: turn 13 [possessed] ----------
+ftl - plays Vagrant
+ftl - draws Apprentice
+ftl - reveals: Possession
+ftl - places Possession on top of deck
+ftl - plays Apprentice
+ftl - trashes Copper
+ftl - draws Possession, Scrying Pool, Apprentice, Silver, Silver
+ 
+---------- ftl: turn 13 [possessed] ----------
+ftl - plays Scrying Pool
+ftl - discards Potion
+Guest_979018 - shuffles deck
+Guest_979018 - discards Copper
+guest5451 - places Sage on top of deck
+ftl - shuffles deck
+ftl - reveals Scrying Pool, Golem, Outpost, Copper
+ftl - plays Golem
+ftl - reveals Vagrant, Potion, Apprentice
+ftl - discards Potion
+ftl - plays Vagrant
+ftl - draws Copper
+ftl - reveals: Vagrant
+ftl - places Vagrant on top of deck
+ftl - plays Apprentice
+ftl - trashes Apprentice
+ftl - draws Vagrant
+ftl - shuffles deck
+ftl - draws Potion
+ftl - plays Possession
+ftl - plays Outpost
+ftl - plays 2 Silver, 2 Copper, 1 Potion
+ftl - buys Possession
+guest5451 - gains Possession
+ftl - shuffles deck
+ftl - draws Vagrant, Silver, Possession
+ftl - duration Outpost
+ 
+---------- ftl: turn 13 [possessed] ----------
+ftl - plays Vagrant
+ftl - draws Vagrant
+ftl - reveals: Silver
+ftl - places Silver on top of deck
+ftl - plays Vagrant
+ftl - draws Silver
+ftl - reveals: Golem
+ftl - places Golem on top of deck
+ftl - plays Possession
+ftl - plays 2 Silver
+ftl - buys Throne Room
+guest5451 - gains Throne Room
+ftl - draws Golem, Copper, Potion, Scrying Pool, Copper
+ 
+---------- ftl: turn 13 [possessed] ----------
+ftl - plays Golem
+ftl - reveals Apprentice, Scrying Pool
+ftl - plays Scrying Pool
+ftl - shuffles deck
+ftl - places Vagrant on top of deck
+Guest_979018 - places Possession on top of deck
+guest5451 - places Sage on top of deck
+ftl - reveals Vagrant, Vagrant, Apprentice, Possession, Outpost, Silver
+ftl - plays Apprentice
+ftl - trashes Apprentice
+ftl - draws Silver
+ftl - plays Possession
+ftl - plays Outpost
+ftl - plays 2 Copper, 2 Silver, 1 Potion
+ftl - buys Golem
+guest5451 - gains Golem
+ftl - shuffles deck
+ftl - draws Vagrant, Silver, Potion
+ftl - duration Outpost
+ 
+---------- ftl: turn 13 [possessed] ----------
+ftl - plays Vagrant
+ftl - draws Silver
+ftl - reveals: Vagrant
+ftl - places Vagrant on top of deck
+ftl - plays 2 Silver, 1 Potion
+ftl - buys Throne Room
+guest5451 - gains Throne Room
+ftl - draws Vagrant, Copper, Scrying Pool, Possession, Golem
+ 
+---------- ftl: turn 13 [possessed] ----------
+ftl - plays Golem
+ftl - reveals Copper, Scrying Pool, Apprentice
+ftl - discards Copper
+ftl - plays Scrying Pool
+ftl - shuffles deck
+ftl - discards Copper
+Guest_979018 - places Possession on top of deck
+guest5451 - places Sage on top of deck
+ftl - reveals Silver
+ftl - plays Apprentice
+ftl - trashes Silver
+ftl - draws Outpost, Vagrant, Potion
+ftl - plays Vagrant
+ftl - draws Silver
+ftl - reveals: Apprentice
+ftl - places Apprentice on top of deck
+ftl - plays Vagrant
+ftl - draws Apprentice
+ftl - shuffles deck
+ftl - reveals: Copper
+ftl - places Copper on top of deck
+ftl - plays Possession
+ftl - plays Outpost
+ftl - plays 1 Copper, 1 Potion, 1 Silver
+ftl - buys Scrying Pool
+guest5451 - gains Scrying Pool
+ftl - draws Copper
+ftl - shuffles deck
+ftl - draws Apprentice, Vagrant
+ftl - duration Outpost
+ 
+---------- ftl: turn 13 [possessed] ----------
+ftl - plays Vagrant
+ftl - draws Vagrant
+ftl - reveals: Scrying Pool
+ftl - places Scrying Pool on top of deck
+ftl - plays Vagrant
+ftl - draws Scrying Pool
+ftl - reveals: Golem
+ftl - places Golem on top of deck
+ftl - plays Scrying Pool
+ftl - places Golem on top of deck
+Guest_979018 - places Possession on top of deck
+guest5451 - places Sage on top of deck
+ftl - reveals Golem, Apprentice, Scrying Pool, Possession, Copper
+ftl - plays Golem
+ftl - shuffles deck
+ftl - reveals Silver, Potion, Silver
+ftl - discards: Silver, Potion, Silver
+ftl - plays 2 Copper
+ftl - buys Vagrant
+guest5451 - gains Vagrant
+ftl - shuffles deck
+ftl - draws Silver, Copper, Scrying Pool, Apprentice, Apprentice
+ 
+---------- ftl: turn 13 [possessed] ----------
+ftl - plays Apprentice
+ftl - trashes Apprentice
+ftl - draws Potion, Copper, Possession, Outpost, Vagrant
+ftl - plays Vagrant
+ftl - draws Silver
+ftl - reveals: Vagrant
+ftl - places Vagrant on top of deck
+ftl - plays Scrying Pool
+ftl - discards Vagrant
+Guest_979018 - places Possession on top of deck
+guest5451 - places Sage on top of deck
+ftl - shuffles deck
+ftl - reveals Scrying Pool, Golem, Vagrant
+ftl - plays Possession
+ftl - plays 2 Silver, 2 Copper, 1 Potion
+ftl - buys Possession
+guest5451 - gains Possession
+ftl - shuffles deck
+ftl - draws Silver, Outpost, Copper, Possession, Golem
+ 
+---------- ftl: turn 13 ----------
+ftl - plays Golem
+ftl - reveals Apprentice, Vagrant
+ftl - plays Vagrant
+ftl - draws Vagrant
+ftl - reveals: Copper
+ftl - places Copper on top of deck
+ftl - plays Apprentice
+ftl - trashes Copper
+ftl - plays Vagrant
+ftl - draws Copper
+ftl - reveals: Scrying Pool
+ftl - places Scrying Pool on top of deck
+ftl - plays Possession
+ftl - plays Outpost
+ftl - plays 1 Silver, 1 Copper
+ftl - buys Sage
+ftl - gains Sage
+ftl - draws Scrying Pool, Scrying Pool, Silver
+ftl - duration Outpost
+ 
+---------- ftl: turn 13 ----------
+ftl - plays Scrying Pool
+ftl - discards Potion
+Guest_979018 - places Possession on top of deck
+guest5451 - places Sage on top of deck
+ftl - shuffles deck
+ftl - reveals Golem, Vagrant, Apprentice, Sage, Possession, Copper
+ftl - plays Golem
+ftl - reveals Silver, Vagrant, Apprentice
+ftl - discards Silver
+ftl - plays Vagrant
+ftl - draws Potion
+ftl - shuffles deck
+ftl - reveals: Silver
+ftl - places Silver on top of deck
+ftl - plays Apprentice
+ftl - trashes Copper
+ftl - plays Vagrant
+ftl - draws Silver
+ftl - plays Possession
+ftl - plays 2 Silver, 1 Potion
+ftl - buys Throne Room
+ftl - gains Throne Room
+ftl - shuffles deck
+ftl - draws Golem, Sage, Vagrant, Silver, Scrying Pool
+ 
+---------- Guest_979018: turn 13 [possessed] ----------
+Guest_979018 - plays Golem
+Guest_979018 - reveals Possession, Potion, Copper, Scrying Pool
+Guest_979018 - discards: Potion, Copper
+Guest_979018 - plays Scrying Pool
+Guest_979018 - places Scrying Pool on top of deck
+guest5451 - places Sage on top of deck
+ftl - places Apprentice on top of deck
+Guest_979018 - reveals Scrying Pool, Copper
+Guest_979018 - plays Possession
+Guest_979018 - plays Scrying Pool
+Guest_979018 - places Apprentice on top of deck
+guest5451 - places Sage on top of deck
+ftl - places Apprentice on top of deck
+Guest_979018 - reveals Apprentice, Estate
+Guest_979018 - plays Apprentice
+Guest_979018 - trashes Silver
+Guest_979018 - draws Golem, Gold, Golem
+Guest_979018 - plays Golem
+Guest_979018 - reveals Copper, Estate, King's Court, Copper, Silver, Fortress
+Guest_979018 - discards: Copper, Estate, Copper, Silver
+Guest_979018 - plays King's Court
+Guest_979018 - plays Golem
+Guest_979018 - shuffles deck
+Guest_979018 - reveals Outpost, Estate, Copper, Silver, Copper, Copper, Potion, Copper
+Guest_979018 - discards: Estate, Copper, Silver, Copper, Copper, Potion, Copper
+Guest_979018 - plays Outpost
+Guest_979018 - plays Golem
+Guest_979018 - shuffles deck
+Guest_979018 - reveals Estate, Silver, Copper, Copper, Potion, Copper, Copper
+Guest_979018 - discards: Estate, Silver, Copper, Copper, Potion, Copper, Copper
+Guest_979018 - plays Golem
+Guest_979018 - shuffles deck
+Guest_979018 - reveals Copper, Estate, Copper, Copper, Copper, Potion, Silver
+Guest_979018 - discards: Copper, Estate, Copper, Copper, Copper, Potion, Silver
+Guest_979018 - plays Fortress
+Guest_979018 - shuffles deck
+Guest_979018 - draws Potion
+Guest_979018 - plays 3 Copper, 1 Silver, 1 Gold, 1 Potion
+Guest_979018 - buys Possession
+ftl - gains Possession
+Guest_979018 - draws Copper, Copper, Estate
+Guest_979018 - duration Outpost
+ 
+---------- Guest_979018: turn 13 [possessed] ----------
+Guest_979018 - plays 2 Copper
+Guest_979018 - buys Vagrant
+ftl - gains Vagrant
+Guest_979018 - draws Copper, Silver, Copper
+Guest_979018 - shuffles deck
+Guest_979018 - draws Copper, Apprentice
+ 
+---------- Guest_979018: turn 13 [possessed] ----------
+Guest_979018 - plays Apprentice
+Guest_979018 - trashes Silver
+Guest_979018 - draws Possession, Copper, Copper
+Guest_979018 - plays Possession
+Guest_979018 - plays 5 Copper
+Guest_979018 - buys Throne Room
+ftl - gains Throne Room
+Guest_979018 - draws Copper, Outpost, Silver, Golem, Scrying Pool
+ 
+---------- Guest_979018: turn 13 [possessed] ----------
+Guest_979018 - plays Golem
+Guest_979018 - reveals King's Court, Fortress
+Guest_979018 - plays Fortress
+Guest_979018 - draws Silver
+Guest_979018 - plays King's Court
+Guest_979018 - plays Scrying Pool
+Guest_979018 - places Scrying Pool on top of deck
+guest5451 - places Sage on top of deck
+ftl - places Apprentice on top of deck
+Guest_979018 - reveals Scrying Pool, Estate
+Guest_979018 - plays Scrying Pool
+Guest_979018 - places Golem on top of deck
+guest5451 - places Sage on top of deck
+ftl - places Apprentice on top of deck
+Guest_979018 - reveals Golem, Golem, Estate
+Guest_979018 - plays Scrying Pool
+Guest_979018 - discards Gold
+guest5451 - places Sage on top of deck
+ftl - places Apprentice on top of deck
+Guest_979018 - reveals Copper
+Guest_979018 - plays Golem
+Guest_979018 - shuffles deck
+Guest_979018 - reveals Potion, Copper, Copper, Copper, Silver, Possession, Apprentice
+Guest_979018 - discards: Potion, Copper, Copper, Copper, Silver
+Guest_979018 - plays Apprentice
+Guest_979018 - trashes Estate
+Guest_979018 - draws Gold, Copper
+Guest_979018 - plays Possession
+Guest_979018 - plays Golem
+Guest_979018 - shuffles deck
+Guest_979018 - reveals Copper, Silver, Copper, Copper, Potion, Copper
+Guest_979018 - discards: Copper, Silver, Copper, Copper, Potion, Copper
+Guest_979018 - plays Scrying Pool
+Guest_979018 - shuffles deck
+Guest_979018 - discards Copper
+guest5451 - places Sage on top of deck
+ftl - places Apprentice on top of deck
+Guest_979018 - reveals Copper
+Guest_979018 - plays Outpost
+Guest_979018 - plays 4 Copper, 2 Silver, 1 Gold
+Guest_979018 - buys King's Court
+ftl - gains King's Court
+Guest_979018 - draws Copper, Copper, Potion
+Guest_979018 - duration Outpost
+ 
+---------- Guest_979018: turn 13 [possessed] ----------
+Guest_979018 - plays 2 Copper, 1 Potion
+Guest_979018 - buys Scrying Pool
+ftl - gains Scrying Pool
+Guest_979018 - draws Silver
+Guest_979018 - shuffles deck
+Guest_979018 - draws Copper, Possession, Scrying Pool, Scrying Pool
+ 
+---------- Guest_979018: turn 13 [possessed] ----------
+Guest_979018 - plays Scrying Pool
+Guest_979018 - discards Copper
+guest5451 - places Sage on top of deck
+ftl - places Apprentice on top of deck
+Guest_979018 - reveals Apprentice, Silver
+Guest_979018 - plays Scrying Pool
+Guest_979018 - discards Copper
+guest5451 - places Sage on top of deck
+ftl - places Apprentice on top of deck
+Guest_979018 - reveals Copper
+Guest_979018 - plays Apprentice
+Guest_979018 - trashes Silver
+Guest_979018 - draws King's Court, Gold, Estate
+Guest_979018 - plays King's Court
+Guest_979018 - plays Possession
+Guest_979018 - plays Possession
+Guest_979018 - plays Possession
+Guest_979018 - plays 2 Copper, 1 Silver, 1 Gold
+Guest_979018 - buys King's Court
+ftl - gains King's Court
+Guest_979018 - draws Outpost, Golem, Silver, Copper, Estate
+ 
+---------- Guest_979018: turn 13 [possessed] ----------
+Guest_979018 - plays Golem
+Guest_979018 - shuffles deck
+Guest_979018 - reveals Copper, Copper, Golem, Fortress, Golem, Potion, Silver, Copper, Copper, Copper, King's Court
+Guest_979018 - discards: Copper, Copper, Golem, Golem, Potion, Silver, Copper, Copper, Copper
+Guest_979018 - plays Fortress
+Guest_979018 - draws Silver
+Guest_979018 - plays King's Court
+Guest_979018 - plays Outpost
+Guest_979018 - plays Outpost
+Guest_979018 - plays Outpost
+Guest_979018 - plays 2 Silver, 1 Copper
+Guest_979018 - buys Throne Room
+ftl - gains Throne Room
+Guest_979018 - draws Scrying Pool, Copper, Scrying Pool
+Guest_979018 - duration Outpost
+ 
+---------- Guest_979018: turn 13 [possessed] ----------
+Guest_979018 - plays Scrying Pool
+Guest_979018 - discards Estate
+guest5451 - places Sage on top of deck
+ftl - places Apprentice on top of deck
+Guest_979018 - reveals Possession, Gold
+Guest_979018 - plays Scrying Pool
+Guest_979018 - places Apprentice on top of deck
+guest5451 - places Sage on top of deck
+ftl - places Apprentice on top of deck
+Guest_979018 - shuffles deck
+Guest_979018 - reveals Apprentice, Golem, Golem, Silver
+Guest_979018 - plays Golem
+Guest_979018 - reveals Golem, Copper, Estate, Copper, Copper, Silver, Estate, Fortress, Silver, Copper, Copper, Copper, Potion
+Guest_979018 - discards: Golem, Copper, Estate, Copper, Copper, Silver, Estate, Silver, Copper, Copper, Copper, Potion
+Guest_979018 - plays Fortress
+Guest_979018 - shuffles deck
+Guest_979018 - draws Golem
+Guest_979018 - plays Apprentice
+Guest_979018 - trashes Golem
+Guest_979018 - draws Estate, Potion, Estate, Copper, Copper, Copper
+Guest_979018 - plays Golem
+Guest_979018 - reveals Silver, Copper, Silver, Copper, Copper
+Guest_979018 - discards: Silver, Copper, Silver, Copper, Copper
+Guest_979018 - plays Possession
+Guest_979018 - plays 4 Copper, 1 Gold, 1 Silver, 1 Potion
+Guest_979018 - buys Golem
+ftl - gains Golem
+Guest_979018 - shuffles deck
+Guest_979018 - draws Copper, Silver, Silver, Copper, Possession
+ 
+---------- Guest_979018: turn 13 [possessed] ----------
+Guest_979018 - plays Possession
+Guest_979018 - plays 2 Copper, 2 Silver
+Guest_979018 - buys Throne Room
+ftl - gains Throne Room
+Guest_979018 - draws Copper, Outpost, Estate, Estate, Golem
+ 
+---------- Guest_979018: turn 13 ----------
+ 
+------------ Game Over ------------
+ftl - cards: 4 Throne Room, 3 Vagrant, 3 Scrying Pool, 2 Possession, 2 Golem, 2 King's Court, 2 Apprentice, 1 Sage, 1 Outpost, 2 Silver, 1 Potion
+ftl - total victory points: 0
+ftl - turns: 13
+ 
+guest5451 - cards: 7 Possession, 4 Golem, 4 Throne Room, 3 Vagrant, 3 Scrying Pool, 2 Fortress, 2 Sage, 2 King's Court, 1 Apprentice, 1 Outpost, 4 Gold, 3 Copper, 2 Silver, 1 Potion
+guest5451 - total victory points: 0
+guest5451 - turns: 13
+ 
+Guest_979018 - quit
+Guest_979018 - cards: 3 Golem, 2 Scrying Pool, 1 King's Court, 1 Apprentice, 1 Possession, 1 Fortress, 1 Outpost, 7 Copper, 3 Silver, 1 Potion, 1 Gold, 2 Estate
+Guest_979018 - total victory points: 2
+Guest_979018 - turns: 12
+ 
+1st place: ftl
+1st place: guest5451
+2nd place: Guest_979018
+ 

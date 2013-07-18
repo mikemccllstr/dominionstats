@@ -1,0 +1,784 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Village, Bureaucrat, Militia, Remodel, Smithy, Thief, Festival, Market, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: casual
+guest3852 - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Warlord Bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+guest3852 - shuffles deck
+Warlord Bot - shuffles deck
+guest3852 - draws Estate, Copper, Copper, Copper, Copper
+Warlord Bot - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- guest3852: turn 1 ----------
+guest3852 - plays 4 Copper
+guest3852 - buys Bureaucrat
+guest3852 - gains Bureaucrat
+guest3852 - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Warlord Bot: turn 1 ----------
+Warlord Bot - plays 4 Copper
+Warlord Bot - buys Militia
+Warlord Bot - gains Militia
+Warlord Bot - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- guest3852: turn 2 ----------
+guest3852 - plays 3 Copper
+guest3852 - buys Chapel
+guest3852 - gains Chapel
+guest3852 - shuffles deck
+guest3852 - draws Copper, Copper, Estate, Estate, Estate
+ 
+---------- Warlord Bot: turn 2 ----------
+Warlord Bot - plays 3 Copper
+Warlord Bot - buys Chapel
+Warlord Bot - gains Chapel
+Warlord Bot - shuffles deck
+Warlord Bot - draws Copper, Chapel, Estate, Copper, Copper
+ 
+---------- guest3852: turn 3 ----------
+guest3852 - draws Copper, Copper, Copper, Chapel, Bureaucrat
+ 
+---------- Warlord Bot: turn 3 ----------
+Warlord Bot - plays Chapel
+Warlord Bot - trashes Estate, Copper, Copper, Copper
+Warlord Bot - draws Copper, Estate, Militia, Copper, Copper
+ 
+---------- guest3852: turn 4 ----------
+guest3852 - plays Chapel
+guest3852 - trashes Copper, Copper, Copper
+guest3852 - draws Copper, Copper
+guest3852 - shuffles deck
+guest3852 - draws Copper, Estate, Estate
+ 
+---------- Warlord Bot: turn 4 ----------
+Warlord Bot - plays Militia
+guest3852 - discards Estate
+guest3852 - discards Estate
+Warlord Bot - plays 3 Copper
+Warlord Bot - buys Witch
+Warlord Bot - gains Witch
+Warlord Bot - draws Copper, Estate
+Warlord Bot - shuffles deck
+Warlord Bot - draws Chapel, Copper, Estate
+ 
+---------- guest3852: turn 5 ----------
+guest3852 - plays 3 Copper
+guest3852 - buys Silver
+guest3852 - gains Silver
+guest3852 - draws Chapel, Estate, Copper, Bureaucrat
+guest3852 - shuffles deck
+guest3852 - draws Estate
+ 
+---------- Warlord Bot: turn 5 ----------
+Warlord Bot - plays Chapel
+Warlord Bot - trashes Estate, Estate, Copper, Copper
+Warlord Bot - draws Militia, Copper, Copper, Witch
+Warlord Bot - shuffles deck
+Warlord Bot - draws Chapel
+ 
+---------- guest3852: turn 6 ----------
+guest3852 - plays Chapel
+guest3852 - trashes Estate, Copper, Bureaucrat, Estate
+guest3852 - draws Silver, Copper, Estate, Copper, Copper
+ 
+---------- Warlord Bot: turn 6 ----------
+Warlord Bot - plays Witch
+guest3852 - gains Curse
+Warlord Bot - plays 2 Copper
+Warlord Bot - shuffles deck
+Warlord Bot - draws Copper, Copper, Chapel, Witch, Militia
+ 
+---------- guest3852: turn 7 ----------
+guest3852 - plays 3 Copper, 1 Silver
+guest3852 - buys Festival
+guest3852 - gains Festival
+guest3852 - shuffles deck
+guest3852 - draws Copper, Silver, Estate, Festival, Curse
+ 
+---------- Warlord Bot: turn 7 ----------
+Warlord Bot - plays Witch
+guest3852 - gains Curse
+Warlord Bot - plays 2 Copper
+Warlord Bot - shuffles deck
+Warlord Bot - draws Witch, Copper, Militia, Copper, Chapel
+ 
+---------- guest3852: turn 8 ----------
+guest3852 - plays Festival
+guest3852 - plays 1 Copper, 1 Silver
+guest3852 - buys Witch
+guest3852 - gains Witch
+guest3852 - draws Copper, Copper, Chapel
+guest3852 - shuffles deck
+guest3852 - draws Curse, Copper
+ 
+---------- Warlord Bot: turn 8 ----------
+Warlord Bot - plays Witch
+guest3852 - gains Curse
+Warlord Bot - plays 2 Copper
+Warlord Bot - shuffles deck
+Warlord Bot - draws Witch, Militia, Chapel, Copper, Copper
+ 
+---------- guest3852: turn 9 ----------
+guest3852 - plays Chapel
+guest3852 - trashes Copper, Copper, Curse, Copper
+guest3852 - draws Festival, Silver, Estate, Curse, Witch
+ 
+---------- Warlord Bot: turn 9 ----------
+Warlord Bot - plays Witch
+guest3852 - gains Curse
+Warlord Bot - plays 2 Copper
+Warlord Bot - shuffles deck
+Warlord Bot - draws Witch, Copper, Chapel, Copper, Militia
+ 
+---------- guest3852: turn 10 ----------
+guest3852 - plays Festival
+guest3852 - plays Witch
+guest3852 - shuffles deck
+guest3852 - draws Curse, Curse
+Warlord Bot - gains Curse
+guest3852 - draws Chapel
+guest3852 - shuffles deck
+guest3852 - draws Silver, Curse, Estate, Witch
+ 
+---------- Warlord Bot: turn 10 ----------
+Warlord Bot - plays Witch
+Warlord Bot - shuffles deck
+Warlord Bot - draws Curse
+guest3852 - gains Curse
+Warlord Bot - plays 2 Copper
+Warlord Bot - shuffles deck
+Warlord Bot - draws Copper, Curse, Chapel, Copper, Militia
+ 
+---------- guest3852: turn 11 ----------
+guest3852 - plays Chapel
+guest3852 - trashes Curse, Estate
+guest3852 - draws Curse, Festival, Curse
+guest3852 - shuffles deck
+guest3852 - draws Curse, Witch
+ 
+---------- Warlord Bot: turn 11 ----------
+Warlord Bot - plays Militia
+guest3852 - discards Curse
+guest3852 - discards Curse
+Warlord Bot - plays 2 Copper
+Warlord Bot - buys Militia
+Warlord Bot - gains Militia
+Warlord Bot - draws Witch
+Warlord Bot - shuffles deck
+Warlord Bot - draws Militia, Copper, Copper, Militia
+ 
+---------- guest3852: turn 12 ----------
+guest3852 - plays Festival
+guest3852 - plays Witch
+guest3852 - draws Chapel, Silver
+Warlord Bot - gains Curse
+guest3852 - plays Chapel
+guest3852 - trashes Curse
+guest3852 - plays 1 Silver
+guest3852 - buys Militia
+guest3852 - gains Militia
+guest3852 - shuffles deck
+guest3852 - draws Curse, Militia, Festival, Silver, Curse
+ 
+---------- Warlord Bot: turn 12 ----------
+Warlord Bot - plays Witch
+Warlord Bot - draws Curse, Chapel
+guest3852 - gains Curse
+Warlord Bot - plays 2 Copper
+Warlord Bot - shuffles deck
+Warlord Bot - draws Militia, Copper, Curse, Militia, Curse
+ 
+---------- guest3852: turn 13 ----------
+guest3852 - plays Festival
+guest3852 - plays Militia
+Warlord Bot - discards Curse
+Warlord Bot - discards Curse
+guest3852 - plays 1 Silver
+guest3852 - buys Festival
+guest3852 - gains Festival
+guest3852 - draws Chapel, Witch
+guest3852 - shuffles deck
+guest3852 - draws Silver, Festival, Curse
+ 
+---------- Warlord Bot: turn 13 ----------
+Warlord Bot - plays Militia
+guest3852 - discards Curse
+guest3852 - discards Chapel
+Warlord Bot - plays 1 Copper
+Warlord Bot - buys Village
+Warlord Bot - gains Village
+Warlord Bot - draws Chapel, Witch, Copper
+Warlord Bot - shuffles deck
+Warlord Bot - draws Village, Copper
+ 
+---------- guest3852: turn 14 ----------
+guest3852 - plays Festival
+guest3852 - plays Witch
+guest3852 - draws Curse, Militia
+Warlord Bot - gains Curse
+guest3852 - plays Militia
+Warlord Bot - discards Copper
+Warlord Bot - discards Copper
+guest3852 - plays 1 Silver
+guest3852 - buys Smithy
+guest3852 - gains Smithy
+guest3852 - draws Festival, Curse
+guest3852 - shuffles deck
+guest3852 - draws Militia, Festival, Chapel
+ 
+---------- Warlord Bot: turn 14 ----------
+Warlord Bot - plays Village
+Warlord Bot - draws Curse
+Warlord Bot - plays Witch
+Warlord Bot - draws Curse, Militia
+guest3852 - gains Curse
+Warlord Bot - plays Militia
+guest3852 - discards Chapel
+guest3852 - discards Curse
+Warlord Bot - draws Militia
+Warlord Bot - shuffles deck
+Warlord Bot - draws Curse, Curse, Copper, Copper
+ 
+---------- guest3852: turn 15 ----------
+guest3852 - plays Festival
+guest3852 - plays Militia
+Warlord Bot - discards Curse
+Warlord Bot - discards Curse
+guest3852 - plays Festival
+guest3852 - buys Festival
+guest3852 - gains Festival
+guest3852 - draws Silver, Witch, Curse, Curse, Smithy
+ 
+---------- Warlord Bot: turn 15 ----------
+Warlord Bot - plays Militia
+guest3852 - discards Witch
+guest3852 - discards Curse
+Warlord Bot - plays 2 Copper
+Warlord Bot - buys Village
+Warlord Bot - gains Village
+Warlord Bot - draws Village, Chapel, Militia, Curse, Witch
+ 
+---------- guest3852: turn 16 ----------
+guest3852 - plays Smithy
+guest3852 - shuffles deck
+guest3852 - draws Chapel, Militia, Curse
+guest3852 - draws Curse, Festival, Festival, Curse, Witch
+ 
+---------- Warlord Bot: turn 16 ----------
+Warlord Bot - plays Village
+Warlord Bot - shuffles deck
+Warlord Bot - draws Curse
+Warlord Bot - plays Militia
+guest3852 - discards Curse
+guest3852 - discards Curse
+Warlord Bot - plays Chapel
+Warlord Bot - trashes Curse, Curse
+Warlord Bot - draws Militia, Copper, Village, Curse, Copper
+ 
+---------- guest3852: turn 17 ----------
+guest3852 - plays Festival
+guest3852 - plays Festival
+guest3852 - plays Witch
+guest3852 - draws Festival
+guest3852 - shuffles deck
+guest3852 - draws Curse
+guest3852 - plays Festival
+guest3852 - buys Smithy
+guest3852 - gains Smithy
+guest3852 - draws Curse, Curse, Smithy, Silver, Chapel
+ 
+---------- Warlord Bot: turn 17 ----------
+Warlord Bot - plays Village
+Warlord Bot - shuffles deck
+Warlord Bot - draws Chapel
+Warlord Bot - plays Militia
+guest3852 - discards Curse
+guest3852 - discards Curse
+Warlord Bot - plays Chapel
+Warlord Bot - trashes Curse, Copper, Copper
+Warlord Bot - draws Militia, Village, Witch
+Warlord Bot - shuffles deck
+Warlord Bot - draws Militia, Village
+ 
+---------- guest3852: turn 18 ----------
+guest3852 - draws Curse, Militia
+guest3852 - shuffles deck
+guest3852 - draws Witch, Silver, Festival
+ 
+---------- Warlord Bot: turn 18 ----------
+Warlord Bot - plays Village
+Warlord Bot - draws Chapel
+Warlord Bot - plays Village
+Warlord Bot - plays Militia
+guest3852 - discards Curse
+guest3852 - discards Silver
+Warlord Bot - plays Militia
+Warlord Bot - buys Militia
+Warlord Bot - gains Militia
+Warlord Bot - shuffles deck
+Warlord Bot - draws Militia, Militia, Militia, Village, Village
+ 
+---------- guest3852: turn 19 ----------
+guest3852 - plays Festival
+guest3852 - plays Witch
+guest3852 - draws Smithy, Smithy
+guest3852 - plays Smithy
+guest3852 - draws Curse, Chapel, Festival
+guest3852 - draws Curse, Curse, Festival
+guest3852 - shuffles deck
+guest3852 - draws Smithy, Festival
+ 
+---------- Warlord Bot: turn 19 ----------
+Warlord Bot - plays Village
+Warlord Bot - draws Chapel
+Warlord Bot - plays Village
+Warlord Bot - draws Witch
+Warlord Bot - plays Militia
+guest3852 - discards Curse
+guest3852 - discards Curse
+Warlord Bot - plays Militia
+Warlord Bot - plays Militia
+Warlord Bot - buys Gold
+Warlord Bot - gains Gold
+Warlord Bot - shuffles deck
+Warlord Bot - draws Militia, Village, Militia, Witch, Chapel
+ 
+---------- guest3852: turn 20 ----------
+guest3852 - plays Festival
+guest3852 - plays Festival
+guest3852 - plays Smithy
+guest3852 - draws Curse, Chapel, Curse
+guest3852 - plays Chapel
+guest3852 - trashes Curse, Curse
+guest3852 - buys Village
+guest3852 - gains Village
+guest3852 - draws Witch, Silver, Festival, Smithy, Militia
+ 
+---------- Warlord Bot: turn 20 ----------
+Warlord Bot - plays Village
+Warlord Bot - draws Gold
+Warlord Bot - plays Militia
+guest3852 - discards Silver
+guest3852 - discards Militia
+Warlord Bot - plays Militia
+Warlord Bot - plays 1 Gold
+Warlord Bot - buys Festival
+Warlord Bot - gains Festival
+Warlord Bot - draws Village, Militia
+Warlord Bot - shuffles deck
+Warlord Bot - draws Festival, Militia, Witch
+ 
+---------- guest3852: turn 21 ----------
+guest3852 - plays Festival
+guest3852 - plays Smithy
+guest3852 - shuffles deck
+guest3852 - draws Village, Curse, Curse
+guest3852 - plays Village
+guest3852 - draws Chapel
+guest3852 - plays Witch
+guest3852 - draws Festival, Silver
+guest3852 - plays Festival
+guest3852 - plays Chapel
+guest3852 - trashes Curse, Curse
+guest3852 - plays 1 Silver
+guest3852 - buys Village
+guest3852 - gains Village
+guest3852 - buys Village
+guest3852 - gains Village
+guest3852 - draws Festival, Militia, Smithy
+guest3852 - shuffles deck
+guest3852 - draws Village, Silver
+ 
+---------- Warlord Bot: turn 21 ----------
+Warlord Bot - plays Festival
+Warlord Bot - plays Village
+Warlord Bot - draws Chapel
+Warlord Bot - plays Militia
+guest3852 - discards Silver
+guest3852 - discards Militia
+Warlord Bot - plays Militia
+Warlord Bot - plays Witch
+Warlord Bot - draws Gold, Militia
+Warlord Bot - plays 1 Gold
+Warlord Bot - buys Festival
+Warlord Bot - gains Festival
+Warlord Bot - buys Militia
+Warlord Bot - gains Militia
+Warlord Bot - draws Village
+Warlord Bot - shuffles deck
+Warlord Bot - draws Witch, Militia, Chapel, Festival
+ 
+---------- guest3852: turn 22 ----------
+guest3852 - plays Festival
+guest3852 - plays Smithy
+guest3852 - draws Smithy, Witch, Village
+guest3852 - plays Village
+guest3852 - draws Village
+guest3852 - plays Smithy
+guest3852 - draws Festival, Chapel, Festival
+guest3852 - plays Village
+guest3852 - shuffles deck
+guest3852 - draws Silver
+guest3852 - plays Village
+guest3852 - draws Militia
+guest3852 - plays Festival
+guest3852 - plays Witch
+guest3852 - plays Festival
+guest3852 - plays Militia
+Warlord Bot - discards Chapel
+Warlord Bot - discards Witch
+guest3852 - plays 1 Silver
+guest3852 - buys Gold
+guest3852 - gains Gold
+guest3852 - buys Smithy
+guest3852 - gains Smithy
+guest3852 - shuffles deck
+guest3852 - draws Smithy, Festival, Witch, Smithy, Chapel
+ 
+---------- Warlord Bot: turn 22 ----------
+Warlord Bot - plays Festival
+Warlord Bot - plays Village
+Warlord Bot - draws Gold
+Warlord Bot - plays Militia
+guest3852 - discards Witch
+guest3852 - discards Chapel
+Warlord Bot - plays 1 Gold
+Warlord Bot - buys Militia
+Warlord Bot - gains Militia
+Warlord Bot - buys Village
+Warlord Bot - gains Village
+Warlord Bot - draws Festival, Village, Militia, Militia, Militia
+ 
+---------- guest3852: turn 23 ----------
+guest3852 - plays Festival
+guest3852 - plays Smithy
+guest3852 - draws Gold, Silver, Village
+guest3852 - plays Village
+guest3852 - draws Smithy
+guest3852 - plays Smithy
+guest3852 - draws Festival, Village, Militia
+guest3852 - plays Village
+guest3852 - draws Village
+guest3852 - plays Smithy
+guest3852 - draws Festival
+guest3852 - shuffles deck
+guest3852 - draws Witch, Chapel
+guest3852 - plays Festival
+guest3852 - plays Militia
+Warlord Bot - discards Militia
+Warlord Bot - discards Militia
+guest3852 - plays Village
+guest3852 - plays Festival
+guest3852 - plays Witch
+guest3852 - plays 1 Gold, 1 Silver
+guest3852 - buys Gold
+guest3852 - gains Gold
+guest3852 - buys Village
+guest3852 - gains Village
+guest3852 - buys Village
+guest3852 - gains Village
+guest3852 - shuffles deck
+guest3852 - draws Smithy, Festival, Gold, Gold, Village
+ 
+---------- Warlord Bot: turn 23 ----------
+Warlord Bot - plays Festival
+Warlord Bot - plays Village
+Warlord Bot - shuffles deck
+Warlord Bot - draws Village
+Warlord Bot - plays Village
+Warlord Bot - draws Gold
+Warlord Bot - plays Militia
+guest3852 - discards Gold
+guest3852 - discards Gold
+Warlord Bot - plays 1 Gold
+Warlord Bot - buys Village
+Warlord Bot - gains Village
+Warlord Bot - buys Militia
+Warlord Bot - gains Militia
+Warlord Bot - draws Militia, Chapel, Militia, Village, Witch
+ 
+---------- guest3852: turn 24 ----------
+guest3852 - plays Festival
+guest3852 - plays Village
+guest3852 - draws Village
+guest3852 - plays Smithy
+guest3852 - draws Village, Festival, Silver
+guest3852 - plays Village
+guest3852 - draws Witch
+guest3852 - plays Village
+guest3852 - draws Militia
+guest3852 - plays Festival
+guest3852 - plays Witch
+guest3852 - draws Chapel, Festival
+guest3852 - plays Festival
+guest3852 - plays Militia
+Warlord Bot - discards Chapel
+Warlord Bot - discards Witch
+guest3852 - plays 1 Silver
+guest3852 - buys Smithy
+guest3852 - gains Smithy
+guest3852 - buys Smithy
+guest3852 - gains Smithy
+guest3852 - draws Village, Smithy, Smithy, Village
+guest3852 - shuffles deck
+guest3852 - draws Smithy
+ 
+---------- Warlord Bot: turn 24 ----------
+Warlord Bot - plays Village
+Warlord Bot - draws Militia
+Warlord Bot - plays Militia
+guest3852 - discards Village
+guest3852 - discards Smithy
+Warlord Bot - plays Militia
+Warlord Bot - buys Village
+Warlord Bot - gains Village
+Warlord Bot - draws Festival, Militia
+Warlord Bot - shuffles deck
+Warlord Bot - draws Village, Militia, Militia
+ 
+---------- guest3852: turn 25 ----------
+guest3852 - plays Village
+guest3852 - draws Festival
+guest3852 - plays Smithy
+guest3852 - draws Village, Festival, Gold
+guest3852 - plays Festival
+guest3852 - plays Smithy
+guest3852 - draws Militia, Festival, Chapel
+guest3852 - plays Village
+guest3852 - draws Smithy
+guest3852 - plays Festival
+guest3852 - plays Festival
+guest3852 - plays Smithy
+guest3852 - draws Gold, Village, Silver
+guest3852 - plays Village
+guest3852 - draws Smithy
+guest3852 - plays Militia
+Warlord Bot - discards Militia
+Warlord Bot - discards Militia
+guest3852 - plays Smithy
+guest3852 - draws Witch, Village
+guest3852 - shuffles deck
+guest3852 - draws Smithy
+guest3852 - plays Village
+guest3852 - draws Village
+guest3852 - plays Smithy
+guest3852 - plays Village
+guest3852 - plays Witch
+guest3852 - plays 2 Gold, 1 Silver
+guest3852 - buys Province
+guest3852 - gains Province
+guest3852 - buys Province
+guest3852 - gains Province
+guest3852 - shuffles deck
+guest3852 - draws Smithy, Silver, Militia, Province, Smithy
+ 
+---------- Warlord Bot: turn 25 ----------
+Warlord Bot - plays Festival
+Warlord Bot - plays Village
+Warlord Bot - draws Chapel
+Warlord Bot - plays Militia
+guest3852 - discards Province
+guest3852 - discards Smithy
+Warlord Bot - buys Estate
+Warlord Bot - gains Estate
+Warlord Bot - buys Estate
+Warlord Bot - gains Estate
+Warlord Bot - draws Witch, Gold, Village, Militia, Village
+ 
+---------- guest3852: turn 26 ----------
+guest3852 - plays Militia
+Warlord Bot - discards Gold
+Warlord Bot - discards Witch
+guest3852 - draws Gold, Chapel, Village, Village, Smithy
+ 
+---------- Warlord Bot: turn 26 ----------
+Warlord Bot - plays Village
+Warlord Bot - draws Militia
+Warlord Bot - plays Village
+Warlord Bot - draws Village
+Warlord Bot - plays Village
+Warlord Bot - draws Village
+Warlord Bot - plays Village
+Warlord Bot - draws Militia
+Warlord Bot - plays Militia
+guest3852 - discards Chapel
+guest3852 - discards Gold
+Warlord Bot - plays Militia
+Warlord Bot - plays Militia
+Warlord Bot - buys Duchy
+Warlord Bot - gains Duchy
+Warlord Bot - draws Festival
+Warlord Bot - shuffles deck
+Warlord Bot - draws Village, Estate, Witch, Militia
+ 
+---------- guest3852: turn 27 ----------
+guest3852 - plays Village
+guest3852 - draws Smithy
+guest3852 - plays Village
+guest3852 - draws Smithy
+guest3852 - plays Smithy
+guest3852 - draws Village, Village, Festival
+guest3852 - plays Smithy
+guest3852 - draws Province, Witch, Gold
+guest3852 - plays Village
+guest3852 - draws Festival
+guest3852 - plays Festival
+guest3852 - plays Village
+guest3852 - draws Village
+guest3852 - plays Smithy
+guest3852 - draws Festival
+guest3852 - shuffles deck
+guest3852 - draws Silver, Militia
+guest3852 - plays Festival
+guest3852 - plays Village
+guest3852 - draws Smithy
+guest3852 - plays Festival
+guest3852 - plays Smithy
+guest3852 - draws Gold, Smithy, Province
+guest3852 - plays Smithy
+guest3852 - draws Chapel
+guest3852 - plays Militia
+Warlord Bot - discards Estate
+Warlord Bot - discards Witch
+guest3852 - plays 2 Gold, 1 Silver
+guest3852 - buys Province
+guest3852 - gains Province
+guest3852 - buys Province
+guest3852 - gains Province
+guest3852 - shuffles deck
+guest3852 - draws Smithy, Village, Festival, Smithy, Silver
+ 
+---------- Warlord Bot: turn 27 ----------
+Warlord Bot - plays Festival
+Warlord Bot - plays Village
+Warlord Bot - draws Militia
+Warlord Bot - plays Militia
+guest3852 - discards Silver
+guest3852 - discards Festival
+Warlord Bot - plays Militia
+Warlord Bot - buys Duchy
+Warlord Bot - gains Duchy
+Warlord Bot - draws Estate, Festival, Duchy, Militia, Village
+ 
+---------- guest3852: turn 28 ----------
+guest3852 - plays Village
+guest3852 - draws Smithy
+guest3852 - plays Smithy
+guest3852 - draws Smithy, Village, Smithy
+guest3852 - plays Village
+guest3852 - draws Province
+guest3852 - plays Smithy
+guest3852 - draws Village, Festival, Chapel
+guest3852 - plays Village
+guest3852 - draws Village
+guest3852 - plays Smithy
+guest3852 - draws Witch, Militia, Festival
+guest3852 - plays Festival
+guest3852 - plays Smithy
+guest3852 - draws Village, Province, Province
+guest3852 - plays Village
+guest3852 - draws Gold
+guest3852 - plays Village
+guest3852 - draws Gold
+guest3852 - plays Smithy
+guest3852 - draws Province
+guest3852 - shuffles deck
+guest3852 - draws Festival, Silver
+guest3852 - plays Festival
+guest3852 - plays Festival
+guest3852 - plays Militia
+Warlord Bot - discards Duchy
+Warlord Bot - discards Estate
+guest3852 - plays Witch
+guest3852 - plays 2 Gold, 1 Silver
+guest3852 - buys Province
+guest3852 - gains Province
+guest3852 - buys Province
+guest3852 - gains Province
+guest3852 - shuffles deck
+guest3852 - draws Silver, Province, Province, Village, Smithy
+ 
+---------- Warlord Bot: turn 28 ----------
+Warlord Bot - plays Festival
+Warlord Bot - plays Village
+Warlord Bot - draws Village
+Warlord Bot - plays Village
+Warlord Bot - draws Gold
+Warlord Bot - plays Militia
+guest3852 - discards Province
+guest3852 - discards Province
+Warlord Bot - plays 1 Gold
+Warlord Bot - buys Duchy
+Warlord Bot - gains Duchy
+Warlord Bot - buys Estate
+Warlord Bot - gains Estate
+Warlord Bot - draws Militia, Village, Militia, Village, Chapel
+ 
+---------- guest3852: turn 29 ----------
+guest3852 - plays Village
+guest3852 - draws Chapel
+guest3852 - plays Smithy
+guest3852 - draws Province, Witch, Smithy
+guest3852 - plays Smithy
+guest3852 - draws Village, Village, Province
+guest3852 - draws Smithy, Gold, Smithy, Province, Province
+ 
+---------- Warlord Bot: turn 29 ----------
+Warlord Bot - plays Village
+Warlord Bot - draws Militia
+Warlord Bot - plays Village
+Warlord Bot - shuffles deck
+Warlord Bot - draws Village
+Warlord Bot - plays Village
+Warlord Bot - draws Gold
+Warlord Bot - plays Militia
+guest3852 - discards Province
+guest3852 - discards Smithy
+Warlord Bot - plays Militia
+Warlord Bot - plays Militia
+Warlord Bot - plays 1 Gold
+Warlord Bot - buys Province
+Warlord Bot - gains Province
+Warlord Bot - draws Festival, Duchy, Estate, Festival, Duchy
+ 
+---------- guest3852: turn 30 ----------
+guest3852 - plays Smithy
+guest3852 - draws Village, Militia, Festival
+guest3852 - draws Festival, Festival, Village, Smithy, Gold
+ 
+---------- Warlord Bot: turn 30 ----------
+Warlord Bot - plays Festival
+Warlord Bot - plays Festival
+Warlord Bot - buys Estate
+Warlord Bot - gains Estate
+Warlord Bot - buys Estate
+Warlord Bot - gains Estate
+Warlord Bot - draws Estate, Village, Militia, Village, Militia
+ 
+---------- guest3852: turn 31 ----------
+guest3852 - plays Festival
+guest3852 - plays Festival
+guest3852 - plays Village
+guest3852 - shuffles deck
+guest3852 - draws Village
+guest3852 - plays Village
+guest3852 - draws Province
+guest3852 - plays Smithy
+guest3852 - draws Festival, Province, Chapel
+guest3852 - plays Festival
+guest3852 - plays 1 Gold
+guest3852 - buys Province
+guest3852 - gains Province
+guest3852 - draws Province, Gold, Province, Village, Smithy
+ 
+------------ Game Over ------------
+guest3852 - cards: 5 Village, 5 Smithy, 3 Festival, 1 Chapel, 1 Witch, 1 Militia, 2 Gold, 1 Silver, 7 Province
+guest3852 - total victory points: 42
+guest3852 - turns: 31
+ 
+Warlord Bot - cards: 6 Militia, 5 Village, 2 Festival, 1 Chapel, 1 Witch, 1 Gold, 5 Estate, 3 Duchy, 1 Province
+Warlord Bot - total victory points: 20
+Warlord Bot - turns: 30
+ 
+1st place: guest3852
+2nd place: Warlord Bot
+ 

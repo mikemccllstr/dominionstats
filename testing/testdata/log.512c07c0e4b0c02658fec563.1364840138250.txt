@@ -1,0 +1,531 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Hermit, Swindler, Bureaucrat, Cutpurse, Death Cart, Pirate Ship, Procession, Counterfeit, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Ruins
+treetop70 - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Warlord Bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+treetop70 - shuffles deck
+Warlord Bot - shuffles deck
+treetop70 - draws Estate, Copper, Copper, Estate, Copper
+Warlord Bot - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- treetop70: turn 1 ----------
+treetop70 - plays 3 Copper
+treetop70 - buys Hermit
+treetop70 - gains Hermit
+treetop70 - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Warlord Bot: turn 1 ----------
+Warlord Bot - plays 5 Copper
+Warlord Bot - buys Counterfeit
+Warlord Bot - gains Counterfeit
+Warlord Bot - draws Estate, Estate, Estate, Copper, Copper
+ 
+---------- treetop70: turn 2 ----------
+treetop70 - plays 4 Copper
+treetop70 - buys Death Cart
+treetop70 - gains Death Cart
+treetop70 - gains Ruined Village
+treetop70 - gains Ruined Library
+treetop70 - shuffles deck
+treetop70 - draws Hermit, Copper, Copper, Copper, Ruined Library
+ 
+---------- Warlord Bot: turn 2 ----------
+Warlord Bot - plays 2 Copper
+Warlord Bot - buys Cellar
+Warlord Bot - gains Cellar
+Warlord Bot - shuffles deck
+Warlord Bot - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- treetop70: turn 3 ----------
+treetop70 - plays Hermit
+treetop70 - trashes Ruined Library
+treetop70 - gains Silver
+treetop70 - plays 3 Copper
+treetop70 - buys Silver
+treetop70 - gains Silver
+treetop70 - draws Ruined Village, Copper, Copper, Estate, Copper
+ 
+---------- Warlord Bot: turn 3 ----------
+Warlord Bot - plays 4 Copper
+Warlord Bot - buys Cutpurse
+Warlord Bot - gains Cutpurse
+Warlord Bot - draws Counterfeit, Cellar, Copper, Estate, Copper
+ 
+---------- treetop70: turn 4 ----------
+treetop70 - plays 3 Copper
+treetop70 - buys Swindler
+treetop70 - gains Swindler
+treetop70 - draws Estate, Death Cart, Estate, Copper
+treetop70 - shuffles deck
+treetop70 - draws Copper
+ 
+---------- Warlord Bot: turn 4 ----------
+Warlord Bot - plays Cellar
+Warlord Bot - discards Estate
+Warlord Bot - discards Copper
+Warlord Bot - discards Copper
+Warlord Bot - draws Copper, Estate
+Warlord Bot - shuffles deck
+Warlord Bot - draws Copper
+Warlord Bot - plays Counterfeit
+Warlord Bot - plays Copper
+Warlord Bot - plays Copper
+Warlord Bot - trashes Copper
+Warlord Bot - plays 1 Copper
+Warlord Bot - buys Cutpurse
+Warlord Bot - gains Cutpurse
+Warlord Bot - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- treetop70: turn 5 ----------
+treetop70 - plays Death Cart
+treetop70 - trashes Death Cart
+treetop70 - plays 2 Copper
+treetop70 - buys Forge
+treetop70 - gains Forge
+treetop70 - draws Silver, Ruined Village, Copper, Copper, Estate
+ 
+---------- Warlord Bot: turn 5 ----------
+Warlord Bot - plays 4 Copper
+Warlord Bot - buys Procession
+Warlord Bot - gains Procession
+Warlord Bot - draws Estate, Cutpurse, Copper
+Warlord Bot - shuffles deck
+Warlord Bot - draws Procession, Copper
+ 
+---------- treetop70: turn 6 ----------
+treetop70 - plays 2 Copper, 1 Silver
+treetop70 - buys Cutpurse
+treetop70 - gains Cutpurse
+treetop70 - draws Copper, Copper, Hermit, Copper, Swindler
+ 
+---------- Warlord Bot: turn 6 ----------
+Warlord Bot - plays Cutpurse
+treetop70 - discards Copper
+Warlord Bot - plays 2 Copper
+Warlord Bot - buys Death Cart
+Warlord Bot - gains Death Cart
+Warlord Bot - gains Abandoned Mine
+Warlord Bot - gains Survivors
+Warlord Bot - draws Estate, Cellar, Copper, Estate, Counterfeit
+ 
+---------- treetop70: turn 7 ----------
+treetop70 - plays Swindler
+Warlord Bot - reveals Cutpurse
+Warlord Bot - trashes Cutpurse
+Warlord Bot - gains Pirate Ship
+treetop70 - plays 2 Copper
+treetop70 - buys Death Cart
+treetop70 - gains Death Cart
+treetop70 - gains Ruined Library
+treetop70 - gains Ruined Village
+treetop70 - draws Silver
+treetop70 - shuffles deck
+treetop70 - draws Forge, Estate, Copper, Hermit
+ 
+---------- Warlord Bot: turn 7 ----------
+Warlord Bot - plays Cellar
+Warlord Bot - discards Estate
+Warlord Bot - discards Estate
+Warlord Bot - discards Copper
+Warlord Bot - draws Copper, Copper, Copper
+Warlord Bot - plays Counterfeit
+Warlord Bot - plays Copper
+Warlord Bot - plays Copper
+Warlord Bot - trashes Copper
+Warlord Bot - plays 2 Copper
+Warlord Bot - buys Silver
+Warlord Bot - gains Silver
+Warlord Bot - buys Cellar
+Warlord Bot - gains Cellar
+Warlord Bot - shuffles deck
+Warlord Bot - draws Cutpurse, Survivors, Copper, Pirate Ship, Abandoned Mine
+ 
+---------- treetop70: turn 8 ----------
+treetop70 - plays Forge
+treetop70 - trashes Silver, Estate, Copper, Hermit
+treetop70 - gains Province
+treetop70 - draws Copper, Ruined Village, Estate, Copper, Swindler
+ 
+---------- Warlord Bot: turn 8 ----------
+Warlord Bot - plays Pirate Ship
+treetop70 - reveals Ruined Library, Silver
+Warlord Bot - trashes Silver
+treetop70 - discards Ruined Library
+Warlord Bot - receives a pirate coin, now has 1 pirate coin(s)
+Warlord Bot - plays 1 Copper
+Warlord Bot - draws Estate, Copper, Counterfeit, Estate, Copper
+ 
+---------- treetop70: turn 9 ----------
+treetop70 - plays Ruined Village
+treetop70 - plays Swindler
+Warlord Bot - reveals Cellar
+Warlord Bot - trashes Cellar
+Warlord Bot - gains Estate
+treetop70 - plays 2 Copper
+treetop70 - buys Death Cart
+treetop70 - gains Death Cart
+treetop70 - gains Ruined Library
+treetop70 - gains Ruined Library
+treetop70 - draws Ruined Village, Copper, Cutpurse, Death Cart, Copper
+ 
+---------- Warlord Bot: turn 9 ----------
+Warlord Bot - plays Counterfeit
+Warlord Bot - plays Copper
+Warlord Bot - plays Copper
+Warlord Bot - trashes Copper
+Warlord Bot - plays 1 Copper
+Warlord Bot - buys Death Cart
+Warlord Bot - gains Death Cart
+Warlord Bot - gains Abandoned Mine
+Warlord Bot - gains Survivors
+Warlord Bot - draws Cellar, Copper, Silver, Death Cart, Estate
+ 
+---------- treetop70: turn 10 ----------
+treetop70 - plays Death Cart
+treetop70 - trashes Ruined Village
+treetop70 - plays Copper
+treetop70 - buys Gold
+treetop70 - gains Gold
+treetop70 - draws Copper, Copper, Estate
+treetop70 - shuffles deck
+treetop70 - draws Ruined Library, Death Cart
+ 
+---------- Warlord Bot: turn 10 ----------
+Warlord Bot - plays Cellar
+Warlord Bot - discards Estate
+Warlord Bot - discards Copper
+Warlord Bot - draws Copper, Procession
+Warlord Bot - plays Death Cart
+Warlord Bot - trashes Procession
+Warlord Bot - plays 1 Silver, 1 Copper
+Warlord Bot - buys Province
+Warlord Bot - gains Province
+Warlord Bot - shuffles deck
+Warlord Bot - draws Estate, Abandoned Mine, Survivors, Cellar, Death Cart
+ 
+---------- treetop70: turn 11 ----------
+treetop70 - plays Death Cart
+treetop70 - trashes Ruined Library
+treetop70 - plays 2 Copper
+treetop70 - buys Gold
+treetop70 - gains Gold
+treetop70 - draws Copper, Cutpurse, Swindler, Province, Forge
+ 
+---------- Warlord Bot: turn 11 ----------
+Warlord Bot - plays Cellar
+Warlord Bot - discards Estate
+Warlord Bot - discards Abandoned Mine
+Warlord Bot - discards Survivors
+Warlord Bot - draws Province, Death Cart, Silver
+Warlord Bot - plays Death Cart
+Warlord Bot - trashes Death Cart
+Warlord Bot - plays 1 Silver
+Warlord Bot - buys Gold
+Warlord Bot - gains Gold
+Warlord Bot - draws Copper, Cutpurse, Estate, Estate, Survivors
+ 
+---------- treetop70: turn 12 ----------
+treetop70 - plays Forge
+treetop70 - trashes Swindler, Cutpurse, Copper
+treetop70 - gains Forge
+treetop70 - draws Ruined Library, Ruined Village, Death Cart, Estate, Copper
+ 
+---------- Warlord Bot: turn 12 ----------
+Warlord Bot - plays Cutpurse
+treetop70 - discards Copper
+Warlord Bot - plays 1 Copper
+Warlord Bot - buys Silver
+Warlord Bot - gains Silver
+Warlord Bot - draws Abandoned Mine, Pirate Ship, Copper, Counterfeit, Copper
+ 
+---------- treetop70: turn 13 ----------
+treetop70 - plays Death Cart
+treetop70 - trashes Ruined Village
+treetop70 - buys Counterfeit
+treetop70 - gains Counterfeit
+treetop70 - draws Copper, Copper, Ruined Library, Gold
+treetop70 - shuffles deck
+treetop70 - draws Province
+ 
+---------- Warlord Bot: turn 13 ----------
+Warlord Bot - plays Pirate Ship
+treetop70 - reveals Forge, Copper
+Warlord Bot - trashes Copper
+treetop70 - discards Forge
+Warlord Bot - receives a pirate coin, now has 2 pirate coin(s)
+Warlord Bot - plays Counterfeit
+Warlord Bot - plays Copper
+Warlord Bot - plays Copper
+Warlord Bot - trashes Copper
+Warlord Bot - plays 1 Copper
+Warlord Bot - buys Death Cart
+Warlord Bot - gains Death Cart
+Warlord Bot - draws Estate, Copper
+Warlord Bot - shuffles deck
+Warlord Bot - draws Silver, Silver, Abandoned Mine
+ 
+---------- treetop70: turn 14 ----------
+treetop70 - plays Ruined Library
+treetop70 - draws Copper
+treetop70 - plays 3 Copper, 1 Gold
+treetop70 - buys Gold
+treetop70 - gains Gold
+treetop70 - draws Death Cart, Copper, Ruined Library, Counterfeit, Estate
+ 
+---------- Warlord Bot: turn 14 ----------
+Warlord Bot - plays Abandoned Mine
+Warlord Bot - plays 2 Silver, 1 Copper
+Warlord Bot - buys Gold
+Warlord Bot - gains Gold
+Warlord Bot - draws Counterfeit, Cellar, Copper, Pirate Ship, Death Cart
+ 
+---------- treetop70: turn 15 ----------
+treetop70 - plays Death Cart
+treetop70 - trashes Ruined Library
+treetop70 - plays Counterfeit
+treetop70 - plays Copper
+treetop70 - plays Copper
+treetop70 - trashes Copper
+treetop70 - buys Province
+treetop70 - gains Province
+treetop70 - draws Forge, Gold, Estate, Death Cart
+treetop70 - shuffles deck
+treetop70 - draws Gold
+ 
+---------- Warlord Bot: turn 15 ----------
+Warlord Bot - plays Cellar
+Warlord Bot - discards Copper
+Warlord Bot - draws Estate
+Warlord Bot - plays Pirate Ship
+treetop70 - reveals Copper, Copper
+Warlord Bot - trashes Copper
+treetop70 - discards Copper
+Warlord Bot - receives a pirate coin, now has 3 pirate coin(s)
+Warlord Bot - plays Counterfeit
+Warlord Bot - draws Province, Estate, Gold, Survivors, Cutpurse
+ 
+---------- treetop70: turn 16 ----------
+treetop70 - plays Death Cart
+treetop70 - trashes Forge
+treetop70 - plays 2 Gold
+treetop70 - buys Colony
+treetop70 - gains Colony
+treetop70 - draws Forge, Gold, Estate, Province, Copper
+ 
+---------- Warlord Bot: turn 16 ----------
+Warlord Bot - plays Cutpurse
+treetop70 - discards Copper
+Warlord Bot - plays 1 Gold
+Warlord Bot - buys Death Cart
+Warlord Bot - gains Death Cart
+Warlord Bot - draws Estate, Death Cart, Abandoned Mine, Survivors, Copper
+ 
+---------- treetop70: turn 17 ----------
+treetop70 - plays Forge
+treetop70 - trashes Gold, Estate
+treetop70 - gains Province
+treetop70 - draws Ruined Library, Counterfeit, Death Cart, Province
+treetop70 - shuffles deck
+treetop70 - draws Estate
+ 
+---------- Warlord Bot: turn 17 ----------
+Warlord Bot - plays Death Cart
+Warlord Bot - trashes Abandoned Mine
+Warlord Bot - plays 1 Copper
+Warlord Bot - buys Gold
+Warlord Bot - gains Gold
+Warlord Bot - shuffles deck
+Warlord Bot - draws Survivors, Cutpurse, Death Cart, Copper, Estate
+ 
+---------- treetop70: turn 18 ----------
+treetop70 - plays Death Cart
+treetop70 - trashes Ruined Library
+treetop70 - plays Counterfeit
+treetop70 - buys Gold
+treetop70 - gains Gold
+treetop70 - draws Province, Copper, Gold, Gold, Copper
+ 
+---------- Warlord Bot: turn 18 ----------
+Warlord Bot - plays Death Cart
+Warlord Bot - trashes Survivors
+Warlord Bot - plays 1 Copper
+Warlord Bot - buys Gold
+Warlord Bot - gains Gold
+Warlord Bot - draws Estate, Death Cart, Estate, Copper, Copper
+ 
+---------- treetop70: turn 19 ----------
+treetop70 - plays 2 Copper, 2 Gold
+treetop70 - buys Province
+treetop70 - gains Province
+treetop70 - draws Colony, Province, Death Cart, Forge
+treetop70 - shuffles deck
+treetop70 - draws Copper
+ 
+---------- Warlord Bot: turn 19 ----------
+Warlord Bot - plays Death Cart
+Warlord Bot - trashes Death Cart
+Warlord Bot - plays 2 Copper
+Warlord Bot - buys Duchy
+Warlord Bot - gains Duchy
+Warlord Bot - draws Gold, Gold, Abandoned Mine, Cellar, Silver
+ 
+---------- treetop70: turn 20 ----------
+treetop70 - plays Forge
+treetop70 - trashes Death Cart, Copper
+treetop70 - gains Death Cart
+treetop70 - draws Gold, Province, Province, Copper, Province
+ 
+---------- Warlord Bot: turn 20 ----------
+Warlord Bot - plays Cellar
+Warlord Bot - discards Abandoned Mine
+Warlord Bot - draws Gold
+Warlord Bot - plays 3 Gold, 1 Silver
+Warlord Bot - buys Colony
+Warlord Bot - gains Colony
+Warlord Bot - draws Survivors, Counterfeit, Death Cart, Pirate Ship, Estate
+ 
+---------- treetop70: turn 21 ----------
+treetop70 - plays 1 Gold, 1 Copper
+treetop70 - buys Bureaucrat
+treetop70 - gains Bureaucrat
+treetop70 - draws Gold, Counterfeit, Estate, Gold, Death Cart
+ 
+---------- Warlord Bot: turn 21 ----------
+Warlord Bot - plays Death Cart
+Warlord Bot - trashes Survivors
+Warlord Bot - plays Counterfeit
+Warlord Bot - buys Duchy
+Warlord Bot - gains Duchy
+Warlord Bot - draws Province, Silver
+Warlord Bot - shuffles deck
+Warlord Bot - draws Gold, Silver, Counterfeit
+ 
+---------- treetop70: turn 22 ----------
+treetop70 - plays Death Cart
+treetop70 - trashes Death Cart
+treetop70 - plays 2 Gold
+treetop70 - buys Colony
+treetop70 - gains Colony
+treetop70 - shuffles deck
+treetop70 - draws Province, Colony, Colony, Province, Counterfeit
+ 
+---------- Warlord Bot: turn 22 ----------
+Warlord Bot - plays Counterfeit
+Warlord Bot - plays 2 Silver, 1 Gold
+Warlord Bot - buys Province
+Warlord Bot - gains Province
+Warlord Bot - draws Cellar, Copper, Estate, Estate, Cutpurse
+ 
+---------- treetop70: turn 23 ----------
+treetop70 - draws Estate, Forge, Gold, Copper, Province
+ 
+---------- Warlord Bot: turn 23 ----------
+Warlord Bot - plays Cellar
+Warlord Bot - discards Estate
+Warlord Bot - discards Estate
+Warlord Bot - discards Copper
+Warlord Bot - draws Copper, Gold, Death Cart
+Warlord Bot - plays Cutpurse
+treetop70 - discards Copper
+Warlord Bot - plays 1 Copper, 1 Gold
+Warlord Bot - buys Duchy
+Warlord Bot - gains Duchy
+Warlord Bot - draws Colony, Duchy, Death Cart, Pirate Ship, Duchy
+ 
+---------- treetop70: turn 24 ----------
+treetop70 - plays Forge
+treetop70 - trashes Gold, Estate
+treetop70 - gains Province
+treetop70 - draws Gold, Death Cart, Province, Bureaucrat, Gold
+ 
+---------- Warlord Bot: turn 24 ----------
+Warlord Bot - plays Pirate Ship
+treetop70 - shuffles deck
+treetop70 - reveals Counterfeit, Colony
+Warlord Bot - trashes Counterfeit
+treetop70 - discards Colony
+Warlord Bot - receives a pirate coin, now has 4 pirate coin(s)
+Warlord Bot - draws Estate, Gold, Estate, Copper, Abandoned Mine
+ 
+---------- treetop70: turn 25 ----------
+treetop70 - plays Death Cart
+treetop70 - trashes Bureaucrat
+treetop70 - plays 2 Gold
+treetop70 - buys Colony
+treetop70 - gains Colony
+treetop70 - draws Copper, Province, Province, Province, Colony
+ 
+---------- Warlord Bot: turn 25 ----------
+Warlord Bot - plays Abandoned Mine
+Warlord Bot - plays 1 Gold, 1 Copper
+Warlord Bot - buys Duchy
+Warlord Bot - gains Duchy
+Warlord Bot - draws Gold
+Warlord Bot - shuffles deck
+Warlord Bot - draws Gold, Counterfeit, Estate, Duchy
+ 
+---------- treetop70: turn 26 ----------
+treetop70 - draws Forge, Province
+treetop70 - shuffles deck
+treetop70 - draws Province, Colony, Copper
+ 
+---------- Warlord Bot: turn 26 ----------
+Warlord Bot - plays Counterfeit
+Warlord Bot - plays Gold
+Warlord Bot - plays Gold
+Warlord Bot - trashes Gold
+Warlord Bot - plays 1 Gold
+Warlord Bot - buys Duchy
+Warlord Bot - gains Duchy
+Warlord Bot - buys Duchy
+Warlord Bot - gains Duchy
+Warlord Bot - draws Province, Cutpurse, Province, Death Cart, Duchy
+ 
+---------- treetop70: turn 27 ----------
+treetop70 - plays Forge
+treetop70 - trashes Colony, Copper
+treetop70 - gains Colony
+treetop70 - draws Gold, Province, Province, Province, Colony
+ 
+---------- Warlord Bot: turn 27 ----------
+Warlord Bot - plays Cutpurse
+treetop70 - reveals Gold, Province, Province, Province, Colony
+Warlord Bot - buys Estate
+Warlord Bot - gains Estate
+Warlord Bot - draws Pirate Ship, Estate, Duchy, Estate, Gold
+ 
+---------- treetop70: turn 28 ----------
+treetop70 - plays 1 Gold
+treetop70 - buys Estate
+treetop70 - gains Estate
+treetop70 - draws Colony, Gold, Death Cart
+treetop70 - shuffles deck
+treetop70 - draws Province, Colony
+ 
+---------- Warlord Bot: turn 28 ----------
+Warlord Bot - plays Pirate Ship
+Warlord Bot - takes 4 coins
+Warlord Bot - plays 1 Gold
+Warlord Bot - buys Duchy
+Warlord Bot - gains Duchy
+Warlord Bot - draws Copper, Abandoned Mine, Silver, Colony, Cellar
+ 
+---------- treetop70: turn 29 ----------
+treetop70 - plays Death Cart
+treetop70 - trashes Death Cart
+treetop70 - plays 1 Gold
+treetop70 - buys Province
+treetop70 - gains Province
+treetop70 - draws Province, Province, Colony, Province, Estate
+ 
+------------ Game Over ------------
+treetop70 - cards: 1 Forge, 2 Gold, 6 Province, 3 Colony, 1 Estate
+treetop70 - total victory points: 67
+treetop70 - turns: 29
+ 
+Warlord Bot - cards: 2 Death Cart, 1 Pirate Ship, 1 Cutpurse, 1 Cellar, 1 Abandoned Mine, 3 Gold, 3 Copper, 2 Silver, 1 Counterfeit, 7 Duchy, 5 Estate, 2 Province, 1 Colony
+Warlord Bot - total victory points: 48
+Warlord Bot - turns: 28
+ 
+1st place: treetop70
+2nd place: Warlord Bot
+ 

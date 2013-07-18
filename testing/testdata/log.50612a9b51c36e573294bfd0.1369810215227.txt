@@ -1,0 +1,667 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Crossroads, Conspirator, Ironmonger, Ironworks, Island, Tournament, Inn, Market, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: unrated
+ftl - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Serf Bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ftl - shuffles deck
+Serf Bot - shuffles deck
+ftl - draws Estate, Estate, Copper, Copper, Copper
+Serf Bot - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Serf Bot: turn 1 ----------
+Serf Bot - plays 4 Copper
+Serf Bot - buys Ironworks
+Serf Bot - gains Ironworks
+Serf Bot - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- ftl: turn 1 ----------
+ftl - plays 3 Copper
+ftl - buys Chapel
+ftl - gains Chapel
+ftl - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Serf Bot: turn 2 ----------
+Serf Bot - plays 3 Copper
+Serf Bot - buys Silver
+Serf Bot - gains Silver
+Serf Bot - shuffles deck
+Serf Bot - draws Copper, Silver, Estate, Estate, Ironworks
+ 
+---------- ftl: turn 2 ----------
+ftl - plays 4 Copper
+ftl - buys Ironworks
+ftl - gains Ironworks
+ftl - shuffles deck
+ftl - draws Copper, Copper, Chapel, Ironworks, Copper
+ 
+---------- Serf Bot: turn 3 ----------
+Serf Bot - plays Ironworks
+Serf Bot - gains Ironmonger
+Serf Bot - plays 1 Copper, 1 Silver
+Serf Bot - buys Silver
+Serf Bot - gains Silver
+Serf Bot - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- ftl: turn 3 ----------
+ftl - plays Ironworks
+ftl - gains Tournament
+ftl - plays Chapel
+ftl - trashes Copper, Copper, Copper
+ftl - draws Copper, Copper, Estate, Estate, Estate
+ 
+---------- Serf Bot: turn 4 ----------
+Serf Bot - plays 4 Copper
+Serf Bot - buys Conspirator
+Serf Bot - gains Conspirator
+Serf Bot - draws Copper, Copper
+Serf Bot - shuffles deck
+Serf Bot - draws Ironworks, Silver, Copper
+ 
+---------- ftl: turn 4 ----------
+ftl - draws Copper, Copper
+ftl - shuffles deck
+ftl - draws Chapel, Copper, Estate
+ 
+---------- Serf Bot: turn 5 ----------
+Serf Bot - plays Ironworks
+Serf Bot - gains Conspirator
+Serf Bot - plays 3 Copper, 1 Silver
+Serf Bot - buys Inn
+Serf Bot - gains Inn
+Serf Bot - places Conspirator, Inn on top of deck
+Serf Bot - shuffles deck
+Serf Bot - draws Estate, Conspirator, Silver, Ironmonger, Estate
+ 
+---------- ftl: turn 5 ----------
+ftl - plays Chapel
+ftl - trashes Copper, Copper, Estate, Copper
+ftl - draws Tournament, Estate, Copper, Ironworks, Estate
+ 
+---------- Serf Bot: turn 6 ----------
+Serf Bot - plays Ironmonger
+Serf Bot - draws Estate
+Serf Bot - reveals: Conspirator
+Serf Bot - discards Conspirator
+Serf Bot - plays Conspirator
+Serf Bot - plays 1 Silver
+Serf Bot - buys Conspirator
+Serf Bot - gains Conspirator
+Serf Bot - draws Copper, Copper, Copper, Copper, Inn
+ 
+---------- ftl: turn 6 ----------
+ftl - plays Tournament
+ftl - shuffles deck
+ftl - draws Chapel
+ftl - plays Ironworks
+ftl - gains Conspirator
+ftl - plays Chapel
+ftl - trashes Estate, Copper, Estate
+ftl - shuffles deck
+ftl - draws Conspirator, Tournament, Chapel, Ironworks
+ 
+---------- Serf Bot: turn 7 ----------
+Serf Bot - plays Inn
+Serf Bot - shuffles deck
+Serf Bot - draws Ironworks, Conspirator
+Serf Bot - discards Copper
+Serf Bot - discards Copper
+Serf Bot - plays Ironworks
+Serf Bot - gains Tournament
+Serf Bot - plays Conspirator
+Serf Bot - draws Conspirator
+Serf Bot - plays Conspirator
+Serf Bot - draws Conspirator
+Serf Bot - plays Conspirator
+Serf Bot - draws Estate
+Serf Bot - plays 2 Copper
+Serf Bot - buys Province
+Serf Bot - gains Province
+Serf Bot - draws Estate, Silver, Estate, Copper, Ironmonger
+ 
+---------- ftl: turn 7 ----------
+ftl - plays Tournament
+ftl - plays Ironworks
+ftl - gains Ironmonger
+ftl - plays Conspirator
+ftl - shuffles deck
+ftl - draws Ironmonger
+ftl - plays Ironmonger
+ftl - plays Chapel
+ftl - buys Crossroads
+ftl - gains Crossroads
+ftl - shuffles deck
+ftl - draws Crossroads, Ironworks, Chapel, Tournament, Conspirator
+ 
+---------- Serf Bot: turn 8 ----------
+Serf Bot - plays Ironmonger
+Serf Bot - draws Copper
+Serf Bot - reveals: Silver
+Serf Bot - places Silver on top of deck
+Serf Bot - plays 2 Copper, 1 Silver
+Serf Bot - buys Market
+Serf Bot - gains Market
+Serf Bot - draws Silver, Copper
+Serf Bot - shuffles deck
+Serf Bot - draws Market, Ironworks, Copper
+ 
+---------- ftl: turn 8 ----------
+ftl - plays Crossroads
+ftl - reveals hand: Ironworks, Chapel, Tournament, Conspirator
+ftl - plays Ironworks
+ftl - gains Conspirator
+ftl - plays Tournament
+ftl - draws Ironmonger
+ftl - plays Ironmonger
+ftl - shuffles deck
+ftl - draws Conspirator
+ftl - plays Conspirator
+ftl - plays Conspirator
+ftl - plays Chapel
+ftl - buys Market
+ftl - gains Market
+ftl - shuffles deck
+ftl - draws Chapel, Ironworks, Tournament, Conspirator, Market
+ 
+---------- Serf Bot: turn 9 ----------
+Serf Bot - plays Market
+Serf Bot - draws Estate
+Serf Bot - plays Ironworks
+Serf Bot - gains Conspirator
+Serf Bot - plays 2 Copper, 1 Silver
+Serf Bot - buys Inn
+Serf Bot - gains Inn
+Serf Bot - places Conspirator, Inn on top of deck
+Serf Bot - shuffles deck
+Serf Bot - buys Copper
+Serf Bot - gains Copper
+Serf Bot - draws Copper, Conspirator, Silver, Conspirator, Copper
+ 
+---------- ftl: turn 9 ----------
+ftl - plays Tournament
+ftl - draws Ironmonger
+ftl - plays Market
+ftl - draws Conspirator
+ftl - plays Ironmonger
+ftl - draws Crossroads
+ftl - plays Crossroads
+ftl - reveals hand: Chapel, Ironworks, Conspirator, Conspirator
+ftl - plays Conspirator
+ftl - plays Conspirator
+ftl - plays Ironworks
+ftl - gains Conspirator
+ftl - plays Chapel
+ftl - buys Conspirator
+ftl - gains Conspirator
+ftl - buys Crossroads
+ftl - gains Crossroads
+ftl - shuffles deck
+ftl - draws Chapel, Crossroads, Conspirator, Conspirator, Market
+ 
+---------- Serf Bot: turn 10 ----------
+Serf Bot - plays Conspirator
+Serf Bot - plays 2 Copper, 1 Silver
+Serf Bot - buys Gold
+Serf Bot - gains Gold
+Serf Bot - draws Inn, Tournament, Copper, Estate, Province
+ 
+---------- ftl: turn 10 ----------
+ftl - plays Market
+ftl - draws Crossroads
+ftl - plays Crossroads
+ftl - reveals hand: Chapel, Crossroads, Conspirator, Conspirator
+ftl - plays Crossroads
+ftl - reveals hand: Chapel, Conspirator, Conspirator
+ftl - plays Conspirator
+ftl - draws Ironworks
+ftl - plays Conspirator
+ftl - draws Tournament
+ftl - plays Ironworks
+ftl - gains Conspirator
+ftl - plays Tournament
+Serf Bot - reveals Province
+ftl - plays Chapel
+ftl - buys Market
+ftl - gains Market
+ftl - draws Conspirator, Conspirator, Ironmonger
+ftl - shuffles deck
+ftl - draws Chapel, Crossroads
+ 
+---------- Serf Bot: turn 11 ----------
+Serf Bot - plays Inn
+Serf Bot - draws Estate, Copper
+Serf Bot - discards Province
+Serf Bot - discards Estate
+Serf Bot - plays Tournament
+Serf Bot - draws Copper
+Serf Bot - plays 3 Copper
+Serf Bot - buys Ironmonger
+Serf Bot - gains Ironmonger
+Serf Bot - draws Inn, Conspirator, Ironmonger, Conspirator
+Serf Bot - shuffles deck
+Serf Bot - draws Conspirator
+ 
+---------- ftl: turn 11 ----------
+ftl - plays Ironmonger
+ftl - draws Crossroads
+ftl - reveals: Market
+ftl - places Market on top of deck
+ftl - plays Crossroads
+ftl - reveals hand: Conspirator, Conspirator, Chapel, Crossroads
+ftl - plays Crossroads
+ftl - reveals hand: Conspirator, Conspirator, Chapel
+ftl - plays Conspirator
+ftl - draws Market
+ftl - plays Conspirator
+ftl - draws Tournament
+ftl - plays Market
+ftl - draws Market
+ftl - plays Market
+ftl - draws Conspirator
+ftl - plays Tournament
+ftl - draws Conspirator
+ftl - plays Conspirator
+ftl - draws Conspirator
+ftl - plays Conspirator
+ftl - draws Ironworks
+ftl - plays Ironworks
+ftl - gains Conspirator
+ftl - plays Conspirator
+ftl - shuffles deck
+ftl - draws Conspirator
+ftl - plays Conspirator
+ftl - plays Chapel
+ftl - buys Province
+ftl - gains Province
+ftl - buys Tournament
+ftl - gains Tournament
+ftl - shuffles deck
+ftl - draws Conspirator, Conspirator, Conspirator, Ironmonger, Conspirator
+ 
+---------- Serf Bot: turn 12 ----------
+Serf Bot - plays Inn
+Serf Bot - draws Market, Silver
+Serf Bot - discards Conspirator
+Serf Bot - discards Silver
+Serf Bot - plays Market
+Serf Bot - draws Copper
+Serf Bot - plays Conspirator
+Serf Bot - draws Ironmonger
+Serf Bot - plays Conspirator
+Serf Bot - draws Ironworks
+Serf Bot - plays Ironworks
+Serf Bot - gains Ironmonger
+Serf Bot - plays Ironmonger
+Serf Bot - draws Copper
+Serf Bot - reveals: Copper
+Serf Bot - places Copper on top of deck
+Serf Bot - plays Ironmonger
+Serf Bot - draws Copper
+Serf Bot - reveals: Estate
+Serf Bot - places Estate on top of deck
+Serf Bot - draws Estate
+Serf Bot - plays 3 Copper
+Serf Bot - buys Gold
+Serf Bot - gains Gold
+Serf Bot - buys Silver
+Serf Bot - gains Silver
+Serf Bot - draws Inn, Estate, Province, Gold, Estate
+ 
+---------- ftl: turn 12 ----------
+ftl - plays Ironmonger
+ftl - draws Province
+ftl - reveals: Market
+ftl - places Market on top of deck
+ftl - plays Conspirator
+ftl - plays Conspirator
+ftl - draws Market
+ftl - plays Market
+ftl - draws Conspirator
+ftl - plays Conspirator
+ftl - draws Tournament
+ftl - plays Conspirator
+ftl - draws Tournament
+ftl - plays Tournament
+ftl - reveals Province
+Serf Bot - reveals Province
+ftl - discards Province
+ftl - gains Trusty Steed
+ftl - plays Conspirator
+ftl - draws Trusty Steed
+ftl - plays Trusty Steed
+ftl - takes 2 actions
+ftl - draws Chapel, Crossroads
+ftl - plays Crossroads
+ftl - reveals hand: Tournament, Chapel
+ftl - plays Tournament
+Serf Bot - reveals Province
+ftl - plays Chapel
+ftl - buys Nobles
+ftl - gains Nobles
+ftl - buys Market
+ftl - gains Market
+ftl - draws Market, Ironworks, Crossroads, Conspirator
+ftl - shuffles deck
+ftl - draws Conspirator
+ 
+---------- Serf Bot: turn 13 ----------
+Serf Bot - plays Inn
+Serf Bot - draws Copper, Copper
+Serf Bot - discards Province
+Serf Bot - discards Estate
+Serf Bot - plays 2 Copper, 1 Gold
+Serf Bot - buys Market
+Serf Bot - gains Market
+Serf Bot - draws Copper, Copper, Conspirator, Tournament, Copper
+ 
+---------- ftl: turn 13 ----------
+ftl - plays Crossroads
+ftl - reveals hand: Market, Ironworks, Conspirator, Conspirator
+ftl - plays Conspirator
+ftl - plays Conspirator
+ftl - draws Market
+ftl - plays Market
+ftl - draws Conspirator
+ftl - plays Market
+ftl - draws Conspirator
+ftl - plays Conspirator
+ftl - draws Province
+ftl - plays Conspirator
+ftl - draws Market
+ftl - plays Market
+ftl - draws Nobles
+ftl - plays Nobles
+ftl - draws Tournament, Crossroads, Conspirator
+ftl - plays Tournament
+ftl - reveals Province
+ftl - discards Province
+ftl - gains Diadem
+ftl - draws Diadem
+ftl - plays Conspirator
+ftl - draws Trusty Steed
+ftl - plays Trusty Steed
+ftl - takes 2 actions
+ftl - draws Chapel, Tournament
+ftl - plays Crossroads
+ftl - reveals hand: Ironworks, Diadem, Chapel, Tournament
+ftl - plays Ironworks
+ftl - gains Island
+ftl - draws Ironmonger
+ftl - plays Ironmonger
+ftl - draws Conspirator
+ftl - shuffles deck
+ftl - reveals: Province
+ftl - places Province on top of deck
+ftl - draws Province
+ftl - plays Tournament
+ftl - reveals Province
+ftl - discards Province
+ftl - gains Followers
+ftl - draws Followers
+ftl - plays Conspirator
+ftl - draws Island
+ftl - plays Followers
+ftl - shuffles deck
+ftl - draws Province
+ftl - gains Estate
+Serf Bot - gains Curse
+Serf Bot - discards Tournament
+Serf Bot - discards Copper
+ftl - plays 1 Diadem
+ftl - buys Nobles
+ftl - gains Nobles
+ftl - buys Nobles
+ftl - gains Nobles
+ftl - buys Nobles
+ftl - gains Nobles
+ftl - shuffles deck
+ftl - draws Conspirator, Nobles, Diadem, Conspirator, Crossroads
+ 
+---------- Serf Bot: turn 14 ----------
+Serf Bot - plays Conspirator
+Serf Bot - plays 2 Copper
+Serf Bot - buys Ironworks
+Serf Bot - gains Ironworks
+Serf Bot - draws Silver
+Serf Bot - shuffles deck
+Serf Bot - draws Conspirator, Estate, Ironmonger, Province
+ 
+---------- ftl: turn 14 ----------
+ftl - plays Crossroads
+ftl - reveals hand: Conspirator, Nobles, Diadem, Conspirator
+ftl - draws Trusty Steed
+ftl - plays Trusty Steed
+ftl - takes 2 actions
+ftl - draws Crossroads, Conspirator
+ftl - plays Conspirator
+ftl - draws Island
+ftl - plays Conspirator
+ftl - draws Chapel
+ftl - plays Conspirator
+ftl - draws Province
+ftl - plays Crossroads
+ftl - reveals hand: Nobles, Diadem, Island, Chapel, Province
+ftl - draws Ironworks, Estate, Followers
+ftl - plays Followers
+ftl - draws Tournament, Conspirator
+ftl - gains Estate
+Serf Bot - gains Curse
+Serf Bot - discards Province
+Serf Bot - discards Estate
+ftl - plays Conspirator
+ftl - draws Nobles
+ftl - plays Nobles
+ftl - draws Ironmonger, Nobles, Tournament
+ftl - plays Ironmonger
+ftl - draws Conspirator
+ftl - reveals: Market
+ftl - places Market on top of deck
+ftl - plays Conspirator
+ftl - draws Market
+ftl - plays Market
+ftl - draws Market
+ftl - plays Market
+ftl - draws Nobles
+ftl - plays Tournament
+ftl - draws Market
+ftl - plays Tournament
+ftl - draws Conspirator
+ftl - plays Market
+ftl - shuffles deck
+ftl - draws Estate
+ftl - plays Ironworks
+ftl - gains Island
+ftl - shuffles deck
+ftl - draws Island
+ftl - plays Conspirator
+ftl - plays Nobles
+ftl - takes 2 actions
+ftl - plays Island
+ftl - sets aside Province
+ftl - plays Island
+ftl - sets aside Chapel
+ftl - plays 1 Diadem
+ftl - buys Island
+ftl - gains Island
+ftl - buys Island
+ftl - gains Island
+ftl - buys Island
+ftl - gains Island
+ftl - buys Island
+ftl - gains Island
+ftl - shuffles deck
+ftl - draws Nobles, Conspirator, Crossroads, Island, Nobles
+ 
+---------- Serf Bot: turn 15 ----------
+Serf Bot - plays Ironmonger
+Serf Bot - draws Estate
+Serf Bot - reveals: Silver
+Serf Bot - places Silver on top of deck
+Serf Bot - plays Conspirator
+Serf Bot - plays 1 Silver
+Serf Bot - buys Market
+Serf Bot - gains Market
+Serf Bot - draws Silver, Conspirator, Copper, Gold, Copper
+ 
+---------- ftl: turn 15 ----------
+ftl - plays Crossroads
+ftl - reveals hand: Nobles, Conspirator, Island, Nobles
+ftl - draws Nobles, Tournament, Conspirator
+ftl - plays Tournament
+ftl - draws Diadem
+ftl - plays Conspirator
+ftl - draws Conspirator
+ftl - plays Conspirator
+ftl - draws Estate
+ftl - plays Nobles
+ftl - draws Island, Market, Estate
+ftl - plays Market
+ftl - draws Trusty Steed
+ftl - plays Trusty Steed
+ftl - takes 2 actions
+ftl - draws Conspirator, Ironworks
+ftl - plays Ironworks
+ftl - gains Island
+ftl - draws Island
+ftl - plays Conspirator
+ftl - draws Tournament
+ftl - plays Conspirator
+ftl - draws Nobles
+ftl - plays Tournament
+ftl - draws Crossroads
+ftl - plays Crossroads
+ftl - reveals hand: Nobles, Nobles, Island, Diadem, Estate, Island, Estate, Island, Nobles
+ftl - draws Ironmonger, Followers, Market, Conspirator, Conspirator, Market, Island
+ftl - shuffles deck
+ftl - draws Island
+ftl - plays Market
+ftl - plays Market
+ftl - plays Conspirator
+ftl - plays Conspirator
+ftl - plays Nobles
+ftl - takes 2 actions
+ftl - plays Nobles
+ftl - takes 2 actions
+ftl - plays Nobles
+ftl - takes 2 actions
+ftl - plays Ironmonger
+ftl - plays Followers
+ftl - gains Estate
+Serf Bot - gains Curse
+Serf Bot - discards Copper
+Serf Bot - discards Copper
+ftl - plays Island
+ftl - sets aside Estate
+ftl - plays Island
+ftl - sets aside Estate
+ftl - plays Island
+ftl - sets aside Island
+ftl - plays 1 Diadem
+ftl - buys Nobles
+ftl - gains Nobles
+ftl - buys Nobles
+ftl - gains Nobles
+ftl - buys Nobles
+ftl - gains Nobles
+ftl - buys Crossroads
+ftl - gains Crossroads
+ftl - shuffles deck
+ftl - draws Ironworks, Nobles, Tournament, Diadem, Tournament
+ 
+---------- Serf Bot: turn 16 ----------
+Serf Bot - plays Conspirator
+Serf Bot - plays 1 Silver, 1 Gold
+Serf Bot - buys Gold
+Serf Bot - gains Gold
+Serf Bot - draws Copper, Copper, Copper, Ironworks, Copper
+ 
+---------- ftl: turn 16 ----------
+ftl - plays Ironworks
+ftl - gains Island
+ftl - draws Nobles
+ftl - plays Tournament
+ftl - draws Conspirator
+ftl - plays Tournament
+ftl - draws Market
+ftl - plays Conspirator
+ftl - draws Conspirator
+ftl - plays Market
+ftl - draws Followers
+ftl - plays Conspirator
+ftl - draws Island
+ftl - plays Nobles
+ftl - takes 2 actions
+ftl - plays Followers
+ftl - draws Nobles, Conspirator
+ftl - gains Estate
+Serf Bot - gains Curse
+Serf Bot - discards Copper
+Serf Bot - discards Copper
+ftl - plays Conspirator
+ftl - draws Crossroads
+ftl - plays Crossroads
+ftl - reveals hand: Nobles, Diadem, Island, Nobles
+ftl - draws Market, Estate, Market
+ftl - plays Market
+ftl - draws Nobles
+ftl - plays Market
+ftl - draws Conspirator
+ftl - plays Conspirator
+ftl - draws Nobles
+ftl - plays Nobles
+ftl - draws Nobles, Crossroads, Crossroads
+ftl - plays Crossroads
+ftl - reveals hand: Estate, Nobles, Diadem, Island, Nobles, Nobles, Nobles, Crossroads
+ftl - draws Conspirator, Nobles, Trusty Steed, Ironmonger, Conspirator
+ftl - shuffles deck
+ftl - draws Estate
+ftl - plays Nobles
+ftl - takes 2 actions
+ftl - plays Trusty Steed
+ftl - takes 2 coins
+ftl - gains Silver
+ftl - gains Silver
+ftl - gains Silver
+ftl - gains Silver
+ftl - moves deck to discards
+ftl - plays Ironmonger
+ftl - shuffles deck
+ftl - draws Silver
+ftl - reveals: Island
+ftl - discards Island
+ftl - draws Silver
+ftl - plays Conspirator
+ftl - draws Silver
+ftl - plays Conspirator
+ftl - draws Silver
+ftl - plays Crossroads
+ftl - reveals hand: Nobles, Estate, Estate, Nobles, Diadem, Island, Nobles, Nobles, Silver, Silver, Silver, Silver
+ftl - shuffles deck
+ftl - draws Island
+ftl - plays Nobles
+ftl - takes 2 actions
+ftl - plays Island
+ftl - sets aside Estate
+ftl - plays Island
+ftl - sets aside Estate
+ftl - plays 4 Silver, 1 Diadem
+ftl - buys Nobles
+ftl - gains Nobles
+ftl - buys Colony
+ftl - gains Colony
+ftl - buys Colony
+ftl - gains Colony
+ftl - shuffles deck
+ftl - draws Ironmonger, Conspirator, Trusty Steed, Market, Conspirator
+ 
+------------ Game Over ------------
+ftl - cards: 8 Nobles, 8 Island, 6 Conspirator, 3 Crossroads, 3 Market, 2 Tournament, 1 Chapel, 1 Ironmonger, 1 Trusty Steed, 1 Ironworks, 1 Followers, 4 Silver, 1 Diadem, 4 Estate, 2 Colony, 1 Province
+ftl - total victory points: 62
+ftl - turns: 16
+ 
+Serf Bot - cards: 4 Conspirator, 3 Ironmonger, 3 Market, 2 Inn, 2 Ironworks, 1 Tournament, 8 Copper, 3 Silver, 3 Gold, 3 Estate, 1 Province, 4 Curse
+Serf Bot - total victory points: 5
+Serf Bot - turns: 16
+ 
+1st place: ftl
+2nd place: Serf Bot
+ 

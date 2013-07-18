@@ -1,0 +1,551 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, Procession, Remake, Treasure Map, Band of Misfits, Embassy, Graverobber, Library, Grand Market, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Fannish - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+guest4482.0000 - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Fannish - shuffles deck
+guest4482.0000 - shuffles deck
+Fannish - draws Estate, Copper, Copper, Copper, Copper
+guest4482.0000 - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- guest4482.0000: turn 1 ----------
+guest4482.0000 - plays 3 Copper
+guest4482.0000 - buys Silver
+guest4482.0000 - gains Silver
+guest4482.0000 - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Fannish: turn 1 ----------
+Fannish - plays Copper
+Fannish - plays Copper
+Fannish - plays Copper
+Fannish - plays Copper
+Fannish - buys Procession
+Fannish - gains Procession
+Fannish - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- guest4482.0000: turn 2 ----------
+guest4482.0000 - plays 4 Copper
+guest4482.0000 - buys Treasure Map
+guest4482.0000 - gains Treasure Map
+guest4482.0000 - shuffles deck
+guest4482.0000 - draws Copper, Copper, Treasure Map, Estate, Copper
+ 
+---------- Fannish: turn 2 ----------
+Fannish - plays 3 Copper
+Fannish - buys Silver
+Fannish - gains Silver
+Fannish - shuffles deck
+Fannish - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- guest4482.0000: turn 3 ----------
+guest4482.0000 - plays 3 Copper
+guest4482.0000 - buys Silver
+guest4482.0000 - gains Silver
+guest4482.0000 - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Fannish: turn 3 ----------
+Fannish - plays 4 Copper
+Fannish - buys Treasure Map
+Fannish - gains Treasure Map
+Fannish - draws Copper, Estate, Copper, Copper, Silver
+ 
+---------- guest4482.0000: turn 4 ----------
+guest4482.0000 - plays 4 Copper
+guest4482.0000 - buys Treasure Map
+guest4482.0000 - gains Treasure Map
+guest4482.0000 - draws Silver, Estate
+guest4482.0000 - shuffles deck
+guest4482.0000 - draws Treasure Map, Copper, Copper
+ 
+---------- Fannish: turn 4 ----------
+Fannish - plays 3 Copper, 1 Silver
+Fannish - buys Band of Misfits
+Fannish - gains Band of Misfits
+Fannish - draws Estate, Procession
+Fannish - shuffles deck
+Fannish - draws Estate, Copper, Copper
+ 
+---------- guest4482.0000: turn 5 ----------
+guest4482.0000 - plays 2 Copper, 1 Silver
+guest4482.0000 - buys Courtyard
+guest4482.0000 - gains Courtyard
+guest4482.0000 - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Fannish: turn 5 ----------
+Fannish - plays 2 Copper
+Fannish - buys Courtyard
+Fannish - gains Courtyard
+Fannish - draws Treasure Map, Estate, Copper, Copper, Copper
+ 
+---------- guest4482.0000: turn 6 ----------
+guest4482.0000 - plays 4 Copper
+guest4482.0000 - buys Silver
+guest4482.0000 - gains Silver
+guest4482.0000 - draws Estate, Treasure Map, Copper, Silver
+guest4482.0000 - shuffles deck
+guest4482.0000 - draws Estate
+ 
+---------- Fannish: turn 6 ----------
+Fannish - plays Treasure Map
+Fannish - trashes Treasure Map
+Fannish - plays 3 Copper
+Fannish - buys Silver
+Fannish - gains Silver
+Fannish - draws Band of Misfits, Copper, Silver, Copper
+Fannish - shuffles deck
+Fannish - draws Copper
+ 
+---------- guest4482.0000: turn 7 ----------
+guest4482.0000 - plays 1 Copper, 1 Silver
+guest4482.0000 - buys Silver
+guest4482.0000 - gains Silver
+guest4482.0000 - draws Copper, Copper, Copper, Treasure Map, Silver
+ 
+---------- Fannish: turn 7 ----------
+Fannish - plays Band of Misfits
+Fannish - chooses Courtyard
+Fannish - plays Courtyard
+Fannish - draws Estate, Procession, Copper
+Fannish - places Procession on top of deck
+Fannish - plays 4 Copper, 1 Silver
+Fannish - buys Graverobber
+Fannish - gains Graverobber
+Fannish - draws Procession, Silver, Estate, Copper, Copper
+ 
+---------- guest4482.0000: turn 8 ----------
+guest4482.0000 - plays 3 Copper, 1 Silver
+guest4482.0000 - buys Graverobber
+guest4482.0000 - gains Graverobber
+guest4482.0000 - draws Copper, Silver, Copper, Courtyard, Copper
+ 
+---------- Fannish: turn 8 ----------
+Fannish - plays Procession
+Fannish - plays 2 Copper, 1 Silver
+Fannish - buys Treasure Map
+Fannish - gains Treasure Map
+Fannish - draws Estate, Copper, Courtyard
+Fannish - shuffles deck
+Fannish - draws Band of Misfits, Copper
+ 
+---------- guest4482.0000: turn 9 ----------
+guest4482.0000 - plays 3 Copper, 1 Silver
+guest4482.0000 - buys Graverobber
+guest4482.0000 - gains Graverobber
+guest4482.0000 - draws Estate
+guest4482.0000 - shuffles deck
+guest4482.0000 - draws Graverobber, Copper, Silver, Treasure Map
+ 
+---------- Fannish: turn 9 ----------
+Fannish - plays Band of Misfits
+Fannish - chooses Procession
+Fannish - plays Procession
+Fannish - plays Courtyard
+Fannish - draws Copper, Copper, Silver
+Fannish - places Silver on top of deck
+Fannish - plays Courtyard
+Fannish - draws Silver, Copper, Copper
+Fannish - places Silver on top of deck
+Fannish - trashes Courtyard
+Fannish - plays 6 Copper
+Fannish - buys Nobles
+Fannish - gains Nobles
+Fannish - draws Silver, Estate, Graverobber, Procession, Silver
+ 
+---------- guest4482.0000: turn 10 ----------
+guest4482.0000 - plays Graverobber
+guest4482.0000 - gains Treasure Map
+guest4482.0000 - plays 1 Copper, 1 Silver
+guest4482.0000 - buys Silver
+guest4482.0000 - gains Silver
+guest4482.0000 - draws Treasure Map, Copper, Copper, Copper, Silver
+ 
+---------- Fannish: turn 10 ----------
+Fannish - plays Graverobber
+Fannish - plays 2 Silver
+Fannish - buys Treasure Map
+Fannish - gains Treasure Map
+Fannish - draws Estate, Treasure Map, Copper
+Fannish - shuffles deck
+Fannish - draws Copper, Treasure Map
+ 
+---------- guest4482.0000: turn 11 ----------
+guest4482.0000 - plays 3 Copper, 1 Silver
+guest4482.0000 - buys Procession
+guest4482.0000 - gains Procession
+guest4482.0000 - draws Copper, Estate, Courtyard, Silver, Estate
+ 
+---------- Fannish: turn 11 ----------
+Fannish - plays Treasure Map
+Fannish - trashes Treasure Map, Treasure Map
+Fannish - gains Gold
+Fannish - gains Gold
+Fannish - gains Gold
+Fannish - gains Gold
+Fannish - plays 2 Copper
+Fannish - buys Courtyard
+Fannish - gains Courtyard
+Fannish - draws Gold, Gold, Gold, Gold, Copper
+ 
+---------- guest4482.0000: turn 12 ----------
+guest4482.0000 - plays Courtyard
+guest4482.0000 - draws Copper, Treasure Map, Copper
+guest4482.0000 - places Treasure Map on top of deck
+guest4482.0000 - plays 3 Copper, 1 Silver
+guest4482.0000 - buys Library
+guest4482.0000 - gains Library
+guest4482.0000 - draws Treasure Map, Silver, Graverobber
+guest4482.0000 - shuffles deck
+guest4482.0000 - draws Silver, Treasure Map
+ 
+---------- Fannish: turn 12 ----------
+Fannish - plays Gold
+Fannish - plays Gold
+Fannish - buys Grand Market
+Fannish - gains Grand Market
+Fannish - draws Estate, Copper, Estate, Graverobber, Nobles
+ 
+---------- guest4482.0000: turn 13 ----------
+guest4482.0000 - plays Treasure Map
+guest4482.0000 - trashes Treasure Map, Treasure Map
+guest4482.0000 - gains Gold
+guest4482.0000 - gains Gold
+guest4482.0000 - gains Gold
+guest4482.0000 - gains Gold
+guest4482.0000 - plays 2 Silver
+guest4482.0000 - buys Silver
+guest4482.0000 - gains Silver
+guest4482.0000 - draws Gold, Gold, Gold, Gold, Silver
+ 
+---------- Fannish: turn 13 ----------
+Fannish - plays Graverobber
+Fannish - gains Treasure Map
+Fannish - plays Copper
+Fannish - draws Treasure Map, Procession, Band of Misfits, Copper, Copper
+ 
+---------- guest4482.0000: turn 14 ----------
+guest4482.0000 - plays 4 Gold, 1 Silver
+guest4482.0000 - buys Grand Market
+guest4482.0000 - gains Grand Market
+guest4482.0000 - draws Estate, Copper, Library, Estate, Courtyard
+ 
+---------- Fannish: turn 14 ----------
+Fannish - plays Band of Misfits
+Fannish - chooses Treasure Map
+Fannish - plays Treasure Map
+Fannish - trashes Treasure Map, Treasure Map
+Fannish - gains Gold
+Fannish - gains Gold
+Fannish - gains Gold
+Fannish - gains Gold
+Fannish - plays 2 Copper
+Fannish - buys Courtyard
+Fannish - gains Courtyard
+Fannish - draws Gold, Gold, Gold, Gold, Copper
+ 
+---------- guest4482.0000: turn 15 ----------
+guest4482.0000 - plays Courtyard
+guest4482.0000 - draws Copper, Copper, Procession
+guest4482.0000 - places Procession on top of deck
+guest4482.0000 - plays 3 Copper
+guest4482.0000 - buys Silver
+guest4482.0000 - gains Silver
+guest4482.0000 - draws Procession, Copper, Copper, Estate, Silver
+ 
+---------- Fannish: turn 15 ----------
+Fannish - plays Gold
+Fannish - plays Gold
+Fannish - buys Grand Market
+Fannish - gains Grand Market
+Fannish - draws Silver, Silver
+Fannish - shuffles deck
+Fannish - draws Graverobber, Estate, Gold
+ 
+---------- guest4482.0000: turn 16 ----------
+guest4482.0000 - plays 2 Copper, 1 Silver
+guest4482.0000 - buys Treasure Map
+guest4482.0000 - gains Treasure Map
+guest4482.0000 - draws Copper, Copper, Graverobber, Silver, Treasure Map
+ 
+---------- Fannish: turn 16 ----------
+Fannish - plays Graverobber
+Fannish - gains Band of Misfits
+Fannish - plays 2 Silver, 1 Gold
+Fannish - buys Grand Market
+Fannish - gains Grand Market
+Fannish - draws Band of Misfits, Copper, Copper, Copper, Gold
+ 
+---------- guest4482.0000: turn 17 ----------
+guest4482.0000 - plays Graverobber
+guest4482.0000 - gains Treasure Map
+guest4482.0000 - plays 2 Copper, 1 Silver
+guest4482.0000 - buys Silver
+guest4482.0000 - gains Silver
+guest4482.0000 - draws Treasure Map
+guest4482.0000 - shuffles deck
+guest4482.0000 - draws Copper, Silver, Copper, Copper
+ 
+---------- Fannish: turn 17 ----------
+Fannish - plays Band of Misfits
+Fannish - chooses Courtyard
+Fannish - plays Courtyard
+Fannish - draws Gold, Gold, Gold
+Fannish - places Gold on top of deck
+Fannish - plays Gold
+Fannish - plays Gold
+Fannish - buys Grand Market
+Fannish - gains Grand Market
+Fannish - draws Gold, Copper, Copper, Nobles, Gold
+ 
+---------- guest4482.0000: turn 18 ----------
+guest4482.0000 - plays 3 Copper, 1 Silver
+guest4482.0000 - buys Library
+guest4482.0000 - gains Library
+guest4482.0000 - draws Copper, Silver, Grand Market, Gold, Library
+ 
+---------- Fannish: turn 18 ----------
+Fannish - plays Nobles
+Fannish - draws Estate, Gold, Gold
+Fannish - plays Gold
+Fannish - plays Gold
+Fannish - buys Grand Market
+Fannish - gains Grand Market
+Fannish - draws Grand Market, Courtyard, Courtyard, Estate, Grand Market
+ 
+---------- guest4482.0000: turn 19 ----------
+guest4482.0000 - plays Grand Market
+guest4482.0000 - draws Copper
+guest4482.0000 - plays Library
+guest4482.0000 - draws Silver
+guest4482.0000 - discards Courtyard
+guest4482.0000 - draws Gold
+guest4482.0000 - draws Silver
+guest4482.0000 - discards Courtyard
+guest4482.0000 - plays 3 Silver, 2 Gold
+guest4482.0000 - plays Copper
+guest4482.0000 - plays Copper
+guest4482.0000 - buys Nobles
+guest4482.0000 - gains Nobles
+guest4482.0000 - buys Province
+guest4482.0000 - gains Province
+guest4482.0000 - draws Estate, Graverobber, Copper, Treasure Map, Copper
+ 
+---------- Fannish: turn 19 ----------
+Fannish - plays Grand Market
+Fannish - draws Copper
+Fannish - plays Grand Market
+Fannish - draws Procession
+Fannish - plays Procession
+Fannish - plays Courtyard
+Fannish - draws Copper
+Fannish - shuffles deck
+Fannish - draws Copper, Copper
+Fannish - places Estate on top of deck
+Fannish - plays Courtyard
+Fannish - draws Estate, Grand Market, Nobles
+Fannish - places Estate on top of deck
+Fannish - trashes Courtyard
+Fannish - plays 4 Copper
+Fannish - buys Province
+Fannish - gains Province
+Fannish - draws Estate, Gold, Silver, Copper, Gold
+ 
+---------- guest4482.0000: turn 20 ----------
+guest4482.0000 - plays Graverobber
+guest4482.0000 - gains Treasure Map
+guest4482.0000 - plays 2 Copper
+guest4482.0000 - buys Estate
+guest4482.0000 - gains Estate
+guest4482.0000 - draws Treasure Map, Silver, Silver, Procession, Silver
+ 
+---------- Fannish: turn 20 ----------
+Fannish - plays Gold
+Fannish - plays Gold
+Fannish - buys Grand Market
+Fannish - gains Grand Market
+Fannish - draws Gold, Copper, Gold, Graverobber, Band of Misfits
+ 
+---------- guest4482.0000: turn 21 ----------
+guest4482.0000 - plays Procession
+guest4482.0000 - plays Treasure Map
+guest4482.0000 - trashes Treasure Map
+guest4482.0000 - plays Treasure Map
+guest4482.0000 - gains Library
+guest4482.0000 - plays 3 Silver
+guest4482.0000 - buys Nobles
+guest4482.0000 - gains Nobles
+guest4482.0000 - draws Graverobber, Silver, Estate, Treasure Map, Gold
+ 
+---------- Fannish: turn 21 ----------
+Fannish - plays Graverobber
+Fannish - gains Treasure Map
+Fannish - plays Gold
+Fannish - plays Gold
+Fannish - buys Grand Market
+Fannish - gains Grand Market
+Fannish - draws Treasure Map, Estate, Grand Market, Copper, Gold
+ 
+---------- guest4482.0000: turn 22 ----------
+guest4482.0000 - plays Graverobber
+guest4482.0000 - trashes Treasure Map
+guest4482.0000 - gains Grand Market
+guest4482.0000 - plays 1 Silver, 1 Gold
+guest4482.0000 - buys Duchy
+guest4482.0000 - gains Duchy
+guest4482.0000 - draws Gold, Estate
+guest4482.0000 - shuffles deck
+guest4482.0000 - draws Copper, Copper, Procession
+ 
+---------- Fannish: turn 22 ----------
+Fannish - plays Grand Market
+Fannish - draws Gold
+Fannish - plays Gold
+Fannish - plays Gold
+Fannish - buys Grand Market
+Fannish - gains Grand Market
+Fannish - draws Gold, Grand Market, Estate, Gold, Silver
+ 
+---------- guest4482.0000: turn 23 ----------
+guest4482.0000 - plays 2 Copper, 1 Gold
+guest4482.0000 - buys Duchy
+guest4482.0000 - gains Duchy
+guest4482.0000 - draws Copper, Treasure Map, Grand Market, Nobles, Province
+ 
+---------- Fannish: turn 23 ----------
+Fannish - plays Grand Market
+Fannish - shuffles deck
+Fannish - draws Estate
+Fannish - plays 2 Gold, 1 Silver
+Fannish - buys Duchy
+Fannish - gains Duchy
+Fannish - buys Duchy
+Fannish - gains Duchy
+Fannish - draws Band of Misfits, Estate, Gold, Courtyard, Gold
+ 
+---------- guest4482.0000: turn 24 ----------
+guest4482.0000 - plays Grand Market
+guest4482.0000 - draws Graverobber
+guest4482.0000 - plays Nobles
+guest4482.0000 - draws Estate, Grand Market, Silver
+guest4482.0000 - plays 1 Copper, 1 Silver
+guest4482.0000 - buys Silver
+guest4482.0000 - gains Silver
+guest4482.0000 - draws Silver, Copper, Courtyard, Gold, Silver
+ 
+---------- Fannish: turn 24 ----------
+Fannish - plays Courtyard
+Fannish - draws Gold, Grand Market, Copper
+Fannish - places Grand Market on top of deck
+Fannish - plays 3 Gold
+Fannish - buys Province
+Fannish - gains Province
+Fannish - draws Grand Market, Copper, Copper, Grand Market, Gold
+ 
+---------- guest4482.0000: turn 25 ----------
+guest4482.0000 - plays 2 Silver, 1 Copper, 1 Gold
+guest4482.0000 - buys Province
+guest4482.0000 - gains Province
+guest4482.0000 - draws Silver, Silver, Graverobber, Silver, Library
+ 
+---------- Fannish: turn 25 ----------
+Fannish - plays Grand Market
+Fannish - draws Copper
+Fannish - plays Grand Market
+Fannish - draws Grand Market
+Fannish - plays Grand Market
+Fannish - draws Grand Market
+Fannish - plays Grand Market
+Fannish - draws Gold
+Fannish - plays 2 Gold
+Fannish - buys Province
+Fannish - gains Province
+Fannish - buys Duchy
+Fannish - gains Duchy
+Fannish - draws Treasure Map, Gold, Grand Market, Copper, Nobles
+ 
+---------- guest4482.0000: turn 26 ----------
+guest4482.0000 - plays Library
+guest4482.0000 - draws Copper
+guest4482.0000 - discards Library
+guest4482.0000 - draws Silver
+guest4482.0000 - draws Copper
+guest4482.0000 - discards Library
+guest4482.0000 - plays 4 Silver
+guest4482.0000 - buys Province
+guest4482.0000 - gains Province
+guest4482.0000 - draws Estate, Treasure Map, Duchy, Silver, Gold
+ 
+---------- Fannish: turn 26 ----------
+Fannish - plays Grand Market
+Fannish - draws Grand Market
+Fannish - plays Grand Market
+Fannish - draws Copper
+Fannish - plays Nobles
+Fannish - draws Graverobber, Copper, Silver
+Fannish - plays 1 Gold, 1 Silver
+Fannish - plays Copper
+Fannish - plays 2 Copper
+Fannish - buys Duchy
+Fannish - gains Duchy
+Fannish - buys Duchy
+Fannish - gains Duchy
+Fannish - buys Estate
+Fannish - gains Estate
+Fannish - draws Grand Market, Procession, Province
+Fannish - shuffles deck
+Fannish - draws Province, Estate
+ 
+---------- guest4482.0000: turn 27 ----------
+guest4482.0000 - plays 1 Silver, 1 Gold
+guest4482.0000 - buys Duchy
+guest4482.0000 - gains Duchy
+guest4482.0000 - draws Estate, Nobles, Library, Copper, Gold
+ 
+---------- Fannish: turn 27 ----------
+Fannish - plays Procession
+Fannish - plays Grand Market
+Fannish - draws Nobles
+Fannish - plays Grand Market
+Fannish - draws Copper
+Fannish - trashes Grand Market
+Fannish - plays Nobles
+Fannish - draws Grand Market, Treasure Map, Gold
+Fannish - plays Grand Market
+Fannish - draws Gold
+Fannish - plays 2 Gold
+Fannish - buys Province
+Fannish - gains Province
+Fannish - buys Estate
+Fannish - gains Estate
+Fannish - buys Estate
+Fannish - gains Estate
+Fannish - draws Estate, Grand Market, Copper, Courtyard, Copper
+ 
+---------- guest4482.0000: turn 28 ----------
+guest4482.0000 - plays Nobles
+guest4482.0000 - takes 2 actions
+guest4482.0000 - plays Library
+guest4482.0000 - shuffles deck
+guest4482.0000 - draws Gold
+guest4482.0000 - moves Grand Market to hand
+guest4482.0000 - draws Silver
+guest4482.0000 - draws Silver
+guest4482.0000 - plays Grand Market
+guest4482.0000 - draws Silver
+guest4482.0000 - plays 3 Silver, 2 Gold
+guest4482.0000 - buys Nobles
+guest4482.0000 - gains Nobles
+guest4482.0000 - buys Province
+guest4482.0000 - gains Province
+guest4482.0000 - draws Duchy, Treasure Map, Treasure Map, Courtyard, Copper
+ 
+------------ Game Over ------------
+Fannish - cards: 7 Grand Market, 1 Nobles, 1 Band of Misfits, 1 Courtyard, 1 Treasure Map, 1 Procession, 1 Graverobber, 8 Gold, 7 Copper, 2 Silver, 6 Estate, 5 Duchy, 4 Province
+Fannish - total victory points: 47
+Fannish - turns: 27
+ 
+guest4482.0000 - cards: 3 Nobles, 3 Library, 2 Graverobber, 2 Grand Market, 2 Treasure Map, 1 Procession, 1 Courtyard, 9 Silver, 7 Copper, 4 Gold, 4 Province, 4 Estate, 3 Duchy
+guest4482.0000 - total victory points: 43
+guest4482.0000 - turns: 28
+ 
+1st place: Fannish
+2nd place: guest4482.0000
+ 

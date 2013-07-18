@@ -162,7 +162,7 @@ EVERY_SET_CARDS = ['Estate', 'Duchy', 'Province',
                    'Copper', 'Silver', 'Gold', 'Curse']
 
 OPENING_CARDS = [card for card in _card_info_rows
-                 if cost(card) in ('0', '2', '3', '4', '5')]
+                 if cost(card) in ('0','1', '2', '3', '4', '5')]
 OPENING_CARDS.sort()
 
 def sane_title(card):

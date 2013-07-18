@@ -1,0 +1,1262 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Scrying Pool, Tunnel, Fortress, Thief, Duke, Margrave, Mint, Outpost, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Asbjørn Lunnan - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Warlord Bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Defender Bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Asbjørn Lunnan - shuffles deck
+Warlord Bot - shuffles deck
+Defender Bot - shuffles deck
+Asbjørn Lunnan - draws Copper, Copper, Copper, Estate, Copper
+Warlord Bot - draws Copper, Copper, Estate, Copper, Copper
+Defender Bot - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Defender Bot: turn 1 ----------
+Defender Bot - plays 5 Copper
+Defender Bot - buys Mint
+Defender Bot - trashes Copper, Copper, Copper, Copper, Copper
+Defender Bot - gains Mint
+Defender Bot - draws Copper, Estate, Estate, Copper, Estate
+ 
+---------- Asbjørn Lunnan: turn 1 ----------
+Asbjørn Lunnan - plays 4 Copper
+Asbjørn Lunnan - buys Silver
+Asbjørn Lunnan - gains Silver
+Asbjørn Lunnan - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Warlord Bot: turn 1 ----------
+Warlord Bot - plays 4 Copper
+Warlord Bot - buys Potion
+Warlord Bot - gains Potion
+Warlord Bot - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Defender Bot: turn 2 ----------
+Defender Bot - plays 2 Copper
+Defender Bot - buys Embargo
+Defender Bot - gains Embargo
+Defender Bot - shuffles deck
+Defender Bot - draws Estate, Mint, Copper, Estate, Copper
+ 
+---------- Asbjørn Lunnan: turn 2 ----------
+Asbjørn Lunnan - plays 3 Copper
+Asbjørn Lunnan - buys Silver
+Asbjørn Lunnan - gains Silver
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- Warlord Bot: turn 2 ----------
+Warlord Bot - plays 3 Copper
+Warlord Bot - buys Silver
+Warlord Bot - gains Silver
+Warlord Bot - shuffles deck
+Warlord Bot - draws Estate, Silver, Copper, Copper, Copper
+ 
+---------- Defender Bot: turn 3 ----------
+Defender Bot - plays Mint
+Defender Bot - reveals Copper
+Defender Bot - gains Copper
+Defender Bot - plays 2 Copper
+Defender Bot - buys Embargo
+Defender Bot - gains Embargo
+Defender Bot - draws Embargo, Estate
+Defender Bot - shuffles deck
+Defender Bot - draws Mint, Copper, Embargo
+ 
+---------- Asbjørn Lunnan: turn 3 ----------
+Asbjørn Lunnan - plays 3 Copper, 1 Silver
+Asbjørn Lunnan - buys Margrave
+Asbjørn Lunnan - gains Margrave
+Asbjørn Lunnan - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Warlord Bot: turn 3 ----------
+Warlord Bot - plays 3 Copper, 1 Silver
+Warlord Bot - buys Margrave
+Warlord Bot - gains Margrave
+Warlord Bot - draws Potion, Copper, Estate, Copper, Copper
+ 
+---------- Defender Bot: turn 4 ----------
+Defender Bot - plays Mint
+Defender Bot - reveals Copper
+Defender Bot - gains Copper
+Defender Bot - plays 1 Copper
+Defender Bot - draws Copper, Estate, Estate, Copper
+Defender Bot - shuffles deck
+Defender Bot - draws Mint
+ 
+---------- Asbjørn Lunnan: turn 4 ----------
+Asbjørn Lunnan - plays 3 Copper
+Asbjørn Lunnan - buys Silver
+Asbjørn Lunnan - gains Silver
+Asbjørn Lunnan - draws Silver, Copper
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - draws Estate, Copper, Margrave
+ 
+---------- Warlord Bot: turn 4 ----------
+Warlord Bot - plays Potion
+Warlord Bot - plays 3 Copper
+Warlord Bot - buys Scrying Pool
+Warlord Bot - gains Scrying Pool
+Warlord Bot - draws Estate, Copper
+Warlord Bot - shuffles deck
+Warlord Bot - draws Estate, Potion, Copper
+ 
+---------- Defender Bot: turn 5 ----------
+Defender Bot - plays Mint
+Defender Bot - reveals Copper
+Defender Bot - gains Copper
+Defender Bot - plays 2 Copper
+Defender Bot - draws Embargo, Copper, Estate, Embargo, Copper
+ 
+---------- Asbjørn Lunnan: turn 5 ----------
+Asbjørn Lunnan - plays Margrave
+Asbjørn Lunnan - draws Copper, Estate, Estate
+Warlord Bot - draws Copper
+Warlord Bot - discards Estate
+Warlord Bot - discards Estate
+Warlord Bot - discards Copper
+Defender Bot - shuffles deck
+Defender Bot - draws Estate
+Defender Bot - discards Estate
+Defender Bot - discards Estate
+Defender Bot - discards Embargo
+Asbjørn Lunnan - plays 3 Copper, 1 Silver
+Asbjørn Lunnan - buys Margrave
+Asbjørn Lunnan - gains Margrave
+Asbjørn Lunnan - draws Copper, Silver, Copper, Silver, Copper
+ 
+---------- Warlord Bot: turn 5 ----------
+Warlord Bot - plays Potion
+Warlord Bot - plays 2 Copper
+Warlord Bot - buys Scrying Pool
+Warlord Bot - gains Scrying Pool
+Warlord Bot - draws Estate, Copper, Copper, Copper, Margrave
+ 
+---------- Defender Bot: turn 6 ----------
+Defender Bot - plays Embargo
+Defender Bot - embargoes Forge
+Defender Bot - trashes Embargo
+Defender Bot - plays 2 Copper
+Defender Bot - buys Potion
+Defender Bot - gains Potion
+Defender Bot - draws Mint, Copper, Copper, Copper, Estate
+ 
+---------- Asbjørn Lunnan: turn 6 ----------
+Asbjørn Lunnan - plays 3 Copper, 2 Silver
+Asbjørn Lunnan - buys Forge
+Asbjørn Lunnan - gains Curse
+Asbjørn Lunnan - gains Forge
+Asbjørn Lunnan - draws Copper
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - draws Copper, Curse, Copper, Margrave
+ 
+---------- Warlord Bot: turn 6 ----------
+Warlord Bot - plays Margrave
+Warlord Bot - draws Silver, Copper, Scrying Pool
+Defender Bot - shuffles deck
+Defender Bot - draws Embargo
+Defender Bot - discards Estate
+Defender Bot - discards Embargo
+Defender Bot - discards Copper
+Asbjørn Lunnan - draws Margrave
+Asbjørn Lunnan - discards Curse
+Asbjørn Lunnan - discards Copper
+Asbjørn Lunnan - discards Margrave
+Warlord Bot - plays 4 Copper, 1 Silver
+Warlord Bot - buys Gold
+Warlord Bot - gains Gold
+Warlord Bot - shuffles deck
+Warlord Bot - draws Copper, Copper, Scrying Pool, Copper, Estate
+ 
+---------- Defender Bot: turn 7 ----------
+Defender Bot - plays Mint
+Defender Bot - reveals Copper
+Defender Bot - gains Copper
+Defender Bot - plays 2 Copper
+Defender Bot - buys Embargo
+Defender Bot - gains Embargo
+Defender Bot - draws Potion, Copper, Copper, Estate, Estate
+ 
+---------- Asbjørn Lunnan: turn 7 ----------
+Asbjørn Lunnan - plays Margrave
+Asbjørn Lunnan - draws Silver, Copper, Estate
+Warlord Bot - draws Copper
+Warlord Bot - discards Estate
+Warlord Bot - discards Copper
+Warlord Bot - discards Copper
+Defender Bot - shuffles deck
+Defender Bot - draws Copper
+Defender Bot - discards Estate
+Defender Bot - discards Estate
+Defender Bot - discards Copper
+Asbjørn Lunnan - plays 3 Copper, 1 Silver
+Asbjørn Lunnan - buys Margrave
+Asbjørn Lunnan - gains Margrave
+Asbjørn Lunnan - draws Estate, Copper, Copper, Silver, Silver
+ 
+---------- Warlord Bot: turn 7 ----------
+Warlord Bot - plays Scrying Pool
+Warlord Bot - discards Estate
+Defender Bot - discards Embargo
+Asbjørn Lunnan - places Estate on top of deck
+Warlord Bot - reveals Silver
+Warlord Bot - plays 2 Copper, 1 Silver
+Warlord Bot - buys Thief
+Warlord Bot - gains Thief
+Warlord Bot - draws Copper, Copper, Scrying Pool, Estate, Potion
+ 
+---------- Defender Bot: turn 8 ----------
+Defender Bot - plays Potion
+Defender Bot - plays 2 Copper
+Defender Bot - buys Scrying Pool
+Defender Bot - gains Scrying Pool
+Defender Bot - draws Estate, Mint, Embargo, Copper, Copper
+ 
+---------- Asbjørn Lunnan: turn 8 ----------
+Asbjørn Lunnan - plays 2 Copper, 2 Silver
+Asbjørn Lunnan - buys Gold
+Asbjørn Lunnan - gains Gold
+Asbjørn Lunnan - draws Estate, Copper, Forge
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - draws Silver, Silver
+ 
+---------- Warlord Bot: turn 8 ----------
+Warlord Bot - plays Scrying Pool
+Warlord Bot - discards Copper
+Defender Bot - places Copper on top of deck
+Asbjørn Lunnan - places Copper on top of deck
+Warlord Bot - reveals Gold
+Warlord Bot - plays Potion
+Warlord Bot - plays 2 Copper, 1 Gold
+Warlord Bot - buys Margrave
+Warlord Bot - gains Margrave
+Warlord Bot - draws Margrave
+Warlord Bot - shuffles deck
+Warlord Bot - draws Thief, Copper, Estate, Copper
+ 
+---------- Defender Bot: turn 9 ----------
+Defender Bot - plays Mint
+Defender Bot - reveals Copper
+Defender Bot - gains Copper
+Defender Bot - plays 2 Copper
+Defender Bot - draws Copper
+Defender Bot - shuffles deck
+Defender Bot - draws Potion, Copper, Estate, Estate
+ 
+---------- Asbjørn Lunnan: turn 9 ----------
+Asbjørn Lunnan - plays Forge
+Asbjørn Lunnan - trashes Estate, Copper, Silver, Silver
+Asbjørn Lunnan - gains Province
+Asbjørn Lunnan - draws Copper, Copper, Margrave, Copper, Silver
+ 
+---------- Warlord Bot: turn 9 ----------
+Warlord Bot - plays Margrave
+Warlord Bot - draws Copper, Copper, Scrying Pool
+Defender Bot - draws Copper
+Defender Bot - discards Estate
+Defender Bot - discards Estate
+Defender Bot - discards Copper
+Asbjørn Lunnan - draws Margrave
+Asbjørn Lunnan - discards Margrave
+Asbjørn Lunnan - discards Copper
+Asbjørn Lunnan - discards Copper
+Warlord Bot - plays 4 Copper
+Warlord Bot - buys Fortress
+Warlord Bot - gains Fortress
+Warlord Bot - draws Silver, Estate, Estate, Copper, Copper
+ 
+---------- Defender Bot: turn 10 ----------
+Defender Bot - plays Potion
+Defender Bot - plays 2 Copper
+Defender Bot - buys Scrying Pool
+Defender Bot - gains Scrying Pool
+Defender Bot - draws Copper, Copper, Embargo, Scrying Pool, Mint
+ 
+---------- Asbjørn Lunnan: turn 10 ----------
+Asbjørn Lunnan - plays Margrave
+Asbjørn Lunnan - draws Estate, Curse, Copper
+Warlord Bot - draws Scrying Pool
+Warlord Bot - discards Estate
+Warlord Bot - discards Estate
+Warlord Bot - discards Copper
+Defender Bot - draws Copper
+Defender Bot - discards Embargo
+Defender Bot - discards Copper
+Defender Bot - discards Copper
+Asbjørn Lunnan - plays 2 Copper, 1 Silver
+Asbjørn Lunnan - buys Fortress
+Asbjørn Lunnan - gains Fortress
+Asbjørn Lunnan - draws Copper, Copper, Margrave, Gold, Estate
+ 
+---------- Warlord Bot: turn 10 ----------
+Warlord Bot - plays Scrying Pool
+Warlord Bot - discards Potion
+Defender Bot - discards Embargo
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - places Curse on top of deck
+Warlord Bot - reveals Margrave, Copper
+Warlord Bot - plays Margrave
+Warlord Bot - draws Gold
+Warlord Bot - shuffles deck
+Warlord Bot - draws Copper, Estate
+Defender Bot - draws Copper
+Defender Bot - discards Copper
+Asbjørn Lunnan - draws Curse
+Asbjørn Lunnan - discards Curse
+Asbjørn Lunnan - discards Estate
+Asbjørn Lunnan - discards Copper
+Warlord Bot - plays 3 Copper, 1 Silver, 1 Gold
+Warlord Bot - buys Fortress
+Warlord Bot - gains Fortress
+Warlord Bot - buys Fortress
+Warlord Bot - gains Fortress
+Warlord Bot - draws Thief, Estate, Scrying Pool, Copper, Copper
+ 
+---------- Defender Bot: turn 11 ----------
+Defender Bot - plays Scrying Pool
+Defender Bot - discards Estate
+Asbjørn Lunnan - discards Silver
+Warlord Bot - places Estate on top of deck
+Defender Bot - shuffles deck
+Defender Bot - reveals Estate
+Defender Bot - plays Mint
+Defender Bot - reveals Copper
+Defender Bot - gains Copper
+Defender Bot - plays 1 Copper
+Defender Bot - draws Copper, Estate, Estate, Embargo, Copper
+ 
+---------- Asbjørn Lunnan: turn 11 ----------
+Asbjørn Lunnan - plays Margrave
+Asbjørn Lunnan - draws Copper, Margrave, Copper
+Warlord Bot - draws Estate
+Warlord Bot - discards Estate
+Warlord Bot - discards Estate
+Warlord Bot - discards Copper
+Defender Bot - draws Copper
+Defender Bot - discards Estate
+Defender Bot - discards Estate
+Defender Bot - discards Copper
+Asbjørn Lunnan - draws Estate, Margrave, Province, Copper, Forge
+ 
+---------- Warlord Bot: turn 11 ----------
+Warlord Bot - plays Scrying Pool
+Warlord Bot - places Fortress on top of deck
+Defender Bot - discards Scrying Pool
+Asbjørn Lunnan - places Copper on top of deck
+Warlord Bot - reveals Fortress, Potion
+Warlord Bot - plays Fortress
+Warlord Bot - draws Margrave
+Warlord Bot - plays Margrave
+Warlord Bot - draws Copper, Copper
+Warlord Bot - shuffles deck
+Warlord Bot - draws Estate
+Defender Bot - draws Embargo
+Defender Bot - discards Embargo
+Asbjørn Lunnan - draws Copper
+Asbjørn Lunnan - discards Estate
+Asbjørn Lunnan - discards Province
+Asbjørn Lunnan - discards Forge
+Warlord Bot - plays Thief
+Defender Bot - reveals: Copper, Potion
+Warlord Bot - trashes Potion
+Defender Bot - discards Copper
+Asbjørn Lunnan - reveals: Fortress
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - reveals: Province
+Asbjørn Lunnan - discards: Fortress, Province
+Warlord Bot - gains Potion
+Warlord Bot - plays Potion
+Warlord Bot - plays 3 Copper
+Warlord Bot - buys Scrying Pool
+Warlord Bot - gains Scrying Pool
+Warlord Bot - draws Silver, Scrying Pool, Margrave, Copper, Copper
+ 
+---------- Defender Bot: turn 12 ----------
+Defender Bot - plays Embargo
+Defender Bot - embargoes Embargo
+Defender Bot - trashes Embargo
+Defender Bot - plays 2 Copper
+Defender Bot - buys Potion
+Defender Bot - gains Potion
+Defender Bot - draws Copper, Copper
+Defender Bot - shuffles deck
+Defender Bot - draws Copper, Copper, Estate
+ 
+---------- Asbjørn Lunnan: turn 12 ----------
+Asbjørn Lunnan - plays Margrave
+Asbjørn Lunnan - draws Copper, Estate, Copper
+Warlord Bot - draws Fortress
+Warlord Bot - discards Copper
+Warlord Bot - discards Copper
+Warlord Bot - discards Silver
+Defender Bot - draws Scrying Pool
+Defender Bot - discards Estate
+Defender Bot - discards Copper
+Defender Bot - discards Copper
+Asbjørn Lunnan - plays 4 Copper
+Asbjørn Lunnan - buys Fortress
+Asbjørn Lunnan - gains Fortress
+Asbjørn Lunnan - draws Gold, Forge, Curse, Copper, Copper
+ 
+---------- Warlord Bot: turn 12 ----------
+Warlord Bot - plays Fortress
+Warlord Bot - draws Gold
+Warlord Bot - plays Scrying Pool
+Warlord Bot - discards Copper
+Defender Bot - discards Scrying Pool
+Asbjørn Lunnan - places Estate on top of deck
+Warlord Bot - reveals Estate
+Warlord Bot - plays Margrave
+Warlord Bot - draws Copper, Estate, Fortress
+Defender Bot - draws Potion
+Defender Bot - discards Copper
+Asbjørn Lunnan - draws Estate
+Asbjørn Lunnan - discards Gold
+Asbjørn Lunnan - discards Estate
+Asbjørn Lunnan - discards Copper
+Warlord Bot - plays Fortress
+Warlord Bot - shuffles deck
+Warlord Bot - draws Copper
+Warlord Bot - plays 2 Copper, 1 Gold
+Warlord Bot - buys Margrave
+Warlord Bot - gains Margrave
+Warlord Bot - draws Scrying Pool, Silver, Potion, Copper, Thief
+ 
+---------- Defender Bot: turn 13 ----------
+Defender Bot - plays Scrying Pool
+Defender Bot - discards Estate
+Asbjørn Lunnan - discards Margrave
+Warlord Bot - places Potion on top of deck
+Defender Bot - reveals Copper
+Defender Bot - plays Potion
+Defender Bot - plays 2 Copper
+Defender Bot - buys Scrying Pool
+Defender Bot - gains Scrying Pool
+Defender Bot - draws Estate, Copper, Copper, Mint, Copper
+ 
+---------- Asbjørn Lunnan: turn 13 ----------
+Asbjørn Lunnan - plays Forge
+Asbjørn Lunnan - trashes Curse, Copper
+Asbjørn Lunnan - gains Copper
+Asbjørn Lunnan - draws Silver, Margrave
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - draws Fortress, Estate, Forge
+ 
+---------- Warlord Bot: turn 13 ----------
+Warlord Bot - plays Scrying Pool
+Warlord Bot - discards Potion
+Defender Bot - discards Embargo
+Asbjørn Lunnan - places Copper on top of deck
+Warlord Bot - reveals Copper
+Warlord Bot - plays Thief
+Defender Bot - shuffles deck
+Defender Bot - reveals: Scrying Pool, Copper
+Warlord Bot - trashes Copper
+Defender Bot - discards Scrying Pool
+Asbjørn Lunnan - reveals: Copper, Gold
+Warlord Bot - trashes Gold
+Asbjørn Lunnan - discards Copper
+Warlord Bot - gains Gold
+Warlord Bot - plays Potion
+Warlord Bot - plays 2 Copper, 1 Silver
+Warlord Bot - buys Scrying Pool
+Warlord Bot - gains Scrying Pool
+Warlord Bot - draws Copper, Margrave, Fortress, Estate, Copper
+ 
+---------- Defender Bot: turn 14 ----------
+Defender Bot - plays Mint
+Defender Bot - reveals Copper
+Defender Bot - gains Copper
+Defender Bot - plays 3 Copper
+Defender Bot - buys Silver
+Defender Bot - gains Silver
+Defender Bot - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Asbjørn Lunnan: turn 14 ----------
+Asbjørn Lunnan - plays Fortress
+Asbjørn Lunnan - draws Province
+Asbjørn Lunnan - plays Margrave
+Asbjørn Lunnan - draws Copper, Copper, Fortress
+Warlord Bot - draws Copper
+Warlord Bot - discards Estate
+Warlord Bot - discards Copper
+Warlord Bot - discards Copper
+Defender Bot - draws Scrying Pool
+Defender Bot - discards Estate
+Defender Bot - discards Copper
+Defender Bot - discards Copper
+Asbjørn Lunnan - plays Fortress
+Asbjørn Lunnan - draws Margrave
+Asbjørn Lunnan - plays Margrave
+Asbjørn Lunnan - draws Copper, Estate, Margrave
+Warlord Bot - draws Scrying Pool
+Warlord Bot - discards Copper
+Defender Bot - draws Scrying Pool
+Defender Bot - discards Copper
+Asbjørn Lunnan - plays Forge
+Asbjørn Lunnan - trashes Estate, Copper, Copper, Copper, Estate, Margrave
+Asbjørn Lunnan - plays 1 Silver
+Asbjørn Lunnan - draws Copper, Copper
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - draws Forge, Province, Copper
+ 
+---------- Warlord Bot: turn 14 ----------
+Warlord Bot - plays Fortress
+Warlord Bot - shuffles deck
+Warlord Bot - draws Copper
+Warlord Bot - plays Scrying Pool
+Warlord Bot - places Gold on top of deck
+Defender Bot - places Potion on top of deck
+Asbjørn Lunnan - discards Silver
+Warlord Bot - reveals Gold
+Warlord Bot - plays Margrave
+Warlord Bot - draws Estate, Copper, Fortress
+Defender Bot - draws Potion
+Defender Bot - discards Copper
+Asbjørn Lunnan - draws Fortress
+Asbjørn Lunnan - discards Province
+Asbjørn Lunnan - discards Copper
+Asbjørn Lunnan - discards Copper
+Warlord Bot - plays Fortress
+Warlord Bot - draws Estate
+Warlord Bot - plays 2 Copper, 1 Gold
+Warlord Bot - buys Duchy
+Warlord Bot - gains Duchy
+Warlord Bot - draws Margrave, Potion, Fortress, Copper, Margrave
+ 
+---------- Defender Bot: turn 15 ----------
+Defender Bot - plays Scrying Pool
+Defender Bot - places Embargo on top of deck
+Asbjørn Lunnan - discards Margrave
+Warlord Bot - places Copper on top of deck
+Defender Bot - reveals Embargo, Estate
+Defender Bot - plays Scrying Pool
+Defender Bot - shuffles deck
+Defender Bot - discards Copper
+Asbjørn Lunnan - discards Fortress
+Warlord Bot - places Copper on top of deck
+Defender Bot - reveals Silver
+Defender Bot - plays Embargo
+Defender Bot - embargoes Potion
+Defender Bot - trashes Embargo
+Defender Bot - plays Potion
+Defender Bot - plays 1 Silver
+Defender Bot - buys Scrying Pool
+Defender Bot - gains Scrying Pool
+Defender Bot - draws Copper, Estate, Copper, Scrying Pool, Copper
+ 
+---------- Asbjørn Lunnan: turn 15 ----------
+Asbjørn Lunnan - plays Forge
+Asbjørn Lunnan - trashes Copper, Fortress
+Asbjørn Lunnan - gains Fortress
+Asbjørn Lunnan - draws Margrave
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - draws Fortress, Province, Copper, Margrave
+ 
+---------- Warlord Bot: turn 15 ----------
+Warlord Bot - plays Fortress
+Warlord Bot - draws Copper
+Warlord Bot - plays Margrave
+Warlord Bot - draws Copper, Estate, Silver
+Defender Bot - draws Copper
+Defender Bot - discards Estate
+Defender Bot - discards Copper
+Defender Bot - discards Copper
+Asbjørn Lunnan - draws Fortress
+Asbjørn Lunnan - discards Province
+Asbjørn Lunnan - discards Copper
+Asbjørn Lunnan - discards Fortress
+Warlord Bot - plays Margrave
+Warlord Bot - draws Thief, Scrying Pool, Potion
+Defender Bot - draws Copper
+Defender Bot - discards Copper
+Asbjørn Lunnan - draws Silver
+Asbjørn Lunnan - discards Silver
+Warlord Bot - plays Potion
+Warlord Bot - plays Potion
+Warlord Bot - plays 3 Copper, 1 Silver
+Warlord Bot - buys Scrying Pool
+Warlord Bot - gains Scrying Pool
+Warlord Bot - buys Scrying Pool
+Warlord Bot - gains Scrying Pool
+Warlord Bot - draws Gold, Scrying Pool, Scrying Pool, Copper, Copper
+ 
+---------- Defender Bot: turn 16 ----------
+Defender Bot - plays Scrying Pool
+Defender Bot - discards Estate
+Asbjørn Lunnan - discards Fortress
+Warlord Bot - shuffles deck
+Warlord Bot - discards Margrave
+Defender Bot - reveals Copper
+Defender Bot - plays 3 Copper
+Defender Bot - buys Tunnel
+Defender Bot - gains Tunnel
+Defender Bot - draws Mint, Copper
+Defender Bot - shuffles deck
+Defender Bot - draws Estate, Estate, Scrying Pool
+ 
+---------- Asbjørn Lunnan: turn 16 ----------
+Asbjørn Lunnan - plays Fortress
+Asbjørn Lunnan - draws Copper
+Asbjørn Lunnan - plays Margrave
+Asbjørn Lunnan - draws Forge
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - draws Fortress, Copper
+Warlord Bot - draws Margrave
+Warlord Bot - discards Copper
+Warlord Bot - discards Copper
+Warlord Bot - discards Gold
+Defender Bot - draws Scrying Pool
+Defender Bot - discards Estate
+Defender Bot - discards Estate
+Defender Bot - discards Copper
+Asbjørn Lunnan - plays Fortress
+Asbjørn Lunnan - draws Fortress
+Asbjørn Lunnan - plays Forge
+Asbjørn Lunnan - trashes Copper, Copper, Fortress
+Asbjørn Lunnan - gains Fortress
+Asbjørn Lunnan - plays Fortress
+Asbjørn Lunnan - draws Silver
+Asbjørn Lunnan - plays Margrave
+Asbjørn Lunnan - draws Province
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - draws Fortress
+Warlord Bot - draws Copper
+Warlord Bot - discards Copper
+Defender Bot - draws Copper
+Defender Bot - discards Copper
+Asbjørn Lunnan - plays Fortress
+Asbjørn Lunnan - plays 1 Silver
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - draws Fortress, Silver, Province, Fortress, Fortress
+ 
+---------- Warlord Bot: turn 16 ----------
+Warlord Bot - plays Scrying Pool
+Warlord Bot - places Margrave on top of deck
+Defender Bot - places Estate on top of deck
+Asbjørn Lunnan - discards Margrave
+Warlord Bot - reveals Margrave, Copper
+Warlord Bot - plays Scrying Pool
+Warlord Bot - places Scrying Pool on top of deck
+Defender Bot - places Estate on top of deck
+Asbjørn Lunnan - discards Fortress
+Warlord Bot - reveals Scrying Pool, Copper
+Warlord Bot - plays Scrying Pool
+Warlord Bot - places Fortress on top of deck
+Defender Bot - places Estate on top of deck
+Asbjørn Lunnan - discards Forge
+Warlord Bot - reveals Fortress, Scrying Pool, Fortress, Estate
+Warlord Bot - plays Fortress
+Warlord Bot - draws Gold
+Warlord Bot - plays Fortress
+Warlord Bot - draws Fortress
+Warlord Bot - plays Fortress
+Warlord Bot - draws Potion
+Warlord Bot - plays Scrying Pool
+Warlord Bot - discards Copper
+Defender Bot - places Estate on top of deck
+Asbjørn Lunnan - discards Margrave
+Warlord Bot - reveals Scrying Pool, Potion
+Warlord Bot - plays Scrying Pool
+Warlord Bot - places Scrying Pool on top of deck
+Defender Bot - places Estate on top of deck
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - discards Forge
+Warlord Bot - reveals Scrying Pool, Thief, Duchy
+Warlord Bot - plays Scrying Pool
+Warlord Bot - discards Estate
+Defender Bot - places Estate on top of deck
+Asbjørn Lunnan - discards Margrave
+Warlord Bot - reveals Estate
+Warlord Bot - plays Margrave
+Warlord Bot - draws Copper, Silver
+Warlord Bot - shuffles deck
+Warlord Bot - draws Margrave
+Defender Bot - draws Estate
+Defender Bot - discards Estate
+Asbjørn Lunnan - draws Fortress
+Asbjørn Lunnan - discards Province
+Asbjørn Lunnan - discards Fortress
+Asbjørn Lunnan - discards Fortress
+Warlord Bot - plays Margrave
+Warlord Bot - draws Copper, Copper, Estate
+Defender Bot - draws Copper
+Defender Bot - discards Copper
+Asbjørn Lunnan - draws Margrave
+Asbjørn Lunnan - discards Silver
+Warlord Bot - plays Margrave
+Warlord Bot - draws Copper, Gold, Copper
+Defender Bot - draws Copper
+Defender Bot - discards Copper
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - draws Silver
+Asbjørn Lunnan - discards Fortress
+Warlord Bot - plays Thief
+Defender Bot - reveals: Copper, Copper
+Warlord Bot - trashes Copper
+Defender Bot - discards Copper
+Asbjørn Lunnan - reveals: Province, Fortress
+Asbjørn Lunnan - discards: Province, Fortress
+Warlord Bot - plays Potion
+Warlord Bot - plays Potion
+Warlord Bot - plays 7 Copper, 2 Gold, 1 Silver
+Warlord Bot - buys Duchy
+Warlord Bot - gains Duchy
+Warlord Bot - buys Duchy
+Warlord Bot - gains Duchy
+Warlord Bot - buys Duchy
+Warlord Bot - gains Duchy
+Warlord Bot - shuffles deck
+Warlord Bot - draws Gold, Scrying Pool, Potion, Scrying Pool, Copper
+ 
+---------- Defender Bot: turn 17 ----------
+Defender Bot - plays Scrying Pool
+Defender Bot - places Silver on top of deck
+Asbjørn Lunnan - discards Fortress
+Warlord Bot - places Duchy on top of deck
+Defender Bot - reveals Silver
+Defender Bot - plays Scrying Pool
+Defender Bot - discards Tunnel
+Defender Bot - reveals reaction Tunnel
+Defender Bot - gains Gold
+Asbjørn Lunnan - discards Forge
+Warlord Bot - places Duchy on top of deck
+Defender Bot - reveals Potion
+Defender Bot - plays Mint
+Defender Bot - reveals Potion
+Defender Bot - gains Potion
+Defender Bot - plays Potion
+Defender Bot - plays 1 Silver
+Defender Bot - buys Estate
+Defender Bot - gains Estate
+Defender Bot - draws Scrying Pool, Copper, Scrying Pool, Copper
+Defender Bot - shuffles deck
+Defender Bot - draws Estate
+ 
+---------- Asbjørn Lunnan: turn 17 ----------
+Asbjørn Lunnan - plays Fortress
+Asbjørn Lunnan - draws Margrave
+Asbjørn Lunnan - plays Margrave
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - draws Fortress, Fortress, Province
+Warlord Bot - draws Duchy
+Warlord Bot - discards Duchy
+Warlord Bot - discards Copper
+Warlord Bot - discards Potion
+Defender Bot - draws Copper
+Defender Bot - discards Estate
+Defender Bot - discards Copper
+Defender Bot - discards Copper
+Asbjørn Lunnan - plays Fortress
+Asbjørn Lunnan - draws Forge
+Asbjørn Lunnan - plays Margrave
+Asbjørn Lunnan - draws Fortress
+Warlord Bot - draws Duchy
+Warlord Bot - discards Duchy
+Defender Bot - draws Copper
+Defender Bot - discards Copper
+Asbjørn Lunnan - plays Forge
+Asbjørn Lunnan - trashes Fortress, Fortress
+Asbjørn Lunnan - applies the 'when you trash ability' of Fortress
+Asbjørn Lunnan - applies the 'when you trash ability' of Fortress
+Asbjørn Lunnan - gains Province
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - draws Fortress, Forge, Fortress, Province, Margrave
+ 
+---------- Warlord Bot: turn 17 ----------
+Warlord Bot - plays Scrying Pool
+Warlord Bot - discards Potion
+Defender Bot - discards Gold
+Asbjørn Lunnan - discards Silver
+Warlord Bot - reveals Scrying Pool, Margrave, Copper
+Warlord Bot - plays Scrying Pool
+Warlord Bot - discards Duchy
+Defender Bot - places Copper on top of deck
+Asbjørn Lunnan - discards Fortress
+Warlord Bot - reveals Copper
+Warlord Bot - plays Scrying Pool
+Warlord Bot - discards Copper
+Defender Bot - places Copper on top of deck
+Asbjørn Lunnan - discards Fortress
+Warlord Bot - reveals Copper
+Warlord Bot - plays Margrave
+Warlord Bot - draws Estate, Fortress, Estate
+Defender Bot - draws Copper
+Defender Bot - discards Copper
+Asbjørn Lunnan - draws Province
+Asbjørn Lunnan - discards Province
+Asbjørn Lunnan - discards Province
+Asbjørn Lunnan - discards Margrave
+Warlord Bot - plays 3 Copper, 1 Gold
+Warlord Bot - buys Duke
+Warlord Bot - gains Duke
+Warlord Bot - draws Silver, Estate, Thief, Scrying Pool, Scrying Pool
+ 
+---------- Defender Bot: turn 18 ----------
+Defender Bot - plays Scrying Pool
+Defender Bot - places Mint on top of deck
+Asbjørn Lunnan - discards Margrave
+Warlord Bot - discards Margrave
+Defender Bot - reveals Mint, Copper
+Defender Bot - plays Scrying Pool
+Defender Bot - places Scrying Pool on top of deck
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - discards Margrave
+Warlord Bot - places Copper on top of deck
+Defender Bot - reveals Scrying Pool, Estate
+Defender Bot - plays Scrying Pool
+Defender Bot - discards Tunnel
+Defender Bot - reveals reaction Tunnel
+Defender Bot - gains Gold
+Asbjørn Lunnan - discards Margrave
+Warlord Bot - places Copper on top of deck
+Defender Bot - reveals Estate
+Defender Bot - plays Mint
+Defender Bot - reveals Copper
+Defender Bot - gains Copper
+Defender Bot - plays 2 Copper
+Defender Bot - buys Estate
+Defender Bot - gains Estate
+Defender Bot - draws Potion, Scrying Pool, Copper, Potion, Silver
+ 
+---------- Asbjørn Lunnan: turn 18 ----------
+Asbjørn Lunnan - plays Forge
+Asbjørn Lunnan - trashes Fortress, Fortress
+Asbjørn Lunnan - applies the 'when you trash ability' of Fortress
+Asbjørn Lunnan - applies the 'when you trash ability' of Fortress
+Asbjørn Lunnan - gains Province
+Asbjørn Lunnan - draws Fortress, Province, Silver, Fortress, Province
+ 
+---------- Warlord Bot: turn 18 ----------
+Warlord Bot - plays Scrying Pool
+Warlord Bot - discards Copper
+Defender Bot - places Estate on top of deck
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - discards Fortress
+Warlord Bot - reveals Gold
+Warlord Bot - plays Scrying Pool
+Warlord Bot - discards Copper
+Defender Bot - places Estate on top of deck
+Asbjørn Lunnan - discards Margrave
+Warlord Bot - reveals Duchy
+Warlord Bot - plays Thief
+Defender Bot - reveals: Estate
+Defender Bot - shuffles deck
+Defender Bot - reveals: Copper
+Warlord Bot - trashes Copper
+Defender Bot - discards Estate
+Asbjørn Lunnan - reveals: Margrave, Fortress
+Asbjørn Lunnan - discards: Margrave, Fortress
+Warlord Bot - plays 1 Silver, 1 Gold
+Warlord Bot - buys Duchy
+Warlord Bot - gains Duchy
+Warlord Bot - draws Fortress, Scrying Pool, Fortress, Margrave
+Warlord Bot - shuffles deck
+Warlord Bot - draws Scrying Pool
+ 
+---------- Defender Bot: turn 19 ----------
+Defender Bot - plays Scrying Pool
+Defender Bot - places Scrying Pool on top of deck
+Asbjørn Lunnan - discards Forge
+Warlord Bot - places Estate on top of deck
+Defender Bot - reveals Scrying Pool, Estate
+Defender Bot - plays Scrying Pool
+Defender Bot - discards Tunnel
+Defender Bot - reveals reaction Tunnel
+Defender Bot - gains Gold
+Asbjørn Lunnan - places Province on top of deck
+Warlord Bot - places Estate on top of deck
+Defender Bot - reveals Copper
+Defender Bot - plays Potion
+Defender Bot - plays Potion
+Defender Bot - plays 2 Copper, 1 Silver
+Defender Bot - buys Tunnel
+Defender Bot - gains Tunnel
+Defender Bot - draws Estate, Copper, Estate, Gold, Copper
+ 
+---------- Asbjørn Lunnan: turn 19 ----------
+Asbjørn Lunnan - plays Fortress
+Asbjørn Lunnan - draws Province
+Asbjørn Lunnan - plays Fortress
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - draws Fortress
+Asbjørn Lunnan - plays Fortress
+Asbjørn Lunnan - draws Margrave
+Asbjørn Lunnan - plays Margrave
+Asbjørn Lunnan - draws Margrave, Forge, Fortress
+Warlord Bot - draws Estate
+Warlord Bot - discards Estate
+Warlord Bot - discards Margrave
+Warlord Bot - discards Scrying Pool
+Defender Bot - draws Gold
+Defender Bot - discards Estate
+Defender Bot - discards Estate
+Defender Bot - discards Copper
+Asbjørn Lunnan - plays Forge
+Asbjørn Lunnan - trashes Fortress
+Asbjørn Lunnan - gains Fortress
+Asbjørn Lunnan - plays Fortress
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - draws Fortress
+Asbjørn Lunnan - plays Fortress
+Asbjørn Lunnan - plays Margrave
+Warlord Bot - draws Estate
+Warlord Bot - discards Estate
+Defender Bot - draws Copper
+Defender Bot - discards Copper
+Asbjørn Lunnan - plays 1 Silver
+Asbjørn Lunnan - buys Copper
+Asbjørn Lunnan - gains Copper
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - draws Margrave, Forge, Margrave, Province, Copper
+ 
+---------- Warlord Bot: turn 19 ----------
+Warlord Bot - plays Fortress
+Warlord Bot - draws Estate
+Warlord Bot - plays Fortress
+Warlord Bot - draws Copper
+Warlord Bot - plays Scrying Pool
+Warlord Bot - discards Duchy
+Defender Bot - discards Scrying Pool
+Asbjørn Lunnan - discards Fortress
+Warlord Bot - reveals Silver
+Warlord Bot - plays 1 Copper, 1 Silver
+Warlord Bot - buys Tunnel
+Warlord Bot - gains Tunnel
+Warlord Bot - draws Copper, Copper, Potion, Duchy, Gold
+ 
+---------- Defender Bot: turn 20 ----------
+Defender Bot - plays 2 Gold, 1 Copper
+Defender Bot - buys Duchy
+Defender Bot - gains Duchy
+Defender Bot - draws Estate, Mint, Scrying Pool, Copper, Copper
+ 
+---------- Asbjørn Lunnan: turn 20 ----------
+Asbjørn Lunnan - plays Margrave
+Asbjørn Lunnan - draws Fortress, Fortress, Fortress
+Warlord Bot - draws Duchy
+Warlord Bot - discards Duchy
+Warlord Bot - discards Duchy
+Warlord Bot - discards Copper
+Defender Bot - shuffles deck
+Defender Bot - draws Estate
+Defender Bot - discards Estate
+Defender Bot - discards Estate
+Defender Bot - discards Copper
+Asbjørn Lunnan - draws Fortress, Province, Silver, Province
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - draws Forge
+ 
+---------- Warlord Bot: turn 20 ----------
+Warlord Bot - plays Potion
+Warlord Bot - plays 1 Copper, 1 Gold
+Warlord Bot - buys Tunnel
+Warlord Bot - gains Tunnel
+Warlord Bot - draws Gold, Potion, Duke, Duchy, Margrave
+ 
+---------- Defender Bot: turn 21 ----------
+Defender Bot - plays Scrying Pool
+Defender Bot - places Silver on top of deck
+Asbjørn Lunnan - places Copper on top of deck
+Warlord Bot - discards Scrying Pool
+Defender Bot - reveals Silver
+Defender Bot - plays Mint
+Defender Bot - reveals Silver
+Defender Bot - gains Silver
+Defender Bot - plays 1 Copper, 1 Silver
+Defender Bot - buys Tunnel
+Defender Bot - gains Tunnel
+Defender Bot - draws Estate, Copper, Tunnel, Copper, Estate
+ 
+---------- Asbjørn Lunnan: turn 21 ----------
+Asbjørn Lunnan - plays Fortress
+Asbjørn Lunnan - draws Copper
+Asbjørn Lunnan - plays 1 Silver, 1 Copper
+Asbjørn Lunnan - buys Silver
+Asbjørn Lunnan - gains Silver
+Asbjørn Lunnan - draws Fortress, Province, Fortress, Margrave, Fortress
+ 
+---------- Warlord Bot: turn 21 ----------
+Warlord Bot - plays Margrave
+Warlord Bot - draws Scrying Pool, Copper, Copper
+Defender Bot - draws Gold
+Defender Bot - discards Tunnel
+Defender Bot - discards Estate
+Defender Bot - discards Estate
+Defender Bot - reveals reaction Tunnel
+Defender Bot - gains Gold
+Asbjørn Lunnan - draws Fortress
+Asbjørn Lunnan - discards Province
+Asbjørn Lunnan - discards Fortress
+Asbjørn Lunnan - discards Fortress
+Warlord Bot - plays Potion
+Warlord Bot - plays 2 Copper, 1 Gold
+Warlord Bot - buys Duke
+Warlord Bot - gains Duke
+Warlord Bot - buys Copper
+Warlord Bot - gains Copper
+Warlord Bot - draws Margrave, Copper, Scrying Pool, Thief, Duchy
+ 
+---------- Defender Bot: turn 22 ----------
+Defender Bot - plays 2 Copper, 1 Gold
+Defender Bot - buys Duchy
+Defender Bot - gains Duchy
+Defender Bot - draws Potion, Gold, Copper, Gold, Potion
+ 
+---------- Asbjørn Lunnan: turn 22 ----------
+Asbjørn Lunnan - plays Fortress
+Asbjørn Lunnan - draws Margrave
+Asbjørn Lunnan - plays Margrave
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - draws Province, Silver, Fortress
+Warlord Bot - draws Fortress
+Warlord Bot - discards Duchy
+Warlord Bot - discards Copper
+Warlord Bot - discards Thief
+Defender Bot - draws Estate
+Defender Bot - discards Estate
+Defender Bot - discards Copper
+Defender Bot - discards Potion
+Asbjørn Lunnan - plays Fortress
+Asbjørn Lunnan - draws Fortress
+Asbjørn Lunnan - plays Margrave
+Asbjørn Lunnan - draws Forge, Copper, Province
+Warlord Bot - draws Copper
+Warlord Bot - discards Copper
+Defender Bot - draws Tunnel
+Defender Bot - discards Tunnel
+Defender Bot - reveals reaction Tunnel
+Defender Bot - gains Gold
+Asbjørn Lunnan - plays Forge
+Asbjørn Lunnan - trashes Copper, Fortress, Fortress
+Asbjørn Lunnan - applies the 'when you trash ability' of Fortress
+Asbjørn Lunnan - applies the 'when you trash ability' of Fortress
+Asbjørn Lunnan - gains Province
+Asbjørn Lunnan - draws Fortress, Silver, Province
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - draws Province, Fortress
+ 
+---------- Warlord Bot: turn 22 ----------
+Warlord Bot - plays Fortress
+Warlord Bot - draws Scrying Pool
+Warlord Bot - plays Scrying Pool
+Warlord Bot - shuffles deck
+Warlord Bot - discards Duchy
+Defender Bot - places Copper on top of deck
+Asbjørn Lunnan - discards Fortress
+Warlord Bot - reveals Duchy
+Warlord Bot - plays Scrying Pool
+Warlord Bot - discards Copper
+Defender Bot - places Copper on top of deck
+Asbjørn Lunnan - discards Fortress
+Warlord Bot - reveals Gold
+Warlord Bot - plays Margrave
+Warlord Bot - draws Tunnel, Copper, Estate
+Defender Bot - draws Copper
+Defender Bot - discards Copper
+Asbjørn Lunnan - draws Fortress
+Asbjørn Lunnan - discards Province
+Asbjørn Lunnan - discards Province
+Asbjørn Lunnan - discards Fortress
+Warlord Bot - plays 1 Gold, 1 Copper
+Warlord Bot - buys Tunnel
+Warlord Bot - gains Tunnel
+Warlord Bot - buys Copper
+Warlord Bot - gains Copper
+Warlord Bot - draws Margrave, Copper, Estate, Copper, Silver
+ 
+---------- Defender Bot: turn 23 ----------
+Defender Bot - plays Potion
+Defender Bot - plays 2 Gold
+Defender Bot - buys Duchy
+Defender Bot - gains Duchy
+Defender Bot - draws Scrying Pool, Copper, Scrying Pool, Scrying Pool, Duchy
+ 
+---------- Asbjørn Lunnan: turn 23 ----------
+Asbjørn Lunnan - plays Fortress
+Asbjørn Lunnan - draws Margrave
+Asbjørn Lunnan - plays Margrave
+Asbjørn Lunnan - draws Margrave, Forge, Silver
+Warlord Bot - draws Fortress
+Warlord Bot - discards Estate
+Warlord Bot - discards Copper
+Warlord Bot - discards Copper
+Defender Bot - shuffles deck
+Defender Bot - draws Copper
+Defender Bot - discards Duchy
+Defender Bot - discards Copper
+Defender Bot - discards Copper
+Asbjørn Lunnan - plays Fortress
+Asbjørn Lunnan - draws Province
+Asbjørn Lunnan - plays Margrave
+Asbjørn Lunnan - draws Province
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - draws Province, Fortress
+Warlord Bot - draws Tunnel
+Warlord Bot - discards Tunnel
+Warlord Bot - reveals reaction Tunnel
+Warlord Bot - gains Gold
+Defender Bot - draws Estate
+Defender Bot - discards Estate
+Asbjørn Lunnan - plays Forge
+Asbjørn Lunnan - trashes Fortress
+Asbjørn Lunnan - gains Fortress
+Asbjørn Lunnan - plays 2 Silver
+Asbjørn Lunnan - buys Silver
+Asbjørn Lunnan - gains Silver
+Asbjørn Lunnan - draws Fortress, Fortress, Province
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - draws Fortress, Fortress
+ 
+---------- Warlord Bot: turn 23 ----------
+Warlord Bot - plays Fortress
+Warlord Bot - draws Scrying Pool
+Warlord Bot - plays Scrying Pool
+Warlord Bot - discards Duke
+Defender Bot - places Potion on top of deck
+Asbjørn Lunnan - discards Fortress
+Warlord Bot - reveals Scrying Pool, Duchy
+Warlord Bot - plays Scrying Pool
+Warlord Bot - places Margrave on top of deck
+Defender Bot - places Potion on top of deck
+Asbjørn Lunnan - places Province on top of deck
+Warlord Bot - reveals Margrave, Gold
+Warlord Bot - plays Margrave
+Warlord Bot - draws Thief, Fortress, Copper
+Defender Bot - draws Potion
+Defender Bot - discards Potion
+Asbjørn Lunnan - draws Province
+Asbjørn Lunnan - discards Province
+Asbjørn Lunnan - discards Province
+Asbjørn Lunnan - discards Fortress
+Warlord Bot - plays Fortress
+Warlord Bot - draws Copper
+Warlord Bot - plays Margrave
+Warlord Bot - draws Copper, Potion, Scrying Pool
+Defender Bot - draws Gold
+Defender Bot - discards Gold
+Asbjørn Lunnan - draws Margrave
+Asbjørn Lunnan - discards Fortress
+Warlord Bot - plays Scrying Pool
+Warlord Bot - discards Duke
+Defender Bot - discards Silver
+Asbjørn Lunnan - discards Silver
+Warlord Bot - reveals Potion
+Warlord Bot - plays Thief
+Defender Bot - reveals: Scrying Pool, Duchy
+Defender Bot - discards: Scrying Pool, Duchy
+Asbjørn Lunnan - reveals: Forge, Province
+Asbjørn Lunnan - discards: Forge, Province
+Warlord Bot - plays Potion
+Warlord Bot - plays Potion
+Warlord Bot - plays 3 Copper, 1 Silver, 1 Gold
+Warlord Bot - buys Duchy
+Warlord Bot - gains Duchy
+Warlord Bot - buys Tunnel
+Warlord Bot - gains Tunnel
+Warlord Bot - draws Estate, Scrying Pool, Duchy, Copper, Duchy
+ 
+---------- Defender Bot: turn 24 ----------
+Defender Bot - plays Scrying Pool
+Defender Bot - discards Copper
+Asbjørn Lunnan - discards Silver
+Warlord Bot - shuffles deck
+Warlord Bot - discards Silver
+Defender Bot - reveals Copper
+Defender Bot - plays Scrying Pool
+Defender Bot - discards Potion
+Asbjørn Lunnan - discards Silver
+Warlord Bot - places Duchy on top of deck
+Defender Bot - reveals Gold
+Defender Bot - plays Scrying Pool
+Defender Bot - places Gold on top of deck
+Asbjørn Lunnan - discards Fortress
+Warlord Bot - places Duchy on top of deck
+Defender Bot - reveals Gold
+Defender Bot - plays 2 Gold, 1 Copper
+Defender Bot - buys Duchy
+Defender Bot - gains Duchy
+Defender Bot - draws Tunnel, Estate, Copper, Gold, Estate
+ 
+---------- Asbjørn Lunnan: turn 24 ----------
+Asbjørn Lunnan - plays Fortress
+Asbjørn Lunnan - draws Margrave
+Asbjørn Lunnan - plays Margrave
+Asbjørn Lunnan - draws Province
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - draws Province, Fortress
+Warlord Bot - draws Duchy
+Warlord Bot - discards Duchy
+Warlord Bot - discards Duchy
+Warlord Bot - discards Duchy
+Defender Bot - draws Silver
+Defender Bot - discards Tunnel
+Defender Bot - discards Estate
+Defender Bot - discards Estate
+Defender Bot - reveals reaction Tunnel
+Defender Bot - gains Gold
+Asbjørn Lunnan - plays Fortress
+Asbjørn Lunnan - draws Fortress
+Asbjørn Lunnan - plays Margrave
+Asbjørn Lunnan - draws Fortress, Silver, Forge
+Warlord Bot - draws Copper
+Warlord Bot - discards Estate
+Defender Bot - draws Estate
+Defender Bot - discards Estate
+Asbjørn Lunnan - plays Fortress
+Asbjørn Lunnan - draws Silver
+Asbjørn Lunnan - plays Forge
+Asbjørn Lunnan - trashes Fortress, Fortress
+Asbjørn Lunnan - applies the 'when you trash ability' of Fortress
+Asbjørn Lunnan - applies the 'when you trash ability' of Fortress
+Asbjørn Lunnan - gains Province
+Asbjørn Lunnan - plays Fortress
+Asbjørn Lunnan - draws Fortress
+Asbjørn Lunnan - plays Fortress
+Asbjørn Lunnan - draws Silver
+Asbjørn Lunnan - plays Fortress
+Asbjørn Lunnan - draws Province
+Asbjørn Lunnan - plays 3 Silver
+Asbjørn Lunnan - buys Gold
+Asbjørn Lunnan - gains Gold
+Asbjørn Lunnan - draws Province
+Asbjørn Lunnan - shuffles deck
+Asbjørn Lunnan - draws Silver, Fortress, Province, Province
+ 
+---------- Warlord Bot: turn 24 ----------
+Warlord Bot - plays Scrying Pool
+Warlord Bot - discards Tunnel
+Warlord Bot - reveals reaction Tunnel
+Warlord Bot - gains Gold
+Defender Bot - places Estate on top of deck
+Asbjørn Lunnan - discards Gold
+Warlord Bot - reveals Tunnel
+Warlord Bot - plays 2 Copper
+Warlord Bot - buys Estate
+Warlord Bot - gains Estate
+Warlord Bot - draws Copper, Gold, Copper, Gold, Duchy
+ 
+---------- Defender Bot: turn 25 ----------
+Defender Bot - plays 1 Copper, 1 Gold, 1 Silver
+Defender Bot - buys Duke
+Defender Bot - gains Duke
+Defender Bot - draws Estate, Tunnel, Copper, Copper, Tunnel
+ 
+---------- Asbjørn Lunnan: turn 25 ----------
+ 
+------------ Game Over ------------
+Warlord Bot - cards: 6 Scrying Pool, 3 Fortress, 3 Margrave, 1 Thief, 9 Copper, 4 Gold, 2 Potion, 1 Silver, 6 Duchy, 4 Tunnel, 4 Estate, 2 Duke
+Warlord Bot - total victory points: 42
+Warlord Bot - turns: 24
+ 
+Defender Bot - cards: 4 Scrying Pool, 1 Mint, 7 Copper, 6 Gold, 2 Potion, 2 Silver, 5 Estate, 4 Duchy, 3 Tunnel, 1 Duke
+Defender Bot - total victory points: 27
+Defender Bot - turns: 25
+ 
+Asbjørn Lunnan - quit
+Asbjørn Lunnan - cards: 6 Fortress, 2 Margrave, 1 Forge, 3 Silver, 1 Gold, 5 Province
+Asbjørn Lunnan - total victory points: 30
+Asbjørn Lunnan - turns: 24
+ 
+1st place: Warlord Bot
+2nd place: Defender Bot
+3rd place: Asbjørn Lunnan
+ 

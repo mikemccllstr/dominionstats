@@ -1,0 +1,341 @@
+------------ Game Setup ------------
+Supply cards: Lighthouse, Native Village, University, Ambassador, Oasis, Storeroom, Conspirator, Harvest, Trading Post, Harem, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Hurtig - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Buustamon - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Hurtig - shuffles deck
+Buustamon - shuffles deck
+Hurtig - draws Copper, Copper, Copper, Copper, Copper
+Buustamon - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Buustamon: turn 1 ----------
+Buustamon - plays 4 Copper
+Buustamon - buys Silver
+Buustamon - gains Silver
+Buustamon - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Hurtig: turn 1 ----------
+Hurtig - plays 5 Copper
+Hurtig - buys Trading Post
+Hurtig - gains Trading Post
+Hurtig - draws Estate, Copper, Estate, Copper, Estate
+ 
+---------- Buustamon: turn 2 ----------
+Buustamon - plays 3 Copper
+Buustamon - buys Ambassador
+Buustamon - gains Ambassador
+Buustamon - shuffles deck
+Buustamon - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- Hurtig: turn 2 ----------
+Hurtig - plays 2 Copper
+Hurtig - buys Lighthouse
+Hurtig - gains Lighthouse
+Hurtig - shuffles deck
+Hurtig - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Buustamon: turn 3 ----------
+Buustamon - plays 3 Copper, 1 Silver
+Buustamon - buys Trading Post
+Buustamon - gains Trading Post
+Buustamon - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Hurtig: turn 3 ----------
+Hurtig - plays 3 Copper
+Hurtig - buys Silver
+Hurtig - gains Silver
+Hurtig - draws Trading Post, Copper, Lighthouse, Copper, Copper
+ 
+---------- Buustamon: turn 4 ----------
+Buustamon - plays 3 Copper
+Buustamon - buys Silver
+Buustamon - gains Silver
+Buustamon - draws Copper, Ambassador
+Buustamon - shuffles deck
+Buustamon - draws Copper, Silver, Estate
+ 
+---------- Hurtig: turn 4 ----------
+Hurtig - plays Lighthouse
+Hurtig - plays Trading Post
+Hurtig - trashes Copper, Copper
+Hurtig - gains Silver
+Hurtig - plays 1 Copper, 1 Silver
+Hurtig - buys Silver
+Hurtig - gains Silver
+Hurtig - draws Copper, Estate
+Hurtig - shuffles deck
+Hurtig - draws Copper, Copper, Copper
+ 
+---------- Buustamon: turn 5 ----------
+Buustamon - plays Ambassador
+Buustamon - reveals Copper
+Buustamon - returns Copper to the Supply
+Buustamon - returns Copper to the Supply
+Buustamon - draws Estate, Copper, Trading Post, Copper, Copper
+ 
+---------- Hurtig: turn 5 ----------
+Hurtig - duration Lighthouse
+Hurtig - plays 4 Copper
+Hurtig - buys Silver
+Hurtig - gains Silver
+Hurtig - draws Silver, Silver, Estate, Copper, Silver
+ 
+---------- Buustamon: turn 6 ----------
+Buustamon - plays Trading Post
+Buustamon - trashes Copper, Estate
+Buustamon - gains Silver
+Buustamon - plays 2 Copper, 1 Silver
+Buustamon - buys Native Village
+Buustamon - gains Native Village
+Buustamon - draws Estate, Silver, Copper, Copper
+Buustamon - shuffles deck
+Buustamon - draws Trading Post
+ 
+---------- Hurtig: turn 6 ----------
+Hurtig - plays 3 Silver, 1 Copper
+Hurtig - buys Harem
+Hurtig - gains Harem
+Hurtig - draws Trading Post, Estate
+Hurtig - shuffles deck
+Hurtig - draws Silver, Harem, Copper
+ 
+---------- Buustamon: turn 7 ----------
+Buustamon - plays Trading Post
+Buustamon - trashes Copper, Copper
+Buustamon - gains Silver
+Buustamon - plays 2 Silver
+Buustamon - buys Native Village
+Buustamon - gains Native Village
+Buustamon - draws Silver, Silver, Ambassador, Copper, Copper
+ 
+---------- Hurtig: turn 7 ----------
+Hurtig - plays Trading Post
+Hurtig - trashes Estate, Copper
+Hurtig - gains Silver
+Hurtig - plays 2 Silver, 1 Harem
+Hurtig - buys Harem
+Hurtig - gains Harem
+Hurtig - draws Silver, Estate, Lighthouse, Copper, Silver
+ 
+---------- Buustamon: turn 8 ----------
+Buustamon - plays Ambassador
+Buustamon - reveals Copper
+Hurtig - gains Copper
+Buustamon - plays 2 Silver, 2 Copper
+Buustamon - buys Gold
+Buustamon - gains Gold
+Buustamon - draws Estate, Native Village
+Buustamon - shuffles deck
+Buustamon - draws Silver, Silver, Estate
+ 
+---------- Hurtig: turn 8 ----------
+Hurtig - plays Lighthouse
+Hurtig - plays 2 Silver, 1 Copper
+Hurtig - buys Harem
+Hurtig - gains Harem
+Hurtig - draws Copper, Silver, Copper, Estate, Copper
+ 
+---------- Buustamon: turn 9 ----------
+Buustamon - plays Native Village
+Buustamon - sets aside Silver
+Buustamon - plays 2 Silver
+Buustamon - draws Copper, Silver, Gold, Ambassador, Native Village
+ 
+---------- Hurtig: turn 9 ----------
+Hurtig - duration Lighthouse
+Hurtig - plays 3 Copper, 1 Silver
+Hurtig - buys Harem
+Hurtig - gains Harem
+Hurtig - shuffles deck
+Hurtig - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- Buustamon: turn 10 ----------
+Buustamon - plays Native Village
+Buustamon - sets aside Copper
+Buustamon - plays Ambassador
+Buustamon - reveals Copper
+Buustamon - returns Copper to the Supply
+Hurtig - gains Copper
+Buustamon - draws Trading Post
+Buustamon - shuffles deck
+Buustamon - draws Ambassador, Estate, Silver, Native Village
+ 
+---------- Hurtig: turn 10 ----------
+Hurtig - plays 4 Copper, 1 Silver
+Hurtig - buys Harem
+Hurtig - gains Harem
+Hurtig - draws Harem, Silver, Harem, Lighthouse, Estate
+ 
+---------- Buustamon: turn 11 ----------
+Buustamon - plays Native Village
+Buustamon - sets aside Native Village
+Buustamon - plays Ambassador
+Buustamon - reveals Estate
+Buustamon - returns Estate to the Supply
+Hurtig - gains Estate
+Buustamon - plays Trading Post
+Buustamon - trashes Silver
+Buustamon - draws Silver, Gold, Estate, Silver
+Buustamon - shuffles deck
+Buustamon - draws Ambassador
+ 
+---------- Hurtig: turn 11 ----------
+Hurtig - plays Lighthouse
+Hurtig - plays 2 Harem, 1 Silver
+Hurtig - buys Harem
+Hurtig - gains Harem
+Hurtig - draws Harem, Silver, Harem, Trading Post, Copper
+ 
+---------- Buustamon: turn 12 ----------
+Buustamon - plays Ambassador
+Buustamon - reveals Estate
+Buustamon - returns Estate to the Supply
+Buustamon - plays 2 Silver, 1 Gold
+Buustamon - buys Gold
+Buustamon - gains Gold
+Buustamon - draws Trading Post, Native Village
+Buustamon - shuffles deck
+Buustamon - draws Gold, Silver, Gold
+ 
+---------- Hurtig: turn 12 ----------
+Hurtig - duration Lighthouse
+Hurtig - plays Trading Post
+Hurtig - trashes Copper, Silver
+Hurtig - gains Silver
+Hurtig - plays 2 Harem, 1 Silver
+Hurtig - buys Harem
+Hurtig - gains Harem
+Hurtig - draws Estate, Silver, Silver
+Hurtig - shuffles deck
+Hurtig - draws Harem, Trading Post
+ 
+---------- Buustamon: turn 13 ----------
+Buustamon - plays Native Village
+Buustamon - sets aside Ambassador
+Buustamon - plays 2 Gold, 1 Silver
+Buustamon - buys Province
+Buustamon - gains Province
+Buustamon - draws Silver
+Buustamon - shuffles deck
+Buustamon - draws Province, Silver, Gold, Gold
+ 
+---------- Hurtig: turn 13 ----------
+Hurtig - plays 2 Silver, 1 Harem
+Hurtig - buys Harem
+Hurtig - gains Harem
+Hurtig - draws Harem, Copper, Harem, Harem, Harem
+ 
+---------- Buustamon: turn 14 ----------
+Buustamon - plays 2 Silver, 2 Gold
+Buustamon - buys Province
+Buustamon - gains Province
+Buustamon - draws Trading Post, Native Village
+Buustamon - shuffles deck
+Buustamon - draws Gold, Silver, Silver
+ 
+---------- Hurtig: turn 14 ----------
+Hurtig - plays 4 Harem, 1 Copper
+Hurtig - buys Province
+Hurtig - gains Province
+Hurtig - draws Estate, Copper, Harem, Silver, Copper
+ 
+---------- Buustamon: turn 15 ----------
+Buustamon - plays Native Village
+Buustamon - sets aside Province
+Buustamon - plays 2 Silver, 1 Gold
+Buustamon - buys Gold
+Buustamon - gains Gold
+Buustamon - draws Gold, Province
+Buustamon - shuffles deck
+Buustamon - draws Silver, Gold, Native Village
+ 
+---------- Hurtig: turn 15 ----------
+Hurtig - plays 2 Copper, 1 Harem, 1 Silver
+Hurtig - buys Ambassador
+Hurtig - gains Ambassador
+Hurtig - draws Silver, Copper, Lighthouse, Copper, Estate
+ 
+---------- Buustamon: turn 16 ----------
+Buustamon - plays 2 Gold, 1 Silver
+Buustamon - buys Province
+Buustamon - gains Province
+Buustamon - draws Silver, Gold, Trading Post
+Buustamon - shuffles deck
+Buustamon - draws Province, Silver
+ 
+---------- Hurtig: turn 16 ----------
+Hurtig - plays Lighthouse
+Hurtig - plays 2 Copper, 1 Silver
+Hurtig - buys Native Village
+Hurtig - gains Native Village
+Hurtig - draws Harem, Silver
+Hurtig - shuffles deck
+Hurtig - draws Copper, Harem, Estate
+ 
+---------- Buustamon: turn 17 ----------
+Buustamon - plays Trading Post
+Buustamon - trashes Silver, Silver
+Buustamon - gains Silver
+Buustamon - draws Gold, Native Village, Province, Gold
+Buustamon - shuffles deck
+Buustamon - draws Silver
+ 
+---------- Hurtig: turn 17 ----------
+Hurtig - duration Lighthouse
+Hurtig - plays 2 Harem, 1 Silver, 1 Copper
+Hurtig - buys Province
+Hurtig - gains Province
+Hurtig - draws Trading Post, Estate, Province, Copper, Ambassador
+ 
+---------- Buustamon: turn 18 ----------
+Buustamon - plays 2 Gold, 1 Silver
+Buustamon - buys Province
+Buustamon - gains Province
+Buustamon - draws Gold, Province, Trading Post
+Buustamon - shuffles deck
+Buustamon - draws Gold, Province
+ 
+---------- Hurtig: turn 18 ----------
+Hurtig - plays Trading Post
+Hurtig - trashes Estate, Copper
+Hurtig - gains Silver
+Hurtig - plays 1 Silver
+Hurtig - buys Estate
+Hurtig - gains Estate
+Hurtig - draws Harem, Copper, Silver, Harem, Copper
+ 
+---------- Buustamon: turn 19 ----------
+Buustamon - plays 2 Gold
+Buustamon - buys Gold
+Buustamon - gains Gold
+Buustamon - draws Silver, Province, Native Village, Gold
+Buustamon - shuffles deck
+Buustamon - draws Gold
+ 
+---------- Hurtig: turn 19 ----------
+Hurtig - plays 2 Harem, 2 Copper, 1 Silver
+Hurtig - buys Province
+Hurtig - gains Province
+Hurtig - draws Native Village, Estate, Silver, Harem, Harem
+ 
+---------- Buustamon: turn 20 ----------
+Buustamon - plays Native Village
+Buustamon - sets aside Gold
+Buustamon - plays 2 Gold, 1 Silver
+Buustamon - buys Province
+Buustamon - gains Province
+Buustamon - draws Trading Post, Province, Gold, Province
+Buustamon - shuffles deck
+Buustamon - draws Province
+ 
+------------ Game Over ------------
+Hurtig - cards: 1 Native Village, 1 Lighthouse, 1 Trading Post, 1 Ambassador, 8 Harem, 6 Silver, 4 Copper, 3 Estate, 3 Province
+Hurtig - total victory points: 37
+Hurtig - turns: 19
+ 
+Buustamon - cards: 2 Native Village, 1 Trading Post, 1 Ambassador, 4 Gold, 2 Silver, 1 Copper, 5 Province
+Buustamon - total victory points: 30
+Buustamon - turns: 20
+ 
+1st place: Hurtig
+2nd place: Buustamon
+ 

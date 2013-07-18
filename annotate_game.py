@@ -7,6 +7,7 @@ import simplejson as json
 import game
 import goals
 import parse_game
+import parse_iso_game
 from keys import *
 
 def _pretty_format_html(v):
@@ -38,9 +39,20 @@ def get_goals(game):
         goal_contents += '</table>'
     return "<tr><td>goals</td><td>%s</td></tr>"%goal_contents
 
+def annotate_goko_game(contents, game_id, debug):
+    """ TODO: actually do the annotation in-house. Someone will want to do that.
+    Not me, not now, I've spent a lot of time on goko importing over the past 
+    month. """ 
+    return '<meta http-equiv="refresh" content="1; url=http://dom.retrobox.eu/?/%s">' % game_id + 'Redirecting to annotated game at <a href="http://dom.retrobox.eu/?/%s">dom.retrobox.eu</a>' % game_id
+
+
+
 def annotate_game(contents, game_id, debug=False):
     """ Decorate game contents with some JS that makes a score keeper 
     and provides anchors per turn."""
+    if game_id[-4:] == '.txt':
+        return annotate_goko_game(contents, game_id, debug) 
+
     contents = contents.replace('&mdash;', '---').replace(
         'semistatic/log.css', 'client.css')
     parsed_game = parse_game.parse_game(contents, dubious_check = False)
@@ -97,7 +109,7 @@ def annotate_game(contents, game_id, debug=False):
 
     cur_turn_ind = 0
     
-    split_turn_chunks = parse_game.split_turns(contents)
+    split_turn_chunks = parse_iso_game.split_turns(contents)
     ret += split_turn_chunks[0]
     split_turn_chunks.pop(0)
 

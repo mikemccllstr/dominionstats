@@ -150,6 +150,10 @@ def process_game(game):
             tracker = name_to_progressive_tracker[deck_change.name]
             for card in deck_change.buys:
                 tracker.adjust_card_count(card, 1)
+            for card in getattr(deck_change, 'receives',[]):
+                tracker.adjust_card_count(card, 1)
+            for card in getattr(deck_change, 'passes',[]):
+                tracker.adjust_card_count(card, -1)
             for card in deck_change.gains:
                 tracker.adjust_card_count(card, 1)
             for card in deck_change.returns:

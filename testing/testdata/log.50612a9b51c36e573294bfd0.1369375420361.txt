@@ -1,0 +1,148 @@
+------------ Game Setup ------------
+Supply cards: Band of Misfits, Bandit Camp, City, Goons, Grand Market, Bank, Expand, Forge, King's Court, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: unrated
+ftl - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Serf Bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ftl - shuffles deck
+Serf Bot - shuffles deck
+ftl - draws Copper, Copper, Copper, Estate, Copper
+Serf Bot - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Serf Bot: turn 1 ----------
+Serf Bot - plays 3 Copper
+Serf Bot - buys Silver
+Serf Bot - gains Silver
+Serf Bot - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- ftl: turn 1 ----------
+ftl - plays 4 Copper
+ftl - buys Silver
+ftl - gains Silver
+ftl - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Serf Bot: turn 2 ----------
+Serf Bot - plays 4 Copper
+Serf Bot - buys Silver
+Serf Bot - gains Silver
+Serf Bot - shuffles deck
+Serf Bot - draws Copper, Estate, Copper, Estate, Silver
+ 
+---------- ftl: turn 2 ----------
+ftl - plays 3 Copper
+ftl - buys Silver
+ftl - gains Silver
+ftl - shuffles deck
+ftl - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Serf Bot: turn 3 ----------
+Serf Bot - plays 2 Copper, 1 Silver
+Serf Bot - buys Silver
+Serf Bot - gains Silver
+Serf Bot - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- ftl: turn 3 ----------
+ftl - plays 3 Copper
+ftl - buys Silver
+ftl - gains Silver
+ftl - draws Copper, Copper, Silver, Estate, Copper
+ 
+---------- Serf Bot: turn 4 ----------
+Serf Bot - plays 4 Copper, 1 Silver
+Serf Bot - buys Goons
+Serf Bot - gains Goons
+Serf Bot - draws Estate, Copper
+Serf Bot - shuffles deck
+Serf Bot - draws Copper, Copper, Silver
+ 
+---------- ftl: turn 4 ----------
+ftl - plays 3 Copper, 1 Silver
+ftl - buys Band of Misfits
+ftl - gains Band of Misfits
+ftl - draws Silver, Copper
+ftl - shuffles deck
+ftl - draws Silver, Copper, Copper
+ 
+---------- Serf Bot: turn 5 ----------
+Serf Bot - plays 3 Copper, 1 Silver
+Serf Bot - buys Bandit Camp
+Serf Bot - gains Bandit Camp
+Serf Bot - draws Copper, Copper, Estate, Goons, Copper
+ 
+---------- ftl: turn 5 ----------
+ftl - plays 3 Copper, 2 Silver
+ftl - buys Forge
+ftl - gains Forge
+ftl - draws Silver, Band of Misfits, Copper, Copper, Estate
+ 
+---------- Serf Bot: turn 6 ----------
+Serf Bot - plays Goons
+ftl - discards Estate
+ftl - discards Copper
+Serf Bot - plays 3 Copper
+Serf Bot - buys Bandit Camp
+Serf Bot - receives 1 victory point chips
+Serf Bot - gains Bandit Camp
+Serf Bot - draws Silver, Copper, Silver, Estate
+Serf Bot - shuffles deck
+Serf Bot - draws Estate
+ 
+---------- ftl: turn 6 ----------
+ftl - plays Band of Misfits
+ftl - plays 1 Silver, 1 Copper
+ftl - buys Silver
+ftl - gains Silver
+ftl - draws Copper, Estate, Copper, Estate
+ftl - shuffles deck
+ftl - draws Copper
+ 
+---------- Serf Bot: turn 7 ----------
+Serf Bot - plays 2 Silver, 1 Copper
+Serf Bot - buys Bandit Camp
+Serf Bot - gains Bandit Camp
+Serf Bot - draws Bandit Camp, Bandit Camp, Silver, Copper, Copper
+ 
+---------- ftl: turn 7 ----------
+ftl - plays 3 Copper
+ftl - buys Silver
+ftl - gains Silver
+ftl - draws Silver, Estate, Copper, Copper, Band of Misfits
+ 
+---------- Serf Bot: turn 8 ----------
+Serf Bot - plays Bandit Camp
+Serf Bot - draws Copper
+Serf Bot - gains Spoils
+Serf Bot - plays Bandit Camp
+Serf Bot - draws Estate
+Serf Bot - gains Spoils
+Serf Bot - plays 3 Copper, 1 Silver
+Serf Bot - buys Peddler
+Serf Bot - gains Peddler
+Serf Bot - draws Copper, Copper, Goons, Copper
+Serf Bot - shuffles deck
+Serf Bot - draws Copper
+ 
+---------- ftl: turn 8 ----------
+ftl - plays Band of Misfits
+ftl - plays 2 Copper, 1 Silver
+ftl - buys Silver
+ftl - gains Silver
+ftl - draws Forge, Silver, Copper, Silver, Silver
+ 
+---------- Serf Bot: turn 9 ----------
+Serf Bot - plays Goons
+ 
+------------ Game Over ------------
+Serf Bot - cards: 3 Bandit Camp, 1 Peddler, 7 Copper, 3 Silver, 2 Spoils, 3 Estate
+Serf Bot - victory point chips: 1
+Serf Bot - total victory points: 4
+Serf Bot - turns: 8
+ 
+ftl - resigned
+ftl - cards: 1 Forge, 1 Band of Misfits, 7 Copper, 6 Silver, 3 Estate
+ftl - victory point chips: 0
+ftl - total victory points: 3
+ftl - turns: 8
+ 
+1st place: Serf Bot
+2nd place: ftl
+ 

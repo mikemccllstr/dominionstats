@@ -123,7 +123,7 @@ def run_trueskill_openings(args, db, log, commit_after=25000):
 
     for ind, game in enumerate(
         utils.progress_meter(scanner.scan(db.games, {}))):
-        if len(game[DECKS]) >= 2 and len(game[DECKS][1][TURNS]) >= 5:
+        if ( len(game[DECKS]) >= 2 and len(game[DECKS][1][TURNS]) >= 5 and (RATING_SYSTEM not in game or (RATING_SYSTEM in game and 'adventure' not in game[RATING_SYSTEM] and 'unknown' not in game[RATING_SYSTEM]))):
             update_skills_for_game(game, opening_skill_table)
                                    
         if ind == args.max_games:

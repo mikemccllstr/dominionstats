@@ -1,0 +1,686 @@
+------------ Game Setup ------------
+Supply cards: Watchtower, Workshop, Familiar, Marauder, Noble Brigand, Band of Misfits, Mint, Mountebank, Stables, Border Village, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion, Ruins
+Rating system: unrated
+ftl - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Lord Bottington - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ftl - shuffles deck
+Lord Bottington - shuffles deck
+ftl - draws Estate, Estate, Copper, Copper, Copper
+Lord Bottington - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Lord Bottington: turn 1 ----------
+Lord Bottington - plays 5 Copper
+Lord Bottington - buys Mint
+Lord Bottington - trashes Copper, Copper, Copper, Copper, Copper
+Lord Bottington - gains Mint
+Lord Bottington - draws Estate, Estate, Copper, Estate, Copper
+ 
+---------- ftl: turn 1 ----------
+ftl - plays 3 Copper
+ftl - buys Watchtower
+ftl - gains Watchtower
+ftl - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Lord Bottington: turn 2 ----------
+Lord Bottington - plays 2 Copper
+Lord Bottington - buys Copper
+Lord Bottington - gains Copper
+Lord Bottington - shuffles deck
+Lord Bottington - draws Estate, Copper, Copper, Mint, Estate
+ 
+---------- ftl: turn 2 ----------
+ftl - plays 4 Copper
+ftl - buys Marauder
+ftl - gains Marauder
+ftl - shuffles deck
+ftl - draws Marauder, Estate, Estate, Copper, Estate
+ 
+---------- Lord Bottington: turn 3 ----------
+Lord Bottington - plays Mint
+Lord Bottington - reveals Copper
+Lord Bottington - gains Copper
+Lord Bottington - plays 2 Copper
+Lord Bottington - draws Estate, Copper
+Lord Bottington - shuffles deck
+Lord Bottington - draws Estate, Copper, Estate
+ 
+---------- ftl: turn 3 ----------
+ftl - plays Marauder
+ftl - gains Spoils
+Lord Bottington - gains Ruined Market
+ftl - draws Copper, Watchtower, Copper, Copper, Copper
+ 
+---------- Lord Bottington: turn 4 ----------
+Lord Bottington - plays 2 Copper
+Lord Bottington - buys Copper
+Lord Bottington - gains Copper
+Lord Bottington - draws Copper, Mint, Copper
+Lord Bottington - shuffles deck
+Lord Bottington - draws Copper, Ruined Market
+ 
+---------- ftl: turn 4 ----------
+ftl - plays Watchtower
+ftl - draws Copper, Copper
+ftl - plays 6 Copper
+ftl - buys Border Village
+ftl - gains Border Village
+ftl - gains Mountebank
+ftl - shuffles deck
+ftl - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Lord Bottington: turn 5 ----------
+Lord Bottington - plays Ruined Market
+Lord Bottington - plays 3 Copper
+Lord Bottington - buys Silver
+Lord Bottington - gains Silver
+Lord Bottington - draws Copper, Estate, Estate, Estate, Copper
+ 
+---------- ftl: turn 5 ----------
+ftl - plays 5 Copper
+ftl - buys Mint
+ftl - trashes Copper, Copper, Copper, Copper, Copper
+ftl - gains Mint
+ftl - draws Estate, Mountebank, Border Village, Copper, Marauder
+ 
+---------- Lord Bottington: turn 6 ----------
+Lord Bottington - plays 2 Copper
+Lord Bottington - shuffles deck
+Lord Bottington - draws Copper, Estate, Copper, Estate, Silver
+ 
+---------- ftl: turn 6 ----------
+ftl - plays Border Village
+ftl - draws Spoils
+ftl - plays Mountebank
+Lord Bottington - gains Curse
+Lord Bottington - gains Copper
+ftl - plays Marauder
+ftl - gains Spoils
+Lord Bottington - gains Ruined Library
+ftl - plays 1 Copper
+ftl - plays Spoils
+ftl - buys Border Village
+ftl - gains Border Village
+ftl - gains Watchtower
+ftl - draws Copper, Estate, Watchtower, Estate
+ftl - shuffles deck
+ftl - draws Border Village
+ 
+---------- Lord Bottington: turn 7 ----------
+Lord Bottington - plays 2 Copper, 1 Silver
+Lord Bottington - buys Potion
+Lord Bottington - gains Potion
+Lord Bottington - draws Copper, Copper, Ruined Market, Mint, Estate
+ 
+---------- ftl: turn 7 ----------
+ftl - plays Border Village
+ftl - draws Copper
+ftl - plays Watchtower
+ftl - draws Mountebank, Spoils
+ftl - plays Mountebank
+Lord Bottington - gains Curse
+Lord Bottington - gains Copper
+ftl - plays 2 Copper
+ftl - plays Spoils
+ftl - buys Border Village
+ftl - gains Border Village
+ftl - gains Watchtower
+ftl - draws Estate, Border Village, Mint, Marauder, Watchtower
+ 
+---------- Lord Bottington: turn 8 ----------
+Lord Bottington - plays Ruined Market
+Lord Bottington - plays 2 Copper
+Lord Bottington - draws Copper
+Lord Bottington - shuffles deck
+Lord Bottington - draws Estate, Estate, Potion, Curse
+ 
+---------- ftl: turn 8 ----------
+ftl - plays Border Village
+ftl - shuffles deck
+ftl - draws Copper
+ftl - plays Marauder
+ftl - gains Spoils
+ftl - applied Watchtower to place Spoils on top of the deck
+Lord Bottington - gains Survivors
+ftl - plays Watchtower
+ftl - draws Spoils, Watchtower, Copper
+ftl - plays 2 Copper
+ftl - plays Spoils
+ftl - buys Mountebank
+ftl - gains Mountebank
+ftl - applied Watchtower to place Mountebank on top of the deck
+ftl - draws Mountebank, Watchtower, Border Village, Estate, Mountebank
+ 
+---------- Lord Bottington: turn 9 ----------
+Lord Bottington - plays Potion
+Lord Bottington - plays 1 Copper
+Lord Bottington - draws Estate, Copper, Copper, Copper, Mint
+ 
+---------- ftl: turn 9 ----------
+ftl - plays Border Village
+ftl - draws Border Village
+ftl - plays Border Village
+ftl - draws Estate
+ftl - plays Watchtower
+ftl - shuffles deck
+ftl - draws Mint, Border Village
+ftl - plays Border Village
+ftl - draws Marauder
+ftl - plays Marauder
+ftl - gains Spoils
+Lord Bottington - gains Survivors
+ftl - plays Mountebank
+Lord Bottington - gains Curse
+Lord Bottington - gains Copper
+ftl - plays Mountebank
+Lord Bottington - gains Curse
+Lord Bottington - gains Copper
+ftl - buys Noble Brigand
+Lord Bottington - reveals: Silver, Copper
+Lord Bottington - trashes Silver
+Lord Bottington - discards Copper
+ftl - gains Silver
+ftl - gains Noble Brigand
+ftl - draws Watchtower, Watchtower, Copper, Estate, Copper
+ 
+---------- Lord Bottington: turn 10 ----------
+Lord Bottington - plays Mint
+Lord Bottington - reveals Copper
+Lord Bottington - gains Copper
+Lord Bottington - plays 3 Copper
+Lord Bottington - buys Silver
+Lord Bottington - gains Silver
+Lord Bottington - draws Copper, Ruined Library, Ruined Market, Copper, Curse
+ 
+---------- ftl: turn 10 ----------
+ftl - plays Watchtower
+ftl - shuffles deck
+ftl - draws Noble Brigand, Border Village
+ftl - plays 2 Copper
+ftl - buys Estate
+ftl - gains Estate
+ftl - applied Watchtower to trash Estate
+ftl - trashes Estate
+ftl - draws Watchtower, Spoils, Border Village, Mountebank, Mountebank
+ 
+---------- Lord Bottington: turn 11 ----------
+Lord Bottington - plays Ruined Library
+Lord Bottington - shuffles deck
+Lord Bottington - draws Silver
+Lord Bottington - plays 2 Copper, 1 Silver
+Lord Bottington - buys Marauder
+Lord Bottington - gains Marauder
+Lord Bottington - draws Curse, Potion, Survivors, Copper, Mint
+ 
+---------- ftl: turn 11 ----------
+ftl - plays Border Village
+ftl - draws Border Village
+ftl - plays Border Village
+ftl - draws Estate
+ftl - plays Mountebank
+Lord Bottington - discards Curse
+ftl - plays Mountebank
+Lord Bottington - gains Curse
+Lord Bottington - gains Copper
+ftl - plays Spoils
+ftl - buys Border Village
+ftl - gains Border Village
+ftl - gains Silver
+ftl - applied Watchtower to place Silver on top of the deck
+ftl - applied Watchtower to place Border Village on top of the deck
+ftl - draws Border Village, Silver, Estate, Mint, Silver
+ 
+---------- Lord Bottington: turn 12 ----------
+Lord Bottington - plays Mint
+Lord Bottington - reveals Potion
+Lord Bottington - gains Potion
+Lord Bottington - plays Potion
+Lord Bottington - plays 1 Copper
+Lord Bottington - buys Copper
+Lord Bottington - gains Copper
+Lord Bottington - draws Curse, Estate, Copper, Copper, Estate
+ 
+---------- ftl: turn 12 ----------
+ftl - plays Border Village
+ftl - draws Marauder
+ftl - plays Marauder
+ftl - gains Spoils
+Lord Bottington - gains Abandoned Mine
+ftl - plays Mint
+ftl - reveals Silver
+ftl - gains Silver
+ftl - plays 2 Silver
+ftl - buys Watchtower
+ftl - gains Watchtower
+ftl - shuffles deck
+ftl - draws Watchtower, Silver, Silver, Estate, Silver
+ 
+---------- Lord Bottington: turn 13 ----------
+Lord Bottington - plays 2 Copper
+Lord Bottington - buys Estate
+Lord Bottington - gains Estate
+Lord Bottington - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- ftl: turn 13 ----------
+ftl - plays Watchtower
+ftl - draws Spoils, Border Village
+ftl - plays 3 Silver
+ftl - plays Spoils
+ftl - buys Platinum
+ftl - gains Platinum
+ftl - draws Noble Brigand, Copper, Watchtower, Mint, Watchtower
+ 
+---------- Lord Bottington: turn 14 ----------
+Lord Bottington - plays 4 Copper
+Lord Bottington - buys Marauder
+Lord Bottington - gains Marauder
+Lord Bottington - draws Curse, Survivors, Copper
+Lord Bottington - shuffles deck
+Lord Bottington - draws Potion, Curse
+ 
+---------- ftl: turn 14 ----------
+ftl - plays Noble Brigand
+Lord Bottington - reveals: Copper, Copper
+Lord Bottington - discards: Copper, Copper
+ftl - draws Border Village, Border Village, Copper, Watchtower, Marauder
+ 
+---------- Lord Bottington: turn 15 ----------
+Lord Bottington - plays Survivors
+Lord Bottington - looks at Ruined Library, Copper
+Lord Bottington - discards: Ruined Library, Copper
+Lord Bottington - plays Potion
+Lord Bottington - plays 1 Copper
+Lord Bottington - buys Copper
+Lord Bottington - gains Copper
+Lord Bottington - draws Copper, Estate, Marauder, Curse, Estate
+ 
+---------- ftl: turn 15 ----------
+ftl - plays Border Village
+ftl - draws Estate
+ftl - plays Border Village
+ftl - draws Mountebank
+ftl - plays Marauder
+ftl - gains Spoils
+ftl - applied Watchtower to place Spoils on top of the deck
+Lord Bottington - gains Survivors
+ftl - plays Watchtower
+ftl - draws Spoils, Estate, Border Village
+ftl - plays Border Village
+ftl - draws Mountebank
+ftl - plays Mountebank
+Lord Bottington - discards Curse
+ftl - plays Mountebank
+Lord Bottington - gains Curse
+Lord Bottington - gains Copper
+ftl - plays 1 Copper
+ftl - plays Spoils
+ftl - buys Border Village
+ftl - gains Border Village
+ftl - gains Stables
+ftl - shuffles deck
+ftl - draws Mountebank, Watchtower, Silver, Copper, Watchtower
+ 
+---------- Lord Bottington: turn 16 ----------
+Lord Bottington - plays Marauder
+Lord Bottington - gains Spoils
+ftl - gains Ruined Library
+ftl - applied Watchtower to trash Ruined Library
+ftl - trashes Ruined Library
+Lord Bottington - plays 1 Copper
+Lord Bottington - draws Copper, Ruined Market, Copper, Curse, Copper
+ 
+---------- ftl: turn 16 ----------
+ftl - plays Mountebank
+Lord Bottington - discards Curse
+ftl - plays 1 Silver, 1 Copper
+ftl - buys Stables
+ftl - gains Stables
+ftl - applied Watchtower to place Stables on top of the deck
+ftl - draws Stables, Border Village, Silver, Mountebank, Border Village
+ 
+---------- Lord Bottington: turn 17 ----------
+Lord Bottington - plays Ruined Market
+Lord Bottington - plays 3 Copper
+Lord Bottington - buys Silver
+Lord Bottington - gains Silver
+Lord Bottington - draws Estate, Copper, Copper, Copper, Curse
+ 
+---------- ftl: turn 17 ----------
+ftl - plays Border Village
+ftl - draws Border Village
+ftl - plays Border Village
+ftl - draws Estate
+ftl - plays Border Village
+ftl - draws Noble Brigand
+ftl - plays Stables
+ftl - discards Silver
+ftl - draws Marauder, Border Village, Stables
+ftl - plays Border Village
+ftl - draws Estate
+ftl - plays Mountebank
+Lord Bottington - discards Curse
+ftl - plays Noble Brigand
+Lord Bottington - reveals: Abandoned Mine, Copper
+Lord Bottington - discards: Abandoned Mine, Copper
+ftl - plays Marauder
+ftl - gains Spoils
+Lord Bottington - gains Ruined Village
+ftl - buys Silver
+ftl - gains Silver
+ftl - draws Platinum, Border Village, Copper, Watchtower, Mint
+ 
+---------- Lord Bottington: turn 18 ----------
+Lord Bottington - plays 3 Copper
+Lord Bottington - buys Silver
+Lord Bottington - gains Silver
+Lord Bottington - draws Estate, Mint, Marauder, Potion, Silver
+ 
+---------- ftl: turn 18 ----------
+ftl - plays Border Village
+ftl - draws Watchtower
+ftl - plays Watchtower
+ftl - draws Estate, Silver
+ftl - plays Mint
+ftl - reveals Platinum
+ftl - gains Platinum
+ftl - applied Watchtower to place Platinum on top of the deck
+ftl - plays 1 Copper, 1 Silver, 1 Platinum
+ftl - buys Gold
+ftl - gains Gold
+ftl - applied Watchtower to place Gold on top of the deck
+ftl - draws Gold, Platinum
+ftl - shuffles deck
+ftl - draws Mountebank, Watchtower, Border Village
+ 
+---------- Lord Bottington: turn 19 ----------
+Lord Bottington - plays Marauder
+Lord Bottington - gains Spoils
+ftl - gains Abandoned Mine
+ftl - applied Watchtower to trash Abandoned Mine
+ftl - trashes Abandoned Mine
+Lord Bottington - plays Potion
+Lord Bottington - plays 1 Silver
+Lord Bottington - buys Estate
+Lord Bottington - gains Estate
+Lord Bottington - draws Survivors
+Lord Bottington - shuffles deck
+Lord Bottington - draws Ruined Library, Marauder, Ruined Market, Silver
+ 
+---------- ftl: turn 19 ----------
+ftl - plays Border Village
+ftl - draws Silver
+ftl - plays Watchtower
+ftl - draws Spoils, Mint
+ftl - plays Mountebank
+Lord Bottington - gains Curse
+Lord Bottington - gains Copper
+ftl - plays 1 Gold, 1 Platinum, 1 Silver
+ftl - buys Colony
+ftl - gains Colony
+ftl - draws Copper, Estate, Border Village, Border Village, Estate
+ 
+---------- Lord Bottington: turn 20 ----------
+Lord Bottington - plays Marauder
+Lord Bottington - gains Spoils
+ftl - gains Ruined Library
+Lord Bottington - plays 1 Silver
+Lord Bottington - buys Estate
+Lord Bottington - gains Estate
+Lord Bottington - draws Silver, Potion, Survivors, Survivors, Copper
+ 
+---------- ftl: turn 20 ----------
+ftl - plays Border Village
+ftl - draws Noble Brigand
+ftl - plays Border Village
+ftl - draws Platinum
+ftl - plays Noble Brigand
+Lord Bottington - reveals: Copper, Curse
+Lord Bottington - discards: Copper, Curse
+ftl - plays 1 Copper, 1 Platinum
+ftl - buys Gold
+ftl - gains Gold
+ftl - draws Watchtower, Border Village, Copper, Border Village, Stables
+ 
+---------- Lord Bottington: turn 21 ----------
+Lord Bottington - plays Survivors
+Lord Bottington - looks at Curse, Copper
+Lord Bottington - discards: Curse, Copper
+Lord Bottington - plays Potion
+Lord Bottington - plays 1 Silver, 1 Copper
+Lord Bottington - buys Silver
+Lord Bottington - gains Silver
+Lord Bottington - draws Abandoned Mine, Marauder, Estate, Mint, Copper
+ 
+---------- ftl: turn 21 ----------
+ftl - plays Border Village
+ftl - draws Estate
+ftl - plays Border Village
+ftl - draws Silver
+ftl - plays Stables
+ftl - discards Copper
+ftl - draws Watchtower, Silver, Mountebank
+ftl - plays Mountebank
+Lord Bottington - gains Curse
+Lord Bottington - gains Copper
+ftl - plays Watchtower
+ftl - draws Stables, Marauder
+ftl - plays Stables
+ftl - discards Silver
+ftl - draws Watchtower, Silver
+ftl - shuffles deck
+ftl - draws Colony
+ftl - plays Marauder
+ftl - gains Spoils
+ftl - applied Watchtower to place Spoils on top of the deck
+ftl - plays 2 Silver
+ftl - buys Gold
+ftl - gains Gold
+ftl - applied Watchtower to place Gold on top of the deck
+ftl - draws Gold, Spoils, Noble Brigand, Estate, Platinum
+ 
+---------- Lord Bottington: turn 22 ----------
+Lord Bottington - plays Marauder
+Lord Bottington - gains Spoils
+Lord Bottington - plays 1 Copper
+Lord Bottington - draws Copper, Copper, Copper, Curse, Estate
+ 
+---------- ftl: turn 22 ----------
+ftl - plays Noble Brigand
+Lord Bottington - reveals: Curse, Spoils
+Lord Bottington - discards: Curse, Spoils
+ftl - plays 1 Gold, 1 Platinum
+ftl - plays Spoils
+ftl - buys Colony
+ftl - gains Colony
+ftl - draws Mint, Platinum, Estate, Copper, Gold
+ 
+---------- Lord Bottington: turn 23 ----------
+Lord Bottington - plays 3 Copper
+Lord Bottington - buys Silver
+Lord Bottington - gains Silver
+Lord Bottington - draws Ruined Village, Copper, Copper, Copper, Estate
+ 
+---------- ftl: turn 23 ----------
+ftl - plays Mint
+ftl - reveals Platinum
+ftl - gains Platinum
+ftl - plays 1 Copper, 1 Gold, 1 Platinum
+ftl - buys Platinum
+ftl - gains Platinum
+ftl - draws Watchtower, Border Village, Silver, Spoils, Copper
+ 
+---------- Lord Bottington: turn 24 ----------
+Lord Bottington - plays 3 Copper
+Lord Bottington - buys Silver
+Lord Bottington - gains Silver
+Lord Bottington - draws Spoils, Silver, Curse, Curse, Copper
+ 
+---------- ftl: turn 24 ----------
+ftl - plays Border Village
+ftl - draws Silver
+ftl - plays Watchtower
+ftl - draws Border Village, Gold
+ftl - plays Border Village
+ftl - draws Mountebank
+ftl - plays Mountebank
+Lord Bottington - discards Curse
+ftl - plays 2 Silver, 1 Copper, 1 Gold
+ftl - plays Spoils
+ftl - buys Colony
+ftl - gains Colony
+ftl - draws Ruined Library, Border Village
+ftl - shuffles deck
+ftl - draws Colony, Platinum, Estate
+ 
+---------- Lord Bottington: turn 25 ----------
+Lord Bottington - plays 1 Silver, 1 Copper
+Lord Bottington - plays Spoils
+Lord Bottington - buys Border Village
+Lord Bottington - gains Border Village
+Lord Bottington - gains Stables
+Lord Bottington - draws Estate, Potion, Copper, Copper, Estate
+ 
+---------- ftl: turn 25 ----------
+ftl - plays Border Village
+ftl - draws Copper
+ftl - plays Ruined Library
+ftl - draws Mountebank
+ftl - plays Mountebank
+Lord Bottington - gains Curse
+Lord Bottington - gains Copper
+ftl - plays 1 Platinum, 1 Copper
+ftl - buys Gold
+ftl - gains Gold
+ftl - draws Border Village, Stables, Watchtower, Border Village, Noble Brigand
+ 
+---------- Lord Bottington: turn 26 ----------
+Lord Bottington - plays Potion
+Lord Bottington - plays 2 Copper
+Lord Bottington - buys Estate
+Lord Bottington - gains Estate
+Lord Bottington - draws Copper
+Lord Bottington - shuffles deck
+Lord Bottington - draws Copper, Copper, Copper, Survivors
+ 
+---------- ftl: turn 26 ----------
+ftl - plays Border Village
+ftl - draws Border Village
+ftl - plays Border Village
+ftl - draws Platinum
+ftl - plays Border Village
+ftl - draws Border Village
+ftl - plays Border Village
+ftl - draws Mint
+ftl - plays Mint
+ftl - reveals Platinum
+ftl - gains Platinum
+ftl - applied Watchtower to place Platinum on top of the deck
+ftl - plays Noble Brigand
+Lord Bottington - reveals: Border Village, Stables
+Lord Bottington - discards: Border Village, Stables
+Lord Bottington - gains Copper
+ftl - plays Watchtower
+ftl - draws Platinum, Platinum, Estate, Watchtower
+ftl - plays Watchtower
+ftl - draws Gold
+ftl - plays Stables
+ftl - discards Gold
+ftl - draws Gold, Silver, Marauder
+ftl - plays Marauder
+ftl - gains Spoils
+ftl - plays 3 Platinum, 1 Gold, 1 Silver
+ftl - buys Colony
+ftl - gains Colony
+ftl - draws Estate, Platinum, Silver, Mountebank, Stables
+ 
+---------- Lord Bottington: turn 27 ----------
+Lord Bottington - plays Survivors
+Lord Bottington - looks at Copper, Copper
+Lord Bottington - discards: Copper, Copper
+Lord Bottington - plays 4 Copper
+Lord Bottington - buys Estate
+Lord Bottington - gains Estate
+Lord Bottington - draws Spoils, Mint, Copper, Curse, Curse
+ 
+---------- ftl: turn 27 ----------
+ftl - plays Stables
+ftl - discards Silver
+ftl - draws Copper, Watchtower, Silver
+ftl - plays Mountebank
+Lord Bottington - discards Curse
+ftl - plays 1 Platinum, 1 Copper, 1 Silver
+ftl - buys Platinum
+ftl - gains Platinum
+ftl - applied Watchtower to place Platinum on top of the deck
+ftl - draws Platinum, Silver, Colony, Colony, Watchtower
+ 
+---------- Lord Bottington: turn 28 ----------
+Lord Bottington - plays 1 Copper
+Lord Bottington - plays Spoils
+Lord Bottington - buys Estate
+Lord Bottington - gains Estate
+Lord Bottington - draws Curse, Spoils, Marauder, Survivors, Silver
+ 
+---------- ftl: turn 28 ----------
+ftl - plays Watchtower
+ftl - draws Gold
+ftl - shuffles deck
+ftl - draws Ruined Library
+ftl - plays 1 Platinum, 1 Silver, 1 Gold
+ftl - buys Platinum
+ftl - gains Platinum
+ftl - draws Copper, Mountebank, Gold, Border Village, Silver
+ 
+---------- Lord Bottington: turn 29 ----------
+Lord Bottington - plays Marauder
+Lord Bottington - gains Spoils
+Lord Bottington - plays 1 Silver
+Lord Bottington - plays Spoils
+Lord Bottington - buys Duchy
+Lord Bottington - gains Duchy
+Lord Bottington - draws Survivors, Silver, Copper, Estate, Ruined Library
+ 
+---------- ftl: turn 29 ----------
+ftl - plays Border Village
+ftl - draws Watchtower
+ftl - plays Watchtower
+ftl - draws Border Village, Gold
+ftl - plays Border Village
+ftl - draws Marauder
+ftl - plays Mountebank
+Lord Bottington - gains Curse
+Lord Bottington - gains Copper
+ftl - plays Marauder
+ftl - gains Spoils
+ftl - plays 2 Gold, 1 Copper, 1 Silver
+ftl - buys Colony
+ftl - gains Colony
+ftl - draws Gold, Mint, Copper, Mountebank, Platinum
+ 
+---------- Lord Bottington: turn 30 ----------
+Lord Bottington - plays Ruined Library
+Lord Bottington - draws Ruined Village
+Lord Bottington - plays 1 Silver, 1 Copper
+Lord Bottington - buys Silver
+Lord Bottington - gains Silver
+Lord Bottington - draws Estate, Estate, Estate, Curse, Potion
+ 
+---------- ftl: turn 30 ----------
+ftl - plays Mountebank
+Lord Bottington - discards Curse
+ftl - plays 1 Gold, 1 Copper, 1 Platinum
+ftl - buys Estate
+ftl - gains Estate
+ftl - draws Noble Brigand, Platinum, Spoils, Silver, Watchtower
+ 
+------------ Game Over ------------
+ftl - cards: 5 Border Village, 4 Watchtower, 2 Stables, 2 Mountebank, 1 Noble Brigand, 1 Mint, 1 Marauder, 1 Ruined Library, 7 Platinum, 4 Gold, 4 Silver, 2 Copper, 2 Spoils, 5 Colony, 4 Estate
+ftl - total victory points: 54
+ftl - turns: 30
+ 
+Lord Bottington - cards: 3 Survivors, 2 Marauder, 19 Copper, 1 Ruined Market, 1 Stables, 1 Border Village, 1 Mint, 1 Ruined Village, 1 Abandoned Mine, 1 Ruined Library, 7 Silver, 2 Spoils, 2 Potion, 9 Estate, 1 Duchy, 10 Curse
+Lord Bottington - total victory points: 2
+Lord Bottington - turns: 30
+ 
+1st place: ftl
+2nd place: Lord Bottington
+ 

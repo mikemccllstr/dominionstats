@@ -117,7 +117,7 @@ def CheckMatchPurplePileDriver(g):
     return ret
 
 def CheckMatchDoublePileDriver(g):
-    """Gained all copies of twp different cards and won."""
+    """Gained all copies of two different cards and won."""
     gain_map = CollectedAllCopies(g)
     ret = []
 

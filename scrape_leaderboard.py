@@ -38,21 +38,6 @@ def get_date_of_last_cached_leaderboard():
     # return the day before the first day on http://bggdl.square7.ch/leaderboard/
     return datetime.date(2011, 3, 10)
 
-def get_date_of_current_isotropic_leaderboard():
-    try:
-        connection = httplib.HTTPConnection('dominion.isotropic.org', timeout=30)
-        connection.request('HEAD', '/leaderboard/')
-        response = connection.getresponse()
-        headers = dict(response.getheaders())
-        connection.close()
-    except socket.error:
-        return
-
-    if response.status == 200:
-        # just after midnight Pacific time, GMT will have the same calendar date as Pacific time
-        # so, we can ignore the hour, minute, and second
-        return date_from_http_header_time(headers['last-modified'])
-
 def save_file(date, data, is_gzipped):
     if is_gzipped:
         f = gzip.GzipFile(fileobj=StringIO.StringIO(data))
@@ -89,14 +74,17 @@ def scrape_leaderboard(date, host, url, is_gzipped, assert_same_date):
 
     return response.status
 
-def scrape_leaderboard_from_isotropic(date):
-    return scrape_leaderboard(date, 'dominion.isotropic.org', '/leaderboard/', True, True)
-
 def scrape_leaderboard_from_councilroom(date):
     return scrape_leaderboard(date, 'councilroom.com', '/static/leaderboard/' + str(date) + '.html.bz2', False, False)
 
 def scrape_leaderboard_from_bggdl(date):
     return scrape_leaderboard(date, 'bggdl.square7.ch', '/leaderboard/leaderboard-' + str(date) + '.html', True, False)
+
+def scrape_leaderboard_from_goko(date):
+    if (datetime.date.today() != date):
+        return None
+    else:
+        return scrape_leaderboard(date, 'www.goko.com', '/games/Dominion/leaders', False, False)
 
 def run_scrape_function_with_retries(scrape_function, date):
     num_attempts = 0
@@ -130,26 +118,22 @@ def main():
     date_of_last_cached_leaderboard = get_date_of_last_cached_leaderboard()
     log.info('date of the last cached leaderboard is %s', date_of_last_cached_leaderboard)
 
-    date_of_current_isotropic_leaderboard = get_date_of_current_isotropic_leaderboard()
-    if date_of_current_isotropic_leaderboard is None:
-        log.warning('could not determine the date of the current isotropic leaderboard, so please try again later')
-        return
-    log.info('date of the current isotropic leaderboard is %s', date_of_current_isotropic_leaderboard)
+    date_of_last_goko_leaderboard = datetime.date.today()
 
     one_day_delta = datetime.timedelta(1)
     date = date_of_last_cached_leaderboard + one_day_delta
 
-    while date <= date_of_current_isotropic_leaderboard:
+    while date <= datetime.date.today():
         log.info('Processing %s', date)
 
-        if date == date_of_current_isotropic_leaderboard:
-            log.info('scraping from isotropic')
-            status = run_scrape_function_with_retries(scrape_leaderboard_from_isotropic, date)
+        if date == datetime.date.today():
+            log.info('scraping from goko')
+            status = run_scrape_function_with_retries(scrape_leaderboard_from_goko, date)
         else:
             log.info('scraping from councilroom')
             status = run_scrape_function_with_retries(scrape_leaderboard_from_councilroom, date)
 
-            if status != 200:
+            if status != 200 and date <= datetime.date(2013,01,01):
                 log.info('scraping from bggdl')
                 status = run_scrape_function_with_retries(scrape_leaderboard_from_bggdl, date)
 

@@ -1,0 +1,1083 @@
+------------ Game Setup ------------
+Supply cards: Loan, Masquerade, Storeroom, Trade Route, Bureaucrat, Fortress, Navigator, Nomad Camp, Hunting Party, Library, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Kerry Monroe - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Warlord Bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Villager Bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Conqueror Bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Kerry Monroe - shuffles deck
+Warlord Bot - shuffles deck
+Villager Bot - shuffles deck
+Conqueror Bot - shuffles deck
+Kerry Monroe - draws Copper, Copper, Copper, Copper, Copper
+Warlord Bot - draws Estate, Copper, Copper, Copper, Copper
+Villager Bot - draws Copper, Estate, Copper, Copper, Copper
+Conqueror Bot - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Villager Bot: turn 1 ----------
+Villager Bot - plays 4 Copper
+Villager Bot - buys Bureaucrat
+Villager Bot - gains Bureaucrat
+Villager Bot - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Conqueror Bot: turn 1 ----------
+Conqueror Bot - plays 3 Copper
+Conqueror Bot - buys Silver
+Conqueror Bot - gains Silver
+Conqueror Bot - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Kerry Monroe: turn 1 ----------
+Kerry Monroe - plays 5 Copper
+Kerry Monroe - buys Library
+Kerry Monroe - gains Library
+Kerry Monroe - draws Copper, Estate, Estate, Copper, Estate
+ 
+---------- Warlord Bot: turn 1 ----------
+Warlord Bot - plays 4 Copper
+Warlord Bot - buys Bureaucrat
+Warlord Bot - gains Bureaucrat
+Warlord Bot - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Villager Bot: turn 2 ----------
+Villager Bot - plays 3 Copper
+Villager Bot - buys Silver
+Villager Bot - gains Silver
+Villager Bot - shuffles deck
+Villager Bot - draws Copper, Estate, Estate, Bureaucrat, Silver
+ 
+---------- Conqueror Bot: turn 2 ----------
+Conqueror Bot - plays 4 Copper
+Conqueror Bot - buys Bureaucrat
+Conqueror Bot - gains Bureaucrat
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Copper, Estate, Copper, Copper, Bureaucrat
+ 
+---------- Kerry Monroe: turn 2 ----------
+Kerry Monroe - shuffles deck
+Kerry Monroe - draws Copper, Estate, Copper, Copper, Library
+ 
+---------- Warlord Bot: turn 2 ----------
+Warlord Bot - plays 3 Copper
+Warlord Bot - buys Masquerade
+Warlord Bot - gains Masquerade
+Warlord Bot - shuffles deck
+Warlord Bot - draws Copper, Estate, Copper, Bureaucrat, Estate
+ 
+---------- Villager Bot: turn 3 ----------
+Villager Bot - plays Bureaucrat
+Villager Bot - gains Silver
+Conqueror Bot - reveals Estate
+Conqueror Bot - places Estate on top of deck
+Kerry Monroe - reveals Estate
+Kerry Monroe - places Estate on top of deck
+Warlord Bot - reveals Estate
+Warlord Bot - places Estate on top of deck
+Villager Bot - plays 1 Copper, 1 Silver
+Villager Bot - buys Masquerade
+Villager Bot - gains Masquerade
+Villager Bot - draws Silver, Copper, Copper, Copper, Estate
+ 
+---------- Conqueror Bot: turn 3 ----------
+Conqueror Bot - plays Bureaucrat
+Conqueror Bot - gains Silver
+Kerry Monroe - reveals Copper, Copper, Copper, Library
+Warlord Bot - reveals Estate
+Warlord Bot - places Estate on top of deck
+Villager Bot - reveals Estate
+Villager Bot - places Estate on top of deck
+Conqueror Bot - plays 3 Copper
+Conqueror Bot - buys Masquerade
+Conqueror Bot - gains Masquerade
+Conqueror Bot - draws Silver, Estate, Copper, Copper, Estate
+ 
+---------- Kerry Monroe: turn 3 ----------
+Kerry Monroe - plays Library
+Kerry Monroe - draws Estate
+Kerry Monroe - draws Copper
+Kerry Monroe - draws Copper
+Kerry Monroe - draws Copper
+Kerry Monroe - plays 6 Copper
+Kerry Monroe - buys Gold
+Kerry Monroe - gains Gold
+Kerry Monroe - draws Estate, Copper, Estate
+Kerry Monroe - shuffles deck
+Kerry Monroe - draws Copper, Copper
+ 
+---------- Warlord Bot: turn 3 ----------
+Warlord Bot - plays Bureaucrat
+Warlord Bot - gains Silver
+Villager Bot - reveals Silver, Copper, Copper, Copper
+Conqueror Bot - reveals Estate
+Conqueror Bot - places Estate on top of deck
+Kerry Monroe - reveals Estate
+Kerry Monroe - places Estate on top of deck
+Warlord Bot - plays 2 Copper
+Warlord Bot - draws Silver, Estate, Estate, Copper, Copper
+ 
+---------- Villager Bot: turn 4 ----------
+Villager Bot - plays 3 Copper, 1 Silver
+Villager Bot - buys Fortress
+Villager Bot - gains Fortress
+Villager Bot - draws Estate, Copper, Copper, Copper
+Villager Bot - shuffles deck
+Villager Bot - draws Masquerade
+ 
+---------- Conqueror Bot: turn 4 ----------
+Conqueror Bot - plays 2 Copper, 1 Silver
+Conqueror Bot - buys Fortress
+Conqueror Bot - gains Fortress
+Conqueror Bot - draws Estate, Copper, Silver, Estate, Copper
+ 
+---------- Kerry Monroe: turn 4 ----------
+Kerry Monroe - plays 3 Copper
+Kerry Monroe - buys Masquerade
+Kerry Monroe - gains Masquerade
+Kerry Monroe - draws Estate, Gold, Estate, Copper, Copper
+ 
+---------- Warlord Bot: turn 4 ----------
+Warlord Bot - plays 2 Copper, 1 Silver
+Warlord Bot - buys Fortress
+Warlord Bot - gains Fortress
+Warlord Bot - draws Copper, Copper, Masquerade, Copper, Estate
+ 
+---------- Villager Bot: turn 5 ----------
+Villager Bot - plays Masquerade
+Villager Bot - draws Copper, Fortress
+Conqueror Bot - passes Copper
+Warlord Bot - passes Estate
+Villager Bot - passes Copper
+Kerry Monroe - passes Estate
+Villager Bot - trashes Copper
+Villager Bot - plays 2 Copper
+Villager Bot - draws Estate, Silver, Copper, Estate, Copper
+ 
+---------- Conqueror Bot: turn 5 ----------
+Conqueror Bot - plays 2 Copper, 1 Silver
+Conqueror Bot - buys Fortress
+Conqueror Bot - gains Fortress
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Estate, Copper, Bureaucrat, Silver, Estate
+ 
+---------- Kerry Monroe: turn 5 ----------
+Kerry Monroe - plays 3 Copper, 1 Gold
+Kerry Monroe - buys Gold
+Kerry Monroe - gains Gold
+Kerry Monroe - draws Copper, Copper, Library
+Kerry Monroe - shuffles deck
+Kerry Monroe - draws Estate, Estate
+ 
+---------- Warlord Bot: turn 5 ----------
+Warlord Bot - plays Masquerade
+Warlord Bot - shuffles deck
+Warlord Bot - draws Estate, Copper
+Warlord Bot - passes Estate
+Conqueror Bot - passes Copper
+Villager Bot - passes Estate
+Kerry Monroe - passes Estate
+Warlord Bot - trashes Estate
+Warlord Bot - plays 4 Copper
+Warlord Bot - buys Bureaucrat
+Warlord Bot - gains Bureaucrat
+Warlord Bot - draws Bureaucrat, Estate, Copper, Copper, Silver
+ 
+---------- Villager Bot: turn 6 ----------
+Villager Bot - plays 2 Copper, 1 Silver
+Villager Bot - buys Fortress
+Villager Bot - gains Fortress
+Villager Bot - draws Copper, Silver, Bureaucrat
+Villager Bot - shuffles deck
+Villager Bot - draws Copper, Estate
+ 
+---------- Conqueror Bot: turn 6 ----------
+Conqueror Bot - plays Bureaucrat
+Conqueror Bot - gains Silver
+Kerry Monroe - reveals Estate
+Kerry Monroe - places Estate on top of deck
+Warlord Bot - reveals Estate
+Warlord Bot - places Estate on top of deck
+Villager Bot - reveals Estate
+Villager Bot - places Estate on top of deck
+Conqueror Bot - plays 1 Silver
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - draws Silver, Silver, Copper, Estate, Fortress
+ 
+---------- Kerry Monroe: turn 6 ----------
+Kerry Monroe - plays Library
+Kerry Monroe - draws Estate
+Kerry Monroe - draws Copper
+Kerry Monroe - draws Gold
+Kerry Monroe - draws Gold
+Kerry Monroe - plays 4 Copper, 2 Gold
+Kerry Monroe - buys Province
+Kerry Monroe - gains Province
+Kerry Monroe - draws Copper, Masquerade, Copper, Copper, Copper
+ 
+---------- Warlord Bot: turn 6 ----------
+Warlord Bot - plays Bureaucrat
+Warlord Bot - gains Silver
+Villager Bot - reveals Copper, Silver, Bureaucrat, Copper
+Conqueror Bot - reveals Estate
+Conqueror Bot - places Estate on top of deck
+Kerry Monroe - reveals Copper, Masquerade, Copper, Copper, Copper
+Warlord Bot - plays 2 Copper, 1 Silver
+Warlord Bot - buys Fortress
+Warlord Bot - gains Fortress
+Warlord Bot - draws Silver, Estate, Fortress, Copper
+Warlord Bot - shuffles deck
+Warlord Bot - draws Bureaucrat
+ 
+---------- Villager Bot: turn 7 ----------
+Villager Bot - plays Bureaucrat
+Villager Bot - gains Silver
+Conqueror Bot - reveals Silver, Silver, Copper, Fortress
+Kerry Monroe - reveals Copper, Masquerade, Copper, Copper, Copper
+Warlord Bot - reveals Estate
+Warlord Bot - places Estate on top of deck
+Villager Bot - plays 2 Copper, 1 Silver
+Villager Bot - buys Fortress
+Villager Bot - gains Fortress
+Villager Bot - draws Silver, Estate, Masquerade, Estate, Fortress
+ 
+---------- Conqueror Bot: turn 7 ----------
+Conqueror Bot - plays Fortress
+Conqueror Bot - draws Estate
+Conqueror Bot - plays 2 Silver, 1 Copper
+Conqueror Bot - buys Hunting Party
+Conqueror Bot - gains Hunting Party
+Conqueror Bot - draws Copper, Fortress, Copper, Copper, Masquerade
+ 
+---------- Kerry Monroe: turn 7 ----------
+Kerry Monroe - plays Masquerade
+Kerry Monroe - draws Copper
+Kerry Monroe - shuffles deck
+Kerry Monroe - draws Copper
+Conqueror Bot - passes Copper
+Warlord Bot - passes Copper
+Villager Bot - passes Estate
+Kerry Monroe - passes Copper
+Kerry Monroe - plays 6 Copper
+Kerry Monroe - buys Gold
+Kerry Monroe - gains Gold
+Kerry Monroe - draws Copper, Estate, Copper, Gold, Province
+ 
+---------- Warlord Bot: turn 7 ----------
+Warlord Bot - plays Fortress
+Warlord Bot - draws Estate
+Warlord Bot - plays Bureaucrat
+Warlord Bot - gains Silver
+Villager Bot - reveals Estate
+Villager Bot - places Estate on top of deck
+Conqueror Bot - reveals Estate
+Conqueror Bot - places Estate on top of deck
+Kerry Monroe - reveals Estate
+Kerry Monroe - places Estate on top of deck
+Warlord Bot - plays 1 Silver, 1 Copper
+Warlord Bot - buys Silver
+Warlord Bot - gains Silver
+Warlord Bot - draws Silver, Copper, Copper, Copper, Copper
+ 
+---------- Villager Bot: turn 8 ----------
+Villager Bot - plays Fortress
+Villager Bot - draws Estate
+Villager Bot - plays Masquerade
+Villager Bot - draws Estate, Copper
+Conqueror Bot - passes Copper
+Villager Bot - passes Copper
+Warlord Bot - passes Copper
+Kerry Monroe - passes Copper
+Villager Bot - trashes Copper
+Villager Bot - plays 1 Silver, 1 Copper
+Villager Bot - buys Silver
+Villager Bot - gains Silver
+Villager Bot - draws Copper, Estate, Copper, Silver, Fortress
+ 
+---------- Conqueror Bot: turn 8 ----------
+Conqueror Bot - plays Fortress
+Conqueror Bot - draws Estate
+Conqueror Bot - plays Masquerade
+Conqueror Bot - draws Copper, Copper
+Warlord Bot - passes Copper
+Villager Bot - passes Copper
+Conqueror Bot - passes Copper
+Kerry Monroe - passes Copper
+Conqueror Bot - trashes Copper
+Conqueror Bot - plays 3 Copper
+Conqueror Bot - buys Trade Route
+Conqueror Bot - gains Trade Route
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Copper, Fortress, Estate, Copper, Estate
+ 
+---------- Kerry Monroe: turn 8 ----------
+Kerry Monroe - plays 2 Copper, 1 Gold
+Kerry Monroe - buys Hunting Party
+Kerry Monroe - gains Hunting Party
+Kerry Monroe - draws Estate, Library, Copper, Gold
+Kerry Monroe - shuffles deck
+Kerry Monroe - draws Copper
+ 
+---------- Warlord Bot: turn 8 ----------
+Warlord Bot - plays 4 Copper, 1 Silver
+Warlord Bot - buys Gold
+Warlord Bot - gains Gold
+Warlord Bot - draws Fortress, Copper, Bureaucrat, Masquerade, Silver
+ 
+---------- Villager Bot: turn 9 ----------
+Villager Bot - plays Fortress
+Villager Bot - shuffles deck
+Villager Bot - draws Masquerade
+Villager Bot - plays Masquerade
+Villager Bot - draws Copper, Silver
+Conqueror Bot - passes Copper
+Warlord Bot - passes Copper
+Villager Bot - passes Copper
+Kerry Monroe - passes Estate
+Villager Bot - trashes Copper
+Villager Bot - plays 2 Silver, 2 Copper
+Villager Bot - buys Gold
+Villager Bot - gains Gold
+Villager Bot - draws Estate, Silver, Bureaucrat, Fortress, Copper
+ 
+---------- Conqueror Bot: turn 9 ----------
+Conqueror Bot - plays Fortress
+Conqueror Bot - draws Bureaucrat
+Conqueror Bot - plays Bureaucrat
+Conqueror Bot - gains Silver
+Kerry Monroe - reveals Library, Copper, Gold, Copper, Copper
+Warlord Bot - reveals Estate
+Warlord Bot - places Estate on top of deck
+Villager Bot - reveals Estate
+Villager Bot - places Estate on top of deck
+Conqueror Bot - plays 2 Copper
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - draws Silver, Copper, Fortress, Hunting Party, Estate
+ 
+---------- Kerry Monroe: turn 9 ----------
+Kerry Monroe - plays Library
+Kerry Monroe - draws Copper
+Kerry Monroe - draws Copper
+Kerry Monroe - draws Gold
+Kerry Monroe - plays 5 Copper, 2 Gold
+Kerry Monroe - buys Province
+Kerry Monroe - gains Province
+Kerry Monroe - draws Copper, Copper, Province, Hunting Party, Copper
+ 
+---------- Warlord Bot: turn 9 ----------
+Warlord Bot - plays Fortress
+Warlord Bot - draws Estate
+Warlord Bot - plays Bureaucrat
+Warlord Bot - gains Silver
+Villager Bot - reveals Silver, Bureaucrat, Fortress, Copper
+Conqueror Bot - reveals Estate
+Conqueror Bot - places Estate on top of deck
+Kerry Monroe - reveals Province
+Kerry Monroe - places Province on top of deck
+Warlord Bot - plays Masquerade
+Warlord Bot - draws Silver, Copper
+Warlord Bot - passes Copper
+Conqueror Bot - passes Copper
+Villager Bot - passes Copper
+Kerry Monroe - passes Copper
+Warlord Bot - trashes Copper
+Warlord Bot - plays 2 Silver
+Warlord Bot - buys Fortress
+Warlord Bot - gains Fortress
+Warlord Bot - draws Estate
+Warlord Bot - shuffles deck
+Warlord Bot - draws Copper, Bureaucrat, Masquerade, Silver
+ 
+---------- Villager Bot: turn 10 ----------
+Villager Bot - plays Fortress
+Villager Bot - draws Estate
+Villager Bot - plays Bureaucrat
+Villager Bot - gains Silver
+Conqueror Bot - reveals Silver, Fortress, Hunting Party, Copper
+Kerry Monroe - reveals Copper, Copper, Hunting Party, Copper
+Warlord Bot - reveals Estate
+Warlord Bot - places Estate on top of deck
+Villager Bot - plays 1 Silver, 1 Copper
+Villager Bot - buys Trade Route
+Villager Bot - gains Trade Route
+Villager Bot - draws Silver, Silver, Fortress, Copper, Estate
+ 
+---------- Conqueror Bot: turn 10 ----------
+Conqueror Bot - plays Fortress
+Conqueror Bot - draws Estate
+Conqueror Bot - plays Hunting Party
+Conqueror Bot - draws Masquerade
+Conqueror Bot - reveals hand: Silver, Copper, Estate, Masquerade
+Conqueror Bot - reveals Silver, Silver, Estate, Estate, Estate, Trade Route
+Conqueror Bot - places Trade Route in hand
+Conqueror Bot - discards: Silver, Silver, Estate, Estate, Estate
+Conqueror Bot - plays Trade Route
+Conqueror Bot - trashes Copper
+Conqueror Bot - plays 1 Silver
+Conqueror Bot - buys Fortress
+Conqueror Bot - gains Fortress
+Conqueror Bot - draws Copper, Silver
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Estate, Masquerade, Trade Route
+ 
+---------- Kerry Monroe: turn 10 ----------
+Kerry Monroe - plays Hunting Party
+Kerry Monroe - draws Province
+Kerry Monroe - reveals hand: Copper, Copper, Copper, Province
+Kerry Monroe - reveals Masquerade
+Kerry Monroe - places Masquerade in hand
+Kerry Monroe - plays Masquerade
+Kerry Monroe - draws Copper, Copper
+Conqueror Bot - passes Copper
+Villager Bot - passes Copper
+Warlord Bot - passes Copper
+Kerry Monroe - passes Copper
+Kerry Monroe - plays 5 Copper
+Kerry Monroe - buys Hunting Party
+Kerry Monroe - gains Hunting Party
+Kerry Monroe - draws Gold
+Kerry Monroe - shuffles deck
+Kerry Monroe - draws Copper, Masquerade, Copper, Hunting Party
+ 
+---------- Warlord Bot: turn 10 ----------
+Warlord Bot - plays Bureaucrat
+Warlord Bot - gains Silver
+Villager Bot - reveals Estate
+Villager Bot - places Estate on top of deck
+Conqueror Bot - reveals Estate
+Conqueror Bot - places Estate on top of deck
+Kerry Monroe - reveals Gold, Copper, Masquerade, Copper, Hunting Party
+Warlord Bot - plays 1 Silver, 1 Copper
+Warlord Bot - buys Trade Route
+Warlord Bot - gains Trade Route
+Warlord Bot - draws Silver, Estate, Fortress, Gold, Silver
+ 
+---------- Villager Bot: turn 11 ----------
+Villager Bot - plays Fortress
+Villager Bot - draws Estate
+Villager Bot - plays 2 Silver, 1 Copper
+Villager Bot - buys Hunting Party
+Villager Bot - gains Hunting Party
+Villager Bot - shuffles deck
+Villager Bot - draws Silver, Masquerade, Copper, Silver, Gold
+ 
+---------- Conqueror Bot: turn 11 ----------
+Conqueror Bot - plays Trade Route
+Conqueror Bot - trashes Copper
+Conqueror Bot - plays 1 Silver
+Conqueror Bot - buys Navigator
+Conqueror Bot - gains Navigator
+Conqueror Bot - draws Estate, Hunting Party, Fortress, Estate, Silver
+ 
+---------- Kerry Monroe: turn 11 ----------
+Kerry Monroe - plays Hunting Party
+Kerry Monroe - draws Copper
+Kerry Monroe - reveals hand: Gold, Copper, Masquerade, Copper, Copper
+Kerry Monroe - reveals Library
+Kerry Monroe - places Library in hand
+Kerry Monroe - plays Library
+Kerry Monroe - draws Copper
+Kerry Monroe - draws Province
+Kerry Monroe - plays 4 Copper, 1 Gold
+Kerry Monroe - buys Gold
+Kerry Monroe - gains Gold
+Kerry Monroe - draws Copper, Copper, Province, Copper, Gold
+ 
+---------- Warlord Bot: turn 11 ----------
+Warlord Bot - plays Fortress
+Warlord Bot - draws Fortress
+Warlord Bot - plays Fortress
+Warlord Bot - draws Estate
+Warlord Bot - plays 2 Silver, 1 Gold
+Warlord Bot - buys Gold
+Warlord Bot - gains Gold
+Warlord Bot - draws Copper, Silver, Copper, Fortress, Silver
+ 
+---------- Villager Bot: turn 12 ----------
+Villager Bot - plays Masquerade
+Villager Bot - draws Fortress, Silver
+Conqueror Bot - passes Fortress
+Villager Bot - passes Copper
+Warlord Bot - passes Copper
+Kerry Monroe - passes Copper
+Villager Bot - trashes Copper
+Villager Bot - plays 3 Silver, 1 Gold
+Villager Bot - buys Province
+Villager Bot - gains Province
+Villager Bot - draws Copper, Bureaucrat, Estate, Trade Route, Silver
+ 
+---------- Conqueror Bot: turn 12 ----------
+Conqueror Bot - plays Hunting Party
+Conqueror Bot - draws Silver
+Conqueror Bot - reveals hand: Estate, Estate, Silver, Copper, Silver
+Conqueror Bot - reveals Estate, Estate, Estate, Estate, Copper, Fortress
+Conqueror Bot - places Fortress in hand
+Conqueror Bot - discards: Estate, Estate, Estate, Estate, Copper
+Conqueror Bot - plays Fortress
+Conqueror Bot - draws Copper
+Conqueror Bot - plays 2 Silver, 2 Copper
+Conqueror Bot - buys Gold
+Conqueror Bot - gains Gold
+Conqueror Bot - draws Estate, Bureaucrat, Fortress, Silver
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Copper
+ 
+---------- Kerry Monroe: turn 12 ----------
+Kerry Monroe - plays Fortress
+Kerry Monroe - draws Gold
+Kerry Monroe - plays 2 Copper, 2 Gold
+Kerry Monroe - buys Province
+Kerry Monroe - gains Province
+Kerry Monroe - draws Copper, Copper, Copper, Hunting Party
+Kerry Monroe - shuffles deck
+Kerry Monroe - draws Copper
+ 
+---------- Warlord Bot: turn 12 ----------
+Warlord Bot - plays Fortress
+Warlord Bot - draws Estate
+Warlord Bot - plays 2 Silver, 2 Copper
+Warlord Bot - buys Gold
+Warlord Bot - gains Gold
+Warlord Bot - draws Silver, Copper, Copper, Bureaucrat
+Warlord Bot - shuffles deck
+Warlord Bot - draws Fortress
+ 
+---------- Villager Bot: turn 13 ----------
+Villager Bot - plays Bureaucrat
+Villager Bot - gains Silver
+Conqueror Bot - reveals Estate
+Conqueror Bot - places Estate on top of deck
+Kerry Monroe - reveals Copper, Copper, Copper, Hunting Party, Copper
+Warlord Bot - reveals Silver, Copper, Copper, Bureaucrat, Fortress
+Villager Bot - plays 1 Copper, 1 Silver
+Villager Bot - buys Trade Route
+Villager Bot - gains Trade Route
+Villager Bot - draws Silver, Estate, Fortress, Copper, Copper
+ 
+---------- Conqueror Bot: turn 13 ----------
+Conqueror Bot - plays Fortress
+Conqueror Bot - draws Estate
+Conqueror Bot - plays Bureaucrat
+Conqueror Bot - gains Silver
+Kerry Monroe - reveals Copper, Copper, Copper, Hunting Party, Copper
+Warlord Bot - reveals Silver, Copper, Copper, Bureaucrat, Fortress
+Villager Bot - reveals Estate
+Villager Bot - places Estate on top of deck
+Conqueror Bot - plays 1 Silver, 1 Copper
+Conqueror Bot - buys Silver
+Conqueror Bot - gains Silver
+Conqueror Bot - draws Silver, Trade Route, Estate, Estate, Copper
+ 
+---------- Kerry Monroe: turn 13 ----------
+Kerry Monroe - plays Hunting Party
+Kerry Monroe - draws Copper
+Kerry Monroe - reveals hand: Copper, Copper, Copper, Copper, Copper
+Kerry Monroe - reveals Copper, Province
+Kerry Monroe - places Province in hand
+Kerry Monroe - discards Copper
+Kerry Monroe - plays 5 Copper
+Kerry Monroe - buys Duchy
+Kerry Monroe - gains Duchy
+Kerry Monroe - draws Copper, Gold, Province, Fortress, Gold
+ 
+---------- Warlord Bot: turn 13 ----------
+Warlord Bot - plays Fortress
+Warlord Bot - draws Copper
+Warlord Bot - plays Bureaucrat
+Warlord Bot - gains Silver
+Villager Bot - reveals Silver, Fortress, Copper, Copper
+Conqueror Bot - reveals Estate
+Conqueror Bot - places Estate on top of deck
+Kerry Monroe - reveals Province
+Kerry Monroe - places Province on top of deck
+Warlord Bot - plays 3 Copper, 1 Silver
+Warlord Bot - buys Hunting Party
+Warlord Bot - gains Hunting Party
+Warlord Bot - draws Silver, Copper, Silver, Masquerade, Estate
+ 
+---------- Villager Bot: turn 14 ----------
+Villager Bot - plays Fortress
+Villager Bot - draws Estate
+Villager Bot - plays 2 Copper, 1 Silver
+Villager Bot - buys Fortress
+Villager Bot - gains Fortress
+Villager Bot - draws Silver, Estate, Hunting Party, Fortress
+Villager Bot - shuffles deck
+Villager Bot - draws Trade Route
+ 
+---------- Conqueror Bot: turn 14 ----------
+Conqueror Bot - plays Trade Route
+Conqueror Bot - trashes Copper
+Conqueror Bot - plays 1 Silver
+Conqueror Bot - buys Duchy
+Conqueror Bot - gains Duchy
+Conqueror Bot - draws Estate, Masquerade, Estate, Hunting Party, Estate
+ 
+---------- Kerry Monroe: turn 14 ----------
+Kerry Monroe - plays Fortress
+Kerry Monroe - draws Province
+Kerry Monroe - plays 2 Gold, 1 Copper
+Kerry Monroe - buys Gold
+Kerry Monroe - gains Gold
+Kerry Monroe - draws Gold, Hunting Party, Copper, Masquerade, Gold
+ 
+---------- Warlord Bot: turn 14 ----------
+Warlord Bot - plays Masquerade
+Warlord Bot - draws Silver, Bureaucrat
+Warlord Bot - passes Copper
+Villager Bot - passes Fortress
+Conqueror Bot - passes Masquerade
+Kerry Monroe - passes Copper
+Warlord Bot - trashes Copper
+Warlord Bot - plays 3 Silver
+Warlord Bot - buys Gold
+Warlord Bot - gains Gold
+Warlord Bot - draws Copper, Estate, Silver, Silver, Gold
+ 
+---------- Villager Bot: turn 15 ----------
+Villager Bot - plays Hunting Party
+Villager Bot - draws Silver
+Villager Bot - reveals hand: Silver, Estate, Trade Route, Copper, Silver
+Villager Bot - reveals Trade Route, Copper, Bureaucrat
+Villager Bot - places Bureaucrat in hand
+Villager Bot - discards: Trade Route, Copper
+Villager Bot - plays Trade Route
+Villager Bot - trashes Copper
+Villager Bot - plays 2 Silver
+Villager Bot - buys Gold
+Villager Bot - gains Gold
+Villager Bot - draws Copper, Silver, Fortress, Province, Silver
+ 
+---------- Conqueror Bot: turn 15 ----------
+Conqueror Bot - plays Fortress
+Conqueror Bot - draws Gold
+Conqueror Bot - plays Hunting Party
+Conqueror Bot - draws Navigator
+Conqueror Bot - reveals hand: Estate, Estate, Estate, Gold, Navigator
+Conqueror Bot - reveals Estate, Silver
+Conqueror Bot - places Silver in hand
+Conqueror Bot - discards Estate
+Conqueror Bot - plays Navigator
+Conqueror Bot - looks at Estate, Fortress, Silver, Copper, Silver
+Conqueror Bot - places Estate on top of deck
+Conqueror Bot - places Copper on top of deck
+Conqueror Bot - places Silver on top of deck
+Conqueror Bot - places Silver on top of deck
+Conqueror Bot - places Fortress on top of deck
+Conqueror Bot - plays 1 Gold, 1 Silver
+Conqueror Bot - buys Duchy
+Conqueror Bot - gains Duchy
+Conqueror Bot - draws Fortress, Silver, Silver, Copper, Estate
+ 
+---------- Kerry Monroe: turn 15 ----------
+Kerry Monroe - plays Hunting Party
+Kerry Monroe - draws Province
+Kerry Monroe - reveals hand: Gold, Masquerade, Gold, Masquerade, Province
+Kerry Monroe - reveals Library
+Kerry Monroe - places Library in hand
+Kerry Monroe - plays Masquerade
+Kerry Monroe - draws Copper
+Kerry Monroe - shuffles deck
+Kerry Monroe - draws Province
+Villager Bot - passes Copper
+Warlord Bot - passes Copper
+Conqueror Bot - passes Copper
+Kerry Monroe - passes Copper
+Kerry Monroe - trashes Copper
+Kerry Monroe - plays 2 Gold
+Kerry Monroe - buys Gold
+Kerry Monroe - gains Gold
+Kerry Monroe - draws Gold, Copper, Copper, Copper, Hunting Party
+ 
+---------- Warlord Bot: turn 15 ----------
+Warlord Bot - plays 2 Silver, 1 Gold, 1 Copper
+Warlord Bot - buys Province
+Warlord Bot - gains Province
+Warlord Bot - draws Gold, Estate, Silver, Fortress, Fortress
+ 
+---------- Villager Bot: turn 16 ----------
+Villager Bot - plays Fortress
+Villager Bot - draws Estate
+Villager Bot - plays 2 Silver, 1 Copper
+Villager Bot - buys Hunting Party
+Villager Bot - gains Hunting Party
+Villager Bot - draws Estate, Fortress, Copper, Fortress, Silver
+ 
+---------- Conqueror Bot: turn 16 ----------
+Conqueror Bot - plays Fortress
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Duchy
+Conqueror Bot - plays 2 Silver, 1 Copper
+Conqueror Bot - buys Duchy
+Conqueror Bot - gains Duchy
+Conqueror Bot - draws Estate, Estate, Silver, Gold, Estate
+ 
+---------- Kerry Monroe: turn 16 ----------
+Kerry Monroe - plays Hunting Party
+Kerry Monroe - draws Province
+Kerry Monroe - reveals hand: Gold, Copper, Copper, Copper, Province
+Kerry Monroe - reveals Copper, Copper, Gold, Gold, Copper, Fortress
+Kerry Monroe - places Fortress in hand
+Kerry Monroe - discards: Copper, Copper, Gold, Gold, Copper
+Kerry Monroe - plays Fortress
+Kerry Monroe - draws Duchy
+Kerry Monroe - plays 3 Copper, 1 Gold
+Kerry Monroe - buys Gold
+Kerry Monroe - gains Gold
+Kerry Monroe - draws Copper
+Kerry Monroe - shuffles deck
+Kerry Monroe - draws Province, Masquerade, Copper, Copper
+ 
+---------- Warlord Bot: turn 16 ----------
+Warlord Bot - plays Fortress
+Warlord Bot - draws Gold
+Warlord Bot - plays Fortress
+Warlord Bot - draws Trade Route
+Warlord Bot - plays 2 Gold, 1 Silver
+Warlord Bot - buys Province
+Warlord Bot - gains Province
+Warlord Bot - shuffles deck
+Warlord Bot - draws Estate, Bureaucrat, Copper, Trade Route, Silver
+ 
+---------- Villager Bot: turn 17 ----------
+Villager Bot - plays Fortress
+Villager Bot - draws Gold
+Villager Bot - plays Fortress
+Villager Bot - draws Masquerade
+Villager Bot - plays Masquerade
+Villager Bot - draws Silver
+Villager Bot - shuffles deck
+Villager Bot - draws Silver
+Villager Bot - passes Copper
+Conqueror Bot - passes Silver
+Warlord Bot - passes Copper
+Kerry Monroe - passes Copper
+Villager Bot - trashes Copper
+Villager Bot - plays 3 Silver, 1 Gold
+Villager Bot - buys Province
+Villager Bot - gains Province
+Villager Bot - draws Bureaucrat, Copper, Copper, Estate, Silver
+ 
+---------- Conqueror Bot: turn 17 ----------
+Conqueror Bot - plays 1 Gold, 1 Copper
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - draws Fortress, Bureaucrat, Trade Route, Estate, Silver
+ 
+---------- Kerry Monroe: turn 17 ----------
+Kerry Monroe - plays Masquerade
+Kerry Monroe - draws Hunting Party, Gold
+Conqueror Bot - passes Fortress
+Villager Bot - passes Copper
+Warlord Bot - passes Copper
+Kerry Monroe - passes Copper
+Kerry Monroe - trashes Copper
+Kerry Monroe - plays 1 Silver, 1 Gold
+Kerry Monroe - buys Duchy
+Kerry Monroe - gains Duchy
+Kerry Monroe - draws Province, Gold, Province, Gold, Copper
+ 
+---------- Warlord Bot: turn 17 ----------
+Warlord Bot - plays Bureaucrat
+Warlord Bot - gains Silver
+Villager Bot - reveals Estate
+Villager Bot - places Estate on top of deck
+Conqueror Bot - reveals Estate
+Conqueror Bot - places Estate on top of deck
+Kerry Monroe - reveals Province
+Kerry Monroe - places Province on top of deck
+Warlord Bot - plays 1 Silver, 1 Copper
+Warlord Bot - buys Estate
+Warlord Bot - gains Estate
+Warlord Bot - draws Silver, Silver, Fortress, Bureaucrat, Hunting Party
+ 
+---------- Villager Bot: turn 18 ----------
+Villager Bot - plays Bureaucrat
+Villager Bot - gains Silver
+Conqueror Bot - reveals Bureaucrat, Trade Route, Silver, Copper
+Kerry Monroe - reveals Province
+Kerry Monroe - places Province on top of deck
+Warlord Bot - reveals Silver, Silver, Fortress, Bureaucrat, Hunting Party
+Villager Bot - plays 2 Copper, 1 Silver
+Villager Bot - buys Trade Route
+Villager Bot - gains Trade Route
+Villager Bot - draws Silver, Estate, Trade Route, Estate, Province
+ 
+---------- Conqueror Bot: turn 18 ----------
+Conqueror Bot - plays Trade Route
+Conqueror Bot - trashes Copper
+Conqueror Bot - plays 1 Silver
+Conqueror Bot - buys Duchy
+Conqueror Bot - gains Duchy
+Conqueror Bot - draws Estate, Silver, Estate, Hunting Party, Copper
+ 
+---------- Kerry Monroe: turn 18 ----------
+Kerry Monroe - plays 2 Gold, 1 Copper
+Kerry Monroe - buys Duchy
+Kerry Monroe - gains Duchy
+Kerry Monroe - draws Province, Province, Copper, Hunting Party, Gold
+ 
+---------- Warlord Bot: turn 18 ----------
+Warlord Bot - plays Fortress
+Warlord Bot - draws Estate
+Warlord Bot - plays Hunting Party
+Warlord Bot - draws Gold
+Warlord Bot - reveals hand: Silver, Silver, Bureaucrat, Estate, Gold
+Warlord Bot - reveals Fortress
+Warlord Bot - places Fortress in hand
+Warlord Bot - plays Fortress
+Warlord Bot - draws Copper
+Warlord Bot - plays Bureaucrat
+Warlord Bot - gains Silver
+Villager Bot - reveals Province
+Villager Bot - places Province on top of deck
+Conqueror Bot - reveals Estate
+Conqueror Bot - places Estate on top of deck
+Kerry Monroe - reveals Province
+Kerry Monroe - places Province on top of deck
+Warlord Bot - plays 2 Silver, 1 Gold, 1 Copper
+Warlord Bot - buys Province
+Warlord Bot - gains Province
+Warlord Bot - draws Silver, Silver, Gold, Province, Silver
+ 
+---------- Villager Bot: turn 19 ----------
+Villager Bot - plays 1 Silver
+Villager Bot - buys Estate
+Villager Bot - gains Estate
+Villager Bot - draws Province, Trade Route, Silver, Fortress, Gold
+ 
+---------- Conqueror Bot: turn 19 ----------
+Conqueror Bot - plays Hunting Party
+Conqueror Bot - draws Estate
+Conqueror Bot - reveals hand: Silver, Estate, Copper, Estate
+Conqueror Bot - reveals Fortress
+Conqueror Bot - places Fortress in hand
+Conqueror Bot - plays Fortress
+Conqueror Bot - draws Navigator
+Conqueror Bot - plays Navigator
+Conqueror Bot - looks at Estate, Duchy, Silver
+Conqueror Bot - shuffles deck
+Conqueror Bot - looks at Duchy, Gold
+Conqueror Bot - discards: Estate, Duchy, Silver, Duchy, Gold
+Conqueror Bot - plays 1 Silver, 1 Copper
+Conqueror Bot - buys Duchy
+Conqueror Bot - gains Duchy
+Conqueror Bot - draws Fortress, Duchy, Estate, Trade Route, Silver
+ 
+---------- Kerry Monroe: turn 19 ----------
+Kerry Monroe - plays Hunting Party
+Kerry Monroe - draws Province
+Kerry Monroe - reveals hand: Province, Copper, Gold, Province
+Kerry Monroe - reveals Duchy
+Kerry Monroe - places Duchy in hand
+Kerry Monroe - plays 1 Copper, 1 Gold
+Kerry Monroe - buys Trade Route
+Kerry Monroe - gains Trade Route
+Kerry Monroe - draws Copper, Library, Gold, Gold, Masquerade
+ 
+---------- Warlord Bot: turn 19 ----------
+Warlord Bot - plays 3 Silver, 1 Gold
+Warlord Bot - buys Province
+Warlord Bot - gains Province
+Warlord Bot - draws Gold, Masquerade, Province, Gold, Copper
+ 
+---------- Villager Bot: turn 20 ----------
+Villager Bot - plays Fortress
+Villager Bot - draws Silver
+Villager Bot - plays 2 Silver, 1 Gold
+Villager Bot - buys Duchy
+Villager Bot - gains Duchy
+Villager Bot - draws Hunting Party, Hunting Party
+Villager Bot - shuffles deck
+Villager Bot - draws Silver, Copper, Fortress
+ 
+---------- Conqueror Bot: turn 20 ----------
+Conqueror Bot - plays Fortress
+Conqueror Bot - draws Estate
+Conqueror Bot - plays 1 Silver
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - draws Silver, Estate, Silver, Estate, Copper
+ 
+---------- Kerry Monroe: turn 20 ----------
+Kerry Monroe - plays Library
+Kerry Monroe - draws Gold
+Kerry Monroe - discards Fortress
+Kerry Monroe - draws Copper
+Kerry Monroe - shuffles deck
+Kerry Monroe - discards Trade Route
+Kerry Monroe - draws Province
+Kerry Monroe - discards: Fortress, Trade Route
+Kerry Monroe - plays 3 Gold, 2 Copper
+Kerry Monroe - buys Province
+Kerry Monroe - gains Province
+Kerry Monroe - draws Copper, Gold, Duchy, Province, Duchy
+ 
+---------- Warlord Bot: turn 20 ----------
+Warlord Bot - plays Masquerade
+Warlord Bot - draws Fortress, Silver
+Villager Bot - passes Copper
+Warlord Bot - passes Copper
+Conqueror Bot - passes Copper
+Kerry Monroe - passes Copper
+Warlord Bot - trashes Copper
+Warlord Bot - plays 2 Gold, 1 Silver
+Warlord Bot - buys Province
+Warlord Bot - gains Province
+Warlord Bot - draws Silver, Estate, Copper, Silver
+Warlord Bot - shuffles deck
+Warlord Bot - draws Province
+ 
+---------- Villager Bot: turn 21 ----------
+Villager Bot - plays Fortress
+Villager Bot - draws Province
+Villager Bot - plays Hunting Party
+Villager Bot - draws Trade Route
+Villager Bot - reveals hand: Hunting Party, Silver, Copper, Province, Trade Route
+Villager Bot - reveals Silver, Trade Route, Province, Silver, Duchy
+Villager Bot - places Duchy in hand
+Villager Bot - discards: Silver, Trade Route, Province, Silver
+Villager Bot - plays Hunting Party
+Villager Bot - draws Silver
+Villager Bot - reveals hand: Silver, Copper, Province, Trade Route, Duchy, Silver
+Villager Bot - reveals Silver, Bureaucrat
+Villager Bot - places Bureaucrat in hand
+Villager Bot - discards Silver
+Villager Bot - plays Trade Route
+Villager Bot - trashes Copper
+Villager Bot - plays Bureaucrat
+Villager Bot - gains Silver
+Conqueror Bot - reveals Estate
+Conqueror Bot - places Estate on top of deck
+Kerry Monroe - reveals Province
+Kerry Monroe - places Province on top of deck
+Warlord Bot - reveals Province
+Warlord Bot - places Province on top of deck
+Villager Bot - plays 2 Silver
+Villager Bot - buys Duchy
+Villager Bot - gains Duchy
+Villager Bot - buys Estate
+Villager Bot - gains Estate
+Villager Bot - draws Silver, Estate, Masquerade, Trade Route, Fortress
+ 
+---------- Conqueror Bot: turn 21 ----------
+Conqueror Bot - plays 2 Silver, 1 Copper
+Conqueror Bot - buys Duchy
+Conqueror Bot - gains Duchy
+Conqueror Bot - draws Estate, Estate, Bureaucrat, Duchy, Copper
+ 
+---------- Kerry Monroe: turn 21 ----------
+Kerry Monroe - plays 1 Gold, 1 Copper
+Kerry Monroe - buys Estate
+Kerry Monroe - gains Estate
+Kerry Monroe - draws Province, Gold, Copper, Gold, Hunting Party
+ 
+---------- Warlord Bot: turn 21 ----------
+Warlord Bot - plays 2 Silver, 1 Copper
+Warlord Bot - buys Duchy
+Warlord Bot - gains Duchy
+Warlord Bot - draws Province, Gold, Silver, Province, Copper
+ 
+---------- Villager Bot: turn 22 ----------
+Villager Bot - plays Fortress
+Villager Bot - draws Copper
+Villager Bot - plays Trade Route
+Villager Bot - trashes Copper
+Villager Bot - plays 1 Silver
+Villager Bot - buys Estate
+Villager Bot - gains Estate
+Villager Bot - buys Estate
+Villager Bot - gains Estate
+Villager Bot - draws Estate, Estate, Silver, Fortress, Silver
+ 
+---------- Conqueror Bot: turn 22 ----------
+Conqueror Bot - plays Bureaucrat
+Conqueror Bot - gains Silver
+Kerry Monroe - reveals Province
+Kerry Monroe - places Province on top of deck
+Warlord Bot - reveals Province
+Warlord Bot - places Province on top of deck
+Villager Bot - reveals Estate
+Villager Bot - places Estate on top of deck
+Conqueror Bot - plays 1 Copper
+Conqueror Bot - draws Silver
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Estate, Silver, Gold, Silver
+ 
+---------- Kerry Monroe: turn 22 ----------
+Kerry Monroe - plays Hunting Party
+Kerry Monroe - draws Province
+Kerry Monroe - reveals hand: Gold, Copper, Gold, Province
+Kerry Monroe - reveals Duchy
+Kerry Monroe - places Duchy in hand
+Kerry Monroe - plays 2 Gold, 1 Copper
+Kerry Monroe - buys Gold
+Kerry Monroe - gains Gold
+Kerry Monroe - draws Gold, Hunting Party, Masquerade, Silver, Province
+ 
+---------- Warlord Bot: turn 22 ----------
+Warlord Bot - plays 1 Gold, 1 Silver, 1 Copper
+Warlord Bot - buys Estate
+Warlord Bot - gains Estate
+Warlord Bot - draws Province, Province, Bureaucrat, Trade Route, Fortress
+ 
+---------- Villager Bot: turn 23 ----------
+Villager Bot - plays Fortress
+Villager Bot - draws Estate
+Villager Bot - plays 2 Silver
+Villager Bot - buys Silver
+Villager Bot - gains Silver
+Villager Bot - draws Gold, Gold, Estate
+Villager Bot - shuffles deck
+Villager Bot - draws Hunting Party, Silver
+ 
+---------- Conqueror Bot: turn 23 ----------
+Conqueror Bot - plays 3 Silver, 1 Gold
+Conqueror Bot - buys Gold
+Conqueror Bot - gains Gold
+Conqueror Bot - draws Estate, Estate, Fortress, Silver, Estate
+ 
+---------- Kerry Monroe: turn 23 ----------
+Kerry Monroe - plays Hunting Party
+Kerry Monroe - draws Fortress
+Kerry Monroe - reveals hand: Gold, Masquerade, Silver, Province, Fortress
+Kerry Monroe - shuffles deck
+Kerry Monroe - reveals Masquerade, Copper
+Kerry Monroe - places Copper in hand
+Kerry Monroe - discards Masquerade
+Kerry Monroe - plays Fortress
+Kerry Monroe - draws Gold
+Kerry Monroe - plays Masquerade
+Kerry Monroe - draws Copper, Estate
+Warlord Bot - passes Fortress
+Villager Bot - passes Silver
+Conqueror Bot - passes Fortress
+Kerry Monroe - passes Copper
+Kerry Monroe - trashes Copper
+Kerry Monroe - plays Fortress
+Kerry Monroe - draws Duchy
+Kerry Monroe - plays 2 Gold, 1 Silver
+Kerry Monroe - buys Province
+Kerry Monroe - gains Province
+Kerry Monroe - draws Copper, Province, Fortress, Gold, Hunting Party
+ 
+------------ Game Over ------------
+Kerry Monroe - cards: 3 Fortress, 2 Masquerade, 2 Hunting Party, 1 Library, 1 Trade Route, 8 Gold, 2 Copper, 1 Silver, 5 Province, 3 Duchy, 1 Estate
+Kerry Monroe - total victory points: 40
+Kerry Monroe - turns: 23
+ 
+Warlord Bot - cards: 2 Fortress, 2 Bureaucrat, 1 Masquerade, 1 Trade Route, 1 Hunting Party, 9 Silver, 4 Gold, 4 Copper, 5 Estate, 5 Province, 1 Duchy
+Warlord Bot - total victory points: 38
+Warlord Bot - turns: 22
+ 
+Conqueror Bot - cards: 1 Bureaucrat, 1 Navigator, 1 Trade Route, 1 Fortress, 1 Hunting Party, 7 Silver, 3 Copper, 2 Gold, 9 Estate, 6 Duchy
+Conqueror Bot - total victory points: 27
+Conqueror Bot - turns: 23
+ 
+Villager Bot - cards: 4 Fortress, 3 Trade Route, 2 Hunting Party, 1 Bureaucrat, 1 Masquerade, 8 Silver, 2 Gold, 7 Estate, 2 Duchy, 2 Province
+Villager Bot - total victory points: 25
+Villager Bot - turns: 23
+ 
+1st place: Kerry Monroe
+2nd place: Warlord Bot
+3rd place: Conqueror Bot
+4th place: Villager Bot
+ 

@@ -1,0 +1,893 @@
+------------ Game Setup ------------
+Supply cards: Hamlet, Native Village, Market Square, Shanty Town, Village, Farming Village, Fortress, Pirate Ship, Worker's Village, Bazaar, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+ftl - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Warlord Bot I - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Warlord Bot II - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Warlord Bot III - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ftl - shuffles deck
+Warlord Bot I - shuffles deck
+Warlord Bot II - shuffles deck
+Warlord Bot III - shuffles deck
+ftl - draws Copper, Copper, Copper, Copper, Estate
+Warlord Bot I - draws Estate, Copper, Copper, Copper, Copper
+Warlord Bot II - draws Copper, Estate, Copper, Copper, Estate
+Warlord Bot III - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- ftl: turn 1 ----------
+ftl - plays 4 Copper
+ftl - buys Market Square
+ftl - gains Market Square
+ftl - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Warlord Bot I: turn 1 ----------
+Warlord Bot I - plays 4 Copper
+Warlord Bot I - buys Pirate Ship
+Warlord Bot I - gains Pirate Ship
+Warlord Bot I - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Warlord Bot II: turn 1 ----------
+Warlord Bot II - plays 3 Copper
+Warlord Bot II - buys Silver
+Warlord Bot II - gains Silver
+Warlord Bot II - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Warlord Bot III: turn 1 ----------
+Warlord Bot III - plays 5 Copper
+Warlord Bot III - buys Pirate Ship
+Warlord Bot III - gains Pirate Ship
+Warlord Bot III - draws Estate, Copper, Estate, Copper, Estate
+ 
+---------- ftl: turn 2 ----------
+ftl - plays 3 Copper
+ftl - buys Market Square
+ftl - gains Market Square
+ftl - shuffles deck
+ftl - draws Copper, Estate, Copper, Copper, Market Square
+ 
+---------- Warlord Bot I: turn 2 ----------
+Warlord Bot I - plays 3 Copper
+Warlord Bot I - buys Silver
+Warlord Bot I - gains Silver
+Warlord Bot I - shuffles deck
+Warlord Bot I - draws Estate, Pirate Ship, Copper, Copper, Estate
+ 
+---------- Warlord Bot II: turn 2 ----------
+Warlord Bot II - plays 4 Copper
+Warlord Bot II - buys Pirate Ship
+Warlord Bot II - gains Pirate Ship
+Warlord Bot II - shuffles deck
+Warlord Bot II - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- Warlord Bot III: turn 2 ----------
+Warlord Bot III - plays 2 Copper
+Warlord Bot III - buys Hamlet
+Warlord Bot III - gains Hamlet
+Warlord Bot III - shuffles deck
+Warlord Bot III - draws Copper, Copper, Estate, Copper, Hamlet
+ 
+---------- ftl: turn 3 ----------
+ftl - plays Market Square
+ftl - draws Copper
+ftl - plays 4 Copper
+ftl - buys Market Square
+ftl - gains Market Square
+ftl - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Warlord Bot I: turn 3 ----------
+Warlord Bot I - plays Pirate Ship
+Warlord Bot II - reveals Estate, Copper
+Warlord Bot II - trashes Copper
+Warlord Bot II - discards Estate
+Warlord Bot III - reveals Estate, Estate
+Warlord Bot III - discards: Estate, Estate
+ftl - reveals Market Square
+ftl - shuffles deck
+ftl - reveals Market Square
+ftl - discards: Market Square, Market Square
+Warlord Bot I - receives a pirate coin, now has 1 pirate coin(s)
+Warlord Bot I - plays 2 Copper
+Warlord Bot I - buys Hamlet
+Warlord Bot I - gains Hamlet
+Warlord Bot I - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Warlord Bot II: turn 3 ----------
+Warlord Bot II - plays 4 Copper, 1 Silver
+Warlord Bot II - buys Gold
+Warlord Bot II - gains Gold
+Warlord Bot II - draws Estate, Copper, Estate, Pirate Ship, Copper
+ 
+---------- Warlord Bot III: turn 3 ----------
+Warlord Bot III - plays Hamlet
+Warlord Bot III - draws Copper
+Warlord Bot III - plays 4 Copper
+Warlord Bot III - buys Pirate Ship
+Warlord Bot III - gains Pirate Ship
+Warlord Bot III - draws Copper, Copper, Pirate Ship, Copper
+Warlord Bot III - shuffles deck
+Warlord Bot III - draws Copper
+ 
+---------- ftl: turn 4 ----------
+ftl - plays 3 Copper
+ftl - buys Market Square
+ftl - gains Market Square
+ftl - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Warlord Bot I: turn 4 ----------
+Warlord Bot I - plays 4 Copper
+Warlord Bot I - buys Pirate Ship
+Warlord Bot I - gains Pirate Ship
+Warlord Bot I - draws Silver, Copper
+Warlord Bot I - shuffles deck
+Warlord Bot I - draws Pirate Ship, Copper, Copper
+ 
+---------- Warlord Bot II: turn 4 ----------
+Warlord Bot II - plays Pirate Ship
+Warlord Bot III - reveals Copper, Estate
+Warlord Bot III - trashes Copper
+Warlord Bot III - discards Estate
+ftl - reveals Market Square
+ftl - shuffles deck
+ftl - reveals Estate
+ftl - discards: Market Square, Estate
+Warlord Bot I - reveals Hamlet, Copper
+Warlord Bot I - trashes Copper
+Warlord Bot I - discards Hamlet
+Warlord Bot II - receives a pirate coin, now has 1 pirate coin(s)
+Warlord Bot II - plays 2 Copper
+Warlord Bot II - buys Hamlet
+Warlord Bot II - gains Hamlet
+Warlord Bot II - shuffles deck
+Warlord Bot II - draws Copper, Copper, Hamlet, Estate, Gold
+ 
+---------- Warlord Bot III: turn 4 ----------
+Warlord Bot III - plays Pirate Ship
+ftl - reveals Copper, Copper
+ftl - trashes Copper
+ftl - discards Copper
+Warlord Bot I - reveals Estate, Pirate Ship
+Warlord Bot I - discards: Estate, Pirate Ship
+Warlord Bot II - reveals Copper, Pirate Ship
+Warlord Bot II - trashes Copper
+Warlord Bot II - discards Pirate Ship
+Warlord Bot III - receives a pirate coin, now has 1 pirate coin(s)
+Warlord Bot III - plays 4 Copper
+Warlord Bot III - buys Pirate Ship
+Warlord Bot III - gains Pirate Ship
+Warlord Bot III - draws Pirate Ship, Hamlet, Copper, Copper, Estate
+ 
+---------- ftl: turn 5 ----------
+ftl - plays 4 Copper
+ftl - buys Market Square
+ftl - gains Market Square
+ftl - draws Copper, Market Square, Market Square, Estate, Market Square
+ 
+---------- Warlord Bot I: turn 5 ----------
+Warlord Bot I - plays Pirate Ship
+Warlord Bot II - reveals Estate, Estate
+Warlord Bot II - discards: Estate, Estate
+Warlord Bot III - reveals Estate
+Warlord Bot III - shuffles deck
+Warlord Bot III - reveals Pirate Ship
+Warlord Bot III - discards: Estate, Pirate Ship
+ftl - shuffles deck
+ftl - reveals Estate, Copper
+ftl - trashes Copper
+ftl - reveals reaction Market Square
+ftl - discards Market Square
+ftl - gains Gold
+ftl - reveals reaction Market Square
+ftl - discards Market Square
+ftl - gains Gold
+ftl - reveals reaction Market Square
+ftl - discards Market Square
+ftl - gains Gold
+ftl - discards Estate
+Warlord Bot I - receives a pirate coin, now has 2 pirate coin(s)
+Warlord Bot I - plays 3 Copper, 1 Silver
+Warlord Bot I - buys Pirate Ship
+Warlord Bot I - gains Pirate Ship
+Warlord Bot I - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Warlord Bot II: turn 5 ----------
+Warlord Bot II - plays Hamlet
+Warlord Bot II - draws Copper
+Warlord Bot II - plays 3 Copper, 1 Gold
+Warlord Bot II - buys Pirate Ship
+Warlord Bot II - gains Pirate Ship
+Warlord Bot II - draws Copper, Copper, Silver
+Warlord Bot II - shuffles deck
+Warlord Bot II - draws Copper, Copper
+ 
+---------- Warlord Bot III: turn 5 ----------
+Warlord Bot III - plays Hamlet
+Warlord Bot III - draws Pirate Ship
+Warlord Bot III - discards Estate
+Warlord Bot III - receives one action
+Warlord Bot III - plays Pirate Ship
+ftl - reveals Copper, Market Square
+ftl - trashes Copper
+ftl - discards Market Square
+Warlord Bot I - shuffles deck
+Warlord Bot I - reveals Copper, Copper
+Warlord Bot I - trashes Copper
+Warlord Bot I - discards Copper
+Warlord Bot II - reveals Hamlet, Copper
+Warlord Bot II - trashes Copper
+Warlord Bot II - discards Hamlet
+Warlord Bot III - receives a pirate coin, now has 2 pirate coin(s)
+Warlord Bot III - plays Pirate Ship
+ftl - reveals Copper, Estate
+ftl - trashes Copper
+ftl - discards Estate
+Warlord Bot I - reveals Estate, Pirate Ship
+Warlord Bot I - discards: Estate, Pirate Ship
+Warlord Bot II - reveals Estate, Pirate Ship
+Warlord Bot II - discards: Estate, Pirate Ship
+Warlord Bot III - receives a pirate coin, now has 3 pirate coin(s)
+Warlord Bot III - plays 2 Copper
+Warlord Bot III - buys Native Village
+Warlord Bot III - gains Native Village
+Warlord Bot III - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- ftl: turn 6 ----------
+ftl - draws Copper, Copper, Market Square
+ftl - shuffles deck
+ftl - draws Market Square, Copper
+ 
+---------- Warlord Bot I: turn 6 ----------
+Warlord Bot I - plays 3 Copper
+Warlord Bot I - buys Village
+Warlord Bot I - gains Village
+Warlord Bot I - draws Hamlet, Pirate Ship, Pirate Ship, Silver, Copper
+ 
+---------- Warlord Bot II: turn 6 ----------
+Warlord Bot II - plays 4 Copper, 1 Silver
+Warlord Bot II - buys Pirate Ship
+Warlord Bot II - gains Pirate Ship
+Warlord Bot II - draws Gold, Estate, Pirate Ship, Estate
+Warlord Bot II - shuffles deck
+Warlord Bot II - draws Pirate Ship
+ 
+---------- Warlord Bot III: turn 6 ----------
+Warlord Bot III - plays 4 Copper
+Warlord Bot III - buys Pirate Ship
+Warlord Bot III - gains Pirate Ship
+Warlord Bot III - shuffles deck
+Warlord Bot III - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- ftl: turn 7 ----------
+ftl - plays Market Square
+ftl - draws Market Square
+ftl - plays Market Square
+ftl - draws Gold
+ftl - plays Market Square
+ftl - draws Estate
+ftl - plays 3 Copper, 1 Gold
+ftl - buys Market Square
+ftl - gains Market Square
+ftl - buys Market Square
+ftl - gains Market Square
+ftl - draws Gold, Estate, Estate, Gold, Market Square
+ 
+---------- Warlord Bot I: turn 7 ----------
+Warlord Bot I - plays Hamlet
+Warlord Bot I - shuffles deck
+Warlord Bot I - draws Estate
+Warlord Bot I - discards Estate
+Warlord Bot I - receives one action
+Warlord Bot I - plays Pirate Ship
+Warlord Bot II - reveals Copper, Copper
+Warlord Bot II - trashes Copper
+Warlord Bot II - discards Copper
+Warlord Bot III - reveals Pirate Ship, Estate
+Warlord Bot III - discards: Pirate Ship, Estate
+ftl - reveals Market Square
+ftl - shuffles deck
+ftl - reveals Market Square
+ftl - discards: Market Square, Market Square
+Warlord Bot I - receives a pirate coin, now has 3 pirate coin(s)
+Warlord Bot I - plays Pirate Ship
+Warlord Bot II - reveals Estate, Pirate Ship
+Warlord Bot II - discards: Estate, Pirate Ship
+Warlord Bot III - reveals Copper, Pirate Ship
+Warlord Bot III - trashes Copper
+Warlord Bot III - discards Pirate Ship
+ftl - reveals Estate, Gold
+ftl - trashes Gold
+ftl - reveals reaction Market Square
+ftl - discards Market Square
+ftl - gains Gold
+ftl - discards Estate
+Warlord Bot I - receives a pirate coin, now has 4 pirate coin(s)
+Warlord Bot I - plays 1 Silver, 1 Copper
+Warlord Bot I - buys Village
+Warlord Bot I - gains Village
+Warlord Bot I - draws Copper, Estate, Copper, Pirate Ship, Estate
+ 
+---------- Warlord Bot II: turn 7 ----------
+Warlord Bot II - plays Pirate Ship
+Warlord Bot III - reveals Copper, Native Village
+Warlord Bot III - trashes Copper
+Warlord Bot III - discards Native Village
+ftl - reveals Market Square, Market Square
+ftl - discards: Market Square, Market Square
+Warlord Bot I - reveals Copper, Copper
+Warlord Bot I - trashes Copper
+Warlord Bot I - discards Copper
+Warlord Bot II - receives a pirate coin, now has 2 pirate coin(s)
+Warlord Bot II - plays 1 Gold
+Warlord Bot II - buys Village
+Warlord Bot II - gains Village
+Warlord Bot II - draws Silver, Hamlet, Copper, Copper
+Warlord Bot II - shuffles deck
+Warlord Bot II - draws Copper
+ 
+---------- Warlord Bot III: turn 7 ----------
+Warlord Bot III - plays 3 Copper
+Warlord Bot III - buys Village
+Warlord Bot III - gains Village
+Warlord Bot III - draws Copper, Pirate Ship, Hamlet, Pirate Ship
+Warlord Bot III - shuffles deck
+Warlord Bot III - draws Copper
+ 
+---------- ftl: turn 8 ----------
+ftl - plays 2 Gold
+ftl - buys Market Square
+ftl - gains Market Square
+ftl - draws Market Square, Copper, Copper, Market Square, Copper
+ 
+---------- Warlord Bot I: turn 8 ----------
+Warlord Bot I - plays Pirate Ship
+Warlord Bot II - reveals Gold, Estate
+Warlord Bot II - trashes Gold
+Warlord Bot II - discards Estate
+Warlord Bot III - reveals Estate, Pirate Ship
+Warlord Bot III - discards: Estate, Pirate Ship
+ftl - shuffles deck
+ftl - reveals Gold, Market Square
+ftl - trashes Gold
+ftl - reveals reaction Market Square
+ftl - discards Market Square
+ftl - gains Gold
+ftl - reveals reaction Market Square
+ftl - discards Market Square
+ftl - gains Gold
+ftl - discards Market Square
+Warlord Bot I - receives a pirate coin, now has 5 pirate coin(s)
+Warlord Bot I - plays 2 Copper
+Warlord Bot I - buys Hamlet
+Warlord Bot I - gains Hamlet
+Warlord Bot I - draws Village
+Warlord Bot I - shuffles deck
+Warlord Bot I - draws Copper, Hamlet, Estate, Hamlet
+ 
+---------- Warlord Bot II: turn 8 ----------
+Warlord Bot II - plays Hamlet
+Warlord Bot II - draws Pirate Ship
+Warlord Bot II - plays Pirate Ship
+Warlord Bot III - reveals Copper, Copper
+Warlord Bot III - trashes Copper
+Warlord Bot III - discards Copper
+ftl - reveals Market Square, Estate
+ftl - discards: Market Square, Estate
+Warlord Bot I - reveals Pirate Ship, Copper
+Warlord Bot I - trashes Copper
+Warlord Bot I - discards Pirate Ship
+Warlord Bot II - receives a pirate coin, now has 3 pirate coin(s)
+Warlord Bot II - plays 3 Copper, 1 Silver
+Warlord Bot II - buys Bazaar
+Warlord Bot II - gains Bazaar
+Warlord Bot II - draws Estate, Pirate Ship, Village, Pirate Ship, Estate
+ 
+---------- Warlord Bot III: turn 8 ----------
+Warlord Bot III - plays Hamlet
+Warlord Bot III - draws Estate
+Warlord Bot III - discards Estate
+Warlord Bot III - receives one action
+Warlord Bot III - plays Pirate Ship
+ftl - reveals Market Square, Market Square
+ftl - discards: Market Square, Market Square
+Warlord Bot I - reveals Silver, Copper
+Warlord Bot I - trashes Silver
+Warlord Bot I - discards Copper
+Warlord Bot II - shuffles deck
+Warlord Bot II - reveals Copper, Pirate Ship
+Warlord Bot II - trashes Copper
+Warlord Bot II - discards Pirate Ship
+Warlord Bot III - receives a pirate coin, now has 4 pirate coin(s)
+Warlord Bot III - plays Pirate Ship
+ftl - reveals Market Square, Estate
+ftl - discards: Market Square, Estate
+Warlord Bot I - reveals Estate, Estate
+Warlord Bot I - discards: Estate, Estate
+Warlord Bot II - reveals Copper, Hamlet
+Warlord Bot II - trashes Copper
+Warlord Bot II - discards Hamlet
+Warlord Bot III - receives a pirate coin, now has 5 pirate coin(s)
+Warlord Bot III - plays 2 Copper
+Warlord Bot III - buys Native Village
+Warlord Bot III - gains Native Village
+Warlord Bot III - draws Estate, Pirate Ship, Native Village, Village
+Warlord Bot III - shuffles deck
+Warlord Bot III - draws Copper
+ 
+---------- ftl: turn 9 ----------
+ftl - plays 3 Copper
+ftl - buys Market Square
+ftl - gains Market Square
+ftl - draws Estate, Gold, Market Square, Gold
+ftl - shuffles deck
+ftl - draws Market Square
+ 
+---------- Warlord Bot I: turn 9 ----------
+Warlord Bot I - plays Village
+Warlord Bot I - draws Copper
+Warlord Bot I - plays Hamlet
+Warlord Bot I - draws Pirate Ship
+Warlord Bot I - plays Pirate Ship
+Warlord Bot II - reveals Estate, Copper
+Warlord Bot II - trashes Copper
+Warlord Bot II - discards Estate
+Warlord Bot III - reveals Pirate Ship, Estate
+Warlord Bot III - discards: Pirate Ship, Estate
+ftl - reveals Gold, Market Square
+ftl - trashes Gold
+ftl - reveals reaction Market Square
+ftl - discards Market Square
+ftl - gains Gold
+ftl - reveals reaction Market Square
+ftl - discards Market Square
+ftl - gains Gold
+ftl - discards Market Square
+Warlord Bot I - receives a pirate coin, now has 6 pirate coin(s)
+Warlord Bot I - plays Hamlet
+Warlord Bot I - draws Village
+Warlord Bot I - plays Village
+Warlord Bot I - draws Pirate Ship
+Warlord Bot I - plays Pirate Ship
+Warlord Bot II - reveals Bazaar, Silver
+Warlord Bot II - trashes Silver
+Warlord Bot II - discards Bazaar
+Warlord Bot III - reveals Copper, Hamlet
+Warlord Bot III - trashes Copper
+Warlord Bot III - discards Hamlet
+ftl - reveals Market Square, Estate
+ftl - discards: Market Square, Estate
+Warlord Bot I - receives a pirate coin, now has 7 pirate coin(s)
+Warlord Bot I - plays 2 Copper
+Warlord Bot I - buys Hamlet
+Warlord Bot I - gains Hamlet
+Warlord Bot I - shuffles deck
+Warlord Bot I - draws Estate, Village, Pirate Ship, Pirate Ship, Copper
+ 
+---------- Warlord Bot II: turn 9 ----------
+Warlord Bot II - plays Village
+Warlord Bot II - shuffles deck
+Warlord Bot II - draws Estate
+Warlord Bot II - plays Pirate Ship
+Warlord Bot III - reveals Native Village, Pirate Ship
+Warlord Bot III - discards: Native Village, Pirate Ship
+ftl - reveals Market Square, Copper
+ftl - trashes Copper
+ftl - discards Market Square
+Warlord Bot I - reveals Hamlet, Pirate Ship
+Warlord Bot I - discards: Hamlet, Pirate Ship
+Warlord Bot II - receives a pirate coin, now has 4 pirate coin(s)
+Warlord Bot II - plays Pirate Ship
+Warlord Bot III - reveals Estate, Pirate Ship
+Warlord Bot III - discards: Estate, Pirate Ship
+ftl - reveals Market Square, Copper
+ftl - trashes Copper
+ftl - discards Market Square
+Warlord Bot I - reveals Estate, Hamlet
+Warlord Bot I - discards: Estate, Hamlet
+Warlord Bot II - receives a pirate coin, now has 5 pirate coin(s)
+Warlord Bot II - buys Copper
+Warlord Bot II - gains Copper
+Warlord Bot II - draws Bazaar, Hamlet, Pirate Ship
+Warlord Bot II - shuffles deck
+Warlord Bot II - draws Pirate Ship, Estate
+ 
+---------- Warlord Bot III: turn 9 ----------
+Warlord Bot III - plays Village
+Warlord Bot III - draws Copper
+Warlord Bot III - plays Native Village
+Warlord Bot III - shuffles deck
+Warlord Bot III - sets aside Estate
+Warlord Bot III - plays Pirate Ship
+ftl - reveals Market Square, Market Square
+ftl - discards: Market Square, Market Square
+Warlord Bot I - reveals Hamlet, Estate
+Warlord Bot I - discards: Hamlet, Estate
+Warlord Bot II - reveals Estate, Estate
+Warlord Bot II - discards: Estate, Estate
+Warlord Bot III - plays 2 Copper
+Warlord Bot III - buys Hamlet
+Warlord Bot III - gains Hamlet
+Warlord Bot III - draws Hamlet, Pirate Ship, Estate, Native Village, Pirate Ship
+ 
+---------- ftl: turn 10 ----------
+ftl - plays 2 Gold
+ftl - buys Market Square
+ftl - gains Market Square
+ftl - draws Market Square, Estate, Copper, Gold
+ftl - shuffles deck
+ftl - draws Market Square
+ 
+---------- Warlord Bot I: turn 10 ----------
+Warlord Bot I - plays Village
+Warlord Bot I - draws Copper
+Warlord Bot I - plays Pirate Ship
+Warlord Bot II - reveals Pirate Ship, Village
+Warlord Bot II - discards: Pirate Ship, Village
+Warlord Bot III - reveals Pirate Ship
+Warlord Bot III - shuffles deck
+Warlord Bot III - reveals Pirate Ship
+Warlord Bot III - discards: Pirate Ship, Pirate Ship
+ftl - reveals Gold, Market Square
+ftl - trashes Gold
+ftl - reveals reaction Market Square
+ftl - discards Market Square
+ftl - gains Gold
+ftl - reveals reaction Market Square
+ftl - discards Market Square
+ftl - gains Gold
+ftl - discards Market Square
+Warlord Bot I - receives a pirate coin, now has 8 pirate coin(s)
+Warlord Bot I - plays Pirate Ship
+Warlord Bot I - takes 8 coins
+Warlord Bot I - plays 2 Copper
+Warlord Bot I - buys Province
+Warlord Bot I - gains Province
+Warlord Bot I - draws Copper, Village
+Warlord Bot I - shuffles deck
+Warlord Bot I - draws Estate, Hamlet, Village
+ 
+---------- Warlord Bot II: turn 10 ----------
+Warlord Bot II - plays Bazaar
+Warlord Bot II - draws Copper
+Warlord Bot II - plays Pirate Ship
+Warlord Bot III - reveals Village, Copper
+Warlord Bot III - trashes Copper
+Warlord Bot III - discards Village
+ftl - reveals Gold, Market Square
+ftl - trashes Gold
+ftl - discards Market Square
+Warlord Bot I - reveals Copper, Province
+Warlord Bot I - trashes Copper
+Warlord Bot I - discards Province
+Warlord Bot II - receives a pirate coin, now has 6 pirate coin(s)
+Warlord Bot II - plays Hamlet
+Warlord Bot II - shuffles deck
+Warlord Bot II - draws Estate
+Warlord Bot II - plays Pirate Ship
+Warlord Bot III - reveals Hamlet, Estate
+Warlord Bot III - discards: Hamlet, Estate
+ftl - reveals Market Square, Gold
+ftl - trashes Gold
+ftl - discards Market Square
+Warlord Bot I - reveals Hamlet, Pirate Ship
+Warlord Bot I - discards: Hamlet, Pirate Ship
+Warlord Bot II - receives a pirate coin, now has 7 pirate coin(s)
+Warlord Bot II - plays 1 Copper
+Warlord Bot II - buys Hamlet
+Warlord Bot II - gains Hamlet
+Warlord Bot II - draws Pirate Ship, Estate, Village
+Warlord Bot II - shuffles deck
+Warlord Bot II - draws Pirate Ship, Bazaar
+ 
+---------- Warlord Bot III: turn 10 ----------
+Warlord Bot III - plays Native Village
+Warlord Bot III - sets aside Native Village
+Warlord Bot III - plays Pirate Ship
+ftl - reveals Estate, Estate
+ftl - discards: Estate, Estate
+Warlord Bot I - reveals Estate, Hamlet
+Warlord Bot I - discards: Estate, Hamlet
+Warlord Bot II - reveals Pirate Ship, Hamlet
+Warlord Bot II - discards: Pirate Ship, Hamlet
+Warlord Bot III - plays Hamlet
+Warlord Bot III - draws Copper
+Warlord Bot III - plays Pirate Ship
+ftl - reveals Gold, Market Square
+ftl - trashes Gold
+ftl - discards Market Square
+Warlord Bot I - reveals Copper, Estate
+Warlord Bot I - trashes Copper
+Warlord Bot I - discards Estate
+Warlord Bot II - reveals Copper, Estate
+Warlord Bot II - trashes Copper
+Warlord Bot II - discards Estate
+Warlord Bot III - receives a pirate coin, now has 6 pirate coin(s)
+Warlord Bot III - plays 1 Copper
+Warlord Bot III - buys Copper
+Warlord Bot III - gains Copper
+Warlord Bot III - shuffles deck
+Warlord Bot III - draws Native Village, Pirate Ship, Pirate Ship, Estate, Estate
+ 
+---------- ftl: turn 11 ----------
+ftl - plays 1 Copper, 1 Gold
+ftl - buys Shanty Town
+ftl - gains Shanty Town
+ftl - draws Market Square, Market Square, Market Square, Market Square
+ftl - shuffles deck
+ftl - draws Market Square
+ 
+---------- Warlord Bot I: turn 11 ----------
+Warlord Bot I - plays Village
+Warlord Bot I - draws Pirate Ship
+Warlord Bot I - plays Village
+Warlord Bot I - draws Pirate Ship
+Warlord Bot I - plays Pirate Ship
+Warlord Bot I - takes 8 coins
+Warlord Bot I - plays Pirate Ship
+Warlord Bot I - takes 8 coins
+Warlord Bot I - plays Hamlet
+Warlord Bot I - shuffles deck
+Warlord Bot I - draws Pirate Ship
+Warlord Bot I - discards Estate
+Warlord Bot I - receives one buy
+Warlord Bot I - plays Pirate Ship
+Warlord Bot I - takes 8 coins
+Warlord Bot I - plays 1 Copper
+Warlord Bot I - buys Province
+Warlord Bot I - gains Province
+Warlord Bot I - buys Province
+Warlord Bot I - gains Province
+Warlord Bot I - draws Hamlet, Province, Estate, Estate, Hamlet
+ 
+---------- Warlord Bot II: turn 11 ----------
+Warlord Bot II - plays Bazaar
+Warlord Bot II - draws Estate
+Warlord Bot II - plays Village
+Warlord Bot II - draws Hamlet
+Warlord Bot II - plays Pirate Ship
+Warlord Bot III - reveals Copper, Hamlet
+Warlord Bot III - trashes Copper
+Warlord Bot III - discards Hamlet
+ftl - reveals Gold, Market Square
+ftl - trashes Gold
+ftl - reveals reaction Market Square
+ftl - discards Market Square
+ftl - gains Gold
+ftl - reveals reaction Market Square
+ftl - discards Market Square
+ftl - gains Gold
+ftl - reveals reaction Market Square
+ftl - discards Market Square
+ftl - gains Gold
+ftl - reveals reaction Market Square
+ftl - discards Market Square
+ftl - gains Gold
+ftl - reveals reaction Market Square
+ftl - discards Market Square
+ftl - gains Gold
+ftl - discards Market Square
+Warlord Bot I - shuffles deck
+Warlord Bot I - reveals Village, Pirate Ship
+Warlord Bot I - discards: Village, Pirate Ship
+Warlord Bot II - receives a pirate coin, now has 8 pirate coin(s)
+Warlord Bot II - plays Pirate Ship
+Warlord Bot II - takes 8 coins
+Warlord Bot II - plays Hamlet
+Warlord Bot II - shuffles deck
+Warlord Bot II - draws Hamlet
+Warlord Bot II - plays Hamlet
+Warlord Bot II - draws Pirate Ship
+Warlord Bot II - plays Pirate Ship
+Warlord Bot II - takes 8 coins
+Warlord Bot II - buys Province
+Warlord Bot II - gains Province
+Warlord Bot II - draws Estate
+Warlord Bot II - shuffles deck
+Warlord Bot II - draws Pirate Ship, Village, Hamlet, Estate
+ 
+---------- Warlord Bot III: turn 11 ----------
+Warlord Bot III - plays Native Village
+Warlord Bot III - takes set aside cards: Estate, Native Village
+Warlord Bot III - plays Native Village
+Warlord Bot III - sets aside Pirate Ship
+Warlord Bot III - plays Pirate Ship
+ftl - reveals Market Square, Copper
+ftl - trashes Copper
+ftl - discards Market Square
+Warlord Bot I - reveals Pirate Ship, Hamlet
+Warlord Bot I - discards: Pirate Ship, Hamlet
+Warlord Bot II - reveals Hamlet, Estate
+Warlord Bot II - discards: Hamlet, Estate
+Warlord Bot III - receives a pirate coin, now has 7 pirate coin(s)
+Warlord Bot III - plays Pirate Ship
+Warlord Bot III - takes 7 coins
+Warlord Bot III - buys Gold
+Warlord Bot III - gains Gold
+Warlord Bot III - draws Village, Hamlet, Pirate Ship, Copper
+Warlord Bot III - shuffles deck
+Warlord Bot III - draws Pirate Ship
+ 
+---------- ftl: turn 12 ----------
+ftl - draws Market Square, Estate, Shanty Town, Market Square, Market Square
+ 
+---------- Warlord Bot I: turn 12 ----------
+Warlord Bot I - plays Hamlet
+Warlord Bot I - draws Estate
+Warlord Bot I - plays Hamlet
+Warlord Bot I - draws Province
+Warlord Bot I - buys Copper
+Warlord Bot I - gains Copper
+Warlord Bot I - draws Copper, Village, Province, Pirate Ship
+Warlord Bot I - shuffles deck
+Warlord Bot I - draws Estate
+ 
+---------- Warlord Bot II: turn 12 ----------
+Warlord Bot II - plays Village
+Warlord Bot II - draws Pirate Ship
+Warlord Bot II - plays Pirate Ship
+Warlord Bot II - takes 8 coins
+Warlord Bot II - plays Hamlet
+Warlord Bot II - draws Bazaar
+Warlord Bot II - plays Bazaar
+Warlord Bot II - draws Province
+Warlord Bot II - plays Pirate Ship
+Warlord Bot II - takes 8 coins
+Warlord Bot II - buys Province
+Warlord Bot II - gains Province
+Warlord Bot II - draws Pirate Ship
+Warlord Bot II - shuffles deck
+Warlord Bot II - draws Village, Hamlet, Hamlet, Estate
+ 
+---------- Warlord Bot III: turn 12 ----------
+Warlord Bot III - plays Village
+Warlord Bot III - draws Estate
+Warlord Bot III - plays Pirate Ship
+ftl - reveals Gold, Estate
+ftl - trashes Gold
+ftl - reveals reaction Market Square
+ftl - discards Market Square
+ftl - gains Gold
+ftl - reveals reaction Market Square
+ftl - discards Market Square
+ftl - gains Gold
+ftl - reveals reaction Market Square
+ftl - discards Market Square
+ftl - gains Gold
+ftl - discards Estate
+Warlord Bot I - reveals Village, Estate
+Warlord Bot I - discards: Village, Estate
+Warlord Bot II - reveals Pirate Ship, Pirate Ship
+Warlord Bot II - discards: Pirate Ship, Pirate Ship
+Warlord Bot III - receives a pirate coin, now has 8 pirate coin(s)
+Warlord Bot III - plays Hamlet
+Warlord Bot III - draws Estate
+Warlord Bot III - plays Pirate Ship
+Warlord Bot III - takes 8 coins
+Warlord Bot III - plays 1 Copper
+Warlord Bot III - buys Province
+Warlord Bot III - gains Province
+Warlord Bot III - draws Pirate Ship, Native Village, Estate, Native Village, Hamlet
+ 
+---------- ftl: turn 13 ----------
+ftl - plays Shanty Town
+ftl - reveals Estate
+ftl - draws Estate, Gold
+ftl - plays 1 Gold
+ftl - buys Shanty Town
+ftl - gains Shanty Town
+ftl - shuffles deck
+ftl - draws Market Square, Market Square, Market Square, Estate, Market Square
+ 
+---------- Warlord Bot I: turn 13 ----------
+Warlord Bot I - plays Village
+Warlord Bot I - draws Estate
+Warlord Bot I - plays Pirate Ship
+Warlord Bot I - takes 8 coins
+Warlord Bot I - plays 1 Copper
+Warlord Bot I - buys Province
+Warlord Bot I - gains Province
+Warlord Bot I - draws Hamlet, Copper, Province, Hamlet, Province
+ 
+---------- Warlord Bot II: turn 13 ----------
+Warlord Bot II - plays Village
+Warlord Bot II - draws Bazaar
+Warlord Bot II - plays Bazaar
+Warlord Bot II - draws Province
+Warlord Bot II - plays Hamlet
+Warlord Bot II - draws Estate
+Warlord Bot II - plays Pirate Ship
+Warlord Bot II - takes 8 coins
+Warlord Bot II - plays Hamlet
+Warlord Bot II - draws Estate
+Warlord Bot II - buys Province
+Warlord Bot II - gains Province
+Warlord Bot II - draws Province
+Warlord Bot II - shuffles deck
+Warlord Bot II - draws Village, Pirate Ship, Pirate Ship, Province
+ 
+---------- Warlord Bot III: turn 13 ----------
+Warlord Bot III - plays Native Village
+Warlord Bot III - takes set aside cards: Pirate Ship
+Warlord Bot III - plays Native Village
+Warlord Bot III - sets aside Gold
+Warlord Bot III - plays Pirate Ship
+Warlord Bot III - takes 8 coins
+Warlord Bot III - plays Pirate Ship
+Warlord Bot III - takes 8 coins
+Warlord Bot III - plays Hamlet
+Warlord Bot III - shuffles deck
+Warlord Bot III - draws Hamlet
+Warlord Bot III - plays Hamlet
+Warlord Bot III - draws Village
+Warlord Bot III - plays Village
+Warlord Bot III - draws Estate
+Warlord Bot III - buys Province
+Warlord Bot III - gains Province
+Warlord Bot III - draws Pirate Ship, Pirate Ship, Copper, Province, Estate
+ 
+---------- ftl: turn 14 ----------
+ftl - plays Market Square
+ftl - draws Gold
+ftl - plays Market Square
+ftl - draws Gold
+ftl - plays Market Square
+ftl - draws Shanty Town
+ftl - plays Market Square
+ftl - draws Market Square
+ftl - plays Market Square
+ftl - draws Gold
+ftl - plays Shanty Town
+ftl - reveals Estate, Gold, Gold, Gold
+ftl - draws Market Square, Gold
+ftl - plays Market Square
+ftl - draws Gold
+ftl - plays 5 Gold
+ftl - buys Province
+ftl - gains Province
+ftl - buys Duchy
+ftl - gains Duchy
+ftl - buys Estate
+ftl - gains Estate
+ftl - draws Market Square, Market Square, Gold, Gold, Shanty Town
+ 
+---------- Warlord Bot I: turn 14 ----------
+Warlord Bot I - plays Hamlet
+Warlord Bot I - draws Pirate Ship
+Warlord Bot I - plays Hamlet
+Warlord Bot I - draws Pirate Ship
+Warlord Bot I - discards Province
+Warlord Bot I - receives one action
+Warlord Bot I - discards Province
+Warlord Bot I - receives one buy
+Warlord Bot I - plays Pirate Ship
+Warlord Bot I - takes 8 coins
+Warlord Bot I - plays Pirate Ship
+Warlord Bot I - takes 8 coins
+Warlord Bot I - plays 1 Copper
+Warlord Bot I - buys Province
+Warlord Bot I - gains Province
+Warlord Bot I - buys Province
+Warlord Bot I - gains Province
+Warlord Bot I - draws Hamlet
+Warlord Bot I - shuffles deck
+Warlord Bot I - draws Village, Copper, Estate, Province
+ 
+------------ Game Over ------------
+Warlord Bot I - cards: 3 Hamlet, 3 Pirate Ship, 2 Village, 2 Copper, 6 Province, 3 Estate
+Warlord Bot I - total victory points: 39
+Warlord Bot I - turns: 14
+ 
+Warlord Bot II - cards: 3 Pirate Ship, 2 Hamlet, 1 Village, 1 Bazaar, 3 Province, 3 Estate
+Warlord Bot II - total victory points: 21
+Warlord Bot II - turns: 13
+ 
+Warlord Bot III - cards: 4 Pirate Ship, 2 Native Village, 2 Hamlet, 1 Village, 1 Copper, 1 Gold, 3 Estate, 2 Province
+Warlord Bot III - total victory points: 15
+Warlord Bot III - turns: 13
+ 
+ftl - cards: 10 Market Square, 2 Shanty Town, 9 Gold, 4 Estate, 1 Province, 1 Duchy
+ftl - total victory points: 13
+ftl - turns: 14
+ 
+1st place: Warlord Bot I
+2nd place: Warlord Bot II
+3rd place: Warlord Bot III
+4th place: ftl
+ 

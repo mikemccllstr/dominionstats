@@ -1,0 +1,682 @@
+------------ Game Setup ------------
+Supply cards: Masquerade, Village, Baron, Horse Traders, Tournament, Wandering Minstrel, City, Cultist, Witch, Altar, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Ruins
+Rating system: unrated
+ftl - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Serf Bot - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ftl - shuffles deck
+Serf Bot - shuffles deck
+ftl - draws Copper, Hovel, Overgrown Estate, Necropolis, Copper
+Serf Bot - draws Copper, Hovel, Copper, Overgrown Estate, Copper
+ 
+---------- ftl: turn 1 ----------
+ftl - plays Necropolis
+ftl - plays 2 Copper
+ftl - buys Estate
+ftl - trashes Hovel
+ftl - gains Estate
+ftl - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Serf Bot: turn 1 ----------
+Serf Bot - plays 3 Copper
+Serf Bot - buys Masquerade
+Serf Bot - gains Masquerade
+Serf Bot - draws Copper, Copper, Necropolis, Copper, Copper
+ 
+---------- ftl: turn 2 ----------
+ftl - plays 5 Copper
+ftl - buys Witch
+ftl - gains Witch
+ftl - shuffles deck
+ftl - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Serf Bot: turn 2 ----------
+Serf Bot - plays Necropolis
+Serf Bot - plays 4 Copper
+Serf Bot - buys Tournament
+Serf Bot - gains Tournament
+Serf Bot - shuffles deck
+Serf Bot - draws Masquerade, Copper, Copper, Tournament, Copper
+ 
+---------- ftl: turn 3 ----------
+ftl - plays 4 Copper
+ftl - buys Wandering Minstrel
+ftl - gains Wandering Minstrel
+ftl - draws Copper, Copper, Witch, Overgrown Estate, Copper
+ 
+---------- Serf Bot: turn 3 ----------
+Serf Bot - plays Tournament
+Serf Bot - draws Necropolis
+Serf Bot - plays Necropolis
+Serf Bot - plays Masquerade
+Serf Bot - draws Copper, Copper
+Serf Bot - passes Copper
+ftl - passes Overgrown Estate
+Serf Bot - trashes Overgrown Estate
+Serf Bot - draws Copper
+Serf Bot - plays 5 Copper
+Serf Bot - buys Gold
+Serf Bot - gains Gold
+Serf Bot - draws Copper, Hovel, Overgrown Estate
+Serf Bot - shuffles deck
+Serf Bot - draws Tournament, Necropolis
+ 
+---------- ftl: turn 4 ----------
+ftl - plays Witch
+ftl - draws Necropolis
+ftl - shuffles deck
+ftl - draws Copper
+Serf Bot - gains Curse
+ftl - plays 5 Copper
+ftl - buys Cultist
+ftl - gains Cultist
+ftl - draws Copper, Estate, Copper, Copper, Wandering Minstrel
+ 
+---------- Serf Bot: turn 4 ----------
+Serf Bot - plays Tournament
+Serf Bot - draws Copper
+Serf Bot - plays Necropolis
+Serf Bot - plays 2 Copper
+Serf Bot - buys Silver
+Serf Bot - gains Silver
+Serf Bot - draws Copper, Copper, Masquerade, Gold, Copper
+ 
+---------- ftl: turn 5 ----------
+ftl - plays Wandering Minstrel
+ftl - shuffles deck
+ftl - draws Copper
+ftl - reveals: Copper, Copper, Necropolis
+ftl - places Necropolis on top of deck
+ftl - discards: Copper, Copper
+ftl - plays 4 Copper
+ftl - buys Horse Traders
+ftl - gains Horse Traders
+ftl - draws Necropolis, Cultist, Copper, Witch, Copper
+ 
+---------- Serf Bot: turn 5 ----------
+Serf Bot - plays Masquerade
+Serf Bot - draws Copper
+Serf Bot - shuffles deck
+Serf Bot - draws Copper
+Serf Bot - passes Copper
+ftl - passes Copper
+Serf Bot - trashes Copper
+Serf Bot - plays 4 Copper, 1 Gold
+Serf Bot - buys Altar
+Serf Bot - gains Altar
+Serf Bot - draws Curse, Hovel, Necropolis, Tournament, Silver
+ 
+---------- ftl: turn 6 ----------
+ftl - plays Necropolis
+ftl - plays Witch
+ftl - shuffles deck
+ftl - draws Copper, Copper
+Serf Bot - gains Curse
+ftl - plays Cultist
+ftl - draws Wandering Minstrel, Copper
+Serf Bot - gains Survivors
+ftl - plays 5 Copper
+ftl - buys City
+ftl - gains City
+ftl - draws Horse Traders, Copper, Estate, Copper, Copper
+ 
+---------- Serf Bot: turn 6 ----------
+Serf Bot - plays Tournament
+Serf Bot - draws Overgrown Estate
+Serf Bot - plays Necropolis
+Serf Bot - plays 1 Silver
+Serf Bot - buys Village
+Serf Bot - gains Village
+Serf Bot - draws Copper
+Serf Bot - shuffles deck
+Serf Bot - draws Overgrown Estate, Curse, Copper, Altar
+ 
+---------- ftl: turn 7 ----------
+ftl - plays Horse Traders
+ftl - discards Estate
+ftl - discards Copper
+ftl - plays 2 Copper
+ftl - buys City
+ftl - gains City
+ftl - shuffles deck
+ftl - draws Copper, Witch, Horse Traders, Copper, Necropolis
+ 
+---------- Serf Bot: turn 7 ----------
+Serf Bot - plays Altar
+Serf Bot - trashes Curse
+Serf Bot - gains Cultist
+Serf Bot - plays 2 Copper
+Serf Bot - buys Estate
+Serf Bot - gains Estate
+Serf Bot - draws Silver, Village, Hovel, Survivors, Tournament
+ 
+---------- ftl: turn 8 ----------
+ftl - plays Necropolis
+ftl - plays Witch
+ftl - draws Copper, Copper
+Serf Bot - gains Curse
+ftl - plays Horse Traders
+ftl - discards Copper
+ftl - discards Copper
+ftl - plays 2 Copper
+ftl - buys City
+ftl - gains City
+ftl - draws Copper, Estate, City, Cultist, Wandering Minstrel
+ 
+---------- Serf Bot: turn 8 ----------
+Serf Bot - plays Village
+Serf Bot - draws Masquerade
+Serf Bot - plays Masquerade
+Serf Bot - draws Copper, Curse
+Serf Bot - passes Curse
+ftl - passes Estate
+Serf Bot - trashes Hovel
+Serf Bot - plays Tournament
+Serf Bot - draws Copper
+Serf Bot - plays Survivors
+Serf Bot - looks at Necropolis, Gold
+Serf Bot - places Necropolis on top of deck
+Serf Bot - places Gold on top of deck
+Serf Bot - plays 2 Copper, 1 Silver
+Serf Bot - buys Witch
+Serf Bot - gains Witch
+Serf Bot - draws Gold, Necropolis, Copper
+Serf Bot - shuffles deck
+Serf Bot - draws Village, Copper
+ 
+---------- ftl: turn 9 ----------
+ftl - plays Wandering Minstrel
+ftl - draws Copper
+ftl - reveals: City, Copper, Copper
+ftl - places City on top of deck
+ftl - discards: Copper, Copper
+ftl - plays City
+ftl - draws City
+ftl - plays Cultist
+ftl - shuffles deck
+ftl - draws Necropolis, Copper
+Serf Bot - gains Ruined Market
+ftl - plays City
+ftl - draws City
+ftl - plays City
+ftl - draws Horse Traders
+ftl - plays Horse Traders
+ftl - discards Necropolis
+ftl - discards Curse
+ftl - plays 3 Copper
+ftl - buys Altar
+ftl - gains Altar
+ftl - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Serf Bot: turn 9 ----------
+Serf Bot - plays Village
+Serf Bot - draws Curse
+Serf Bot - plays Necropolis
+Serf Bot - plays 2 Copper, 1 Gold
+Serf Bot - buys Cultist
+Serf Bot - gains Cultist
+Serf Bot - draws Witch, Copper, Masquerade, Silver, Altar
+ 
+---------- ftl: turn 10 ----------
+ftl - plays 5 Copper
+ftl - buys City
+ftl - gains City
+ftl - draws Witch
+ftl - shuffles deck
+ftl - draws Horse Traders, Copper, Copper, Necropolis
+ 
+---------- Serf Bot: turn 10 ----------
+Serf Bot - plays Witch
+ftl - reveals reaction Horse Traders
+Serf Bot - draws Estate, Cultist
+ftl - gains Curse
+Serf Bot - plays 1 Copper, 1 Silver
+Serf Bot - buys Village
+Serf Bot - gains Village
+Serf Bot - draws Copper, Survivors, Estate, Copper, Tournament
+ 
+---------- ftl: turn 11 ----------
+ftl - duration Horse Traders
+ftl - draws Copper
+ftl - plays Necropolis
+ftl - plays Witch
+ftl - draws Curse, City
+Serf Bot - gains Curse
+ftl - plays City
+ftl - draws Copper
+ftl - plays Horse Traders
+ftl - discards Curse
+ftl - discards Copper
+ftl - plays 3 Copper
+ftl - buys Altar
+ftl - gains Altar
+ftl - draws City, Cultist, Copper, City, Copper
+ 
+---------- Serf Bot: turn 11 ----------
+Serf Bot - plays Tournament
+Serf Bot - draws Overgrown Estate
+Serf Bot - plays Survivors
+Serf Bot - shuffles deck
+Serf Bot - looks at Cultist, Masquerade
+Serf Bot - places Masquerade on top of deck
+Serf Bot - places Cultist on top of deck
+Serf Bot - plays 2 Copper
+Serf Bot - buys Masquerade
+Serf Bot - gains Masquerade
+Serf Bot - draws Cultist, Masquerade, Copper, Village, Necropolis
+ 
+---------- ftl: turn 12 ----------
+ftl - plays City
+ftl - draws Copper
+ftl - plays City
+ftl - draws Copper
+ftl - plays Cultist
+ftl - draws City, Altar
+Serf Bot - gains Abandoned Mine
+ftl - plays City
+ftl - draws Wandering Minstrel
+ftl - plays Wandering Minstrel
+ftl - shuffles deck
+ftl - draws Curse
+ftl - reveals: Copper, City, Copper
+ftl - places City on top of deck
+ftl - discards: Copper, Copper
+ftl - plays Altar
+ftl - trashes Curse
+ftl - gains City
+ftl - plays 4 Copper
+ftl - buys Tournament
+ftl - gains Tournament
+ftl - draws City, Horse Traders, Curse, Altar, Copper
+ 
+---------- Serf Bot: turn 12 ----------
+Serf Bot - plays Village
+Serf Bot - draws Curse
+Serf Bot - plays Necropolis
+Serf Bot - plays Cultist
+ftl - reveals reaction Horse Traders
+Serf Bot - draws Estate, Village
+ftl - gains Survivors
+Serf Bot - plays Village
+Serf Bot - draws Silver
+Serf Bot - plays Masquerade
+Serf Bot - draws Ruined Market, Curse
+Serf Bot - passes Curse
+ftl - passes Curse
+Serf Bot - trashes Curse
+Serf Bot - plays Ruined Market
+Serf Bot - plays 1 Copper, 1 Silver
+Serf Bot - buys Silver
+Serf Bot - gains Silver
+Serf Bot - buys Copper
+Serf Bot - gains Copper
+Serf Bot - draws Altar, Copper, Copper, Gold, Witch
+ 
+---------- ftl: turn 13 ----------
+ftl - duration Horse Traders
+ftl - draws Witch
+ftl - plays City
+ftl - draws Copper
+ftl - plays Witch
+ftl - draws Necropolis
+ftl - shuffles deck
+ftl - draws City
+Serf Bot - gains Curse
+ftl - plays City
+ftl - draws City
+ftl - plays City
+ftl - draws Tournament
+ftl - plays Altar
+ftl - trashes Curse
+ftl - gains City
+ftl - plays Tournament
+ftl - draws Copper
+ftl - plays Horse Traders
+ftl - discards Necropolis
+ftl - discards Copper
+ftl - plays 2 Copper
+ftl - buys Altar
+ftl - gains Altar
+ftl - draws Cultist, Altar, Copper, Wandering Minstrel, City
+ 
+---------- Serf Bot: turn 13 ----------
+Serf Bot - plays Witch
+Serf Bot - draws Cultist
+Serf Bot - shuffles deck
+Serf Bot - draws Copper
+ftl - gains Curse
+Serf Bot - plays 3 Copper, 1 Gold
+Serf Bot - buys Gold
+Serf Bot - gains Gold
+Serf Bot - draws Cultist, Curse, Abandoned Mine, Silver, Necropolis
+ 
+---------- ftl: turn 14 ----------
+ftl - plays City
+ftl - draws City
+ftl - plays City
+ftl - draws Copper
+ftl - plays Wandering Minstrel
+ftl - draws Copper
+ftl - reveals: Copper, Survivors, Copper
+ftl - places Survivors on top of deck
+ftl - discards: Copper, Copper
+ftl - plays Cultist
+ftl - draws Survivors
+ftl - shuffles deck
+ftl - draws City
+Serf Bot - gains Ruined Library
+ftl - plays City
+ftl - draws Copper
+ftl - plays Altar
+ftl - trashes Survivors
+ftl - gains City
+ftl - plays 4 Copper
+ftl - buys Tournament
+ftl - gains Tournament
+ftl - draws Necropolis, Copper, City, City, Witch
+ 
+---------- Serf Bot: turn 14 ----------
+Serf Bot - plays Necropolis
+Serf Bot - plays Cultist
+Serf Bot - draws Tournament, Village
+ftl - gains Abandoned Mine
+Serf Bot - plays Village
+Serf Bot - draws Village
+Serf Bot - plays Village
+Serf Bot - draws Copper
+Serf Bot - plays Tournament
+Serf Bot - draws Ruined Market
+Serf Bot - plays Abandoned Mine
+Serf Bot - plays Ruined Market
+Serf Bot - plays 1 Silver, 1 Copper
+Serf Bot - buys Witch
+Serf Bot - gains Witch
+Serf Bot - draws Masquerade, Estate, Overgrown Estate, Curse, Copper
+ 
+---------- ftl: turn 15 ----------
+ftl - plays City
+ftl - draws Copper
+ftl - plays City
+ftl - draws Curse
+ftl - plays Witch
+ftl - draws Altar, Tournament
+Serf Bot - gains Curse
+ftl - plays Tournament
+ftl - draws Copper
+ftl - plays Altar
+ftl - trashes Curse
+ftl - gains City
+ftl - plays Necropolis
+ftl - plays 3 Copper
+ftl - buys Wandering Minstrel
+ftl - gains Wandering Minstrel
+ftl - draws Copper, City, Altar, Horse Traders
+ftl - shuffles deck
+ftl - draws Altar
+ 
+---------- Serf Bot: turn 15 ----------
+Serf Bot - plays Masquerade
+Serf Bot - draws Survivors, Masquerade
+Serf Bot - passes Curse
+ftl - passes Copper
+Serf Bot - trashes Overgrown Estate
+Serf Bot - draws Estate
+Serf Bot - plays 2 Copper
+Serf Bot - buys Estate
+Serf Bot - gains Estate
+Serf Bot - draws Silver, Copper
+Serf Bot - shuffles deck
+Serf Bot - draws Gold, Ruined Market, Curse
+ 
+---------- ftl: turn 16 ----------
+ftl - plays City
+ftl - draws City
+ftl - plays City
+ftl - draws Copper
+ftl - plays Altar
+ftl - trashes Curse
+ftl - gains Cultist
+ftl - plays Altar
+ftl - trashes Copper
+ftl - gains Cultist
+ftl - plays Horse Traders
+ftl - buys Village
+ftl - gains Village
+ftl - draws City, Tournament, City, Copper, Wandering Minstrel
+ 
+---------- Serf Bot: turn 16 ----------
+Serf Bot - plays Ruined Market
+Serf Bot - plays 1 Silver, 1 Copper, 1 Gold
+Serf Bot - buys Silver
+Serf Bot - gains Silver
+Serf Bot - buys Masquerade
+Serf Bot - gains Masquerade
+Serf Bot - draws Copper, Village, Estate, Witch, Survivors
+ 
+---------- ftl: turn 17 ----------
+ftl - plays City
+ftl - draws Altar
+ftl - plays City
+ftl - draws Copper
+ftl - plays Wandering Minstrel
+ftl - draws Necropolis
+ftl - reveals: Abandoned Mine, Copper, City
+ftl - places City on top of deck
+ftl - places Abandoned Mine on top of deck
+ftl - discards Copper
+ftl - plays Tournament
+ftl - draws Abandoned Mine
+ftl - plays Altar
+ftl - trashes Abandoned Mine
+ftl - gains Cultist
+ftl - plays Necropolis
+ftl - plays 2 Copper
+ftl - buys Village
+ftl - gains Village
+ftl - draws City, City, Copper, Cultist, Copper
+ 
+---------- Serf Bot: turn 17 ----------
+Serf Bot - plays Village
+Serf Bot - draws Abandoned Mine
+Serf Bot - plays Witch
+Serf Bot - draws Cultist, Copper
+ftl - gains Curse
+Serf Bot - plays Cultist
+Serf Bot - draws Cultist, Necropolis
+ftl - gains Ruined Village
+Serf Bot - plays Cultist
+Serf Bot - draws Curse, Estate
+ftl - gains Survivors
+Serf Bot - plays 2 Copper
+Serf Bot - buys Estate
+Serf Bot - gains Estate
+Serf Bot - draws Masquerade, Ruined Library, Copper, Copper, Masquerade
+ 
+---------- ftl: turn 18 ----------
+ftl - plays City
+ftl - draws City
+ftl - plays Cultist
+ftl - draws Tournament, City
+Serf Bot - gains Survivors
+ftl - plays City
+ftl - draws Copper
+ftl - plays Tournament
+ftl - draws Wandering Minstrel
+ftl - plays Wandering Minstrel
+ftl - draws Witch
+ftl - shuffles deck
+ftl - reveals: Altar, Necropolis, Ruined Village
+ftl - places Ruined Village on top of deck
+ftl - places Necropolis on top of deck
+ftl - places Altar on top of deck
+ftl - plays Witch
+ftl - draws Altar, Necropolis
+Serf Bot - gains Curse
+ftl - plays City
+ftl - draws Ruined Village, City
+ftl - plays City
+ftl - draws City, Copper
+ftl - plays City
+ftl - draws City, Tournament
+ftl - plays City
+ftl - draws Altar, Cultist
+ftl - plays Cultist
+ftl - draws Copper, Altar
+Serf Bot - gains Ruined Library
+ftl - plays City
+ftl - draws Survivors, Curse
+ftl - plays Tournament
+ftl - draws City
+ftl - plays City
+ftl - draws Wandering Minstrel, Cultist
+ftl - plays Cultist
+ftl - draws Horse Traders, Copper
+ftl - plays Wandering Minstrel
+ftl - draws Cultist
+ftl - reveals: Village, Village
+ftl - places Village on top of deck
+ftl - places Village on top of deck
+ftl - plays Cultist
+ftl - draws Village, Village
+ftl - plays Horse Traders
+ftl - discards Survivors
+ftl - discards Ruined Village
+ftl - plays Village
+ftl - shuffles deck
+ftl - draws Survivors
+ftl - plays Survivors
+ftl - looks at Ruined Village
+ftl - discards Ruined Village
+ftl - plays Village
+ftl - shuffles deck
+ftl - draws Ruined Village
+ftl - plays Altar
+ftl - trashes Curse
+ftl - gains Tournament
+ftl - plays Altar
+ftl - trashes Ruined Village
+ftl - gains Tournament
+ftl - plays Altar
+ftl - trashes Necropolis
+ftl - gains Horse Traders
+ftl - plays 6 Copper
+ftl - buys Province
+ftl - gains Province
+ftl - buys Cultist
+ftl - gains Cultist
+ftl - shuffles deck
+ftl - draws Cultist, Village, Horse Traders, Copper, Copper
+ 
+---------- Serf Bot: turn 18 ----------
+Serf Bot - plays Masquerade
+Serf Bot - draws Altar, Village
+Serf Bot - passes Copper
+ftl - passes Copper
+Serf Bot - trashes Copper
+Serf Bot - plays 1 Copper
+Serf Bot - draws Tournament, Copper, Silver, Copper, Estate
+ 
+---------- ftl: turn 19 ----------
+ftl - plays Village
+ftl - draws Province
+ftl - plays Cultist
+ftl - draws Village, City
+ftl - plays Village
+ftl - draws Copper
+ftl - plays City
+ftl - draws City, City
+ftl - plays City
+ftl - draws Cultist, City
+ftl - plays City
+ftl - draws City, Tournament
+ftl - plays Tournament
+ftl - reveals Province
+ftl - discards Province
+ftl - gains Diadem
+ftl - draws Diadem
+ftl - plays City
+ftl - draws Witch, Altar
+ftl - plays City
+ftl - draws Wandering Minstrel, City
+ftl - plays Cultist
+ftl - draws Copper, Survivors
+ftl - plays Wandering Minstrel
+ftl - draws City
+ftl - reveals: City, Cultist, Cultist
+ftl - places Cultist on top of deck
+ftl - places Cultist on top of deck
+ftl - places City on top of deck
+ftl - plays City
+ftl - draws City, Cultist
+ftl - plays City
+ftl - draws Cultist, Copper
+ftl - plays City
+ftl - draws Wandering Minstrel, Cultist
+ftl - plays Cultist
+ftl - draws Tournament, Tournament
+ftl - plays Cultist
+ftl - draws Horse Traders, Tournament
+ftl - plays Cultist
+ftl - draws Altar, Altar
+ftl - plays Wandering Minstrel
+ftl - draws Copper
+ftl - shuffles deck
+ftl - reveals: Province
+ftl - discards Province
+ftl - plays Tournament
+ftl - shuffles deck
+ftl - draws Province
+ftl - plays Tournament
+ftl - reveals Province
+ftl - discards Province
+ftl - gains Trusty Steed
+ftl - draws Trusty Steed
+ftl - plays Trusty Steed
+ftl - takes 2 actions
+ftl - gains Silver
+ftl - gains Silver
+ftl - gains Silver
+ftl - gains Silver
+ftl - moves deck to discards
+ftl - plays Tournament
+ftl - shuffles deck
+ftl - draws Silver
+ftl - plays Witch
+ftl - draws Silver, Province
+ftl - plays Altar
+ftl - trashes Survivors
+ftl - gains Duchy
+ftl - plays Altar
+ftl - trashes Copper
+ftl - gains Duchy
+ftl - plays Horse Traders
+ftl - discards Province
+ftl - discards Altar
+ftl - plays 5 Copper, 2 Silver, 1 Diadem
+ftl - buys Estate
+ftl - gains Estate
+ftl - buys Estate
+ftl - gains Estate
+ftl - buys Estate
+ftl - gains Estate
+ftl - buys Estate
+ftl - gains Estate
+ftl - buys Colony
+ftl - gains Colony
+ftl - buys Colony
+ftl - gains Colony
+ftl - draws Silver, Silver
+ftl - shuffles deck
+ftl - draws City, Duchy, City
+ 
+------------ Game Over ------------
+ftl - cards: 8 City, 5 Cultist, 4 Tournament, 3 Altar, 2 Horse Traders, 2 Village, 2 Wandering Minstrel, 1 Trusty Steed, 1 Witch, 5 Copper, 4 Silver, 1 Diadem, 4 Estate, 2 Colony, 2 Duchy, 1 Province
+ftl - total victory points: 36
+ftl - turns: 19
+ 
+Serf Bot - cards: 3 Masquerade, 2 Village, 2 Ruined Library, 2 Survivors, 2 Cultist, 2 Witch, 1 Abandoned Mine, 1 Necropolis, 1 Tournament, 1 Ruined Market, 1 Altar, 6 Copper, 3 Silver, 2 Gold, 4 Estate, 3 Curse
+Serf Bot - total victory points: 1
+Serf Bot - turns: 18
+ 
+1st place: ftl
+2nd place: Serf Bot
+ 

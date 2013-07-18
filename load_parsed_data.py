@@ -13,7 +13,8 @@ import utils
 from keys import *
 
 parser = utils.incremental_date_range_cmd_line_parser()
-find_id = re.compile('game-.*.html')
+find_iso_id = re.compile('game-.*.html')
+find_goko_id = re.compile('log.*.txt')
 
 def process_file(filename, incremental, games_table, log):
     yyyymmdd = filename[:8]
@@ -24,18 +25,26 @@ def process_file(filename, incremental, games_table, log):
             log.warning("empty contents in %s (make parser not dump empty files?)", filename)
             return
 
-        assert find_id.search(contents), (
+        assert (find_iso_id.search(contents) or find_goko_id.search(contents)), (
             'could not get id from %s in file %s' % (contents[:100], filename))
 
-        found_all = True
-        for match in find_id.finditer(contents):
+        found_all_iso = True
+        found_all_goko = True
+        for match in find_iso_id.finditer(contents):
             g_id = match.group(0)
             query = {'_id': g_id}
             if games_table.find(query).count():
                 continue
             else:
-                found_all = False
-        if found_all:
+                found_all_iso = False
+        for match in find_goko_id.finditer(contents):
+            g_id = match.group(0)
+            query = {'_id': g_id}
+            if games_table.find(query).count():
+                continue
+            else:
+                found_all_goko = False
+        if found_all_iso and found_all_goko:
             log.info("Found all games in DB, deleting file %s", filename)
             os.system('rm parsed_out/%s'%filename)
             return

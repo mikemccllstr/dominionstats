@@ -1,0 +1,858 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Duchess, Pearl Diver, Caravan, Horse Traders, Thief, Young Witch, Band of Misfits, Count, Grand Market, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Kerry Monroe - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Warlord Bot - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Conqueror Bot - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Banker Bot - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Kerry Monroe - shuffles deck
+Warlord Bot - shuffles deck
+Conqueror Bot - shuffles deck
+Banker Bot - shuffles deck
+Kerry Monroe - draws Hovel, Copper, Overgrown Estate, Copper, Copper
+Warlord Bot - draws Copper, Copper, Overgrown Estate, Necropolis, Copper
+Conqueror Bot - draws Copper, Overgrown Estate, Necropolis, Copper, Hovel
+Banker Bot - draws Copper, Copper, Copper, Overgrown Estate, Copper
+ 
+---------- Banker Bot: turn 1 ----------
+Banker Bot - plays 4 Copper
+Banker Bot - buys Young Witch
+Banker Bot - gains Young Witch
+Banker Bot - draws Hovel, Copper, Copper, Necropolis, Copper
+ 
+---------- Kerry Monroe: turn 1 ----------
+Kerry Monroe - plays 3 Copper
+Kerry Monroe - buys Silver
+Kerry Monroe - gains Silver
+Kerry Monroe - draws Copper, Copper, Copper, Copper, Necropolis
+ 
+---------- Warlord Bot: turn 1 ----------
+Warlord Bot - plays Necropolis
+Warlord Bot - plays 3 Copper
+Warlord Bot - buys Silver
+Warlord Bot - gains Silver
+Warlord Bot - draws Copper, Copper, Hovel, Copper, Copper
+ 
+---------- Conqueror Bot: turn 1 ----------
+Conqueror Bot - plays Necropolis
+Conqueror Bot - plays 2 Copper
+Conqueror Bot - buys Cellar
+Conqueror Bot - gains Cellar
+Conqueror Bot - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Banker Bot: turn 2 ----------
+Banker Bot - plays Necropolis
+Banker Bot - plays 3 Copper
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - shuffles deck
+Banker Bot - draws Copper, Copper, Copper, Copper, Young Witch
+ 
+---------- Kerry Monroe: turn 2 ----------
+Kerry Monroe - plays Necropolis
+Kerry Monroe - plays 4 Copper
+Kerry Monroe - buys Young Witch
+Kerry Monroe - gains Young Witch
+Kerry Monroe - shuffles deck
+Kerry Monroe - draws Overgrown Estate, Copper, Copper, Necropolis, Copper
+ 
+---------- Warlord Bot: turn 2 ----------
+Warlord Bot - plays 4 Copper
+Warlord Bot - buys Young Witch
+Warlord Bot - gains Young Witch
+Warlord Bot - shuffles deck
+Warlord Bot - draws Necropolis, Copper, Copper, Copper, Silver
+ 
+---------- Conqueror Bot: turn 2 ----------
+Conqueror Bot - plays 5 Copper
+Conqueror Bot - buys Count
+Conqueror Bot - gains Count
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Cellar, Copper, Overgrown Estate, Hovel, Count
+ 
+---------- Banker Bot: turn 3 ----------
+Banker Bot - plays Young Witch
+Banker Bot - draws Overgrown Estate, Silver
+Banker Bot - discards Copper
+Banker Bot - discards Copper
+Conqueror Bot - reveals bane Cellar
+Kerry Monroe - gains Curse
+Warlord Bot - gains Curse
+Banker Bot - plays 2 Copper, 1 Silver
+Banker Bot - buys Young Witch
+Banker Bot - gains Young Witch
+Banker Bot - draws Copper, Necropolis, Hovel, Copper, Copper
+ 
+---------- Kerry Monroe: turn 3 ----------
+Kerry Monroe - plays Necropolis
+Kerry Monroe - plays 3 Copper
+Kerry Monroe - buys Silver
+Kerry Monroe - gains Silver
+Kerry Monroe - draws Silver, Copper, Copper, Hovel, Copper
+ 
+---------- Warlord Bot: turn 3 ----------
+Warlord Bot - plays Necropolis
+Warlord Bot - plays 3 Copper, 1 Silver
+Warlord Bot - buys Young Witch
+Warlord Bot - gains Young Witch
+Warlord Bot - draws Overgrown Estate, Copper, Young Witch, Hovel, Copper
+ 
+---------- Conqueror Bot: turn 3 ----------
+Conqueror Bot - plays Cellar
+Conqueror Bot - discards Copper
+Conqueror Bot - discards Overgrown Estate
+Conqueror Bot - discards Hovel
+Conqueror Bot - draws Copper, Copper, Copper
+Conqueror Bot - plays Count
+Conqueror Bot - gains Copper
+Conqueror Bot - trashes Copper, Copper, Copper
+Conqueror Bot - draws Copper, Necropolis, Copper, Copper
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Hovel
+ 
+---------- Banker Bot: turn 4 ----------
+Banker Bot - plays Necropolis
+Banker Bot - plays 3 Copper
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - shuffles deck
+Banker Bot - draws Silver, Hovel, Silver, Copper, Copper
+ 
+---------- Kerry Monroe: turn 4 ----------
+Kerry Monroe - plays 3 Copper, 1 Silver
+Kerry Monroe - buys Band of Misfits
+Kerry Monroe - gains Band of Misfits
+Kerry Monroe - draws Young Witch, Copper
+Kerry Monroe - shuffles deck
+Kerry Monroe - draws Silver, Copper, Copper
+ 
+---------- Warlord Bot: turn 4 ----------
+Warlord Bot - plays Young Witch
+Warlord Bot - draws Copper, Copper
+Warlord Bot - discards Overgrown Estate
+Warlord Bot - discards Copper
+Conqueror Bot - gains Curse
+Banker Bot - gains Curse
+Kerry Monroe - gains Curse
+Warlord Bot - plays 3 Copper
+Warlord Bot - buys Silver
+Warlord Bot - gains Silver
+Warlord Bot - shuffles deck
+Warlord Bot - draws Copper, Copper, Curse, Copper, Necropolis
+ 
+---------- Conqueror Bot: turn 4 ----------
+Conqueror Bot - plays Necropolis
+Conqueror Bot - plays 3 Copper
+Conqueror Bot - buys Silver
+Conqueror Bot - gains Silver
+Conqueror Bot - draws Overgrown Estate, Copper, Cellar, Copper, Count
+ 
+---------- Banker Bot: turn 5 ----------
+Banker Bot - plays 2 Silver, 2 Copper
+Banker Bot - buys Gold
+Banker Bot - gains Gold
+Banker Bot - draws Copper, Young Witch, Copper, Overgrown Estate, Young Witch
+ 
+---------- Kerry Monroe: turn 5 ----------
+Kerry Monroe - plays Young Witch
+Kerry Monroe - draws Copper, Copper
+Kerry Monroe - discards Copper
+Kerry Monroe - discards Copper
+Conqueror Bot - reveals bane Cellar
+Warlord Bot - gains Curse
+Banker Bot - gains Curse
+Kerry Monroe - plays 3 Copper, 1 Silver
+Kerry Monroe - buys Band of Misfits
+Kerry Monroe - gains Band of Misfits
+Kerry Monroe - draws Copper, Band of Misfits, Hovel, Silver, Copper
+ 
+---------- Warlord Bot: turn 5 ----------
+Warlord Bot - plays Necropolis
+Warlord Bot - plays 3 Copper
+Warlord Bot - buys Cellar
+Warlord Bot - gains Cellar
+Warlord Bot - draws Overgrown Estate, Copper, Young Witch, Young Witch, Hovel
+ 
+---------- Conqueror Bot: turn 5 ----------
+Conqueror Bot - plays Cellar
+Conqueror Bot - discards Copper
+Conqueror Bot - discards Copper
+Conqueror Bot - discards Overgrown Estate
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Silver, Overgrown Estate, Copper
+Conqueror Bot - plays Count
+Conqueror Bot - gains Copper
+Conqueror Bot - takes 3 coins
+Conqueror Bot - plays 1 Silver, 1 Copper
+Conqueror Bot - buys Gold
+Conqueror Bot - gains Gold
+Conqueror Bot - draws Copper, Necropolis, Copper, Curse, Copper
+ 
+---------- Banker Bot: turn 6 ----------
+Banker Bot - plays Young Witch
+Banker Bot - draws Copper, Necropolis
+Banker Bot - discards Necropolis
+Banker Bot - discards Young Witch
+Kerry Monroe - gains Curse
+Warlord Bot - gains Curse
+Conqueror Bot - gains Curse
+Banker Bot - plays 3 Copper
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - draws Copper, Copper
+Banker Bot - shuffles deck
+Banker Bot - draws Copper, Necropolis, Copper
+ 
+---------- Kerry Monroe: turn 6 ----------
+Kerry Monroe - plays Band of Misfits
+Kerry Monroe - chooses Young Witch
+Kerry Monroe - plays Young Witch
+Kerry Monroe - draws Curse, Necropolis
+Kerry Monroe - discards Hovel
+Kerry Monroe - discards Curse
+Warlord Bot - gains Curse
+Conqueror Bot - gains Curse
+Banker Bot - gains Curse
+Kerry Monroe - plays 2 Copper, 1 Silver
+Kerry Monroe - buys Caravan
+Kerry Monroe - gains Caravan
+Kerry Monroe - draws Overgrown Estate
+Kerry Monroe - shuffles deck
+Kerry Monroe - draws Copper, Band of Misfits, Copper, Copper
+ 
+---------- Warlord Bot: turn 6 ----------
+Warlord Bot - plays Young Witch
+Warlord Bot - draws Copper, Copper
+Warlord Bot - discards Young Witch
+Warlord Bot - discards Overgrown Estate
+Conqueror Bot - gains Curse
+Banker Bot - gains Curse
+Kerry Monroe - gains Curse
+Warlord Bot - plays 3 Copper
+Warlord Bot - buys Silver
+Warlord Bot - gains Silver
+Warlord Bot - draws Copper, Silver, Silver
+Warlord Bot - shuffles deck
+Warlord Bot - draws Curse, Hovel
+ 
+---------- Conqueror Bot: turn 6 ----------
+Conqueror Bot - plays Necropolis
+Conqueror Bot - plays 3 Copper
+Conqueror Bot - buys Silver
+Conqueror Bot - gains Silver
+Conqueror Bot - draws Copper, Hovel
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Copper, Curse, Overgrown Estate
+ 
+---------- Banker Bot: turn 7 ----------
+Banker Bot - plays Necropolis
+Banker Bot - plays 4 Copper
+Banker Bot - buys Caravan
+Banker Bot - gains Caravan
+Banker Bot - draws Young Witch, Curse, Silver, Curse, Silver
+ 
+---------- Kerry Monroe: turn 7 ----------
+Kerry Monroe - plays Band of Misfits
+Kerry Monroe - chooses Young Witch
+Kerry Monroe - plays Young Witch
+Kerry Monroe - draws Copper, Caravan
+Kerry Monroe - discards Overgrown Estate
+Kerry Monroe - discards Caravan
+Warlord Bot - gains Curse
+Conqueror Bot - gains Curse
+Banker Bot - gains Curse
+Kerry Monroe - plays 4 Copper
+Kerry Monroe - buys Caravan
+Kerry Monroe - gains Caravan
+Kerry Monroe - draws Hovel, Copper, Curse, Curse, Necropolis
+ 
+---------- Warlord Bot: turn 7 ----------
+Warlord Bot - plays 2 Silver, 1 Copper
+Warlord Bot - buys Band of Misfits
+Warlord Bot - gains Band of Misfits
+Warlord Bot - draws Young Witch, Curse, Copper, Young Witch, Copper
+ 
+---------- Conqueror Bot: turn 7 ----------
+Conqueror Bot - plays 2 Copper
+Conqueror Bot - buys Cellar
+Conqueror Bot - gains Cellar
+Conqueror Bot - draws Count, Curse, Curse, Copper, Gold
+ 
+---------- Banker Bot: turn 8 ----------
+Banker Bot - plays Young Witch
+Banker Bot - draws Silver, Copper
+Banker Bot - discards Curse
+Banker Bot - discards Curse
+Kerry Monroe - gains Curse
+Warlord Bot - gains Curse
+Conqueror Bot - gains Curse
+Banker Bot - plays Silver
+Banker Bot - plays Silver
+Banker Bot - plays Silver
+Banker Bot - buys Grand Market
+Banker Bot - gains Grand Market
+Banker Bot - draws Gold, Overgrown Estate, Copper, Young Witch, Copper
+ 
+---------- Kerry Monroe: turn 8 ----------
+Kerry Monroe - draws Silver, Copper, Curse, Copper, Band of Misfits
+ 
+---------- Warlord Bot: turn 8 ----------
+Warlord Bot - plays Young Witch
+Warlord Bot - draws Silver, Copper
+Warlord Bot - discards Curse
+Warlord Bot - discards Young Witch
+Conqueror Bot - gains Curse
+Banker Bot - gains Curse
+Kerry Monroe - gains Curse
+Warlord Bot - plays 3 Copper, 1 Silver
+Warlord Bot - buys Band of Misfits
+Warlord Bot - gains Band of Misfits
+Warlord Bot - draws Necropolis, Copper, Copper, Overgrown Estate, Curse
+ 
+---------- Conqueror Bot: turn 8 ----------
+Conqueror Bot - plays Count
+Conqueror Bot - gains Copper
+Conqueror Bot - takes 3 coins
+Conqueror Bot - plays Gold
+Conqueror Bot - buys Grand Market
+Conqueror Bot - gains Grand Market
+Conqueror Bot - draws Silver, Necropolis, Copper, Copper, Curse
+ 
+---------- Banker Bot: turn 9 ----------
+Banker Bot - plays Young Witch
+Banker Bot - draws Hovel
+Banker Bot - shuffles deck
+Banker Bot - draws Caravan
+Banker Bot - discards Caravan
+Banker Bot - discards Overgrown Estate
+Kerry Monroe - gains Curse
+Warlord Bot - gains Curse
+Conqueror Bot - gains Curse
+Banker Bot - plays 2 Copper, 1 Gold
+Banker Bot - buys Band of Misfits
+Banker Bot - gains Band of Misfits
+Banker Bot - draws Curse, Silver, Silver, Young Witch, Copper
+ 
+---------- Kerry Monroe: turn 9 ----------
+Kerry Monroe - plays Band of Misfits
+Kerry Monroe - chooses Young Witch
+Kerry Monroe - plays Young Witch
+Kerry Monroe - draws Young Witch, Silver
+Kerry Monroe - discards Curse
+Kerry Monroe - discards Young Witch
+Warlord Bot - gains Curse
+Conqueror Bot - gains Curse
+Kerry Monroe - plays 2 Silver, 2 Copper
+Kerry Monroe - buys Gold
+Kerry Monroe - gains Gold
+Kerry Monroe - shuffles deck
+Kerry Monroe - draws Curse, Copper, Young Witch, Hovel, Curse
+ 
+---------- Warlord Bot: turn 9 ----------
+Warlord Bot - plays Necropolis
+Warlord Bot - plays 2 Copper
+Warlord Bot - buys Cellar
+Warlord Bot - gains Cellar
+Warlord Bot - draws Curse, Cellar, Copper
+Warlord Bot - shuffles deck
+Warlord Bot - draws Curse, Copper
+ 
+---------- Conqueror Bot: turn 9 ----------
+Conqueror Bot - plays Necropolis
+Conqueror Bot - plays 2 Copper, 1 Silver
+Conqueror Bot - buys Caravan
+Conqueror Bot - gains Caravan
+Conqueror Bot - draws Silver, Copper, Cellar
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Curse, Copper
+ 
+---------- Banker Bot: turn 10 ----------
+Banker Bot - plays Young Witch
+Banker Bot - draws Curse, Curse
+Banker Bot - discards Curse
+Banker Bot - discards Curse
+Banker Bot - plays 2 Silver, 1 Copper
+Banker Bot - buys Duchy
+Banker Bot - gains Duchy
+Banker Bot - draws Copper, Copper, Copper, Curse, Copper
+ 
+---------- Kerry Monroe: turn 10 ----------
+Kerry Monroe - plays Young Witch
+Kerry Monroe - draws Curse, Curse
+Kerry Monroe - discards Curse
+Kerry Monroe - discards Curse
+Kerry Monroe - draws Caravan, Silver, Overgrown Estate, Necropolis, Band of Misfits
+ 
+---------- Warlord Bot: turn 10 ----------
+Warlord Bot - plays Cellar
+Warlord Bot - discards Copper
+Warlord Bot - discards Copper
+Warlord Bot - discards Curse
+Warlord Bot - discards Curse
+Warlord Bot - draws Copper, Copper, Hovel, Young Witch
+Warlord Bot - plays Young Witch
+Warlord Bot - draws Copper, Curse
+Warlord Bot - discards Curse
+Warlord Bot - discards Copper
+Warlord Bot - plays 2 Copper
+Warlord Bot - buys Cellar
+Warlord Bot - gains Cellar
+Warlord Bot - draws Copper, Curse, Necropolis, Silver, Silver
+ 
+---------- Conqueror Bot: turn 10 ----------
+Conqueror Bot - plays Cellar
+Conqueror Bot - discards Copper
+Conqueror Bot - discards Copper
+Conqueror Bot - discards Curse
+Conqueror Bot - draws Curse, Caravan, Curse
+Conqueror Bot - plays Caravan
+Conqueror Bot - draws Cellar
+Conqueror Bot - plays Cellar
+Conqueror Bot - discards Curse
+Conqueror Bot - discards Curse
+Conqueror Bot - draws Curse, Copper
+Conqueror Bot - plays 1 Silver, 1 Copper
+Conqueror Bot - buys Silver
+Conqueror Bot - gains Silver
+Conqueror Bot - draws Count, Necropolis, Curse, Silver, Copper
+ 
+---------- Banker Bot: turn 11 ----------
+Banker Bot - plays 4 Copper
+Banker Bot - buys Caravan
+Banker Bot - gains Caravan
+Banker Bot - draws Grand Market, Curse, Curse, Necropolis, Silver
+ 
+---------- Kerry Monroe: turn 11 ----------
+Kerry Monroe - plays Caravan
+Kerry Monroe - draws Silver
+Kerry Monroe - plays Necropolis
+Kerry Monroe - plays Band of Misfits
+Kerry Monroe - chooses Horse Traders
+Kerry Monroe - plays Horse Traders
+Kerry Monroe - discards Overgrown Estate
+Kerry Monroe - discards Silver
+Kerry Monroe - plays 1 Silver
+Kerry Monroe - buys Count
+Kerry Monroe - gains Count
+Kerry Monroe - draws Curse, Copper, Gold, Copper, Curse
+ 
+---------- Warlord Bot: turn 11 ----------
+Warlord Bot - plays Necropolis
+Warlord Bot - plays 2 Silver, 1 Copper
+Warlord Bot - buys Duchy
+Warlord Bot - gains Duchy
+Warlord Bot - draws Young Witch, Curse, Cellar, Curse, Silver
+ 
+---------- Conqueror Bot: turn 11 ----------
+Conqueror Bot - duration Caravan
+Conqueror Bot - draws Curse
+Conqueror Bot - plays Necropolis
+Conqueror Bot - plays Count
+Conqueror Bot - gains Copper
+Conqueror Bot - takes 3 coins
+Conqueror Bot - plays 1 Silver, 1 Copper
+Conqueror Bot - buys Duchy
+Conqueror Bot - gains Duchy
+Conqueror Bot - draws Hovel, Copper, Copper, Grand Market, Gold
+ 
+---------- Banker Bot: turn 12 ----------
+Banker Bot - plays Grand Market
+Banker Bot - shuffles deck
+Banker Bot - draws Duchy
+Banker Bot - plays Necropolis
+Banker Bot - plays 1 Silver
+Banker Bot - buys Caravan
+Banker Bot - gains Caravan
+Banker Bot - draws Curse, Copper, Young Witch, Gold, Copper
+ 
+---------- Kerry Monroe: turn 12 ----------
+Kerry Monroe - duration Caravan
+Kerry Monroe - draws Curse
+Kerry Monroe - plays 2 Copper, 1 Gold
+Kerry Monroe - buys Count
+Kerry Monroe - gains Count
+Kerry Monroe - draws Band of Misfits, Copper, Copper, Copper, Caravan
+ 
+---------- Warlord Bot: turn 12 ----------
+Warlord Bot - plays Cellar
+Warlord Bot - discards Curse
+Warlord Bot - discards Curse
+Warlord Bot - draws Curse, Band of Misfits
+Warlord Bot - plays Band of Misfits
+Warlord Bot - chooses Thief
+Warlord Bot - plays Thief
+Conqueror Bot - reveals: Overgrown Estate, Curse
+Conqueror Bot - discards: Overgrown Estate, Curse
+Banker Bot - reveals: Curse, Copper
+Banker Bot - trashes Copper
+Banker Bot - discards Curse
+Kerry Monroe - reveals: Copper
+Kerry Monroe - shuffles deck
+Kerry Monroe - reveals: Copper
+Kerry Monroe - trashes Copper
+Kerry Monroe - discards Copper
+Warlord Bot - plays 1 Silver
+Warlord Bot - buys Cellar
+Warlord Bot - gains Cellar
+Warlord Bot - draws Copper, Band of Misfits, Overgrown Estate, Curse
+Warlord Bot - shuffles deck
+Warlord Bot - draws Copper
+ 
+---------- Conqueror Bot: turn 12 ----------
+Conqueror Bot - plays Grand Market
+Conqueror Bot - draws Curse
+Conqueror Bot - plays 2 Copper, 1 Gold
+Conqueror Bot - buys Duchy
+Conqueror Bot - trashes Hovel
+Conqueror Bot - gains Duchy
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - draws Copper, Curse
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Copper, Overgrown Estate, Copper
+ 
+---------- Banker Bot: turn 13 ----------
+Banker Bot - plays Young Witch
+Banker Bot - draws Copper, Curse
+Banker Bot - discards Curse
+Banker Bot - discards Curse
+Banker Bot - plays 3 Copper, 1 Gold
+Banker Bot - buys Duchy
+Banker Bot - gains Duchy
+Banker Bot - draws Caravan, Copper, Caravan, Copper, Silver
+ 
+---------- Kerry Monroe: turn 13 ----------
+Kerry Monroe - plays Caravan
+Kerry Monroe - draws Curse
+Kerry Monroe - plays Band of Misfits
+Kerry Monroe - chooses Horse Traders
+Kerry Monroe - plays Horse Traders
+Kerry Monroe - discards Curse
+Kerry Monroe - discards Copper
+Kerry Monroe - plays 2 Copper
+Kerry Monroe - buys Duchy
+Kerry Monroe - gains Duchy
+Kerry Monroe - gains Duchess
+Kerry Monroe - draws Count, Curse, Band of Misfits, Young Witch, Gold
+ 
+---------- Warlord Bot: turn 13 ----------
+Warlord Bot - plays Band of Misfits
+Warlord Bot - chooses Thief
+Warlord Bot - plays Thief
+Conqueror Bot - reveals: Estate, Silver
+Conqueror Bot - trashes Silver
+Conqueror Bot - discards Estate
+Banker Bot - reveals: Overgrown Estate, Band of Misfits
+Banker Bot - discards: Overgrown Estate, Band of Misfits
+Kerry Monroe - reveals: Caravan, Curse
+Kerry Monroe - discards: Caravan, Curse
+Warlord Bot - gains Silver
+Warlord Bot - plays 2 Copper
+Warlord Bot - buys Estate
+Warlord Bot - gains Estate
+Warlord Bot - draws Hovel, Cellar, Young Witch, Band of Misfits, Copper
+ 
+---------- Conqueror Bot: turn 13 ----------
+Conqueror Bot - plays 3 Copper
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - draws Silver, Cellar, Curse, Curse, Copper
+ 
+---------- Banker Bot: turn 14 ----------
+Banker Bot - plays Caravan
+Banker Bot - draws Hovel
+Banker Bot - plays Caravan
+Banker Bot - draws Curse
+Banker Bot - plays 2 Copper, 1 Silver
+Banker Bot - buys Caravan
+Banker Bot - gains Caravan
+Banker Bot - draws Young Witch, Silver, Copper
+Banker Bot - shuffles deck
+Banker Bot - draws Grand Market, Copper
+ 
+---------- Kerry Monroe: turn 14 ----------
+Kerry Monroe - duration Caravan
+Kerry Monroe - draws Copper
+Kerry Monroe - plays Band of Misfits
+Kerry Monroe - chooses Caravan
+Kerry Monroe - plays Caravan
+Kerry Monroe - draws Count
+Kerry Monroe - plays Count
+Kerry Monroe - places Count on top of deck
+Kerry Monroe - takes 3 coins
+Kerry Monroe - plays Gold
+Kerry Monroe - buys Grand Market
+Kerry Monroe - gains Grand Market
+Kerry Monroe - draws Count, Necropolis, Overgrown Estate, Hovel, Copper
+ 
+---------- Warlord Bot: turn 14 ----------
+Warlord Bot - plays Cellar
+Warlord Bot - discards Copper
+Warlord Bot - discards Hovel
+Warlord Bot - draws Silver, Copper
+Warlord Bot - plays Band of Misfits
+Warlord Bot - chooses Thief
+Warlord Bot - plays Thief
+Conqueror Bot - reveals: Copper, Copper
+Conqueror Bot - trashes Copper
+Conqueror Bot - discards Copper
+Banker Bot - reveals: Band of Misfits, Young Witch
+Banker Bot - discards: Band of Misfits, Young Witch
+Kerry Monroe - reveals: Curse, Silver
+Kerry Monroe - trashes Silver
+Kerry Monroe - discards Curse
+Warlord Bot - gains Silver
+Warlord Bot - plays 1 Silver, 1 Copper
+Warlord Bot - buys Silver
+Warlord Bot - gains Silver
+Warlord Bot - draws Silver, Curse, Copper, Curse, Necropolis
+ 
+---------- Conqueror Bot: turn 14 ----------
+Conqueror Bot - plays Cellar
+Conqueror Bot - discards Copper
+Conqueror Bot - discards Curse
+Conqueror Bot - discards Curse
+Conqueror Bot - draws Curse, Caravan, Gold
+Conqueror Bot - plays Caravan
+Conqueror Bot - draws Count
+Conqueror Bot - plays Count
+Conqueror Bot - gains Copper
+Conqueror Bot - gains Duchy
+Conqueror Bot - plays 1 Silver, 1 Gold
+Conqueror Bot - buys Duchy
+Conqueror Bot - gains Duchy
+Conqueror Bot - draws Curse, Curse, Necropolis, Curse, Curse
+ 
+---------- Banker Bot: turn 15 ----------
+Banker Bot - duration Caravan
+Banker Bot - draws Overgrown Estate
+Banker Bot - duration Caravan
+Banker Bot - draws Curse
+Banker Bot - plays Grand Market
+Banker Bot - draws Copper
+Banker Bot - plays Young Witch
+Banker Bot - draws Curse, Curse
+Banker Bot - discards Curse
+Banker Bot - discards Curse
+Banker Bot - plays 3 Copper, 1 Silver
+Banker Bot - buys Duchy
+Banker Bot - gains Duchy
+Banker Bot - buys Estate
+Banker Bot - gains Estate
+Banker Bot - draws Duchy, Silver, Caravan, Caravan, Silver
+ 
+---------- Kerry Monroe: turn 15 ----------
+Kerry Monroe - duration Caravan
+Kerry Monroe - draws Curse
+Kerry Monroe - plays Necropolis
+Kerry Monroe - plays Count
+Kerry Monroe - discards Overgrown Estate
+Kerry Monroe - discards Hovel
+Kerry Monroe - gains Duchy
+Kerry Monroe - draws Curse, Silver, Curse
+Kerry Monroe - shuffles deck
+Kerry Monroe - draws Copper, Count
+ 
+---------- Warlord Bot: turn 15 ----------
+Warlord Bot - plays Necropolis
+Warlord Bot - plays 1 Silver, 1 Copper
+Warlord Bot - buys Estate
+Warlord Bot - gains Estate
+Warlord Bot - draws Cellar, Young Witch, Curse, Copper, Duchy
+ 
+---------- Conqueror Bot: turn 15 ----------
+Conqueror Bot - duration Caravan
+Conqueror Bot - draws Copper
+Conqueror Bot - plays Necropolis
+Conqueror Bot - plays 1 Copper
+Conqueror Bot - draws Copper, Duchy, Grand Market, Curse, Duchy
+ 
+---------- Banker Bot: turn 16 ----------
+Banker Bot - plays Caravan
+Banker Bot - draws Copper
+Banker Bot - plays Caravan
+Banker Bot - draws Curse
+Banker Bot - plays 2 Silver, 1 Copper
+Banker Bot - buys Duchy
+Banker Bot - gains Duchy
+Banker Bot - draws Hovel, Copper, Copper, Curse, Gold
+ 
+---------- Kerry Monroe: turn 16 ----------
+Kerry Monroe - plays Count
+Kerry Monroe - discards Curse
+Kerry Monroe - discards Curse
+Kerry Monroe - gains Duchy
+Kerry Monroe - plays 1 Silver, 1 Copper
+Kerry Monroe - buys Silver
+Kerry Monroe - gains Silver
+Kerry Monroe - draws Copper, Hovel, Young Witch, Duchess, Curse
+ 
+---------- Warlord Bot: turn 16 ----------
+Warlord Bot - plays Cellar
+Warlord Bot - discards Copper
+Warlord Bot - discards Duchy
+Warlord Bot - discards Curse
+Warlord Bot - draws Copper, Curse, Curse
+Warlord Bot - plays Young Witch
+Warlord Bot - draws Silver, Cellar
+Warlord Bot - discards Curse
+Warlord Bot - discards Curse
+Warlord Bot - plays 1 Copper, 1 Silver
+Warlord Bot - buys Estate
+Warlord Bot - gains Estate
+Warlord Bot - draws Cellar, Curse, Curse
+Warlord Bot - shuffles deck
+Warlord Bot - draws Young Witch, Curse
+ 
+---------- Conqueror Bot: turn 16 ----------
+Conqueror Bot - plays Grand Market
+Conqueror Bot - draws Silver
+Conqueror Bot - plays 1 Copper, 1 Silver
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - draws Cellar
+Conqueror Bot - shuffles deck
+Conqueror Bot - draws Curse, Caravan, Duchy, Gold
+ 
+---------- Banker Bot: turn 17 ----------
+Banker Bot - duration Caravan
+Banker Bot - draws Curse
+Banker Bot - duration Caravan
+Banker Bot - draws Necropolis
+Banker Bot - plays Necropolis
+Banker Bot - plays 2 Copper, 1 Gold
+Banker Bot - buys Band of Misfits
+Banker Bot - gains Band of Misfits
+Banker Bot - draws Duchy
+Banker Bot - shuffles deck
+Banker Bot - draws Band of Misfits, Young Witch, Grand Market, Curse
+ 
+---------- Kerry Monroe: turn 17 ----------
+Kerry Monroe - plays Duchess
+Kerry Monroe - discards Curse
+Warlord Bot - discards Copper
+Conqueror Bot - discards Curse
+Banker Bot - discards Copper
+Kerry Monroe - plays 1 Copper
+Kerry Monroe - buys Estate
+Kerry Monroe - trashes Hovel
+Kerry Monroe - gains Estate
+Kerry Monroe - draws Overgrown Estate, Band of Misfits, Copper, Caravan, Count
+ 
+---------- Warlord Bot: turn 17 ----------
+Warlord Bot - plays Cellar
+Warlord Bot - discards Curse
+Warlord Bot - discards Curse
+Warlord Bot - discards Curse
+Warlord Bot - draws Curse, Band of Misfits, Copper
+Warlord Bot - plays Band of Misfits
+Warlord Bot - chooses Thief
+Warlord Bot - plays Thief
+Conqueror Bot - reveals: Curse, Copper
+Conqueror Bot - trashes Copper
+Conqueror Bot - discards Curse
+Banker Bot - reveals: Band of Misfits, Caravan
+Banker Bot - discards: Band of Misfits, Caravan
+Kerry Monroe - reveals: Curse, Caravan
+Kerry Monroe - discards: Curse, Caravan
+Warlord Bot - plays 1 Copper
+Warlord Bot - draws Silver, Hovel, Curse, Estate, Silver
+ 
+---------- Conqueror Bot: turn 17 ----------
+Conqueror Bot - plays Caravan
+Conqueror Bot - draws Estate
+Conqueror Bot - plays Cellar
+Conqueror Bot - discards Duchy
+Conqueror Bot - discards Estate
+Conqueror Bot - discards Curse
+Conqueror Bot - draws Overgrown Estate, Curse, Silver
+Conqueror Bot - plays 1 Gold, 1 Silver
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - draws Copper, Copper, Duchy, Copper, Grand Market
+ 
+---------- Banker Bot: turn 18 ----------
+Banker Bot - plays Grand Market
+Banker Bot - draws Estate
+Banker Bot - plays Band of Misfits
+Banker Bot - chooses Thief
+Banker Bot - plays Thief
+Kerry Monroe - reveals: Copper, Duchy
+Kerry Monroe - trashes Copper
+Kerry Monroe - discards Duchy
+Warlord Bot - reveals: Necropolis, Silver
+Warlord Bot - trashes Silver
+Warlord Bot - discards Necropolis
+Conqueror Bot - reveals: Curse, Silver
+Conqueror Bot - trashes Silver
+Conqueror Bot - discards Curse
+Banker Bot - gains Silver
+Banker Bot - gains Silver
+Banker Bot - buys Estate
+Banker Bot - gains Estate
+Banker Bot - draws Curse, Curse, Caravan, Young Witch, Curse
+ 
+---------- Kerry Monroe: turn 18 ----------
+Kerry Monroe - plays Caravan
+Kerry Monroe - draws Copper
+Kerry Monroe - plays Band of Misfits
+Kerry Monroe - chooses Caravan
+Kerry Monroe - plays Caravan
+Kerry Monroe - draws Curse
+Kerry Monroe - plays Count
+Kerry Monroe - discards Curse
+Kerry Monroe - discards Overgrown Estate
+Kerry Monroe - takes 3 coins
+Kerry Monroe - plays 2 Copper
+Kerry Monroe - buys Band of Misfits
+Kerry Monroe - gains Band of Misfits
+Kerry Monroe - draws Band of Misfits, Grand Market, Necropolis, Curse, Duchy
+ 
+---------- Warlord Bot: turn 18 ----------
+Warlord Bot - plays 2 Silver
+Warlord Bot - buys Caravan
+Warlord Bot - gains Caravan
+Warlord Bot - draws Copper, Band of Misfits, Copper, Young Witch, Cellar
+ 
+---------- Conqueror Bot: turn 18 ----------
+Conqueror Bot - duration Caravan
+Conqueror Bot - draws Duchy
+Conqueror Bot - plays Grand Market
+Conqueror Bot - draws Cellar
+Conqueror Bot - plays Cellar
+Conqueror Bot - discards Copper
+Conqueror Bot - discards Copper
+Conqueror Bot - discards Copper
+Conqueror Bot - discards Duchy
+Conqueror Bot - discards Duchy
+Conqueror Bot - draws Copper, Curse, Copper, Copper, Estate
+Conqueror Bot - plays 3 Copper
+Conqueror Bot - buys Estate
+Conqueror Bot - gains Estate
+Conqueror Bot - buys Silver
+Conqueror Bot - gains Silver
+Conqueror Bot - draws Estate, Copper, Count, Curse, Curse
+ 
+------------ Game Over ------------
+Conqueror Bot - cards: 2 Cellar, 1 Necropolis, 1 Count, 1 Grand Market, 1 Caravan, 7 Copper, 2 Silver, 1 Gold, 6 Estate, 4 Duchy, 1 Overgrown Estate, 9 Curse
+Conqueror Bot - total victory points: 9
+Conqueror Bot - turns: 18
+ 
+Banker Bot - cards: 4 Caravan, 2 Young Witch, 2 Band of Misfits, 1 Grand Market, 1 Necropolis, 6 Copper, 5 Silver, 1 Gold, 4 Duchy, 2 Estate, 1 Overgrown Estate, 1 Hovel, 6 Curse
+Banker Bot - total victory points: 8
+Banker Bot - turns: 18
+ 
+Kerry Monroe - cards: 3 Caravan, 2 Band of Misfits, 2 Count, 1 Necropolis, 1 Young Witch, 1 Duchess, 1 Grand Market, 5 Copper, 2 Silver, 1 Gold, 3 Duchy, 1 Estate, 1 Overgrown Estate, 7 Curse
+Kerry Monroe - total victory points: 3
+Kerry Monroe - turns: 18
+ 
+Warlord Bot - cards: 4 Cellar, 2 Young Witch, 2 Band of Misfits, 1 Caravan, 1 Necropolis, 7 Copper, 5 Silver, 3 Estate, 1 Overgrown Estate, 1 Duchy, 8 Curse, 1 Hovel
+Warlord Bot - total victory points: -2
+Warlord Bot - turns: 18
+ 
+1st place: Conqueror Bot
+2nd place: Banker Bot
+3rd place: Kerry Monroe
+4th place: Warlord Bot
+ 

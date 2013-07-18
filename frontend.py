@@ -20,6 +20,7 @@ import datetime
 import game
 import goals
 import parse_game
+import parse_common
 import query_matcher
 import utils
 from keys import *
@@ -259,7 +260,6 @@ class PlayerPage(object):
                 expansion_dist[ex] += wt
                 expansion_win_points[ex] += wt * wp
 
-
         #TODO: a good choice for a template like jinja2
         ret = standard_heading("CouncilRoom.com: Dominion Stats: %s" % 
                                target_player)
@@ -333,7 +333,13 @@ class PlayerPage(object):
 
         ret += '<h2>Most recent games</h2>\n'
         qm = query_matcher.QueryMatcher(p1_name=target_player)
-        for g_id in game_list[:3]:
+        goko_games = [g for g in game_list if '.txt' in game_list]
+        if len(goko_games) > 2:
+            goko_games.sort(reverse=True)
+            most_recent = goko_games[:3]
+        else:
+            most_recent = game_list[:3]
+        for g_id in most_recent:
             g = db.games.find_one({'_id': g_id})
             game_val = game.Game(g)
             ret += (query_matcher.GameMatcher(game_val, qm).display_game_snippet() +
@@ -442,7 +448,7 @@ class GamePage(object):
                         'Council Room Developers</a></b>')
         try:
             return annotate_game.annotate_game(contents, game_id, debug)
-        except parse_game.BogusGameError, b:
+        except parse_common.BogusGameError, b:
             return contents.replace('<body>',
                                     body_err_msg + ': foo? ' + str(b))
         except Exception, e:
@@ -520,6 +526,7 @@ class GoalsPage(object):
         n = db.games.count()
 
         ret = standard_heading("CouncilRoom.com: Goal Stats")
+        ret += '<p class="intro"> Goko bots don\'t get to be listed here! If one has snuck in, please report it by sending an email to <a href="mailto:councilroom-dev@googlegroups.com">councilroom-dev@googlegroups.com</a>.</p>'
         ret += '<span class="subhead">Goal Stats</span>\n<p>\n'
         ret += '<table width="50%">'
         ret += '<tr><td><th>Goal Name<th width="1%">Total Times Achieved<th width="1%">% Occurrence<th>Description<th>Leaders'

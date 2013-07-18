@@ -1,0 +1,439 @@
+------------ Game Setup ------------
+Supply cards: Squire, Hermit, Storeroom, Urchin, Marauder, Counterfeit, Graverobber, Knights, Rogue, Hunting Grounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+like a rainbow - starting cards: Copper, Copper, Copper, Copper, Copper, Copper, Copper, Hovel, Overgrown Estate, Necropolis
+Rayne - starting cards: Copper, Copper, Copper, Copper, Copper, Copper, Copper, Estate, Estate, Overgrown Estate
+Archer - starting cards: Copper, Copper, Copper, Copper, Copper, Copper, Copper, Estate, Estate, Estate
+like a rainbow - shuffles deck
+Rayne - shuffles deck
+Archer - shuffles deck
+like a rainbow - draws Necropolis, Overgrown Estate, Hovel, Copper, Copper
+Rayne - draws Copper, Copper, Overgrown Estate, Estate, Copper
+Archer - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Archer: turn 1 ----------
+Archer - plays 5 Copper
+Archer - buys Dame Sylvia
+Archer - gains Dame Sylvia
+Archer - draws Copper, Estate, Estate, Copper, Estate
+ 
+---------- like a rainbow: turn 1 ----------
+like a rainbow - plays 2 Copper
+like a rainbow - buys Squire
+like a rainbow - gains Squire
+like a rainbow - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Rayne: turn 1 ----------
+Rayne - plays 3 Copper
+Rayne - buys Urchin
+Rayne - gains Urchin
+Rayne - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Archer: turn 2 ----------
+Archer - plays 2 Copper
+Archer - buys Squire
+Archer - gains Squire
+Archer - shuffles deck
+Archer - draws Copper, Copper, Dame Sylvia, Copper, Estate
+ 
+---------- like a rainbow: turn 2 ----------
+like a rainbow - plays 5 Copper
+like a rainbow - buys Dame Anna
+like a rainbow - gains Dame Anna
+like a rainbow - shuffles deck
+like a rainbow - draws Overgrown Estate, Hovel, Copper, Squire, Copper
+ 
+---------- Rayne: turn 2 ----------
+Rayne - plays 4 Copper
+Rayne - buys Marauder
+Rayne - gains Marauder
+Rayne - shuffles deck
+Rayne - draws Urchin, Copper, Estate, Marauder, Copper
+ 
+---------- Archer: turn 3 ----------
+Archer - plays Dame Sylvia
+like a rainbow - reveals: Copper, Dame Anna
+like a rainbow - trashes Dame Anna
+like a rainbow - discards Copper
+Rayne - reveals: Overgrown Estate, Copper
+Archer - trashes Dame Sylvia
+Archer - plays 3 Copper
+Archer - buys Counterfeit
+Archer - gains Counterfeit
+Archer - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- like a rainbow: turn 3 ----------
+like a rainbow - plays Squire
+like a rainbow - gains Silver
+like a rainbow - plays 2 Copper
+like a rainbow - buys Squire
+like a rainbow - gains Squire
+like a rainbow - draws Copper, Copper, Copper, Copper, Necropolis
+ 
+---------- Rayne: turn 3 ----------
+Rayne - plays Urchin
+Rayne - draws Copper
+Archer - discards Estate
+like a rainbow - discards Necropolis
+Rayne - plays Marauder
+Rayne - trashes Urchin
+Rayne - gains Mercenary
+Rayne - gains Spoils
+Archer - gains Abandoned Mine
+like a rainbow - gains Ruined Village
+Rayne - plays 3 Copper
+Rayne - buys Urchin
+Rayne - gains Urchin
+Rayne - draws Estate, Copper, Copper, Copper
+Rayne - shuffles deck
+Rayne - draws Copper
+ 
+---------- Archer: turn 4 ----------
+Archer - plays 3 Copper
+Archer - buys Silver
+Archer - gains Silver
+Archer - draws Copper, Squire
+Archer - shuffles deck
+Archer - draws Estate, Copper, Abandoned Mine
+ 
+---------- like a rainbow: turn 4 ----------
+like a rainbow - plays 4 Copper
+like a rainbow - buys Marauder
+like a rainbow - gains Marauder
+like a rainbow - shuffles deck
+like a rainbow - draws Hovel, Squire, Copper, Overgrown Estate, Marauder
+ 
+---------- Rayne: turn 4 ----------
+Rayne - plays 4 Copper
+Rayne - buys Urchin
+Rayne - gains Urchin
+Rayne - draws Copper, Estate, Urchin, Overgrown Estate, Marauder
+ 
+---------- Archer: turn 5 ----------
+Archer - plays Squire
+Archer - takes 2 actions
+Archer - plays Abandoned Mine
+Archer - plays 2 Copper
+Archer - buys Marauder
+Archer - gains Marauder
+Archer - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- like a rainbow: turn 5 ----------
+like a rainbow - plays Squire
+like a rainbow - takes 2 actions
+like a rainbow - plays Marauder
+like a rainbow - gains Spoils
+Rayne - gains Abandoned Mine
+Archer - gains Ruined Market
+like a rainbow - plays 1 Copper
+like a rainbow - buys Squire
+like a rainbow - gains Squire
+like a rainbow - draws Copper, Silver, Ruined Village, Necropolis, Copper
+ 
+---------- Rayne: turn 5 ----------
+Rayne - plays Urchin
+Rayne - draws Copper
+Archer - discards Estate
+like a rainbow - discards Ruined Village
+Rayne - plays Marauder
+Rayne - gains Spoils
+Archer - gains Ruined Village
+like a rainbow - gains Ruined Market
+Rayne - plays 2 Copper
+Rayne - buys Squire
+Rayne - gains Squire
+Rayne - draws Mercenary, Spoils, Copper
+Rayne - shuffles deck
+Rayne - draws Estate, Squire
+ 
+---------- Archer: turn 6 ----------
+Archer - plays 4 Copper
+Archer - buys Marauder
+Archer - gains Marauder
+Archer - draws Copper, Estate, Silver, Counterfeit
+Archer - shuffles deck
+Archer - draws Marauder
+ 
+---------- like a rainbow: turn 6 ----------
+like a rainbow - plays Necropolis
+like a rainbow - plays 2 Copper, 1 Silver
+like a rainbow - buys Squire
+like a rainbow - gains Squire
+like a rainbow - draws Copper, Squire, Copper, Copper, Copper
+ 
+---------- Rayne: turn 6 ----------
+Rayne - plays Squire
+Rayne - takes 2 actions
+Rayne - plays 1 Copper
+Rayne - plays Spoils
+Rayne - buys Urchin
+Rayne - gains Urchin
+Rayne - draws Copper, Copper, Urchin, Copper, Overgrown Estate
+ 
+---------- Archer: turn 7 ----------
+Archer - plays Marauder
+Archer - gains Spoils
+like a rainbow - gains Ruined Village
+Rayne - gains Ruined Market
+Archer - plays Counterfeit
+Archer - plays Copper
+Archer - plays Copper
+Archer - trashes Copper
+Archer - plays 1 Silver
+Archer - buys Rogue
+Archer - gains Rogue
+Archer - draws Estate, Copper, Copper, Marauder, Estate
+ 
+---------- like a rainbow: turn 7 ----------
+like a rainbow - plays Squire
+like a rainbow - gains Silver
+like a rainbow - plays 4 Copper
+like a rainbow - buys Graverobber
+like a rainbow - gains Graverobber
+like a rainbow - shuffles deck
+like a rainbow - draws Spoils, Copper, Graverobber, Overgrown Estate, Hovel
+ 
+---------- Rayne: turn 7 ----------
+Rayne - plays Urchin
+Rayne - draws Marauder
+Archer - discards Estate
+like a rainbow - discards Overgrown Estate
+Rayne - plays Marauder
+Rayne - gains Spoils
+Archer - gains Ruined Library
+like a rainbow - gains Ruined Village
+Rayne - plays 3 Copper
+Rayne - buys Urchin
+Rayne - gains Urchin
+Rayne - draws Copper, Spoils, Copper, Urchin, Copper
+ 
+---------- Archer: turn 8 ----------
+Archer - plays Marauder
+Archer - gains Spoils
+like a rainbow - gains Survivors
+Rayne - gains Ruined Market
+Archer - plays 2 Copper
+Archer - buys Squire
+Archer - gains Squire
+Archer - draws Copper, Squire, Copper, Ruined Market, Abandoned Mine
+ 
+---------- like a rainbow: turn 8 ----------
+like a rainbow - plays Graverobber
+like a rainbow - gains Dame Anna
+like a rainbow - plays 1 Copper
+like a rainbow - plays Spoils
+like a rainbow - buys Urchin
+like a rainbow - gains Urchin
+like a rainbow - draws Dame Anna, Squire, Copper, Copper, Marauder
+ 
+---------- Rayne: turn 8 ----------
+Rayne - plays Urchin
+Rayne - draws Estate
+Archer - discards Ruined Market
+like a rainbow - discards Copper
+Rayne - plays 3 Copper
+Rayne - plays Spoils
+Rayne - buys Gold
+Rayne - gains Gold
+Rayne - draws Abandoned Mine
+Rayne - shuffles deck
+Rayne - draws Copper, Marauder, Spoils, Mercenary
+ 
+---------- Archer: turn 9 ----------
+Archer - plays Squire
+Archer - takes 2 actions
+Archer - plays Abandoned Mine
+Archer - plays 2 Copper
+Archer - buys Marauder
+Archer - gains Marauder
+Archer - draws Ruined Village, Copper, Copper
+Archer - shuffles deck
+Archer - draws Rogue, Ruined Library
+ 
+---------- like a rainbow: turn 9 ----------
+like a rainbow - plays Squire
+like a rainbow - takes 2 actions
+like a rainbow - plays Marauder
+like a rainbow - gains Spoils
+Rayne - gains Ruined Library
+Archer - gains Ruined Village
+like a rainbow - plays Dame Anna
+like a rainbow - trashes Copper
+Rayne - reveals: Copper, Copper
+Archer - reveals: Estate, Estate
+like a rainbow - draws Ruined Market, Silver, Copper, Silver, Squire
+ 
+---------- Rayne: turn 9 ----------
+Rayne - plays Marauder
+Rayne - gains Spoils
+Archer - gains Ruined Library
+like a rainbow - gains Abandoned Mine
+Rayne - plays 1 Copper
+Rayne - plays Spoils
+Rayne - buys Urchin
+Rayne - gains Urchin
+Rayne - draws Ruined Market, Copper, Copper, Urchin, Ruined Market
+ 
+---------- Archer: turn 10 ----------
+Archer - plays Rogue
+Archer - gains Dame Sylvia
+Archer - plays 2 Copper
+Archer - buys Silver
+Archer - gains Silver
+Archer - draws Spoils, Counterfeit, Squire, Copper, Ruined Market
+ 
+---------- like a rainbow: turn 10 ----------
+like a rainbow - plays Squire
+like a rainbow - takes 2 actions
+like a rainbow - plays Ruined Market
+like a rainbow - plays 2 Silver, 1 Copper
+like a rainbow - buys Hunting Grounds
+like a rainbow - gains Hunting Grounds
+like a rainbow - draws Squire, Copper, Copper, Squire, Copper
+ 
+---------- Rayne: turn 10 ----------
+Rayne - plays Urchin
+Rayne - draws Copper
+Archer - discards Ruined Market
+like a rainbow - discards Copper
+Rayne - plays Ruined Market
+Rayne - plays 3 Copper
+Rayne - buys Urchin
+Rayne - gains Urchin
+Rayne - draws Estate, Gold, Overgrown Estate, Estate, Urchin
+ 
+---------- Archer: turn 11 ----------
+Archer - plays Squire
+Archer - gains Silver
+Archer - plays Counterfeit
+Archer - plays Spoils
+Archer - plays Spoils
+Archer - plays 1 Copper
+Archer - buys Province
+Archer - gains Province
+Archer - draws Squire, Copper, Abandoned Mine, Marauder, Silver
+ 
+---------- like a rainbow: turn 11 ----------
+like a rainbow - plays Squire
+like a rainbow - takes 2 actions
+like a rainbow - plays Squire
+like a rainbow - takes 2 buys
+like a rainbow - plays 2 Copper
+like a rainbow - buys Squire
+like a rainbow - gains Squire
+like a rainbow - buys Squire
+like a rainbow - gains Squire
+like a rainbow - draws Ruined Village, Ruined Village, Necropolis
+like a rainbow - shuffles deck
+like a rainbow - draws Marauder, Squire
+ 
+---------- Rayne: turn 11 ----------
+Rayne - plays Urchin
+Rayne - draws Urchin
+Archer - discards Abandoned Mine
+like a rainbow - discards Ruined Village
+Rayne - plays Urchin
+Rayne - draws Squire
+Rayne - plays Squire
+Rayne - gains Silver
+Rayne - plays 1 Gold
+Rayne - buys Urchin
+Rayne - gains Urchin
+Rayne - draws Copper, Urchin
+Rayne - shuffles deck
+Rayne - draws Copper, Copper, Urchin
+ 
+---------- Archer: turn 12 ----------
+Archer - plays Squire
+Archer - takes 2 actions
+Archer - plays Marauder
+Archer - gains Spoils
+like a rainbow - gains Ruined Library
+Rayne - gains Survivors
+Archer - plays 1 Copper, 1 Silver
+Archer - buys Estate
+Archer - gains Estate
+Archer - draws Copper, Copper, Estate, Marauder, Spoils
+ 
+---------- like a rainbow: turn 12 ----------
+like a rainbow - plays Squire
+like a rainbow - takes 2 actions
+like a rainbow - plays Marauder
+like a rainbow - gains Spoils
+Rayne - gains Ruined Market
+Archer - gains Ruined Library
+like a rainbow - draws Survivors, Copper, Hunting Grounds, Silver, Ruined Market
+ 
+---------- Rayne: turn 12 ----------
+Rayne - plays Urchin
+Rayne - draws Ruined Market
+Archer - discards Estate
+like a rainbow - discards Survivors
+Rayne - plays Urchin
+Rayne - draws Ruined Market
+Rayne - plays Ruined Market
+Rayne - plays 3 Copper
+Rayne - buys Estate
+Rayne - gains Estate
+Rayne - draws Gold, Urchin, Urchin, Squire, Marauder
+ 
+---------- Archer: turn 13 ----------
+Archer - plays Marauder
+Archer - gains Spoils
+Archer - plays 2 Copper
+Archer - plays Spoils
+Archer - buys Duchy
+Archer - gains Duchy
+Archer - draws Marauder
+Archer - shuffles deck
+Archer - draws Ruined Market, Spoils, Silver, Ruined Village
+ 
+---------- like a rainbow: turn 13 ----------
+like a rainbow - plays Hunting Grounds
+like a rainbow - draws Overgrown Estate, Squire, Abandoned Mine, Dame Anna
+like a rainbow - plays 1 Copper, 1 Silver
+like a rainbow - buys Squire
+like a rainbow - gains Squire
+like a rainbow - draws Ruined Village, Squire, Copper, Spoils, Copper
+ 
+---------- Rayne: turn 13 ----------
+Rayne - plays Urchin
+Rayne - draws Copper
+Archer - discards Ruined Village
+like a rainbow - discards Ruined Village
+Rayne - plays Urchin
+Rayne - draws Copper
+Rayne - plays Squire
+Rayne - takes 2 actions
+Rayne - plays Marauder
+Rayne - gains Spoils
+Rayne - plays 2 Copper, 1 Gold
+Rayne - buys Duchy
+Rayne - gains Duchy
+Rayne - draws Abandoned Mine, Overgrown Estate, Mercenary, Estate, Silver
+ 
+---------- Archer: turn 14 ----------
+Archer - plays Marauder
+Archer - gains Spoils
+Archer - plays 1 Silver
+Archer - plays Spoils
+Archer - buys Urchin
+Archer - gains Urchin
+Archer - draws Silver, Ruined Library, Squire, Duchy, Estate
+ 
+------------ Game Over ------------
+Archer - cards: 3 Marauder, 3 Ruined Library, 2 Squire, 2 Ruined Village, 1 Abandoned Mine, 1 Rogue, 1 Ruined Market, 1 Urchin, 1 Dame Sylvia, 6 Copper, 3 Silver, 2 Spoils, 1 Counterfeit, 4 Estate, 1 Province, 1 Duchy
+Archer - total victory points: 13
+Archer - turns: 14
+ 
+Rayne - cards: 7 Urchin, 3 Ruined Market, 1 Mercenary, 1 Marauder, 1 Squire, 1 Survivors, 1 Abandoned Mine, 1 Ruined Library, 7 Copper, 2 Spoils, 1 Silver, 1 Gold, 3 Estate, 1 Overgrown Estate, 1 Duchy
+Rayne - total victory points: 6
+Rayne - turns: 13
+ 
+like a rainbow - cards: 7 Squire, 3 Ruined Village, 1 Graverobber, 1 Hunting Grounds, 1 Ruined Library, 1 Marauder, 1 Necropolis, 1 Survivors, 1 Urchin, 1 Dame Anna, 1 Ruined Market, 1 Abandoned Mine, 6 Copper, 2 Silver, 2 Spoils, 1 Overgrown Estate, 1 Hovel
+like a rainbow - total victory points: 0
+like a rainbow - turns: 13
+ 
+1st place: Archer
+2nd place: Rayne
+3rd place: like a rainbow
+ 

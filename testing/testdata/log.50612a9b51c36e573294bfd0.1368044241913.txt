@@ -1,0 +1,797 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Hamlet, Pearl Diver, Vagrant, Scrying Pool, Village, Bishop, Monument, Counterfeit, Goons, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+ftl - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Lord Bottington - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ftl - shuffles deck
+Lord Bottington - shuffles deck
+ftl - draws Copper, Copper, Copper, Copper, Overgrown Estate
+Lord Bottington - draws Copper, Necropolis, Copper, Copper, Hovel
+ 
+---------- ftl: turn 1 ----------
+ftl - plays 4 Copper
+ftl - buys Potion
+ftl - gains Potion
+ftl - draws Copper, Copper, Necropolis, Copper, Hovel
+ 
+---------- Lord Bottington: turn 1 ----------
+Lord Bottington - plays Necropolis
+Lord Bottington - plays 3 Copper
+Lord Bottington - buys Silver
+Lord Bottington - gains Silver
+Lord Bottington - draws Copper, Overgrown Estate, Copper, Copper, Copper
+ 
+---------- ftl: turn 2 ----------
+ftl - plays Necropolis
+ftl - plays 3 Copper
+ftl - buys Village
+ftl - gains Village
+ftl - shuffles deck
+ftl - draws Copper, Necropolis, Copper, Copper, Village
+ 
+---------- Lord Bottington: turn 2 ----------
+Lord Bottington - plays 4 Copper
+Lord Bottington - buys Potion
+Lord Bottington - gains Potion
+Lord Bottington - shuffles deck
+Lord Bottington - draws Silver, Copper, Copper, Necropolis, Overgrown Estate
+ 
+---------- ftl: turn 3 ----------
+ftl - plays Village
+ftl - draws Copper
+ftl - plays Necropolis
+ftl - plays 4 Copper
+ftl - buys Potion
+ftl - gains Potion
+ftl - draws Copper, Copper, Potion, Hovel, Copper
+ 
+---------- Lord Bottington: turn 3 ----------
+Lord Bottington - plays Necropolis
+Lord Bottington - plays 2 Copper, 1 Silver
+Lord Bottington - buys Bishop
+Lord Bottington - gains Bishop
+Lord Bottington - draws Copper, Copper, Potion, Copper, Copper
+ 
+---------- ftl: turn 4 ----------
+ftl - plays 3 Copper, 1 Potion
+ftl - buys Scrying Pool
+ftl - gains Scrying Pool
+ftl - draws Overgrown Estate
+ftl - shuffles deck
+ftl - draws Necropolis, Copper, Copper, Village
+ 
+---------- Lord Bottington: turn 4 ----------
+Lord Bottington - plays Potion
+Lord Bottington - plays 4 Copper
+Lord Bottington - buys Scrying Pool
+Lord Bottington - gains Scrying Pool
+Lord Bottington - draws Hovel, Copper
+Lord Bottington - shuffles deck
+Lord Bottington - draws Potion, Scrying Pool, Silver
+ 
+---------- ftl: turn 5 ----------
+ftl - plays Village
+ftl - draws Potion
+ftl - plays 2 Copper, 1 Potion
+ftl - buys Scrying Pool
+ftl - gains Scrying Pool
+ftl - draws Copper, Copper, Scrying Pool, Hovel, Copper
+ 
+---------- Lord Bottington: turn 5 ----------
+Lord Bottington - plays Scrying Pool
+Lord Bottington - discards Copper
+ftl - places Copper on top of deck
+Lord Bottington - reveals Necropolis, Copper
+Lord Bottington - plays Necropolis
+Lord Bottington - plays Potion
+Lord Bottington - plays 2 Copper, 1 Silver
+Lord Bottington - buys Scrying Pool
+Lord Bottington - gains Scrying Pool
+Lord Bottington - draws Copper, Copper, Copper, Bishop, Copper
+ 
+---------- ftl: turn 6 ----------
+ftl - plays Scrying Pool
+ftl - discards Copper
+Lord Bottington - places Overgrown Estate on top of deck
+ftl - reveals Potion
+ftl - plays 3 Copper, 1 Potion
+ftl - buys Scrying Pool
+ftl - gains Scrying Pool
+ftl - draws Copper
+ftl - shuffles deck
+ftl - draws Scrying Pool, Copper, Hovel, Potion
+ 
+---------- Lord Bottington: turn 6 ----------
+Lord Bottington - plays Bishop
+Lord Bottington - trashes Copper
+Lord Bottington - receives 0 victory point chips
+ftl - trashes Hovel
+Lord Bottington - plays 3 Copper
+Lord Bottington - buys Monument
+Lord Bottington - gains Monument
+Lord Bottington - draws Overgrown Estate
+Lord Bottington - shuffles deck
+Lord Bottington - draws Monument, Copper, Necropolis, Potion
+ 
+---------- ftl: turn 7 ----------
+ftl - plays Scrying Pool
+ftl - places Village on top of deck
+Lord Bottington - places Copper on top of deck
+ftl - reveals Village, Copper
+ftl - plays Village
+ftl - draws Copper
+ftl - plays 4 Copper, 1 Potion
+ftl - buys Scrying Pool
+ftl - gains Scrying Pool
+ftl - draws Copper, Copper, Necropolis, Scrying Pool, Overgrown Estate
+ 
+---------- Lord Bottington: turn 7 ----------
+Lord Bottington - plays Necropolis
+Lord Bottington - plays Monument
+Lord Bottington - receives 1 victory point chips
+Lord Bottington - plays Potion
+Lord Bottington - plays 1 Copper
+Lord Bottington - buys Scrying Pool
+Lord Bottington - gains Scrying Pool
+Lord Bottington - draws Copper, Scrying Pool, Silver, Scrying Pool, Hovel
+ 
+---------- ftl: turn 8 ----------
+ftl - plays Scrying Pool
+ftl - places Potion on top of deck
+Lord Bottington - discards Bishop
+ftl - reveals Potion
+ftl - plays Necropolis
+ftl - plays 2 Copper, 1 Potion
+ftl - buys Scrying Pool
+ftl - gains Scrying Pool
+ftl - draws Copper, Scrying Pool
+ftl - shuffles deck
+ftl - draws Village, Scrying Pool, Copper
+ 
+---------- Lord Bottington: turn 8 ----------
+Lord Bottington - plays Scrying Pool
+Lord Bottington - discards Copper
+ftl - places Copper on top of deck
+Lord Bottington - reveals Copper
+Lord Bottington - plays Scrying Pool
+Lord Bottington - discards Copper
+ftl - places Copper on top of deck
+Lord Bottington - reveals Copper
+Lord Bottington - plays 3 Copper, 1 Silver
+Lord Bottington - buys Monument
+Lord Bottington - gains Monument
+Lord Bottington - shuffles deck
+Lord Bottington - draws Scrying Pool, Scrying Pool, Copper, Bishop, Copper
+ 
+---------- ftl: turn 9 ----------
+ftl - plays Village
+ftl - draws Copper
+ftl - plays Scrying Pool
+ftl - places Potion on top of deck
+Lord Bottington - places Copper on top of deck
+ftl - reveals Potion
+ftl - plays Scrying Pool
+ftl - discards Overgrown Estate
+Lord Bottington - places Copper on top of deck
+ftl - reveals Necropolis, Scrying Pool, Copper
+ftl - plays Scrying Pool
+ftl - discards Potion
+Lord Bottington - discards Copper
+ftl - reveals Scrying Pool, Copper
+ftl - plays Scrying Pool
+ftl - discards Copper
+Lord Bottington - discards Monument
+ftl - reveals Scrying Pool, Copper
+ftl - plays Necropolis
+ftl - plays 6 Copper, 1 Potion
+ftl - buys Goons
+ftl - gains Goons
+ftl - shuffles deck
+ftl - draws Copper, Scrying Pool, Potion, Scrying Pool, Necropolis
+ 
+---------- Lord Bottington: turn 9 ----------
+Lord Bottington - plays Scrying Pool
+Lord Bottington - discards Overgrown Estate
+ftl - places Copper on top of deck
+Lord Bottington - reveals Necropolis, Copper
+Lord Bottington - plays Scrying Pool
+Lord Bottington - places Monument on top of deck
+ftl - places Copper on top of deck
+Lord Bottington - reveals Monument, Potion
+Lord Bottington - plays Necropolis
+Lord Bottington - plays Monument
+Lord Bottington - receives 1 victory point chips
+Lord Bottington - plays Bishop
+Lord Bottington - trashes Copper
+Lord Bottington - receives 0 victory point chips
+ftl - trashes Copper
+Lord Bottington - plays Potion
+Lord Bottington - plays 2 Copper
+Lord Bottington - buys Scrying Pool
+Lord Bottington - gains Scrying Pool
+Lord Bottington - draws Silver, Hovel, Copper, Copper, Scrying Pool
+ 
+---------- ftl: turn 10 ----------
+ftl - plays Scrying Pool
+ftl - discards Copper
+Lord Bottington - shuffles deck
+Lord Bottington - discards Scrying Pool
+ftl - reveals Scrying Pool, Goons, Copper
+ftl - plays Scrying Pool
+ftl - places Scrying Pool on top of deck
+Lord Bottington - discards Copper
+ftl - reveals Scrying Pool, Scrying Pool, Copper
+ftl - plays Scrying Pool
+ftl - places Potion on top of deck
+Lord Bottington - places Overgrown Estate on top of deck
+ftl - reveals Potion
+ftl - plays Scrying Pool
+ftl - discards Copper
+Lord Bottington - places Overgrown Estate on top of deck
+ftl - reveals Copper
+ftl - plays Scrying Pool
+ftl - discards Copper
+Lord Bottington - places Overgrown Estate on top of deck
+ftl - reveals Overgrown Estate
+ftl - plays Necropolis
+ftl - plays Goons
+Lord Bottington - discards Hovel
+Lord Bottington - discards Copper
+ftl - plays 3 Copper, 2 Potion
+ftl - buys Scrying Pool
+ftl - receives 1 victory point chips
+ftl - gains Scrying Pool
+ftl - buys Village
+ftl - receives 1 victory point chips
+ftl - gains Village
+ftl - draws Village
+ftl - shuffles deck
+ftl - draws Copper, Copper, Necropolis, Copper
+ 
+---------- Lord Bottington: turn 10 ----------
+Lord Bottington - plays Scrying Pool
+Lord Bottington - discards Overgrown Estate
+ftl - places Copper on top of deck
+Lord Bottington - reveals Scrying Pool, Monument, Copper
+Lord Bottington - plays Scrying Pool
+Lord Bottington - discards Copper
+ftl - places Copper on top of deck
+Lord Bottington - reveals Necropolis, Monument, Potion
+Lord Bottington - plays Necropolis
+Lord Bottington - plays Monument
+Lord Bottington - receives 1 victory point chips
+Lord Bottington - plays Monument
+Lord Bottington - receives 1 victory point chips
+Lord Bottington - plays Potion
+Lord Bottington - plays 2 Copper, 1 Silver
+Lord Bottington - buys Province
+Lord Bottington - gains Province
+Lord Bottington - draws Bishop, Scrying Pool
+Lord Bottington - shuffles deck
+Lord Bottington - draws Scrying Pool, Scrying Pool, Copper
+ 
+---------- ftl: turn 11 ----------
+ftl - plays Village
+ftl - draws Copper
+ftl - plays Necropolis
+ftl - plays 4 Copper
+ftl - buys Bishop
+ftl - gains Bishop
+ftl - draws Scrying Pool, Scrying Pool, Goons, Scrying Pool, Potion
+ 
+---------- Lord Bottington: turn 11 ----------
+Lord Bottington - plays Scrying Pool
+Lord Bottington - places Monument on top of deck
+ftl - places Copper on top of deck
+Lord Bottington - reveals Monument, Potion
+Lord Bottington - plays Scrying Pool
+Lord Bottington - discards Copper
+ftl - places Copper on top of deck
+Lord Bottington - reveals Copper
+Lord Bottington - plays Scrying Pool
+Lord Bottington - discards Overgrown Estate
+ftl - places Copper on top of deck
+Lord Bottington - reveals Silver
+Lord Bottington - plays Monument
+Lord Bottington - receives 1 victory point chips
+Lord Bottington - plays Potion
+Lord Bottington - plays 2 Copper, 1 Silver
+Lord Bottington - buys Gold
+Lord Bottington - gains Gold
+Lord Bottington - draws Scrying Pool, Province, Copper, Hovel, Copper
+ 
+---------- ftl: turn 12 ----------
+ftl - plays Scrying Pool
+ftl - discards Copper
+Lord Bottington - discards Monument
+ftl - reveals Potion
+ftl - plays Scrying Pool
+ftl - discards Overgrown Estate
+Lord Bottington - discards Necropolis
+ftl - reveals Scrying Pool, Scrying Pool, Village, Scrying Pool, Copper
+ftl - plays Scrying Pool
+ftl - shuffles deck
+ftl - discards Copper
+Lord Bottington - shuffles deck
+Lord Bottington - places Copper on top of deck
+ftl - reveals Overgrown Estate
+ftl - plays Village
+ftl - draws Copper
+ftl - plays Scrying Pool
+ftl - places Bishop on top of deck
+Lord Bottington - discards Copper
+ftl - reveals Bishop, Copper
+ftl - plays Bishop
+ftl - trashes Overgrown Estate
+ftl - draws Copper
+ftl - receives 0 victory point chips
+Lord Bottington - trashes Hovel
+ftl - plays Scrying Pool
+ftl - discards Copper
+Lord Bottington - places Overgrown Estate on top of deck
+ftl - shuffles deck
+ftl - reveals Village, Necropolis, Copper
+ftl - plays Village
+ftl - draws Copper
+ftl - plays Goons
+Lord Bottington - discards Province
+ftl - plays 6 Copper, 2 Potion
+ftl - buys Goons
+ftl - receives 1 victory point chips
+ftl - gains Goons
+ftl - buys Village
+ftl - receives 1 victory point chips
+ftl - gains Village
+ftl - shuffles deck
+ftl - draws Copper, Village, Copper, Bishop, Scrying Pool
+ 
+---------- Lord Bottington: turn 12 ----------
+Lord Bottington - plays Scrying Pool
+Lord Bottington - discards Overgrown Estate
+ftl - places Copper on top of deck
+Lord Bottington - reveals Copper
+Lord Bottington - plays 3 Copper
+Lord Bottington - buys Village
+Lord Bottington - gains Village
+Lord Bottington - draws Potion, Gold, Monument, Copper, Necropolis
+ 
+---------- ftl: turn 13 ----------
+ftl - plays Village
+ftl - draws Copper
+ftl - plays Scrying Pool
+ftl - discards Copper
+Lord Bottington - discards Monument
+ftl - reveals Scrying Pool, Goons, Scrying Pool, Copper
+ftl - plays Scrying Pool
+ftl - places Scrying Pool on top of deck
+Lord Bottington - discards Scrying Pool
+ftl - reveals Scrying Pool, Village, Scrying Pool, Copper
+ftl - plays Scrying Pool
+ftl - discards Potion
+Lord Bottington - discards Scrying Pool
+ftl - reveals Necropolis, Potion
+ftl - plays Scrying Pool
+ftl - places Village on top of deck
+Lord Bottington - discards Bishop
+ftl - shuffles deck
+ftl - reveals Village, Scrying Pool, Goons, Potion
+ftl - plays Village
+ftl - draws Copper
+ftl - plays Village
+ftl - plays Necropolis
+ftl - plays Bishop
+ftl - trashes Potion
+ftl - receives 2 victory point chips
+Lord Bottington - trashes Potion
+ftl - plays Goons
+Lord Bottington - discards Copper
+ftl - plays Goons
+ftl - plays 6 Copper, 1 Potion
+ftl - buys Goons
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - gains Goons
+ftl - buys Counterfeit
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - gains Counterfeit
+ftl - shuffles deck
+ftl - draws Potion, Bishop, Copper, Village, Goons
+ 
+---------- Lord Bottington: turn 13 ----------
+Lord Bottington - plays Necropolis
+Lord Bottington - plays Monument
+Lord Bottington - receives 1 victory point chips
+Lord Bottington - plays 1 Gold
+Lord Bottington - buys Bishop
+Lord Bottington - gains Bishop
+Lord Bottington - draws Silver, Scrying Pool
+Lord Bottington - shuffles deck
+Lord Bottington - draws Scrying Pool, Village, Copper
+ 
+---------- ftl: turn 14 ----------
+ftl - plays Village
+ftl - draws Scrying Pool
+ftl - plays Scrying Pool
+ftl - places Scrying Pool on top of deck
+Lord Bottington - places Overgrown Estate on top of deck
+ftl - reveals Scrying Pool, Scrying Pool, Copper
+ftl - plays Scrying Pool
+ftl - discards Copper
+Lord Bottington - places Overgrown Estate on top of deck
+ftl - reveals Goons, Scrying Pool, Village, Copper
+ftl - plays Scrying Pool
+ftl - discards Copper
+Lord Bottington - places Overgrown Estate on top of deck
+ftl - reveals Scrying Pool, Copper
+ftl - plays Scrying Pool
+ftl - discards Counterfeit
+Lord Bottington - places Overgrown Estate on top of deck
+ftl - shuffles deck
+ftl - reveals Village, Scrying Pool, Necropolis, Goons, Copper
+ftl - plays Village
+ftl - draws Copper
+ftl - plays Village
+ftl - draws Counterfeit
+ftl - plays Necropolis
+ftl - plays Goons
+Lord Bottington - discards Copper
+Lord Bottington - discards Silver
+ftl - plays Goons
+ftl - plays Goons
+ftl - plays Bishop
+ftl - trashes Potion
+ftl - receives 2 victory point chips
+ftl - plays Counterfeit
+ftl - plays Copper
+ftl - plays Copper
+ftl - trashes Copper
+ftl - plays 5 Copper
+ftl - buys Goons
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - gains Goons
+ftl - buys Village
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - gains Village
+ftl - buys Village
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - gains Village
+ftl - buys Village
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - gains Village
+ftl - shuffles deck
+ftl - draws Village, Goons, Village, Scrying Pool, Copper
+ 
+---------- Lord Bottington: turn 14 ----------
+Lord Bottington - plays Village
+Lord Bottington - draws Overgrown Estate
+Lord Bottington - plays Scrying Pool
+Lord Bottington - places Gold on top of deck
+ftl - discards Goons
+Lord Bottington - reveals Gold
+Lord Bottington - plays Scrying Pool
+Lord Bottington - places Scrying Pool on top of deck
+ftl - discards Village
+Lord Bottington - reveals Scrying Pool, Bishop, Necropolis, Monument, Province
+Lord Bottington - plays Scrying Pool
+Lord Bottington - discards Copper
+ftl - places Copper on top of deck
+Lord Bottington - reveals Copper
+Lord Bottington - plays Necropolis
+Lord Bottington - plays Monument
+Lord Bottington - receives 1 victory point chips
+Lord Bottington - plays Bishop
+Lord Bottington - trashes Overgrown Estate
+Lord Bottington - draws Bishop
+Lord Bottington - receives 0 victory point chips
+ftl - trashes Copper
+Lord Bottington - plays Bishop
+Lord Bottington - trashes Copper
+Lord Bottington - receives 0 victory point chips
+Lord Bottington - plays 1 Gold
+Lord Bottington - buys Gold
+Lord Bottington - gains Gold
+Lord Bottington - draws Copper, Monument, Scrying Pool, Copper
+Lord Bottington - shuffles deck
+Lord Bottington - draws Silver
+ 
+---------- ftl: turn 15 ----------
+ftl - plays Village
+ftl - draws Copper
+ftl - plays Village
+ftl - draws Scrying Pool
+ftl - plays Scrying Pool
+ftl - discards Counterfeit
+Lord Bottington - discards Bishop
+ftl - reveals Village, Village, Village, Copper
+ftl - plays Scrying Pool
+ftl - places Bishop on top of deck
+Lord Bottington - discards Scrying Pool
+ftl - reveals Bishop, Copper
+ftl - plays Village
+ftl - draws Necropolis
+ftl - plays Goons
+Lord Bottington - discards Copper
+Lord Bottington - discards Copper
+ftl - plays Village
+ftl - draws Scrying Pool
+ftl - plays Bishop
+ftl - trashes Copper
+ftl - receives 0 victory point chips
+ftl - plays Village
+ftl - draws Scrying Pool
+ftl - plays Scrying Pool
+ftl - places Goons on top of deck
+Lord Bottington - discards Gold
+ftl - reveals Goons, Goons, Scrying Pool, Copper
+ftl - plays Scrying Pool
+ftl - places Scrying Pool on top of deck
+Lord Bottington - places Province on top of deck
+ftl - shuffles deck
+ftl - reveals Scrying Pool, Village, Goons, Counterfeit
+ftl - plays Necropolis
+ftl - plays Village
+ftl - plays Goons
+ftl - plays Goons
+ftl - plays Goons
+ftl - plays Counterfeit
+ftl - plays Copper
+ftl - plays Copper
+ftl - trashes Copper
+ftl - plays 2 Copper
+ftl - buys Goons
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - gains Goons
+ftl - buys Monument
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - gains Monument
+ftl - buys Monument
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - gains Monument
+ftl - shuffles deck
+ftl - draws Bishop, Goons, Scrying Pool, Scrying Pool, Village
+ 
+---------- Lord Bottington: turn 15 ----------
+Lord Bottington - plays Scrying Pool
+Lord Bottington - discards Province
+ftl - discards Goons
+Lord Bottington - reveals Copper
+Lord Bottington - plays Monument
+Lord Bottington - receives 1 victory point chips
+Lord Bottington - plays 1 Silver, 1 Copper
+Lord Bottington - buys Duchy
+Lord Bottington - gains Duchy
+Lord Bottington - draws Monument, Gold, Scrying Pool, Bishop, Copper
+ 
+---------- ftl: turn 16 ----------
+ftl - plays Scrying Pool
+ftl - places Goons on top of deck
+Lord Bottington - discards Scrying Pool
+ftl - reveals Goons, Scrying Pool, Village, Scrying Pool, Scrying Pool, Counterfeit
+ftl - plays Scrying Pool
+ftl - discards Copper
+Lord Bottington - discards Necropolis
+ftl - reveals Goons, Village, Village, Village, Monument, Goons, Monument, Scrying Pool, Necropolis, Copper
+ftl - plays Scrying Pool
+ftl - places Village on top of deck
+Lord Bottington - discards Village
+ftl - shuffles deck
+ftl - reveals Village, Copper
+ftl - plays Scrying Pool
+ftl - places Goons on top of deck
+Lord Bottington - shuffles deck
+Lord Bottington - discards Monument
+ftl - reveals Goons
+ftl - plays Scrying Pool
+Lord Bottington - discards Scrying Pool
+ftl - plays Scrying Pool
+Lord Bottington - discards Bishop
+ftl - plays Village
+ftl - plays Village
+ftl - plays Village
+ftl - plays Village
+ftl - plays Village
+ftl - plays Village
+ftl - plays Monument
+ftl - receives 1 victory point chips
+ftl - plays Monument
+ftl - receives 1 victory point chips
+ftl - plays Necropolis
+ftl - plays Goons
+Lord Bottington - discards Monument
+Lord Bottington - discards Copper
+ftl - plays Goons
+ftl - plays Goons
+ftl - plays Goons
+ftl - plays Goons
+ftl - plays Bishop
+ftl - trashes Copper
+ftl - receives 0 victory point chips
+ftl - plays Counterfeit
+ftl - plays Copper
+ftl - plays Copper
+ftl - trashes Copper
+ftl - buys Goons
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - gains Goons
+ftl - buys Goons
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - gains Goons
+ftl - buys Village
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - gains Village
+ftl - buys Village
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - gains Village
+ftl - shuffles deck
+ftl - draws Scrying Pool, Goons, Village, Scrying Pool, Village
+ 
+---------- Lord Bottington: turn 16 ----------
+Lord Bottington - plays Scrying Pool
+Lord Bottington - places Silver on top of deck
+ftl - discards Village
+Lord Bottington - reveals Silver
+Lord Bottington - plays Bishop
+Lord Bottington - trashes Gold
+Lord Bottington - receives 3 victory point chips
+Lord Bottington - plays 1 Silver
+Lord Bottington - buys Village
+Lord Bottington - gains Village
+Lord Bottington - draws Village, Gold, Scrying Pool, Copper, Province
+ 
+---------- ftl: turn 17 ----------
+ftl - plays Scrying Pool
+ftl - places Village on top of deck
+Lord Bottington - places Duchy on top of deck
+ftl - reveals Village, Goons, Scrying Pool, Goons, Village, Necropolis, Bishop, Village, Goons, Counterfeit
+ftl - plays Scrying Pool
+ftl - places Scrying Pool on top of deck
+Lord Bottington - places Duchy on top of deck
+ftl - shuffles deck
+ftl - reveals Scrying Pool, Goons, Village, Scrying Pool, Goons, Goons, Village, Monument, Scrying Pool, Monument, Village
+ftl - plays Necropolis
+ftl - plays Village
+ftl - plays Village
+ftl - plays Village
+ftl - plays Village
+ftl - plays Village
+ftl - plays Village
+ftl - plays Village
+ftl - plays Village
+ftl - plays Bishop
+ftl - trashes Counterfeit
+ftl - receives 2 victory point chips
+Lord Bottington - trashes Copper
+ftl - plays Goons
+Lord Bottington - discards Province
+ftl - plays Goons
+ftl - plays Goons
+ftl - plays Goons
+ftl - plays Goons
+ftl - plays Goons
+ftl - plays Goons
+ftl - plays Monument
+ftl - receives 1 victory point chips
+ftl - plays Monument
+ftl - receives 1 victory point chips
+ftl - buys Goons
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - gains Goons
+ftl - buys Goons
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - gains Goons
+ftl - buys Goons
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - gains Goons
+ftl - buys Copper
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - gains Copper
+ftl - buys Copper
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - gains Copper
+ftl - buys Copper
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - gains Copper
+ftl - buys Copper
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - gains Copper
+ftl - buys Copper
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - receives 1 victory point chips
+ftl - gains Copper
+ftl - shuffles deck
+ftl - draws Village, Goons, Copper, Village, Copper
+ 
+------------ Game Over ------------
+ftl - cards: 10 Goons, 8 Village, 6 Scrying Pool, 2 Monument, 1 Bishop, 1 Necropolis, 5 Copper
+ftl - victory point chips: 124
+ftl - total victory points: 124
+ftl - turns: 17
+ 
+Lord Bottington - cards: 4 Scrying Pool, 2 Village, 2 Monument, 2 Bishop, 1 Necropolis, 3 Copper, 1 Gold, 1 Silver, 1 Province, 1 Duchy
+Lord Bottington - victory point chips: 16
+Lord Bottington - total victory points: 25
+Lord Bottington - turns: 16
+ 
+1st place: ftl
+2nd place: Lord Bottington
+ 

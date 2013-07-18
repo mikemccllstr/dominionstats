@@ -1,0 +1,539 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Forager, Lookout, Navigator, Procession, Festival, Mine, Stables, Nobles, Possession, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Hazardous_Lazarus - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Flina - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Hazardous_Lazarus - shuffles deck
+Flina - shuffles deck
+Hazardous_Lazarus - draws Copper, Copper, Estate, Copper, Copper
+Flina - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Hazardous_Lazarus: turn 1 ----------
+Hazardous_Lazarus - plays 4 Copper
+Hazardous_Lazarus - buys Navigator
+Hazardous_Lazarus - gains Navigator
+Hazardous_Lazarus - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Flina: turn 1 ----------
+Flina - plays 5 Copper
+Flina - buys Stables
+Flina - gains Stables
+Flina - draws Estate, Estate, Copper, Estate, Copper
+ 
+---------- Hazardous_Lazarus: turn 2 ----------
+Hazardous_Lazarus - plays 3 Copper
+Hazardous_Lazarus - buys Silver
+Hazardous_Lazarus - gains Silver
+Hazardous_Lazarus - shuffles deck
+Hazardous_Lazarus - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- Flina: turn 2 ----------
+Flina - shuffles deck
+Flina - draws Estate, Copper, Stables, Copper, Copper
+ 
+---------- Hazardous_Lazarus: turn 3 ----------
+Hazardous_Lazarus - plays 3 Copper, 1 Silver
+Hazardous_Lazarus - buys Festival
+Hazardous_Lazarus - gains Festival
+Hazardous_Lazarus - draws Copper, Estate, Estate, Navigator, Copper
+ 
+---------- Flina: turn 3 ----------
+Flina - plays Stables
+Flina - discards Copper
+Flina - draws Copper, Estate, Estate
+Flina - plays 3 Copper
+Flina - buys Forager
+Flina - gains Forager
+Flina - draws Copper, Copper, Copper
+Flina - shuffles deck
+Flina - draws Copper, Estate
+ 
+---------- Hazardous_Lazarus: turn 4 ----------
+Hazardous_Lazarus - plays Navigator
+Hazardous_Lazarus - looks at Copper, Copper
+Hazardous_Lazarus - shuffles deck
+Hazardous_Lazarus - looks at Festival, Copper, Copper
+Hazardous_Lazarus - places Festival on top of deck
+Hazardous_Lazarus - places Copper on top of deck
+Hazardous_Lazarus - places Copper on top of deck
+Hazardous_Lazarus - places Copper on top of deck
+Hazardous_Lazarus - places Copper on top of deck
+Hazardous_Lazarus - plays 2 Copper
+Hazardous_Lazarus - buys Procession
+Hazardous_Lazarus - gains Procession
+Hazardous_Lazarus - draws Copper, Copper, Copper, Copper, Festival
+ 
+---------- Flina: turn 4 ----------
+Flina - plays 4 Copper
+Flina - buys Silver
+Flina - gains Silver
+Flina - draws Estate, Copper, Forager, Copper, Copper
+ 
+---------- Hazardous_Lazarus: turn 5 ----------
+Hazardous_Lazarus - plays Festival
+Hazardous_Lazarus - plays 4 Copper
+Hazardous_Lazarus - buys Nobles
+Hazardous_Lazarus - gains Nobles
+Hazardous_Lazarus - draws Estate, Copper, Silver
+Hazardous_Lazarus - shuffles deck
+Hazardous_Lazarus - draws Festival, Estate
+ 
+---------- Flina: turn 5 ----------
+Flina - plays Forager
+Flina - trashes Estate
+Flina - plays 3 Copper
+Flina - buys Forager
+Flina - gains Forager
+Flina - draws Stables, Estate
+Flina - shuffles deck
+Flina - draws Copper, Copper, Forager
+ 
+---------- Hazardous_Lazarus: turn 6 ----------
+Hazardous_Lazarus - plays Festival
+Hazardous_Lazarus - plays 1 Copper, 1 Silver
+Hazardous_Lazarus - buys Potion
+Hazardous_Lazarus - gains Potion
+Hazardous_Lazarus - draws Copper, Navigator, Copper, Procession, Nobles
+ 
+---------- Flina: turn 6 ----------
+Flina - plays Stables
+Flina - discards Copper
+Flina - draws Copper, Forager, Copper
+Flina - plays Forager
+Flina - trashes Estate
+Flina - plays Forager
+Flina - trashes Copper
+Flina - plays 2 Copper
+Flina - buys Silver
+Flina - gains Silver
+Flina - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- Hazardous_Lazarus: turn 7 ----------
+Hazardous_Lazarus - plays Procession
+Hazardous_Lazarus - plays Navigator
+Hazardous_Lazarus - looks at Estate, Copper, Copper, Copper, Copper
+Hazardous_Lazarus - discards: Estate, Copper, Copper, Copper, Copper
+Hazardous_Lazarus - plays Navigator
+Hazardous_Lazarus - shuffles deck
+Hazardous_Lazarus - looks at Estate, Festival, Copper, Copper, Copper
+Hazardous_Lazarus - places Festival on top of deck
+Hazardous_Lazarus - places Copper on top of deck
+Hazardous_Lazarus - places Copper on top of deck
+Hazardous_Lazarus - places Copper on top of deck
+Hazardous_Lazarus - places Estate on top of deck
+Hazardous_Lazarus - trashes Navigator
+Hazardous_Lazarus - gains Mine
+Hazardous_Lazarus - plays 2 Copper
+Hazardous_Lazarus - buys Gold
+Hazardous_Lazarus - gains Gold
+Hazardous_Lazarus - draws Estate, Copper, Copper, Copper, Festival
+ 
+---------- Flina: turn 7 ----------
+Flina - plays 3 Copper, 1 Silver
+Flina - buys Festival
+Flina - gains Festival
+Flina - shuffles deck
+Flina - draws Festival, Copper, Copper, Silver, Silver
+ 
+---------- Hazardous_Lazarus: turn 8 ----------
+Hazardous_Lazarus - plays Festival
+Hazardous_Lazarus - plays 3 Copper
+Hazardous_Lazarus - buys Potion
+Hazardous_Lazarus - gains Potion
+Hazardous_Lazarus - draws Potion, Copper, Copper, Silver, Estate
+ 
+---------- Flina: turn 8 ----------
+Flina - plays Festival
+Flina - plays 2 Copper, 2 Silver
+Flina - buys Nobles
+Flina - gains Nobles
+Flina - draws Copper, Forager, Copper, Copper, Copper
+ 
+---------- Hazardous_Lazarus: turn 9 ----------
+Hazardous_Lazarus - plays 2 Copper, 1 Potion, 1 Silver
+Hazardous_Lazarus - buys Navigator
+Hazardous_Lazarus - gains Navigator
+Hazardous_Lazarus - draws Estate
+Hazardous_Lazarus - shuffles deck
+Hazardous_Lazarus - draws Copper, Silver, Gold, Copper
+ 
+---------- Flina: turn 9 ----------
+Flina - plays Forager
+Flina - trashes Copper
+Flina - plays 3 Copper
+Flina - buys Potion
+Flina - gains Potion
+Flina - draws Stables, Estate, Forager
+Flina - shuffles deck
+Flina - draws Forager, Copper
+ 
+---------- Hazardous_Lazarus: turn 10 ----------
+Hazardous_Lazarus - plays 2 Copper, 1 Silver, 1 Gold
+Hazardous_Lazarus - buys Gold
+Hazardous_Lazarus - gains Gold
+Hazardous_Lazarus - draws Copper, Copper, Copper, Copper, Potion
+ 
+---------- Flina: turn 10 ----------
+Flina - plays Stables
+Flina - discards Copper
+Flina - draws Potion, Silver, Festival
+Flina - plays Festival
+Flina - plays Forager
+Flina - trashes Estate
+Flina - plays Forager
+Flina - trashes Silver
+Flina - plays 1 Potion
+Flina - buys Festival
+Flina - gains Festival
+Flina - draws Copper, Copper, Silver, Copper, Nobles
+ 
+---------- Hazardous_Lazarus: turn 11 ----------
+Hazardous_Lazarus - plays 4 Copper, 1 Potion
+Hazardous_Lazarus - buys Navigator
+Hazardous_Lazarus - gains Navigator
+Hazardous_Lazarus - draws Navigator, Mine, Procession, Estate, Potion
+ 
+---------- Flina: turn 11 ----------
+Flina - plays Nobles
+Flina - draws Copper
+Flina - shuffles deck
+Flina - draws Stables, Festival
+Flina - plays 4 Copper, 1 Silver
+Flina - buys Nobles
+Flina - gains Nobles
+Flina - draws Copper, Forager, Potion, Festival, Forager
+ 
+---------- Hazardous_Lazarus: turn 12 ----------
+Hazardous_Lazarus - plays Procession
+Hazardous_Lazarus - plays Navigator
+Hazardous_Lazarus - looks at Copper, Estate, Nobles, Festival
+Hazardous_Lazarus - shuffles deck
+Hazardous_Lazarus - looks at Gold
+Hazardous_Lazarus - places Nobles on top of deck
+Hazardous_Lazarus - places Festival on top of deck
+Hazardous_Lazarus - places Copper on top of deck
+Hazardous_Lazarus - places Estate on top of deck
+Hazardous_Lazarus - places Gold on top of deck
+Hazardous_Lazarus - plays Navigator
+Hazardous_Lazarus - looks at Gold, Estate, Copper, Festival, Nobles
+Hazardous_Lazarus - places Gold on top of deck
+Hazardous_Lazarus - places Estate on top of deck
+Hazardous_Lazarus - places Copper on top of deck
+Hazardous_Lazarus - places Festival on top of deck
+Hazardous_Lazarus - places Nobles on top of deck
+Hazardous_Lazarus - trashes Navigator
+Hazardous_Lazarus - gains Festival
+Hazardous_Lazarus - buys Navigator
+Hazardous_Lazarus - gains Navigator
+Hazardous_Lazarus - draws Nobles, Festival, Copper, Estate, Gold
+ 
+---------- Flina: turn 12 ----------
+Flina - plays Festival
+Flina - plays Forager
+Flina - trashes Copper
+Flina - plays 1 Potion
+Flina - buys Procession
+Flina - gains Procession
+Flina - shuffles deck
+Flina - draws Copper, Copper, Forager, Stables, Procession
+ 
+---------- Hazardous_Lazarus: turn 13 ----------
+Hazardous_Lazarus - plays Festival
+Hazardous_Lazarus - plays Nobles
+Hazardous_Lazarus - draws Potion, Copper, Copper
+Hazardous_Lazarus - plays 3 Copper, 1 Gold, 1 Potion
+Hazardous_Lazarus - buys Possession
+Hazardous_Lazarus - gains Possession
+Hazardous_Lazarus - draws Copper, Copper, Silver, Gold, Navigator
+ 
+---------- Flina: turn 13 ----------
+Flina - plays Procession
+Flina - plays Stables
+Flina - discards Copper
+Flina - draws Silver, Festival, Forager
+Flina - plays Stables
+Flina - discards Copper
+Flina - draws Copper, Nobles, Nobles
+Flina - trashes Stables
+Flina - gains Nobles
+Flina - plays Festival
+Flina - plays Nobles
+Flina - draws Festival, Copper, Potion
+Flina - plays Festival
+Flina - plays Nobles
+Flina - shuffles deck
+Flina - draws Copper, Copper, Nobles
+Flina - plays Forager
+Flina - trashes Copper
+Flina - plays Forager
+Flina - trashes Copper
+Flina - plays Nobles
+Flina - plays 2 Copper, 1 Silver, 1 Potion
+Flina - buys Possession
+Flina - gains Possession
+Flina - buys Gold
+Flina - gains Gold
+Flina - shuffles deck
+Flina - draws Copper, Forager, Nobles, Festival, Nobles
+ 
+---------- Hazardous_Lazarus: turn 14 ----------
+Hazardous_Lazarus - plays Navigator
+Hazardous_Lazarus - looks at Copper, Copper, Estate
+Hazardous_Lazarus - shuffles deck
+Hazardous_Lazarus - looks at Procession, Potion
+Hazardous_Lazarus - discards: Copper, Copper, Estate, Procession, Potion
+Hazardous_Lazarus - plays 2 Copper, 1 Silver, 1 Gold
+Hazardous_Lazarus - buys Province
+Hazardous_Lazarus - gains Province
+Hazardous_Lazarus - draws Navigator, Estate, Festival, Nobles, Possession
+ 
+---------- Flina: turn 14 ----------
+Flina - plays Festival
+Flina - plays Nobles
+Flina - draws Copper, Nobles, Gold
+Flina - plays Nobles
+Flina - takes 2 actions
+Flina - plays Nobles
+Flina - draws Potion, Festival, Silver
+Flina - plays Festival
+Flina - plays Forager
+Flina - trashes Copper
+Flina - plays 1 Copper, 1 Gold, 1 Potion, 1 Silver
+Flina - buys Province
+Flina - gains Province
+Flina - buys Procession
+Flina - gains Procession
+Flina - draws Forager, Procession, Possession
+Flina - shuffles deck
+Flina - draws Silver, Potion
+ 
+---------- Hazardous_Lazarus: turn 15 ----------
+Hazardous_Lazarus - plays Festival
+Hazardous_Lazarus - plays Nobles
+Hazardous_Lazarus - draws Gold, Copper, Potion
+Hazardous_Lazarus - plays Possession
+Hazardous_Lazarus - plays 1 Gold, 1 Copper, 1 Potion
+Hazardous_Lazarus - buys Gold
+Hazardous_Lazarus - gains Gold
+Hazardous_Lazarus - draws Copper, Estate, Copper, Festival, Mine
+ 
+---------- Flina: turn 15 [possessed] ----------
+Flina - plays Procession
+Flina - plays Forager
+Flina - trashes Possession
+Flina - plays Forager
+Flina - trashes Potion
+Flina - trashes Forager
+Hazardous_Lazarus - gains Navigator
+Flina - plays 1 Silver
+Flina - buys Gold
+Hazardous_Lazarus - gains Gold
+Flina - draws Festival, Gold, Nobles, Province, Forager
+ 
+---------- Flina: turn 15 ----------
+Flina - plays Festival
+Flina - plays Nobles
+Flina - draws Nobles, Procession, Copper
+Flina - plays Forager
+Flina - trashes Copper
+Flina - plays Nobles
+Flina - draws Festival, Nobles
+Flina - shuffles deck
+Flina - draws Forager
+Flina - plays 1 Gold
+Flina - buys Gold
+Flina - gains Gold
+Flina - draws Silver, Procession, Possession, Potion
+Flina - shuffles deck
+Flina - draws Nobles
+ 
+---------- Hazardous_Lazarus: turn 16 ----------
+Hazardous_Lazarus - plays Festival
+Hazardous_Lazarus - plays Mine
+Hazardous_Lazarus - trashes Copper
+Hazardous_Lazarus - gains Silver
+Hazardous_Lazarus - plays 1 Copper, 1 Silver
+Hazardous_Lazarus - buys Festival
+Hazardous_Lazarus - gains Festival
+Hazardous_Lazarus - shuffles deck
+Hazardous_Lazarus - draws Gold, Navigator, Procession, Copper, Possession
+ 
+---------- Flina: turn 16 ----------
+Flina - plays Possession
+Flina - plays 1 Silver, 1 Potion
+Flina - buys Vineyard
+Flina - gains Vineyard
+Flina - draws Forager, Festival, Forager, Nobles, Gold
+ 
+---------- Hazardous_Lazarus: turn 17 [possessed] ----------
+Hazardous_Lazarus - plays Procession
+Hazardous_Lazarus - plays Navigator
+Hazardous_Lazarus - looks at Estate, Potion, Potion, Festival, Copper
+Hazardous_Lazarus - discards: Estate, Potion, Potion, Festival, Copper
+Hazardous_Lazarus - plays Navigator
+Hazardous_Lazarus - looks at Festival, Estate, Gold, Gold, Festival
+Hazardous_Lazarus - discards: Festival, Estate, Gold, Gold, Festival
+Hazardous_Lazarus - trashes Navigator
+Flina - gains Festival
+Hazardous_Lazarus - plays 1 Gold, 1 Copper
+Hazardous_Lazarus - buys Province
+Flina - gains Province
+Hazardous_Lazarus - draws Mine, Province, Copper, Copper, Copper
+ 
+---------- Hazardous_Lazarus: turn 17 ----------
+Hazardous_Lazarus - plays Mine
+Hazardous_Lazarus - trashes Copper
+Hazardous_Lazarus - gains Silver
+Hazardous_Lazarus - plays 2 Copper, 1 Silver
+Hazardous_Lazarus - buys Procession
+Hazardous_Lazarus - gains Procession
+Hazardous_Lazarus - draws Navigator, Estate, Silver, Silver, Navigator
+ 
+---------- Flina: turn 17 ----------
+Flina - plays Festival
+Flina - plays Nobles
+Flina - draws Procession, Festival, Province
+Flina - plays Festival
+Flina - plays 1 Gold
+Flina - buys Nobles
+Flina - gains Nobles
+Flina - draws Nobles, Gold
+Flina - shuffles deck
+Flina - draws Festival, Province, Procession
+ 
+---------- Hazardous_Lazarus: turn 18 ----------
+Hazardous_Lazarus - plays Navigator
+Hazardous_Lazarus - looks at Nobles, Gold, Copper
+Hazardous_Lazarus - shuffles deck
+Hazardous_Lazarus - looks at Festival, Gold
+Hazardous_Lazarus - places Nobles on top of deck
+Hazardous_Lazarus - places Gold on top of deck
+Hazardous_Lazarus - places Copper on top of deck
+Hazardous_Lazarus - places Festival on top of deck
+Hazardous_Lazarus - places Gold on top of deck
+Hazardous_Lazarus - plays 2 Silver
+Hazardous_Lazarus - buys Nobles
+Hazardous_Lazarus - gains Nobles
+Hazardous_Lazarus - draws Gold, Festival, Copper, Gold, Nobles
+ 
+---------- Flina: turn 18 ----------
+Flina - plays Festival
+Flina - plays Nobles
+Flina - draws Vineyard, Festival, Silver
+Flina - plays Festival
+Flina - plays Procession
+Flina - plays 1 Gold, 1 Silver
+Flina - buys Province
+Flina - gains Province
+Flina - draws Forager, Province, Nobles, Possession, Festival
+ 
+---------- Hazardous_Lazarus: turn 19 ----------
+Hazardous_Lazarus - plays Festival
+Hazardous_Lazarus - plays Nobles
+Hazardous_Lazarus - draws Possession, Festival, Copper
+Hazardous_Lazarus - plays Festival
+Hazardous_Lazarus - plays Possession
+Hazardous_Lazarus - plays 2 Gold, 2 Copper
+Hazardous_Lazarus - buys Province
+Hazardous_Lazarus - gains Province
+Hazardous_Lazarus - buys Estate
+Hazardous_Lazarus - gains Estate
+Hazardous_Lazarus - buys Estate
+Hazardous_Lazarus - gains Estate
+Hazardous_Lazarus - draws Copper, Copper, Estate, Gold, Procession
+ 
+---------- Flina: turn 19 [possessed] ----------
+Flina - plays Festival
+Flina - plays Nobles
+Flina - draws Nobles, Forager, Nobles
+Flina - plays Nobles
+Flina - takes 2 actions
+Flina - plays Nobles
+Flina - draws Procession, Gold, Potion
+Flina - plays Procession
+Flina - plays Forager
+Flina - trashes Possession
+Flina - plays Forager
+Flina - trashes Forager
+Flina - trashes Forager
+Hazardous_Lazarus - gains Procession
+Flina - plays 1 Gold, 1 Potion
+Flina - buys Province
+Hazardous_Lazarus - gains Province
+Flina - shuffles deck
+Flina - draws Nobles, Province, Vineyard, Province, Gold
+ 
+---------- Flina: turn 19 ----------
+Flina - plays Nobles
+Flina - draws Procession, Festival, Festival
+Flina - plays 1 Gold
+Flina - buys Forager
+Flina - gains Forager
+Flina - draws Potion, Nobles, Nobles, Province, Gold
+ 
+---------- Hazardous_Lazarus: turn 20 ----------
+Hazardous_Lazarus - plays Procession
+Hazardous_Lazarus - plays 2 Copper, 1 Gold
+Hazardous_Lazarus - buys Duchy
+Hazardous_Lazarus - gains Duchy
+Hazardous_Lazarus - draws Copper, Gold, Mine, Procession, Potion
+ 
+---------- Flina: turn 20 ----------
+Flina - plays Nobles
+Flina - takes 2 actions
+Flina - plays Nobles
+Flina - draws Festival, Silver, Procession
+Flina - plays Procession
+Flina - plays Festival
+Flina - plays Festival
+Flina - trashes Festival
+Flina - gains Nobles
+Flina - plays 1 Potion, 1 Gold, 1 Silver
+Flina - buys Province
+Flina - gains Province
+Flina - buys Vineyard
+Flina - gains Vineyard
+Flina - draws Nobles
+Flina - shuffles deck
+Flina - draws Forager, Province, Nobles, Nobles
+ 
+---------- Hazardous_Lazarus: turn 21 ----------
+Hazardous_Lazarus - plays Procession
+Hazardous_Lazarus - plays Mine
+Hazardous_Lazarus - trashes Copper
+Hazardous_Lazarus - gains Silver
+Hazardous_Lazarus - plays Mine
+Hazardous_Lazarus - trashes Silver
+Hazardous_Lazarus - gains Gold
+Hazardous_Lazarus - trashes Mine
+Hazardous_Lazarus - gains Nobles
+Hazardous_Lazarus - plays 2 Gold, 1 Potion
+Hazardous_Lazarus - buys Possession
+Hazardous_Lazarus - gains Possession
+Hazardous_Lazarus - draws Silver, Province, Navigator, Festival, Estate
+ 
+---------- Flina: turn 21 ----------
+Flina - plays Nobles
+Flina - takes 2 actions
+Flina - plays Nobles
+Flina - draws Forager, Gold, Gold
+Flina - plays Forager
+Flina - trashes Forager
+Flina - plays Nobles
+Flina - draws Province, Festival, Vineyard
+Flina - plays 2 Gold
+Flina - buys Province
+Flina - gains Province
+Flina - draws Festival, Province, Forager, Possession, Procession
+ 
+------------ Game Over ------------
+Flina - cards: 5 Nobles, 2 Festival, 2 Forager, 2 Procession, 1 Possession, 2 Gold, 1 Silver, 1 Potion, 5 Province, 2 Vineyard
+Flina - total victory points: 48
+Flina - turns: 21
+ 
+Hazardous_Lazarus - cards: 3 Nobles, 3 Navigator, 3 Festival, 3 Procession, 2 Possession, 5 Gold, 4 Copper, 3 Silver, 2 Potion, 5 Estate, 3 Province, 1 Duchy
+Hazardous_Lazarus - total victory points: 32
+Hazardous_Lazarus - turns: 21
+ 
+1st place: Flina
+2nd place: Hazardous_Lazarus
+ 

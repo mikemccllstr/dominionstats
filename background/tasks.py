@@ -13,6 +13,7 @@ from goals import calculate_goals
 from parse_game import parse_and_insert
 import game_stats
 import isotropic
+import goko
 import utils
 
 
@@ -24,7 +25,7 @@ CALC_GOALS_CHUNK_SIZE = 100
 SUMMARIZE_GAMES_CHUNK_SIZE = 2000
 
 
-@celery.task
+@celery.task 
 def parse_games(games, day):
     """Takes list of game ids and a game date and parses them out."""
     log.info("Parsing %d games for %s", len(games), day)
@@ -46,7 +47,7 @@ def parse_games(games, day):
     return parse_and_insert(log, raw_games, parsed_games_col, parse_error_col, day)
 
 
-@celery.task
+@celery.task 
 def parse_days(days):
     """Parses rawgames into games records and stores them in the DB.
 
@@ -56,7 +57,7 @@ def parse_days(days):
 
     Skips days where there are no rawgames available.
 
-    Skips days where the parsed game collection has more than 65% of
+    Skips days where the parsed game collection has more than 95% of
     the quantity of rawgames, as this suggests the date has already
     been parsed.
 
@@ -79,7 +80,7 @@ def parse_days(days):
             continue
 
         parsed_games_qty = games_col.find({'game_date': day}).count()
-        if float(parsed_games_qty) / float(raw_games_qty) > 0.65:
+        if float(parsed_games_qty) / float(raw_games_qty) > 0.85:
             log.info('Looks like raw games for %s have already been parsed. Found %5.2f%% in games collection.',
                      day, 100.0 * parsed_games_qty / raw_games_qty)
             continue
@@ -87,12 +88,12 @@ def parse_days(days):
         game_count += games_to_parse.count()
         log.info('%s games to parse in %s', games_to_parse.count(), day)
         for chunk in utils.segments([x['_id'] for x in games_to_parse], PARSE_GAMES_CHUNK_SIZE):
-            parse_games.delay(chunk, day)
+            parse_games.delay(chunk, day) 
 
     return game_count
 
 
-@celery.task
+@celery.task 
 def calc_goals(game_ids, day):
     """ Calculate the goals achieved in the passed list of games """
     log.info("Calculating goals for %d game IDs from %s", len(game_ids), day)
@@ -114,7 +115,7 @@ def calc_goals(game_ids, day):
     return calculate_goals(games, goals_col, goals_error_col, day)
 
 
-@celery.task
+@celery.task 
 def calc_goals_for_days(days):
     """Examines games and determines if any goals were achieved, storing them in the DB.
 
@@ -149,7 +150,7 @@ def calc_goals_for_days(days):
         chunk = []
         for game in games_to_process:
             if len(chunk) >= CALC_GOALS_CHUNK_SIZE:
-                calc_goals.delay(chunk, day)
+                calc_goals.delay(chunk, day) 
                 chunk = []
 
             if goals_col.find({'_id': game['_id']}).count() == 0:
@@ -157,7 +158,7 @@ def calc_goals_for_days(days):
                 game_count += 1
 
         if len(chunk) > 0:
-            calc_goals.delay(chunk, day)
+            calc_goals.delay(chunk, day) 
 
     return game_count
 
@@ -170,22 +171,23 @@ def scrape_raw_games(date):
     """
     db = utils.get_mongo_database()
 
-    scraper = isotropic.IsotropicScraper(db)
+    scraper = goko.GokoScraper(db)
 
     try:
         inserted = scraper.scrape_and_store_rawgames(date)
-        if inserted > 0:
+        #if inserted > 0: #TODO:FIX
             # Also need to parse the raw games for the days where we
             # inserted new records.
-            parse_days.delay([date])
+            #parse_days.delay([date]) 
+        parse_days.delay([date]) 
         return inserted
 
-    except isotropic.ScrapeError:
-        log.info("Data for %s is not yet available", date)
+    except goko.ScrapeError:
+        log.info("Data for %s is not available", date)
         return None
 
 
-@celery.task
+@celery.task 
 def check_for_work():
     """Examine the state of the database and generate tasks for necessary work.
 
@@ -198,8 +200,8 @@ def check_for_work():
     connection = utils.get_mongo_connection()
     db = connection.test
 
-    # Scrape isotropic for raw games
-    for date in isotropic.dates_needing_scraping(db):
+    # Scrape goko for raw games
+    for date in goko.dates_needing_scraping(db):
         scrape_raw_games.delay(date)
 
 
@@ -241,9 +243,10 @@ def summarize_game_stats_for_days(days):
                 summarize_games.delay(chunk, day)
                 chunk = []
 
-            if game_stats_col.find({'_id.game_id': game['_id']}).count() == 0:
-                chunk.append(game['_id'])
-                game_count += 1
+            # Is this really slow? Does it need to be fixed? 
+            #if game_stats_col.find({'_id.game_id': game['_id']}).count() == 0:
+            chunk.append(game['_id'])
+            game_count += 1
 
         if len(chunk) > 0:
             summarize_games.delay(chunk, day)

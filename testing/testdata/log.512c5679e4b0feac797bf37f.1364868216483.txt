@@ -1,0 +1,622 @@
+------------ Game Setup ------------
+Supply cards: Steward, Bishop, Feodum, Mining Village, Noble Brigand, Nomad Camp, Quarry, Band of Misfits, Catacombs, Contraband, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+dannycadence - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Banker Bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dannycadence - shuffles deck
+Banker Bot - shuffles deck
+dannycadence - draws Estate, Copper, Copper, Estate, Copper
+Banker Bot - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Banker Bot: turn 1 ----------
+Banker Bot - plays 5 Copper
+Banker Bot - buys Contraband
+Banker Bot - gains Contraband
+Banker Bot - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- dannycadence: turn 1 ----------
+dannycadence - plays 3 Copper
+dannycadence - buys Steward
+dannycadence - gains Steward
+dannycadence - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Banker Bot: turn 2 ----------
+Banker Bot - plays 2 Copper
+Banker Bot - shuffles deck
+Banker Bot - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- dannycadence: turn 2 ----------
+dannycadence - plays 4 Copper
+dannycadence - buys Nomad Camp
+dannycadence - gains Nomad Camp
+dannycadence - draws Nomad Camp
+dannycadence - shuffles deck
+dannycadence - draws Copper, Estate, Copper, Estate
+ 
+---------- Banker Bot: turn 3 ----------
+Banker Bot - plays 3 Copper
+Banker Bot - buys Steward
+Banker Bot - gains Steward
+Banker Bot - draws Estate, Copper, Copper, Copper, Contraband
+ 
+---------- dannycadence: turn 3 ----------
+dannycadence - plays Nomad Camp
+dannycadence - plays 2 Copper
+dannycadence - buys Mining Village
+dannycadence - gains Mining Village
+dannycadence - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Banker Bot: turn 4 ----------
+Banker Bot - plays Contraband
+dannycadence - names Gold as contraband
+Banker Bot - plays 3 Copper
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - draws Copper
+Banker Bot - shuffles deck
+Banker Bot - draws Copper, Estate, Copper, Estate
+ 
+---------- dannycadence: turn 4 ----------
+dannycadence - plays 4 Copper
+dannycadence - buys Bishop
+dannycadence - gains Bishop
+dannycadence - draws Copper, Steward
+dannycadence - shuffles deck
+dannycadence - draws Copper, Copper, Copper
+ 
+---------- Banker Bot: turn 5 ----------
+Banker Bot - plays 3 Copper
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - draws Steward, Silver, Copper, Contraband, Copper
+ 
+---------- dannycadence: turn 5 ----------
+dannycadence - plays Steward
+dannycadence - takes 2 coins
+dannycadence - plays 4 Copper
+dannycadence - buys Gold
+dannycadence - gains Gold
+dannycadence - draws Copper, Estate, Copper, Mining Village, Estate
+ 
+---------- Banker Bot: turn 6 ----------
+Banker Bot - plays Steward
+Banker Bot - trashes Copper, Copper
+Banker Bot - plays Contraband
+dannycadence - names Gold as contraband
+Banker Bot - plays 1 Silver
+Banker Bot - buys Contraband
+Banker Bot - gains Contraband
+Banker Bot - draws Copper, Copper, Silver, Estate
+Banker Bot - shuffles deck
+Banker Bot - draws Copper
+ 
+---------- dannycadence: turn 6 ----------
+dannycadence - plays Mining Village
+dannycadence - draws Nomad Camp
+dannycadence - plays Nomad Camp
+dannycadence - plays 2 Copper
+dannycadence - buys Mining Village
+dannycadence - gains Mining Village
+dannycadence - draws Bishop, Estate, Copper
+dannycadence - shuffles deck
+dannycadence - draws Copper, Copper
+ 
+---------- Banker Bot: turn 7 ----------
+Banker Bot - plays 3 Copper, 1 Silver
+Banker Bot - buys Contraband
+Banker Bot - gains Contraband
+Banker Bot - draws Copper, Estate, Silver, Copper, Silver
+ 
+---------- dannycadence: turn 7 ----------
+dannycadence - plays Bishop
+dannycadence - trashes Estate
+dannycadence - receives 1 victory point chips
+Banker Bot - trashes Copper
+dannycadence - plays 3 Copper
+dannycadence - buys Quarry
+dannycadence - gains Quarry
+dannycadence - draws Estate, Steward, Copper, Mining Village, Gold
+ 
+---------- Banker Bot: turn 8 ----------
+Banker Bot - plays 2 Silver, 1 Copper
+Banker Bot - buys Contraband
+Banker Bot - gains Contraband
+Banker Bot - draws Contraband, Steward, Contraband, Estate
+Banker Bot - shuffles deck
+Banker Bot - draws Estate
+ 
+---------- dannycadence: turn 8 ----------
+dannycadence - plays Mining Village
+dannycadence - draws Copper
+dannycadence - plays Steward
+dannycadence - takes 2 coins
+dannycadence - plays 2 Copper, 1 Gold
+dannycadence - buys Gold
+dannycadence - gains Gold
+dannycadence - draws Mining Village, Copper, Copper, Nomad Camp, Estate
+ 
+---------- Banker Bot: turn 9 ----------
+Banker Bot - plays Steward
+Banker Bot - trashes Estate, Estate
+Banker Bot - plays Contraband
+dannycadence - names Gold as contraband
+Banker Bot - plays Contraband
+dannycadence - names Province as contraband
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - draws Silver, Contraband, Copper, Silver, Silver
+ 
+---------- dannycadence: turn 9 ----------
+dannycadence - plays Mining Village
+dannycadence - shuffles deck
+dannycadence - draws Copper
+dannycadence - plays Nomad Camp
+dannycadence - plays 3 Copper
+dannycadence - buys Catacombs
+dannycadence - gains Catacombs
+dannycadence - draws Quarry, Estate, Gold, Copper, Copper
+ 
+---------- Banker Bot: turn 10 ----------
+Banker Bot - plays Contraband
+dannycadence - names Gold as contraband
+Banker Bot - plays 3 Silver, 1 Copper
+Banker Bot - buys Contraband
+Banker Bot - gains Contraband
+Banker Bot - buys Contraband
+Banker Bot - gains Contraband
+Banker Bot - draws Copper, Copper, Copper, Estate, Contraband
+ 
+---------- dannycadence: turn 10 ----------
+dannycadence - plays 2 Copper, 1 Gold
+dannycadence - plays Quarry
+dannycadence - buys Gold
+dannycadence - gains Gold
+dannycadence - draws Copper, Mining Village, Steward, Gold, Bishop
+ 
+---------- Banker Bot: turn 11 ----------
+Banker Bot - plays Contraband
+dannycadence - names Gold as contraband
+Banker Bot - plays 3 Copper
+Banker Bot - buys Contraband
+Banker Bot - gains Contraband
+Banker Bot - shuffles deck
+Banker Bot - draws Copper, Silver, Silver, Contraband, Copper
+ 
+---------- dannycadence: turn 11 ----------
+dannycadence - plays Mining Village
+dannycadence - draws Copper
+dannycadence - plays Steward
+dannycadence - takes 2 coins
+dannycadence - plays Bishop
+dannycadence - trashes Copper
+dannycadence - receives 0 victory point chips
+Banker Bot - trashes Copper
+dannycadence - plays 1 Copper, 1 Gold
+dannycadence - buys Gold
+dannycadence - gains Gold
+dannycadence - shuffles deck
+dannycadence - draws Quarry, Estate, Nomad Camp, Copper, Copper
+ 
+---------- Banker Bot: turn 12 ----------
+Banker Bot - plays Contraband
+dannycadence - names Province as contraband
+Banker Bot - plays 2 Silver, 1 Copper
+Banker Bot - buys Contraband
+Banker Bot - gains Contraband
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - draws Silver, Silver, Contraband, Silver, Copper
+ 
+---------- dannycadence: turn 12 ----------
+dannycadence - plays Nomad Camp
+dannycadence - plays 2 Copper
+dannycadence - plays Quarry
+dannycadence - buys Band of Misfits
+dannycadence - gains Band of Misfits
+dannycadence - buys Mining Village
+dannycadence - gains Mining Village
+dannycadence - draws Mining Village, Mining Village, Copper, Copper, Gold
+ 
+---------- Banker Bot: turn 13 ----------
+Banker Bot - plays Contraband
+dannycadence - names Gold as contraband
+Banker Bot - plays 3 Silver, 1 Copper
+Banker Bot - buys Contraband
+Banker Bot - gains Contraband
+Banker Bot - buys Contraband
+Banker Bot - gains Contraband
+Banker Bot - draws Contraband, Contraband, Contraband, Copper, Steward
+ 
+---------- dannycadence: turn 13 ----------
+dannycadence - plays Mining Village
+dannycadence - draws Bishop
+dannycadence - plays Mining Village
+dannycadence - draws Steward
+dannycadence - plays Steward
+dannycadence - draws Estate, Catacombs
+dannycadence - plays Catacombs
+dannycadence - looks at Gold, Copper, Copper
+dannycadence - places cards in hand:  Gold, Copper, Copper
+dannycadence - plays Bishop
+dannycadence - trashes Estate
+dannycadence - receives 1 victory point chips
+Banker Bot - trashes Copper
+dannycadence - plays 4 Copper, 2 Gold
+dannycadence - buys Province
+dannycadence - gains Province
+dannycadence - draws Gold, Gold
+dannycadence - shuffles deck
+dannycadence - draws Steward, Copper, Province
+ 
+---------- Banker Bot: turn 14 ----------
+Banker Bot - plays Steward
+Banker Bot - takes 2 coins
+Banker Bot - plays Contraband
+dannycadence - names Province as contraband
+Banker Bot - plays Contraband
+dannycadence - names Duchy as contraband
+Banker Bot - plays Contraband
+dannycadence - names Gold as contraband
+Banker Bot - buys Band of Misfits
+Banker Bot - gains Band of Misfits
+Banker Bot - buys Band of Misfits
+Banker Bot - gains Band of Misfits
+Banker Bot - draws Contraband, Contraband, Estate
+Banker Bot - shuffles deck
+Banker Bot - draws Silver, Contraband
+ 
+---------- dannycadence: turn 14 ----------
+dannycadence - plays Steward
+dannycadence - takes 2 coins
+dannycadence - plays 2 Gold, 1 Copper
+dannycadence - buys Province
+dannycadence - gains Province
+dannycadence - draws Quarry, Band of Misfits, Copper, Gold, Mining Village
+ 
+---------- Banker Bot: turn 15 ----------
+Banker Bot - plays Contraband
+dannycadence - names Province as contraband
+Banker Bot - plays Contraband
+dannycadence - names Duchy as contraband
+Banker Bot - plays Contraband
+dannycadence - names Gold as contraband
+Banker Bot - plays 1 Silver
+Banker Bot - buys Band of Misfits
+Banker Bot - gains Band of Misfits
+Banker Bot - buys Band of Misfits
+Banker Bot - gains Band of Misfits
+Banker Bot - draws Contraband, Silver, Contraband, Contraband, Contraband
+ 
+---------- dannycadence: turn 15 ----------
+dannycadence - plays Mining Village
+dannycadence - draws Mining Village
+dannycadence - plays Mining Village
+dannycadence - draws Copper
+dannycadence - plays Band of Misfits
+dannycadence - chooses Steward
+dannycadence - plays Steward
+dannycadence - takes 2 coins
+dannycadence - plays 2 Copper, 1 Gold
+dannycadence - plays Quarry
+dannycadence - buys Province
+dannycadence - gains Province
+dannycadence - draws Nomad Camp, Copper, Estate, Mining Village, Copper
+ 
+---------- Banker Bot: turn 16 ----------
+Banker Bot - plays Contraband
+dannycadence - names Province as contraband
+Banker Bot - plays Contraband
+dannycadence - names Duchy as contraband
+Banker Bot - plays Contraband
+dannycadence - names Gold as contraband
+Banker Bot - plays Contraband
+dannycadence - names Feodum as contraband
+Banker Bot - plays 1 Silver
+Banker Bot - buys Band of Misfits
+Banker Bot - gains Band of Misfits
+Banker Bot - buys Band of Misfits
+Banker Bot - gains Band of Misfits
+Banker Bot - buys Noble Brigand
+dannycadence - reveals: Gold, Catacombs
+Banker Bot - trashes Gold
+dannycadence - discards Catacombs
+Banker Bot - gains Gold
+Banker Bot - gains Noble Brigand
+Banker Bot - draws Contraband, Copper, Band of Misfits, Steward, Contraband
+ 
+---------- dannycadence: turn 16 ----------
+dannycadence - plays Mining Village
+dannycadence - draws Bishop
+dannycadence - plays Bishop
+dannycadence - trashes Estate
+dannycadence - receives 1 victory point chips
+Banker Bot - trashes Copper
+dannycadence - plays Nomad Camp
+dannycadence - plays 2 Copper
+dannycadence - buys Duchy
+dannycadence - gains Duchy
+dannycadence - draws Copper
+dannycadence - shuffles deck
+dannycadence - draws Province, Catacombs, Copper, Copper
+ 
+---------- Banker Bot: turn 17 ----------
+Banker Bot - plays Band of Misfits
+Banker Bot - chooses Nomad Camp
+Banker Bot - plays Nomad Camp
+Banker Bot - plays Contraband
+dannycadence - names Province as contraband
+Banker Bot - plays Contraband
+dannycadence - names Duchy as contraband
+Banker Bot - buys Mining Village
+Banker Bot - gains Mining Village
+Banker Bot - buys Feodum
+Banker Bot - gains Feodum
+Banker Bot - draws Copper, Silver, Band of Misfits, Silver, Silver
+ 
+---------- dannycadence: turn 17 ----------
+dannycadence - plays Catacombs
+dannycadence - looks at Duchy, Nomad Camp, Copper
+dannycadence - discards: Duchy, Nomad Camp, Copper
+dannycadence - draws Gold, Quarry, Copper
+dannycadence - plays 4 Copper, 1 Gold
+dannycadence - plays Quarry
+dannycadence - buys Province
+dannycadence - gains Province
+dannycadence - draws Bishop, Province, Province, Band of Misfits, Copper
+ 
+---------- Banker Bot: turn 18 ----------
+Banker Bot - plays Band of Misfits
+Banker Bot - chooses Nomad Camp
+Banker Bot - plays Nomad Camp
+Banker Bot - plays 3 Silver, 1 Copper
+Banker Bot - buys Province
+Banker Bot - gains Province
+Banker Bot - draws Silver, Contraband
+Banker Bot - shuffles deck
+Banker Bot - draws Province, Silver, Contraband
+ 
+---------- dannycadence: turn 18 ----------
+dannycadence - plays Band of Misfits
+dannycadence - chooses Mining Village
+dannycadence - plays Mining Village
+dannycadence - draws Mining Village
+dannycadence - plays Mining Village
+dannycadence - draws Gold
+dannycadence - plays Bishop
+dannycadence - trashes Province
+dannycadence - receives 4 victory point chips
+dannycadence - plays 1 Copper, 1 Gold
+dannycadence - buys Duchy
+dannycadence - gains Duchy
+dannycadence - draws Gold, Mining Village, Steward, Mining Village
+dannycadence - shuffles deck
+dannycadence - draws Province
+ 
+---------- Banker Bot: turn 19 ----------
+Banker Bot - plays Contraband
+dannycadence - names Province as contraband
+Banker Bot - plays Contraband
+dannycadence - names Duchy as contraband
+Banker Bot - plays 2 Silver
+Banker Bot - buys Feodum
+Banker Bot - gains Feodum
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - draws Copper, Feodum, Silver, Contraband, Noble Brigand
+ 
+---------- dannycadence: turn 19 ----------
+dannycadence - plays Mining Village
+dannycadence - draws Quarry
+dannycadence - plays Mining Village
+dannycadence - draws Copper
+dannycadence - plays Steward
+dannycadence - draws Province, Copper
+dannycadence - plays 2 Copper, 1 Gold
+dannycadence - buys Duchy
+dannycadence - gains Duchy
+dannycadence - draws Gold, Copper, Copper, Mining Village, Bishop
+ 
+---------- Banker Bot: turn 20 ----------
+Banker Bot - plays Noble Brigand
+dannycadence - reveals: Copper, Copper
+dannycadence - discards: Copper, Copper
+Banker Bot - plays Contraband
+dannycadence - names Province as contraband
+Banker Bot - plays 1 Copper, 1 Silver
+Banker Bot - buys Feodum
+Banker Bot - gains Feodum
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - draws Band of Misfits, Band of Misfits, Estate, Gold, Contraband
+ 
+---------- dannycadence: turn 20 ----------
+dannycadence - plays Mining Village
+dannycadence - draws Duchy
+dannycadence - plays Bishop
+dannycadence - trashes Duchy
+dannycadence - receives 2 victory point chips
+dannycadence - plays 2 Copper, 1 Gold
+dannycadence - buys Duchy
+dannycadence - gains Duchy
+dannycadence - draws Duchy, Catacombs, Province, Gold, Band of Misfits
+ 
+---------- Banker Bot: turn 21 ----------
+Banker Bot - plays Band of Misfits
+Banker Bot - chooses Nomad Camp
+Banker Bot - plays Nomad Camp
+Banker Bot - plays Contraband
+dannycadence - names Province as contraband
+Banker Bot - plays 1 Gold
+Banker Bot - buys Feodum
+Banker Bot - gains Feodum
+Banker Bot - buys Feodum
+Banker Bot - gains Feodum
+Banker Bot - draws Band of Misfits, Silver, Steward, Contraband, Silver
+ 
+---------- dannycadence: turn 21 ----------
+dannycadence - plays Band of Misfits
+dannycadence - chooses Mining Village
+dannycadence - plays Mining Village
+dannycadence - draws Nomad Camp
+dannycadence - plays Catacombs
+dannycadence - shuffles deck
+dannycadence - looks at Copper, Province, Gold
+dannycadence - places cards in hand:  Copper, Province, Gold
+dannycadence - plays Nomad Camp
+dannycadence - plays 2 Gold, 1 Copper
+dannycadence - buys Province
+dannycadence - gains Province
+dannycadence - draws Copper, Mining Village, Copper, Copper, Quarry
+ 
+---------- Banker Bot: turn 22 ----------
+Banker Bot - plays Band of Misfits
+Banker Bot - chooses Nomad Camp
+Banker Bot - plays Nomad Camp
+Banker Bot - plays Contraband
+dannycadence - names Province as contraband
+Banker Bot - plays 2 Silver
+Banker Bot - buys Feodum
+Banker Bot - gains Feodum
+Banker Bot - buys Feodum
+Banker Bot - gains Feodum
+Banker Bot - draws Contraband, Band of Misfits, Contraband, Contraband, Band of Misfits
+ 
+---------- dannycadence: turn 22 ----------
+dannycadence - plays Mining Village
+dannycadence - draws Mining Village
+dannycadence - plays Mining Village
+dannycadence - draws Bishop
+dannycadence - plays Bishop
+dannycadence - trashes Quarry
+dannycadence - receives 2 victory point chips
+dannycadence - plays 3 Copper
+dannycadence - buys Feodum
+dannycadence - gains Feodum
+dannycadence - draws Copper, Mining Village, Copper, Steward, Gold
+ 
+---------- Banker Bot: turn 23 ----------
+Banker Bot - plays Band of Misfits
+Banker Bot - chooses Nomad Camp
+Banker Bot - plays Nomad Camp
+Banker Bot - plays Contraband
+dannycadence - names Province as contraband
+Banker Bot - plays Contraband
+dannycadence - names Duchy as contraband
+Banker Bot - plays Contraband
+dannycadence - names Silver as contraband
+Banker Bot - buys Estate
+Banker Bot - gains Estate
+Banker Bot - buys Estate
+Banker Bot - gains Estate
+Banker Bot - buys Estate
+Banker Bot - gains Estate
+Banker Bot - buys Estate
+Banker Bot - gains Estate
+Banker Bot - buys Estate
+Banker Bot - gains Estate
+Banker Bot - draws Contraband, Band of Misfits, Contraband, Mining Village, Silver
+ 
+---------- dannycadence: turn 23 ----------
+dannycadence - plays Mining Village
+dannycadence - draws Duchy
+dannycadence - plays Steward
+dannycadence - draws Province, Duchy
+dannycadence - plays 2 Copper, 1 Gold
+dannycadence - buys Duchy
+dannycadence - gains Duchy
+dannycadence - shuffles deck
+dannycadence - draws Gold, Copper, Copper, Gold, Steward
+ 
+---------- Banker Bot: turn 24 ----------
+Banker Bot - plays Mining Village
+Banker Bot - shuffles deck
+Banker Bot - draws Feodum
+Banker Bot - trashes Mining Village
+Banker Bot - plays Band of Misfits
+Banker Bot - chooses Nomad Camp
+Banker Bot - plays Nomad Camp
+Banker Bot - plays Contraband
+dannycadence - names Province as contraband
+Banker Bot - plays Contraband
+dannycadence - names Duchy as contraband
+Banker Bot - plays 1 Silver
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - draws Gold, Silver, Silver, Feodum, Steward
+ 
+---------- dannycadence: turn 24 ----------
+dannycadence - plays Steward
+dannycadence - takes 2 coins
+dannycadence - plays 2 Gold, 2 Copper
+dannycadence - buys Province
+dannycadence - gains Province
+dannycadence - draws Gold, Copper, Copper, Mining Village, Duchy
+ 
+---------- Banker Bot: turn 25 ----------
+Banker Bot - plays Steward
+Banker Bot - takes 2 coins
+Banker Bot - plays 2 Silver, 1 Gold
+Banker Bot - buys Duchy
+Banker Bot - gains Duchy
+Banker Bot - draws Silver, Band of Misfits, Contraband, Contraband, Contraband
+ 
+---------- dannycadence: turn 25 ----------
+dannycadence - plays Mining Village
+dannycadence - draws Duchy
+dannycadence - plays 2 Copper, 1 Gold
+dannycadence - buys Duchy
+dannycadence - gains Duchy
+dannycadence - draws Province, Feodum, Band of Misfits, Duchy, Province
+ 
+---------- Banker Bot: turn 26 ----------
+Banker Bot - plays Band of Misfits
+Banker Bot - chooses Nomad Camp
+Banker Bot - plays Nomad Camp
+Banker Bot - plays Contraband
+dannycadence - names Silver as contraband
+Banker Bot - plays Contraband
+dannycadence - names Province as contraband
+Banker Bot - plays Contraband
+dannycadence - names Duchy as contraband
+Banker Bot - plays 1 Silver
+Banker Bot - buys Gold
+Banker Bot - gains Gold
+Banker Bot - buys Estate
+Banker Bot - gains Estate
+Banker Bot - buys Estate
+Banker Bot - gains Estate
+Banker Bot - draws Silver, Feodum, Silver, Silver, Estate
+ 
+---------- dannycadence: turn 26 ----------
+dannycadence - plays Band of Misfits
+dannycadence - chooses Nomad Camp
+dannycadence - plays Nomad Camp
+dannycadence - buys Estate
+dannycadence - gains Estate
+dannycadence - draws Copper, Duchy, Province, Mining Village, Province
+ 
+------------ Game Over ------------
+dannycadence - cards: 3 Mining Village, 1 Bishop, 1 Nomad Camp, 1 Steward, 1 Catacombs, 1 Band of Misfits, 6 Copper, 3 Gold, 5 Duchy, 5 Province, 1 Feodum, 1 Estate
+dannycadence - victory point chips: 18
+dannycadence - total victory points: 64
+dannycadence - turns: 26
+ 
+Banker Bot - cards: 6 Band of Misfits, 13 Silver, 1 Noble Brigand, 10 Contraband, 1 Steward, 2 Gold, 1 Copper, 8 Estate, 7 Feodum, 1 Province, 1 Duchy
+Banker Bot - victory point chips: 0
+Banker Bot - total victory points: 45
+Banker Bot - turns: 26
+ 
+1st place: dannycadence
+2nd place: Banker Bot
+ 

@@ -8,15 +8,18 @@ import dominioncards
 class DominionCardsTest(unittest.TestCase):
     def test_openings(self):
         openings = dominioncards.opening_cards()
-        self.assertEquals(len(openings), 140)
+        self.assertEquals(len(openings), 189)
 
         # Valid opening cards
 
         # Cost 0
         self.assertIn(dominioncards.Copper, openings)
 
+        # Cost 1
+        self.assertIn(dominioncards.PoorHouse, openings)
+
         # Cost 2
-        self.assertIn(dominioncards.Chapel, openings)
+        self.assertIn(dominioncards.Squire, openings)
 
         # Cost 3
         self.assertIn(dominioncards.Ambassador, openings)
@@ -36,6 +39,9 @@ class DominionCardsTest(unittest.TestCase):
         # Too expensive
         self.assertNotIn(dominioncards.Bank, openings)
 
+        # Not in supply
+        self.assertNotIn(dominioncards.Hovel, openings)
+        self.assertNotIn(dominioncards.Spoils, openings)
 
     def test_initialization(self):
         """Test various ways of initializing card objects

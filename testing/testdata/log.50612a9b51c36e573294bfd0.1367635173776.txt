@@ -1,0 +1,27 @@
+------------ Game Setup ------------
+Supply cards: University, Trade Route, Urchin, Marauder, Remodel, Spice Merchant, Tournament, Young Witch, Goons, Hunting Grounds, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion, Ruins
+Bane card: Trade Route
+ftl - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Lord Bottington - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ftl - shuffles deck
+Lord Bottington - shuffles deck
+ftl - draws Hovel, Copper, Overgrown Estate, Copper, Necropolis
+Lord Bottington - draws Copper, Copper, Copper, Hovel, Necropolis
+ 
+---------- ftl: turn 1 ----------
+ 
+------------ Game Over ------------
+Lord Bottington - cards: 1 Necropolis, 7 Copper, 1 Overgrown Estate, 1 Hovel
+Lord Bottington - victory point chips: 0
+Lord Bottington - total victory points: 0
+Lord Bottington - turns: 0
+ 
+ftl - resigned
+ftl - cards: 1 Necropolis, 7 Copper, 1 Overgrown Estate, 1 Hovel
+ftl - victory point chips: 0
+ftl - total victory points: 0
+ftl - turns: 0
+ 
+1st place: Lord Bottington
+2nd place: ftl
+ 

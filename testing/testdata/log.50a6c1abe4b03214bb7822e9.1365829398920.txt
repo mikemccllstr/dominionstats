@@ -1,0 +1,942 @@
+------------ Game Setup ------------
+Supply cards: Pawn, Oasis, Bishop, Ironworks, Talisman, Golem, Torturer, Trading Post, Treasury, Possession, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+michaeljb - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Francis Campeau - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+michaeljb - shuffles deck
+Francis Campeau - shuffles deck
+michaeljb - draws Estate, Copper, Estate, Copper, Copper
+Francis Campeau - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- michaeljb: turn 1 ----------
+michaeljb - plays 3 Copper
+michaeljb - buys Oasis
+michaeljb - gains Oasis
+michaeljb - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Francis Campeau: turn 1 ----------
+Francis Campeau - plays Copper
+Francis Campeau - plays Copper
+Francis Campeau - buys Pawn
+Francis Campeau - gains Pawn
+Francis Campeau - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- michaeljb: turn 2 ----------
+michaeljb - plays 4 Copper
+michaeljb - buys Bishop
+michaeljb - gains Bishop
+michaeljb - shuffles deck
+michaeljb - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Francis Campeau: turn 2 ----------
+Francis Campeau - plays Copper
+Francis Campeau - plays Copper
+Francis Campeau - plays Copper
+Francis Campeau - plays Copper
+Francis Campeau - plays Copper
+Francis Campeau - buys Treasury
+Francis Campeau - gains Treasury
+Francis Campeau - shuffles deck
+Francis Campeau - draws Estate, Copper, Copper, Estate, Treasury
+ 
+---------- michaeljb: turn 3 ----------
+michaeljb - plays 4 Copper
+michaeljb - buys Potion
+michaeljb - gains Potion
+michaeljb - draws Bishop, Oasis, Estate, Estate, Copper
+ 
+---------- Francis Campeau: turn 3 ----------
+Francis Campeau - plays Treasury
+Francis Campeau - draws Copper
+Francis Campeau - plays Copper
+Francis Campeau - plays Copper
+Francis Campeau - plays Copper
+Francis Campeau - buys Talisman
+Francis Campeau - gains Talisman
+Francis Campeau - places Treasury on top of deck
+Francis Campeau - draws Treasury, Copper, Copper, Copper, Copper
+ 
+---------- michaeljb: turn 4 ----------
+michaeljb - plays Oasis
+michaeljb - draws Copper
+michaeljb - discards Estate
+michaeljb - plays Bishop
+michaeljb - trashes Estate
+michaeljb - receives 1 victory point chips
+Francis Campeau - trashes Copper
+michaeljb - plays 2 Copper
+michaeljb - buys Silver
+michaeljb - gains Silver
+michaeljb - draws Copper
+michaeljb - shuffles deck
+michaeljb - draws Copper, Bishop, Estate, Copper
+ 
+---------- Francis Campeau: turn 4 ----------
+Francis Campeau - plays Treasury
+Francis Campeau - draws Pawn
+Francis Campeau - plays Pawn
+Francis Campeau - takes 1 coin
+Francis Campeau - draws Estate
+Francis Campeau - plays Copper
+Francis Campeau - plays Copper
+Francis Campeau - plays Copper
+Francis Campeau - buys Torturer
+Francis Campeau - gains Torturer
+Francis Campeau - places Treasury on top of deck
+Francis Campeau - draws Treasury
+Francis Campeau - shuffles deck
+Francis Campeau - draws Copper, Copper, Copper, Estate
+ 
+---------- michaeljb: turn 5 ----------
+michaeljb - plays Bishop
+michaeljb - trashes Estate
+michaeljb - receives 1 victory point chips
+Francis Campeau - trashes Copper
+michaeljb - plays 3 Copper
+michaeljb - buys Silver
+michaeljb - gains Silver
+michaeljb - draws Silver, Potion, Copper, Estate, Copper
+ 
+---------- Francis Campeau: turn 5 ----------
+Francis Campeau - plays Treasury
+Francis Campeau - draws Talisman
+Francis Campeau - plays Copper
+Francis Campeau - plays Talisman
+Francis Campeau - plays Copper
+Francis Campeau - buys Silver
+Francis Campeau - gains Silver
+Francis Campeau - gains Silver
+Francis Campeau - places Treasury on top of deck
+Francis Campeau - draws Treasury, Estate, Copper, Torturer, Copper
+ 
+---------- michaeljb: turn 6 ----------
+michaeljb - plays 2 Copper, 1 Silver, 1 Potion
+michaeljb - buys Golem
+michaeljb - gains Golem
+michaeljb - draws Copper, Copper, Oasis
+michaeljb - shuffles deck
+michaeljb - draws Silver, Potion
+ 
+---------- Francis Campeau: turn 6 ----------
+Francis Campeau - plays Treasury
+Francis Campeau - draws Copper
+Francis Campeau - plays Torturer
+Francis Campeau - draws Pawn, Estate
+Francis Campeau - shuffles deck
+Francis Campeau - draws Copper
+michaeljb - gains Curse
+Francis Campeau - plays Copper
+Francis Campeau - plays Copper
+Francis Campeau - plays Copper
+Francis Campeau - plays Copper
+Francis Campeau - buys Ironworks
+Francis Campeau - gains Ironworks
+Francis Campeau - places Treasury on top of deck
+Francis Campeau - draws Treasury, Talisman, Silver, Estate, Silver
+ 
+---------- michaeljb: turn 7 ----------
+michaeljb - plays Oasis
+michaeljb - draws Estate
+michaeljb - discards Curse
+michaeljb - plays 2 Copper, 1 Silver, 1 Potion
+michaeljb - buys Torturer
+michaeljb - gains Torturer
+michaeljb - draws Copper, Copper, Copper, Copper, Bishop
+ 
+---------- Francis Campeau: turn 7 ----------
+Francis Campeau - plays Treasury
+Francis Campeau - draws Copper
+Francis Campeau - plays Talisman
+Francis Campeau - plays Silver
+Francis Campeau - plays Silver
+Francis Campeau - plays Copper
+Francis Campeau - buys Gold
+Francis Campeau - gains Gold
+Francis Campeau - places Treasury on top of deck
+Francis Campeau - draws Treasury
+Francis Campeau - shuffles deck
+Francis Campeau - draws Ironworks, Copper, Copper, Pawn
+ 
+---------- michaeljb: turn 8 ----------
+michaeljb - plays Bishop
+michaeljb - trashes Copper
+michaeljb - receives 0 victory point chips
+Francis Campeau - trashes Copper
+michaeljb - plays 3 Copper
+michaeljb - buys Silver
+michaeljb - gains Silver
+michaeljb - draws Copper, Silver, Golem
+michaeljb - shuffles deck
+michaeljb - draws Estate, Copper
+ 
+---------- Francis Campeau: turn 8 ----------
+Francis Campeau - plays Treasury
+Francis Campeau - draws Estate
+Francis Campeau - plays Pawn
+Francis Campeau - takes 1 action
+Francis Campeau - draws Silver
+Francis Campeau - plays Ironworks
+Francis Campeau - gains Silver
+Francis Campeau - plays Silver
+Francis Campeau - plays Copper
+Francis Campeau - buys Torturer
+Francis Campeau - gains Torturer
+Francis Campeau - places Treasury on top of deck
+Francis Campeau - draws Treasury, Copper, Estate, Talisman, Copper
+ 
+---------- michaeljb: turn 9 ----------
+michaeljb - plays Golem
+michaeljb - reveals Torturer, Curse, Oasis
+michaeljb - discards Curse
+michaeljb - plays Torturer
+michaeljb - draws Copper, Silver, Potion
+Francis Campeau - discards Estate
+Francis Campeau - discards Copper
+michaeljb - plays Oasis
+michaeljb - draws Silver
+michaeljb - discards Estate
+michaeljb - plays 3 Copper, 3 Silver, 1 Potion
+michaeljb - buys Possession
+michaeljb - gains Possession
+michaeljb - draws Copper, Bishop, Copper, Copper
+michaeljb - shuffles deck
+michaeljb - draws Possession
+ 
+---------- Francis Campeau: turn 9 ----------
+Francis Campeau - plays Treasury
+Francis Campeau - draws Silver
+Francis Campeau - plays Silver
+Francis Campeau - plays Talisman
+Francis Campeau - plays Copper
+Francis Campeau - buys Potion
+Francis Campeau - gains Potion
+Francis Campeau - gains Potion
+Francis Campeau - places Treasury on top of deck
+Francis Campeau - draws Treasury, Gold, Torturer, Estate, Copper
+ 
+---------- michaeljb: turn 10 ----------
+michaeljb - plays Possession
+michaeljb - plays 3 Copper
+michaeljb - buys Pawn
+michaeljb - gains Pawn
+michaeljb - draws Potion, Silver, Oasis, Golem, Estate
+ 
+---------- Francis Campeau: turn 10 [possessed] ----------
+Francis Campeau - plays Treasury
+Francis Campeau - shuffles deck
+Francis Campeau - draws Copper
+Francis Campeau - plays 2 Copper, 1 Gold
+Francis Campeau - buys Torturer
+michaeljb - gains Torturer
+Francis Campeau - discards Treasury
+Francis Campeau - draws Talisman, Silver, Copper, Torturer, Ironworks
+ 
+---------- Francis Campeau: turn 10 ----------
+Francis Campeau - plays Ironworks
+Francis Campeau - gains Oasis
+Francis Campeau - plays Torturer
+Francis Campeau - draws Silver, Potion, Pawn
+michaeljb - gains Curse
+Francis Campeau - plays Potion
+Francis Campeau - plays Silver
+Francis Campeau - plays Copper
+Francis Campeau - plays Silver
+Francis Campeau - plays Talisman
+Francis Campeau - buys Possession
+Francis Campeau - gains Possession
+Francis Campeau - draws Silver, Estate, Estate, Copper, Potion
+ 
+---------- michaeljb: turn 11 ----------
+michaeljb - plays Oasis
+michaeljb - draws Curse
+michaeljb - discards Curse
+michaeljb - plays Golem
+michaeljb - shuffles deck
+michaeljb - reveals Copper, Copper, Torturer, Copper, Silver, Silver, Copper, Pawn
+michaeljb - discards: Copper, Copper, Copper, Silver, Silver, Copper
+michaeljb - plays Torturer
+michaeljb - draws Possession, Bishop, Curse
+Francis Campeau - discards Estate
+Francis Campeau - discards Copper
+michaeljb - plays Pawn
+michaeljb - takes 1 action
+michaeljb - takes 1 coin
+michaeljb - plays Possession
+michaeljb - plays 1 Potion, 1 Silver
+michaeljb - buys Golem
+michaeljb - gains Golem
+michaeljb - draws Copper, Torturer, Copper
+michaeljb - shuffles deck
+michaeljb - draws Copper, Golem
+ 
+---------- Francis Campeau: turn 11 [possessed] ----------
+Francis Campeau - plays 1 Silver, 1 Potion
+Francis Campeau - buys Pawn
+michaeljb - gains Pawn
+Francis Campeau - shuffles deck
+Francis Campeau - draws Copper, Potion, Possession, Estate, Copper
+ 
+---------- Francis Campeau: turn 11 ----------
+Francis Campeau - plays Possession
+Francis Campeau - plays Copper
+Francis Campeau - plays Potion
+Francis Campeau - plays Copper
+Francis Campeau - draws Treasury, Estate, Potion, Gold, Oasis
+ 
+---------- michaeljb: turn 12 [possessed] ----------
+michaeljb - plays Copper
+michaeljb - plays Copper
+michaeljb - plays Copper
+michaeljb - buys Curse
+Francis Campeau - gains Curse
+michaeljb - draws Golem, Torturer, Silver, Copper, Possession
+ 
+---------- michaeljb: turn 12 ----------
+michaeljb - plays Golem
+michaeljb - reveals Oasis, Potion, Curse, Estate, Copper, Silver, Copper, Bishop
+michaeljb - discards: Potion, Curse, Estate, Copper, Silver, Copper
+michaeljb - plays Oasis
+michaeljb - draws Silver
+michaeljb - discards Possession
+michaeljb - plays Bishop
+michaeljb - trashes Copper
+michaeljb - receives 0 victory point chips
+Francis Campeau - trashes Treasury
+michaeljb - plays Torturer
+michaeljb - draws Pawn, Curse
+michaeljb - shuffles deck
+michaeljb - draws Copper
+Francis Campeau - discards Estate
+Francis Campeau - discards Potion
+michaeljb - plays 2 Silver, 1 Copper
+michaeljb - buys Treasury
+michaeljb - gains Treasury
+michaeljb - draws Copper, Pawn, Curse, Torturer, Copper
+ 
+---------- Francis Campeau: turn 12 ----------
+Francis Campeau - plays Oasis
+Francis Campeau - draws Torturer
+Francis Campeau - discards Torturer
+Francis Campeau - plays 1 Gold
+Francis Campeau - buys Potion
+Francis Campeau - gains Potion
+Francis Campeau - draws Copper, Pawn, Talisman, Copper, Ironworks
+ 
+---------- michaeljb: turn 13 ----------
+michaeljb - plays Pawn
+michaeljb - takes 1 action
+michaeljb - takes 1 coin
+michaeljb - plays Torturer
+michaeljb - draws Golem, Possession, Estate
+Francis Campeau - discards Ironworks
+Francis Campeau - discards Copper
+michaeljb - plays 2 Copper
+michaeljb - buys Pawn
+michaeljb - gains Pawn
+michaeljb - draws Silver, Copper, Potion, Copper
+michaeljb - shuffles deck
+michaeljb - draws Torturer
+ 
+---------- Francis Campeau: turn 13 ----------
+Francis Campeau - plays Pawn
+Francis Campeau - takes 1 coin
+Francis Campeau - draws Silver
+Francis Campeau - plays Silver
+Francis Campeau - plays Talisman
+Francis Campeau - plays Copper
+Francis Campeau - buys Trading Post
+Francis Campeau - gains Trading Post
+Francis Campeau - draws Estate, Silver, Silver, Torturer
+Francis Campeau - shuffles deck
+Francis Campeau - draws Potion
+ 
+---------- michaeljb: turn 14 ----------
+michaeljb - plays Torturer
+michaeljb - draws Silver, Golem, Copper
+Francis Campeau - gains Curse
+michaeljb - plays 3 Copper, 2 Silver, 1 Potion
+michaeljb - buys Possession
+michaeljb - gains Possession
+michaeljb - draws Golem, Treasury, Pawn, Possession, Estate
+ 
+---------- Francis Campeau: turn 14 ----------
+Francis Campeau - plays Torturer
+Francis Campeau - draws Pawn, Potion, Gold
+michaeljb - discards Estate
+michaeljb - discards Pawn
+Francis Campeau - plays Gold
+Francis Campeau - plays Potion
+Francis Campeau - plays Potion
+Francis Campeau - plays Silver
+Francis Campeau - plays Silver
+Francis Campeau - buys Golem
+Francis Campeau - gains Golem
+Francis Campeau - draws Potion, Silver, Torturer, Talisman, Curse
+ 
+---------- michaeljb: turn 15 ----------
+michaeljb - plays Treasury
+michaeljb - draws Curse
+michaeljb - plays Golem
+michaeljb - reveals Copper, Oasis, Pawn
+michaeljb - discards Copper
+michaeljb - plays Oasis
+michaeljb - draws Torturer
+michaeljb - discards Curse
+michaeljb - plays Pawn
+michaeljb - takes 1 action
+michaeljb - takes 1 coin
+michaeljb - plays Torturer
+michaeljb - draws Pawn, Curse, Copper
+Francis Campeau - discards Curse
+Francis Campeau - discards Talisman
+michaeljb - plays Pawn
+michaeljb - takes 1 action
+michaeljb - takes 1 coin
+michaeljb - plays Possession
+michaeljb - plays Copper
+michaeljb - buys Treasury
+michaeljb - gains Treasury
+michaeljb - places Treasury on top of deck
+michaeljb - draws Treasury, Bishop, Silver
+michaeljb - shuffles deck
+michaeljb - draws Torturer, Golem
+ 
+---------- Francis Campeau: turn 15 [possessed] ----------
+Francis Campeau - plays Torturer
+Francis Campeau - draws Copper, Oasis, Estate
+michaeljb - discards Bishop
+michaeljb - discards Silver
+Francis Campeau - plays 1 Potion, 1 Silver, 1 Copper
+Francis Campeau - buys Silver
+michaeljb - gains Silver
+Francis Campeau - draws Copper, Ironworks, Copper, Estate, Copper
+ 
+---------- Francis Campeau: turn 15 ----------
+Francis Campeau - plays Ironworks
+Francis Campeau - gains Silver
+Francis Campeau - plays Copper
+Francis Campeau - plays Copper
+Francis Campeau - plays Copper
+Francis Campeau - buys Bishop
+Francis Campeau - gains Bishop
+Francis Campeau - draws Trading Post, Possession
+Francis Campeau - shuffles deck
+Francis Campeau - draws Torturer, Bishop, Ironworks
+ 
+---------- michaeljb: turn 16 ----------
+michaeljb - plays Treasury
+michaeljb - draws Silver
+michaeljb - plays Golem
+michaeljb - reveals Curse, Possession, Copper, Copper, Curse, Treasury
+michaeljb - discards: Curse, Copper, Copper, Curse
+michaeljb - plays Treasury
+michaeljb - draws Pawn
+michaeljb - plays Possession
+michaeljb - plays Pawn
+michaeljb - takes 1 action
+michaeljb - takes 1 coin
+michaeljb - plays Torturer
+michaeljb - draws Oasis, Possession, Copper
+Francis Campeau - discards Bishop
+Francis Campeau - discards Possession
+michaeljb - plays 1 Silver, 1 Copper
+michaeljb - buys Duchy
+michaeljb - gains Duchy
+michaeljb - draws Copper, Potion, Torturer, Pawn, Pawn
+ 
+---------- Francis Campeau: turn 16 [possessed] ----------
+Francis Campeau - plays Trading Post
+Francis Campeau - trashes Torturer, Ironworks
+michaeljb - gains Silver
+Francis Campeau - draws Potion, Copper, Silver, Silver, Potion
+ 
+---------- Francis Campeau: turn 16 ----------
+Francis Campeau - plays Potion
+Francis Campeau - plays Silver
+Francis Campeau - plays Silver
+Francis Campeau - plays Copper
+Francis Campeau - plays Potion
+Francis Campeau - buys Golem
+Francis Campeau - gains Golem
+Francis Campeau - draws Estate, Silver, Gold, Oasis, Copper
+ 
+---------- michaeljb: turn 17 ----------
+michaeljb - plays Pawn
+michaeljb - takes 1 action
+michaeljb - takes 1 coin
+michaeljb - plays Pawn
+michaeljb - takes 1 action
+michaeljb - takes 1 coin
+michaeljb - plays Torturer
+michaeljb - draws Copper, Golem, Estate
+Francis Campeau - discards Copper
+Francis Campeau - discards Estate
+michaeljb - plays 2 Copper, 1 Potion
+michaeljb - buys Golem
+michaeljb - gains Golem
+michaeljb - draws Silver
+michaeljb - shuffles deck
+michaeljb - draws Estate, Golem, Golem, Copper
+ 
+---------- Francis Campeau: turn 17 ----------
+Francis Campeau - plays Oasis
+Francis Campeau - draws Pawn
+Francis Campeau - discards Pawn
+Francis Campeau - plays Gold
+Francis Campeau - plays Silver
+Francis Campeau - buys Duchy
+Francis Campeau - gains Duchy
+Francis Campeau - draws Torturer, Copper, Potion, Estate, Curse
+ 
+---------- michaeljb: turn 18 ----------
+michaeljb - plays Golem
+michaeljb - reveals Possession, Copper, Silver, Duchy, Silver, Pawn
+michaeljb - discards: Copper, Silver, Duchy, Silver
+michaeljb - plays Pawn
+michaeljb - takes 1 action
+michaeljb - draws Copper
+michaeljb - plays Possession
+michaeljb - plays Golem
+michaeljb - reveals Possession, Pawn
+michaeljb - plays Pawn
+michaeljb - takes 1 action
+michaeljb - draws Silver
+michaeljb - plays Possession
+michaeljb - plays 2 Silver, 2 Copper
+michaeljb - buys Duchy
+michaeljb - gains Duchy
+michaeljb - draws Pawn, Bishop, Golem, Curse, Treasury
+ 
+---------- Francis Campeau: turn 18 [possessed] ----------
+Francis Campeau - plays Torturer
+Francis Campeau - draws Talisman, Golem, Estate
+michaeljb - discards Curse
+michaeljb - discards Bishop
+Francis Campeau - plays 1 Copper, 1 Potion
+Francis Campeau - plays Talisman
+Francis Campeau - buys Pawn
+michaeljb - gains Pawn
+michaeljb - gains Pawn
+Francis Campeau - draws Copper, Silver, Curse
+Francis Campeau - shuffles deck
+Francis Campeau - draws Gold, Talisman
+ 
+---------- Francis Campeau: turn 18 [possessed] ----------
+Francis Campeau - plays 1 Copper, 1 Silver, 1 Gold
+Francis Campeau - buys Duchy
+michaeljb - gains Duchy
+Francis Campeau - draws Estate, Silver, Trading Post, Potion, Torturer
+ 
+---------- Francis Campeau: turn 18 ----------
+Francis Campeau - plays Torturer
+Francis Campeau - draws Estate, Curse, Potion
+michaeljb - gains Curse
+Francis Campeau - plays Potion
+Francis Campeau - plays Potion
+Francis Campeau - plays Silver
+Francis Campeau - buys Pawn
+Francis Campeau - gains Pawn
+Francis Campeau - draws Oasis, Copper, Ironworks, Potion, Torturer
+ 
+---------- michaeljb: turn 19 ----------
+michaeljb - plays Treasury
+michaeljb - draws Copper
+michaeljb - plays Pawn
+michaeljb - takes 1 coin
+michaeljb - takes 1 action
+michaeljb - plays Golem
+michaeljb - reveals Silver, Potion, Treasury, Curse, Torturer
+michaeljb - discards: Silver, Potion, Curse
+michaeljb - plays Treasury
+michaeljb - draws Copper
+michaeljb - plays Torturer
+michaeljb - draws Torturer, Oasis
+michaeljb - shuffles deck
+michaeljb - draws Curse
+Francis Campeau - discards Ironworks
+Francis Campeau - discards Potion
+michaeljb - plays Oasis
+michaeljb - draws Copper
+michaeljb - discards Curse
+michaeljb - plays Torturer
+michaeljb - draws Bishop, Golem, Silver
+Francis Campeau - gains Curse
+michaeljb - plays 3 Copper, 1 Silver
+michaeljb - buys Province
+michaeljb - gains Province
+michaeljb - draws Silver, Curse, Copper, Possession, Pawn
+ 
+---------- Francis Campeau: turn 19 ----------
+Francis Campeau - plays Oasis
+Francis Campeau - draws Possession
+Francis Campeau - discards Curse
+Francis Campeau - plays Possession
+Francis Campeau - plays Copper
+Francis Campeau - buys Pawn
+Francis Campeau - gains Pawn
+Francis Campeau - draws Silver, Duchy, Silver, Golem, Golem
+ 
+---------- michaeljb: turn 20 [possessed] ----------
+michaeljb - plays Pawn
+michaeljb - takes 1 action
+michaeljb - draws Copper
+michaeljb - plays Possession
+michaeljb - plays Copper
+michaeljb - plays Copper
+michaeljb - plays Silver
+michaeljb - buys Bishop
+Francis Campeau - gains Bishop
+michaeljb - draws Duchy, Silver, Silver, Golem, Potion
+ 
+---------- michaeljb: turn 20 ----------
+michaeljb - plays Golem
+michaeljb - reveals Possession, Pawn
+michaeljb - plays Pawn
+michaeljb - takes 1 coin
+michaeljb - draws Pawn
+michaeljb - plays Possession
+michaeljb - plays 2 Silver, 1 Potion
+michaeljb - buys Duchy
+michaeljb - gains Duchy
+michaeljb - draws Estate, Duchy, Pawn, Silver, Duchy
+ 
+---------- Francis Campeau: turn 20 [possessed] ----------
+Francis Campeau - plays 2 Silver
+Francis Campeau - buys Pawn
+michaeljb - gains Pawn
+Francis Campeau - draws Bishop, Estate, Copper, Copper, Pawn
+ 
+---------- Francis Campeau: turn 20 [possessed] ----------
+Francis Campeau - plays Pawn
+Francis Campeau - takes 1 action
+Francis Campeau - takes 1 coin
+Francis Campeau - plays Bishop
+Francis Campeau - trashes Estate
+Francis Campeau - receives 1 victory point chips
+michaeljb - trashes Estate
+Francis Campeau - plays 2 Copper
+Francis Campeau - buys Pawn
+michaeljb - gains Pawn
+Francis Campeau - shuffles deck
+Francis Campeau - draws Silver, Golem, Pawn, Pawn, Torturer
+ 
+---------- Francis Campeau: turn 20 ----------
+Francis Campeau - plays Pawn
+Francis Campeau - takes 1 action
+Francis Campeau - draws Silver
+Francis Campeau - plays Pawn
+Francis Campeau - takes 1 action
+Francis Campeau - draws Duchy
+Francis Campeau - plays Golem
+Francis Campeau - reveals Curse, Oasis, Ironworks
+Francis Campeau - discards Curse
+Francis Campeau - plays Ironworks
+Francis Campeau - gains Bishop
+Francis Campeau - plays Oasis
+Francis Campeau - draws Curse
+Francis Campeau - discards Curse
+Francis Campeau - plays Torturer
+Francis Campeau - draws Silver, Copper, Gold
+michaeljb - discards Duchy
+michaeljb - discards Duchy
+Francis Campeau - plays Gold
+Francis Campeau - plays Copper
+Francis Campeau - plays Silver
+Francis Campeau - plays Silver
+Francis Campeau - plays Silver
+Francis Campeau - buys Province
+Francis Campeau - gains Province
+Francis Campeau - draws Silver, Trading Post, Copper, Potion, Estate
+ 
+---------- michaeljb: turn 21 ----------
+michaeljb - plays Pawn
+michaeljb - takes 1 coin
+michaeljb - takes 1 buy
+michaeljb - plays Silver
+michaeljb - buys Silver
+michaeljb - gains Silver
+michaeljb - shuffles deck
+michaeljb - draws Curse, Silver, Curse, Treasury, Torturer
+ 
+---------- Francis Campeau: turn 21 ----------
+Francis Campeau - plays Trading Post
+Francis Campeau - trashes Copper, Estate
+Francis Campeau - gains Silver
+Francis Campeau - plays Silver
+Francis Campeau - plays Potion
+Francis Campeau - plays Silver
+Francis Campeau - buys Golem
+Francis Campeau - gains Golem
+Francis Campeau - draws Talisman, Potion, Copper, Bishop, Bishop
+ 
+---------- michaeljb: turn 22 ----------
+michaeljb - plays Treasury
+michaeljb - draws Silver
+michaeljb - plays Torturer
+michaeljb - draws Golem, Possession, Treasury
+Francis Campeau - discards Talisman
+Francis Campeau - discards Copper
+michaeljb - plays 2 Silver
+michaeljb - buys Duchy
+michaeljb - gains Duchy
+michaeljb - draws Silver, Pawn, Copper, Duchy, Possession
+ 
+---------- Francis Campeau: turn 22 ----------
+Francis Campeau - plays Bishop
+Francis Campeau - trashes Potion
+Francis Campeau - receives 2 victory point chips
+Francis Campeau - draws Copper, Curse, Potion, Possession, Estate
+ 
+---------- michaeljb: turn 23 ----------
+michaeljb - plays Pawn
+michaeljb - takes 1 action
+michaeljb - draws Potion
+michaeljb - plays Possession
+michaeljb - plays 1 Silver, 1 Copper, 1 Potion
+michaeljb - buys Estate
+michaeljb - gains Estate
+michaeljb - draws Oasis, Copper, Pawn, Duchy, Pawn
+ 
+---------- Francis Campeau: turn 23 [possessed] ----------
+Francis Campeau - draws Golem, Torturer, Pawn
+Francis Campeau - shuffles deck
+Francis Campeau - draws Silver, Curse
+ 
+---------- Francis Campeau: turn 23 ----------
+Francis Campeau - plays Pawn
+Francis Campeau - takes 1 action
+Francis Campeau - draws Potion
+Francis Campeau - plays Golem
+Francis Campeau - reveals Copper, Potion, Silver, Silver, Gold, Pawn, Golem, Estate, Bishop
+Francis Campeau - discards: Copper, Potion, Silver, Silver, Gold, Golem, Estate
+Francis Campeau - plays Pawn
+Francis Campeau - takes 1 action
+Francis Campeau - draws Duchy
+Francis Campeau - plays Bishop
+Francis Campeau - trashes Torturer
+Francis Campeau - receives 2 victory point chips
+Francis Campeau - plays Silver
+Francis Campeau - plays Potion
+Francis Campeau - buys Silver
+Francis Campeau - gains Silver
+Francis Campeau - draws Copper, Silver, Bishop, Bishop, Possession
+ 
+---------- michaeljb: turn 24 ----------
+michaeljb - plays Oasis
+michaeljb - draws Pawn
+michaeljb - discards Duchy
+michaeljb - plays Pawn
+michaeljb - takes 1 action
+michaeljb - takes 1 coin
+michaeljb - plays Pawn
+michaeljb - takes 1 coin
+michaeljb - takes 1 action
+michaeljb - plays Pawn
+michaeljb - takes 1 coin
+michaeljb - takes 1 buy
+michaeljb - plays Copper
+michaeljb - buys Duchy
+michaeljb - gains Duchy
+michaeljb - draws Silver, Pawn, Pawn, Curse, Duchy
+ 
+---------- Francis Campeau: turn 24 ----------
+Francis Campeau - plays Bishop
+Francis Campeau - trashes Possession
+Francis Campeau - receives 3 victory point chips
+michaeljb - trashes Curse
+Francis Campeau - plays Silver
+Francis Campeau - plays Copper
+Francis Campeau - buys Silver
+Francis Campeau - gains Silver
+Francis Campeau - draws Talisman, Pawn, Silver, Trading Post, Curse
+ 
+---------- michaeljb: turn 25 ----------
+michaeljb - plays Pawn
+michaeljb - takes 1 action
+michaeljb - takes 1 coin
+michaeljb - plays Pawn
+michaeljb - takes 1 coin
+michaeljb - draws Golem
+michaeljb - plays 1 Silver
+michaeljb - buys Estate
+michaeljb - gains Estate
+michaeljb - draws Silver, Duchy, Bishop, Silver, Copper
+ 
+---------- Francis Campeau: turn 25 ----------
+Francis Campeau - plays Pawn
+Francis Campeau - takes 1 action
+Francis Campeau - draws Ironworks
+Francis Campeau - plays Trading Post
+Francis Campeau - trashes Curse, Ironworks
+Francis Campeau - gains Silver
+Francis Campeau - plays Silver
+Francis Campeau - plays Silver
+Francis Campeau - plays Talisman
+Francis Campeau - buys Duchy
+Francis Campeau - gains Duchy
+Francis Campeau - draws Golem, Torturer, Curse, Province, Copper
+ 
+---------- michaeljb: turn 26 ----------
+michaeljb - plays Bishop
+michaeljb - trashes Silver
+michaeljb - receives 1 victory point chips
+Francis Campeau - trashes Curse
+michaeljb - plays 1 Silver, 1 Copper
+michaeljb - buys Estate
+michaeljb - gains Estate
+michaeljb - draws Torturer, Province, Copper, Copper, Pawn
+ 
+---------- Francis Campeau: turn 26 ----------
+Francis Campeau - plays Golem
+Francis Campeau - shuffles deck
+Francis Campeau - reveals Estate, Oasis, Duchy, Silver, Potion, Silver, Silver, Silver, Trading Post
+Francis Campeau - discards: Estate, Duchy, Silver, Potion, Silver, Silver, Silver
+Francis Campeau - plays Oasis
+Francis Campeau - draws Curse
+Francis Campeau - discards Province
+Francis Campeau - plays Trading Post
+Francis Campeau - trashes Curse, Copper
+Francis Campeau - gains Silver
+Francis Campeau - plays Torturer
+Francis Campeau - draws Bishop, Pawn, Bishop
+michaeljb - discards Province
+michaeljb - discards Copper
+Francis Campeau - plays Silver
+Francis Campeau - buys Estate
+Francis Campeau - gains Estate
+Francis Campeau - draws Talisman, Potion, Silver, Golem, Silver
+ 
+---------- michaeljb: turn 27 ----------
+michaeljb - plays Pawn
+michaeljb - takes 1 action
+michaeljb - takes 1 buy
+michaeljb - plays Torturer
+michaeljb - draws Golem
+michaeljb - shuffles deck
+michaeljb - draws Pawn, Potion
+Francis Campeau - gains Curse
+michaeljb - draws Pawn, Silver, Duchy, Golem, Possession
+ 
+---------- Francis Campeau: turn 27 ----------
+Francis Campeau - plays Golem
+Francis Campeau - reveals Copper, Silver, Bishop, Copper, Golem, Gold, Pawn
+Francis Campeau - discards: Copper, Silver, Copper, Golem, Gold
+Francis Campeau - plays Pawn
+Francis Campeau - takes 1 action
+Francis Campeau - draws Silver
+Francis Campeau - plays Bishop
+Francis Campeau - trashes Curse
+Francis Campeau - receives 0 victory point chips
+Francis Campeau - plays Silver
+Francis Campeau - plays Silver
+Francis Campeau - plays Potion
+Francis Campeau - plays Silver
+Francis Campeau - plays Talisman
+Francis Campeau - buys Province
+Francis Campeau - gains Province
+Francis Campeau - draws Estate, Pawn, Duchy
+Francis Campeau - shuffles deck
+Francis Campeau - draws Golem, Gold
+ 
+---------- michaeljb: turn 28 ----------
+michaeljb - plays Pawn
+michaeljb - takes 1 action
+michaeljb - draws Copper
+michaeljb - plays Golem
+michaeljb - reveals Duchy, Oasis, Golem, Possession
+michaeljb - discards: Duchy, Golem
+michaeljb - plays Oasis
+michaeljb - draws Curse
+michaeljb - discards Duchy
+michaeljb - plays Possession
+michaeljb - plays Possession
+michaeljb - plays 1 Silver, 1 Copper
+michaeljb - buys Estate
+michaeljb - gains Estate
+michaeljb - draws Estate, Copper, Treasury, Estate, Silver
+ 
+---------- Francis Campeau: turn 28 [possessed] ----------
+Francis Campeau - plays Pawn
+Francis Campeau - takes 1 action
+Francis Campeau - takes 1 coin
+Francis Campeau - plays Golem
+Francis Campeau - reveals Potion, Trading Post, Golem, Silver, Estate, Potion, Bishop
+Francis Campeau - discards: Potion, Golem, Silver, Estate, Potion
+Francis Campeau - plays Bishop
+Francis Campeau - trashes Estate
+Francis Campeau - receives 1 victory point chips
+Francis Campeau - plays Trading Post
+Francis Campeau - trashes Duchy, Gold
+michaeljb - gains Silver
+Francis Campeau - buys Estate
+michaeljb - gains Estate
+Francis Campeau - draws Silver, Talisman, Copper, Torturer, Pawn
+ 
+---------- Francis Campeau: turn 28 [possessed] ----------
+Francis Campeau - plays Pawn
+Francis Campeau - takes 1 action
+Francis Campeau - takes 1 coin
+Francis Campeau - plays Torturer
+Francis Campeau - draws Golem, Silver, Silver
+michaeljb - discards Estate
+michaeljb - discards Estate
+Francis Campeau - plays 3 Silver, 1 Copper
+Francis Campeau - buys Province
+michaeljb - gains Province
+Francis Campeau - draws Silver, Copper, Province, Pawn, Silver
+ 
+---------- Francis Campeau: turn 28 ----------
+Francis Campeau - plays Pawn
+Francis Campeau - takes 1 action
+Francis Campeau - draws Bishop
+Francis Campeau - plays Bishop
+Francis Campeau - trashes Copper
+Francis Campeau - receives 0 victory point chips
+Francis Campeau - plays Silver
+Francis Campeau - plays Silver
+Francis Campeau - buys Silver
+Francis Campeau - gains Silver
+Francis Campeau - draws Duchy, Silver, Bishop, Silver, Silver
+ 
+---------- michaeljb: turn 29 ----------
+michaeljb - plays Treasury
+michaeljb - draws Province
+michaeljb - plays 1 Copper, 1 Silver
+michaeljb - buys Estate
+michaeljb - gains Estate
+michaeljb - draws Pawn, Duchy, Duchy, Silver, Silver
+ 
+---------- Francis Campeau: turn 29 ----------
+Francis Campeau - plays Bishop
+Francis Campeau - trashes Silver
+Francis Campeau - receives 1 victory point chips
+Francis Campeau - plays Silver
+Francis Campeau - plays Silver
+Francis Campeau - buys Treasury
+Francis Campeau - gains Treasury
+Francis Campeau - draws Province, Oasis, Estate
+Francis Campeau - shuffles deck
+Francis Campeau - draws Silver, Silver
+ 
+---------- michaeljb: turn 30 ----------
+michaeljb - plays Pawn
+michaeljb - takes 1 coin
+michaeljb - draws Silver
+michaeljb - plays 3 Silver
+michaeljb - buys Estate
+michaeljb - gains Estate
+michaeljb - draws Copper, Estate, Treasury, Curse, Pawn
+ 
+------------ Game Over ------------
+michaeljb - cards: 7 Pawn, 3 Golem, 2 Treasury, 2 Torturer, 2 Possession, 1 Bishop, 1 Oasis, 6 Silver, 5 Copper, 1 Potion, 7 Estate, 6 Duchy, 2 Province, 2 Curse
+michaeljb - victory point chips: 8
+michaeljb - total victory points: 43
+michaeljb - turns: 30
+ 
+Francis Campeau - cards: 3 Pawn, 3 Golem, 3 Bishop, 1 Trading Post, 1 Oasis, 1 Torturer, 1 Treasury, 9 Silver, 2 Potion, 1 Copper, 1 Gold, 1 Talisman, 3 Estate, 2 Duchy, 2 Province
+Francis Campeau - victory point chips: 18
+Francis Campeau - total victory points: 39
+Francis Campeau - turns: 29
+ 
+1st place: michaeljb
+2nd place: Francis Campeau
+ 

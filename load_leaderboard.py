@@ -18,11 +18,12 @@ log.addHandler(logging.NullHandler())
 
 def main():
     filename_pattern = re.compile(r'^(?P<date>\d\d\d\d-\d\d-\d\d)\.html\.bz2$')
-    leaderboard_pattern = re.compile(r'<td>(?P<skill_mean>-?\d+\.\d+) &plusmn; ' + \
+    iso_leaderboard_pattern = re.compile(r'<td>(?P<skill_mean>-?\d+\.\d+) &plusmn; ' + \
                                      r'(?P<skill_error>-?\d+\.\d+)</td><td class=c2>' + \
                                      r'(?P<rank>\d+)</td><td class=c>' + \
                                      r'(?P<eligible_games_played>\d+)</td><td>' + \
                                      r'(?P<nickname>[^<]*) <')
+    goko_leaderboard_pattern = re.compile(r'\s+<td class="leaders-table-item table-item-rank">(?P<rank>\d+)</td>\s*\n' + r'\s*<td class="leaders-table-item table-item-name"><img [^>]*>(?P<nickname>.*)</td>\s*\n' + r'\s*<td class="leaders-table-item table-item-points">(?P<skill_mean>\d+)</td>')
 
     database = utils.get_mongo_database()
     history_collection = database.leaderboard_history
@@ -66,7 +67,7 @@ def main():
 
         pos = 0
         while True:
-            match = leaderboard_pattern.search(content, pos)
+            match = iso_leaderboard_pattern.search(content, pos)
             if not match:
                 break
 
@@ -87,6 +88,28 @@ def main():
             last_rank = rank
             pos = match.end()
 
+        pos = 0
+        while True:
+            match = goko_leaderboard_pattern.search(content, pos)
+            if not match:
+                break
+
+            num_matches += 1
+            skill_mean = float(match.group('skill_mean'))
+            skill_error = 0
+            rank = int(match.group('rank'))
+            eligible_games_played = 0
+            nickname = match.group('nickname')
+
+            normed_nickname = nickname
+
+            if normed_nickname not in nickname_to_entry:
+                nickname_to_entry[normed_nickname] = [date, skill_mean, skill_error, rank, eligible_games_played]
+            else:
+                log.info('normed nickname %s already exists for %s', normed_nickname, date)
+
+            last_rank = rank
+            pos = match.end()
         log.info('%d entries matched', num_matches)
 
         if num_matches == 0:

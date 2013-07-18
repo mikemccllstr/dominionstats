@@ -1,0 +1,662 @@
+------------ Game Setup ------------
+Supply cards: Moat, Chancellor, Village, Workshop, Remodel, Spy, Thief, Throne Room, Library, Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+KeyNoir - starting cards: Copper, Copper, Copper, Copper, Copper, Copper, Copper, Estate, Estate, Estate
+Lady Sarra - starting cards: Copper, Copper, Copper, Copper, Copper, Copper, Copper, Estate, Estate, Estate
+KeyNoir - shuffles deck
+Lady Sarra - shuffles deck
+KeyNoir - draws Copper, Copper, Copper, Estate, Copper
+Lady Sarra - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Lady Sarra: turn 1 ----------
+Lady Sarra - plays 3 Copper
+Lady Sarra - buys Silver
+Lady Sarra - gains Silver
+Lady Sarra - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- KeyNoir: turn 1 ----------
+KeyNoir - plays 4 Copper
+KeyNoir - buys Thief
+KeyNoir - gains Thief
+KeyNoir - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Lady Sarra: turn 2 ----------
+Lady Sarra - plays 4 Copper
+Lady Sarra - buys Spy
+Lady Sarra - gains Spy
+Lady Sarra - shuffles deck
+Lady Sarra - draws Copper, Copper, Silver, Copper, Spy
+ 
+---------- KeyNoir: turn 2 ----------
+KeyNoir - plays 3 Copper
+KeyNoir - buys Village
+KeyNoir - gains Village
+KeyNoir - shuffles deck
+KeyNoir - draws Copper, Village, Estate, Copper, Copper
+ 
+---------- Lady Sarra: turn 3 ----------
+Lady Sarra - plays Spy
+Lady Sarra - draws Copper
+Lady Sarra - discards Estate
+KeyNoir - places Copper on top of deck
+Lady Sarra - plays 4 Copper, 1 Silver
+Lady Sarra - buys Gold
+Lady Sarra - gains Gold
+Lady Sarra - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- KeyNoir: turn 3 ----------
+KeyNoir - plays Village
+KeyNoir - draws Copper
+KeyNoir - plays 4 Copper
+KeyNoir - buys Throne Room
+KeyNoir - gains Throne Room
+KeyNoir - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Lady Sarra: turn 4 ----------
+Lady Sarra - plays 3 Copper
+Lady Sarra - buys Workshop
+Lady Sarra - gains Workshop
+Lady Sarra - shuffles deck
+Lady Sarra - draws Gold, Copper, Silver, Estate, Estate
+ 
+---------- KeyNoir: turn 4 ----------
+KeyNoir - plays 3 Copper
+KeyNoir - buys Village
+KeyNoir - gains Village
+KeyNoir - draws Thief
+KeyNoir - shuffles deck
+KeyNoir - draws Copper, Copper, Copper, Copper
+ 
+---------- Lady Sarra: turn 5 ----------
+Lady Sarra - plays 1 Gold, 1 Copper, 1 Silver
+Lady Sarra - buys Gold
+Lady Sarra - gains Gold
+Lady Sarra - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- KeyNoir: turn 5 ----------
+KeyNoir - plays Thief
+Lady Sarra - reveals: Workshop, Copper
+KeyNoir - trashes Copper
+Lady Sarra - discards Workshop
+KeyNoir - plays 4 Copper
+KeyNoir - buys Throne Room
+KeyNoir - gains Throne Room
+KeyNoir - draws Throne Room, Copper, Copper, Estate, Estate
+ 
+---------- Lady Sarra: turn 6 ----------
+Lady Sarra - plays 4 Copper
+Lady Sarra - buys Throne Room
+Lady Sarra - gains Throne Room
+Lady Sarra - draws Spy, Copper
+Lady Sarra - shuffles deck
+Lady Sarra - draws Workshop, Estate, Silver
+ 
+---------- KeyNoir: turn 6 ----------
+KeyNoir - plays Throne Room
+KeyNoir - plays 2 Copper
+KeyNoir - buys Moat
+KeyNoir - gains Moat
+KeyNoir - draws Estate, Copper, Village, Village
+KeyNoir - shuffles deck
+KeyNoir - draws Copper
+ 
+---------- Lady Sarra: turn 7 ----------
+Lady Sarra - plays Spy
+Lady Sarra - draws Gold
+Lady Sarra - places Gold on top of deck
+KeyNoir - places Estate on top of deck
+Lady Sarra - plays Workshop
+Lady Sarra - gains Spy
+Lady Sarra - plays 1 Copper, 1 Silver, 1 Gold
+Lady Sarra - buys Gold
+Lady Sarra - gains Gold
+Lady Sarra - draws Gold, Copper, Copper, Throne Room, Copper
+ 
+---------- KeyNoir: turn 7 ----------
+KeyNoir - plays Village
+KeyNoir - draws Estate
+KeyNoir - plays Village
+KeyNoir - draws Estate
+KeyNoir - plays 2 Copper
+KeyNoir - buys Moat
+KeyNoir - gains Moat
+KeyNoir - draws Copper, Throne Room, Copper, Copper, Moat
+ 
+---------- Lady Sarra: turn 8 ----------
+Lady Sarra - plays 3 Copper, 1 Gold
+Lady Sarra - buys Gold
+Lady Sarra - gains Gold
+Lady Sarra - draws Estate, Estate, Copper, Copper
+Lady Sarra - shuffles deck
+Lady Sarra - draws Copper
+ 
+---------- KeyNoir: turn 8 ----------
+KeyNoir - plays Throne Room
+KeyNoir - plays Moat
+KeyNoir - draws Copper, Copper
+KeyNoir - plays Moat
+KeyNoir - draws Throne Room, Thief
+KeyNoir - plays 5 Copper
+KeyNoir - buys Library
+KeyNoir - gains Library
+KeyNoir - shuffles deck
+KeyNoir - draws Library, Throne Room, Estate, Copper, Copper
+ 
+---------- Lady Sarra: turn 9 ----------
+Lady Sarra - plays 3 Copper
+Lady Sarra - buys Workshop
+Lady Sarra - gains Workshop
+Lady Sarra - draws Spy, Throne Room, Copper, Gold, Copper
+ 
+---------- KeyNoir: turn 9 ----------
+KeyNoir - plays Throne Room
+KeyNoir - plays Library
+KeyNoir - discards Throne Room
+KeyNoir - draws Copper
+KeyNoir - discards Moat
+KeyNoir - draws Estate
+KeyNoir - discards Thief
+KeyNoir - draws Copper
+KeyNoir - discards Village
+KeyNoir - discards Village
+KeyNoir - draws Copper
+KeyNoir - discards: Throne Room, Moat, Thief, Village, Village
+KeyNoir - plays Library
+KeyNoir - plays 5 Copper
+KeyNoir - buys Market
+KeyNoir - gains Market
+KeyNoir - draws Copper, Estate, Copper, Moat
+KeyNoir - shuffles deck
+KeyNoir - draws Village
+ 
+---------- Lady Sarra: turn 10 ----------
+Lady Sarra - plays Throne Room
+Lady Sarra - plays Spy
+KeyNoir - reveals reaction Moat
+Lady Sarra - draws Estate
+Lady Sarra - places Spy on top of deck
+Lady Sarra - plays Spy
+KeyNoir - reveals reaction Moat
+Lady Sarra - draws Spy
+Lady Sarra - places Gold on top of deck
+Lady Sarra - plays Spy
+KeyNoir - reveals reaction Moat
+Lady Sarra - draws Gold
+Lady Sarra - places Silver on top of deck
+Lady Sarra - plays 2 Copper, 2 Gold
+Lady Sarra - buys Province
+Lady Sarra - gains Province
+Lady Sarra - draws Silver, Gold, Gold, Workshop, Copper
+ 
+---------- KeyNoir: turn 10 ----------
+KeyNoir - plays Village
+KeyNoir - draws Copper
+KeyNoir - plays Moat
+KeyNoir - draws Market, Village
+KeyNoir - plays Village
+KeyNoir - draws Estate
+KeyNoir - plays Market
+KeyNoir - draws Throne Room
+KeyNoir - plays Throne Room
+KeyNoir - plays 3 Copper
+KeyNoir - buys Spy
+KeyNoir - gains Spy
+KeyNoir - draws Copper, Copper, Throne Room, Estate, Library
+ 
+---------- Lady Sarra: turn 11 ----------
+Lady Sarra - plays Workshop
+Lady Sarra - gains Spy
+Lady Sarra - plays 2 Gold, 1 Silver, 1 Copper
+Lady Sarra - buys Province
+Lady Sarra - gains Province
+Lady Sarra - shuffles deck
+Lady Sarra - draws Copper, Gold, Copper, Spy, Throne Room
+ 
+---------- KeyNoir: turn 11 ----------
+KeyNoir - plays Throne Room
+KeyNoir - plays Library
+KeyNoir - draws Copper
+KeyNoir - discards Moat
+KeyNoir - draws Copper
+KeyNoir - discards Thief
+KeyNoir - shuffles deck
+KeyNoir - discards Throne Room
+KeyNoir - discards Moat
+KeyNoir - discards Village
+KeyNoir - discards Spy
+KeyNoir - discards Village
+KeyNoir - draws Copper
+KeyNoir - discards Market
+KeyNoir - draws Copper
+KeyNoir - discards: Moat, Thief, Throne Room, Moat, Village, Spy, Village, Market
+KeyNoir - plays Library
+KeyNoir - plays 6 Copper
+KeyNoir - buys Gold
+KeyNoir - gains Gold
+KeyNoir - draws Estate, Estate, Copper
+KeyNoir - shuffles deck
+KeyNoir - draws Spy, Copper
+ 
+---------- Lady Sarra: turn 12 ----------
+Lady Sarra - plays Throne Room
+Lady Sarra - plays Spy
+Lady Sarra - draws Estate
+Lady Sarra - places Gold on top of deck
+KeyNoir - discards Moat
+Lady Sarra - plays Spy
+Lady Sarra - draws Gold
+Lady Sarra - discards Copper
+KeyNoir - discards Market
+Lady Sarra - plays 2 Copper, 2 Gold
+Lady Sarra - buys Province
+Lady Sarra - gains Province
+Lady Sarra - draws Gold, Province, Copper, Silver, Province
+ 
+---------- KeyNoir: turn 12 ----------
+KeyNoir - plays Spy
+KeyNoir - draws Gold
+KeyNoir - discards Copper
+Lady Sarra - places Copper on top of deck
+KeyNoir - plays 2 Copper, 1 Gold
+KeyNoir - buys Market
+KeyNoir - gains Market
+KeyNoir - draws Throne Room, Village, Village, Copper, Throne Room
+ 
+---------- Lady Sarra: turn 13 ----------
+Lady Sarra - plays 1 Gold, 1 Copper, 1 Silver
+Lady Sarra - buys Gold
+Lady Sarra - gains Gold
+Lady Sarra - draws Copper, Gold, Workshop, Spy, Copper
+ 
+---------- KeyNoir: turn 13 ----------
+KeyNoir - plays Throne Room
+KeyNoir - plays Throne Room
+KeyNoir - plays Village
+KeyNoir - draws Copper
+KeyNoir - plays Village
+KeyNoir - draws Thief
+KeyNoir - plays Throne Room
+KeyNoir - plays Thief
+Lady Sarra - reveals: Estate, Spy
+Lady Sarra - discards: Estate, Spy
+KeyNoir - plays Thief
+Lady Sarra - reveals: Workshop, Estate
+Lady Sarra - discards: Workshop, Estate
+KeyNoir - plays Village
+KeyNoir - draws Copper
+KeyNoir - plays 3 Copper
+KeyNoir - buys Village
+KeyNoir - gains Village
+KeyNoir - draws Estate, Library, Moat, Copper
+KeyNoir - shuffles deck
+KeyNoir - draws Copper
+ 
+---------- Lady Sarra: turn 14 ----------
+Lady Sarra - plays Spy
+KeyNoir - reveals reaction Moat
+Lady Sarra - shuffles deck
+Lady Sarra - draws Workshop
+Lady Sarra - discards Estate
+Lady Sarra - plays Workshop
+Lady Sarra - gains Throne Room
+Lady Sarra - plays 2 Copper, 1 Gold
+Lady Sarra - buys Market
+Lady Sarra - gains Market
+Lady Sarra - draws Spy, Copper, Estate, Estate, Gold
+ 
+---------- KeyNoir: turn 14 ----------
+KeyNoir - plays Library
+KeyNoir - discards Village
+KeyNoir - discards Spy
+KeyNoir - discards Thief
+KeyNoir - draws Copper
+KeyNoir - discards Village
+KeyNoir - draws Copper
+KeyNoir - draws Copper
+KeyNoir - discards: Village, Spy, Thief, Village
+KeyNoir - plays 5 Copper
+KeyNoir - buys Market
+KeyNoir - gains Market
+KeyNoir - draws Market, Estate, Estate, Market, Copper
+ 
+---------- Lady Sarra: turn 15 ----------
+Lady Sarra - plays Spy
+Lady Sarra - draws Copper
+Lady Sarra - places Gold on top of deck
+KeyNoir - discards Gold
+Lady Sarra - plays 2 Copper, 1 Gold
+Lady Sarra - buys Market
+Lady Sarra - gains Market
+Lady Sarra - draws Gold, Province, Province, Province, Throne Room
+ 
+---------- KeyNoir: turn 15 ----------
+KeyNoir - plays Market
+KeyNoir - draws Throne Room
+KeyNoir - plays Throne Room
+KeyNoir - plays Market
+KeyNoir - draws Moat
+KeyNoir - plays Market
+KeyNoir - draws Village
+KeyNoir - plays Village
+KeyNoir - draws Copper
+KeyNoir - plays Moat
+KeyNoir - draws Throne Room
+KeyNoir - shuffles deck
+KeyNoir - draws Copper
+KeyNoir - plays Throne Room
+KeyNoir - plays 3 Copper
+KeyNoir - buys Gold
+KeyNoir - gains Gold
+KeyNoir - draws Spy, Library, Thief, Moat, Copper
+ 
+---------- Lady Sarra: turn 16 ----------
+Lady Sarra - plays 1 Gold
+Lady Sarra - buys Village
+Lady Sarra - gains Village
+Lady Sarra - draws Copper, Silver, Spy, Gold, Copper
+ 
+---------- KeyNoir: turn 16 ----------
+KeyNoir - plays Spy
+KeyNoir - draws Estate
+KeyNoir - discards Copper
+Lady Sarra - discards Gold
+KeyNoir - plays Library
+KeyNoir - draws Copper
+KeyNoir - discards Village
+KeyNoir - discards Market
+KeyNoir - discards Village
+KeyNoir - draws Gold
+KeyNoir - draws Copper
+KeyNoir - discards: Village, Market, Village
+KeyNoir - plays 3 Copper, 1 Gold
+KeyNoir - buys Gold
+KeyNoir - gains Gold
+KeyNoir - shuffles deck
+KeyNoir - draws Estate, Throne Room, Library, Copper, Moat
+ 
+---------- Lady Sarra: turn 17 ----------
+Lady Sarra - plays Spy
+KeyNoir - reveals reaction Moat
+Lady Sarra - shuffles deck
+Lady Sarra - draws Estate
+Lady Sarra - places Village on top of deck
+Lady Sarra - plays 2 Copper, 1 Silver, 1 Gold
+Lady Sarra - buys Gold
+Lady Sarra - gains Gold
+Lady Sarra - draws Village, Estate, Copper, Gold, Throne Room
+ 
+---------- KeyNoir: turn 17 ----------
+KeyNoir - plays Throne Room
+KeyNoir - plays Moat
+KeyNoir - draws Copper, Gold
+KeyNoir - plays Moat
+KeyNoir - draws Copper, Village
+KeyNoir - plays 3 Copper, 1 Gold
+KeyNoir - buys Gold
+KeyNoir - gains Gold
+KeyNoir - draws Moat, Estate, Market, Estate, Thief
+ 
+---------- Lady Sarra: turn 18 ----------
+Lady Sarra - plays Throne Room
+Lady Sarra - plays Village
+Lady Sarra - draws Province
+Lady Sarra - plays Village
+Lady Sarra - draws Workshop
+Lady Sarra - plays Workshop
+Lady Sarra - gains Spy
+Lady Sarra - plays 1 Copper, 1 Gold
+Lady Sarra - buys Throne Room
+Lady Sarra - gains Throne Room
+Lady Sarra - draws Copper, Copper, Gold, Market, Province
+ 
+---------- KeyNoir: turn 18 ----------
+KeyNoir - plays Market
+KeyNoir - draws Spy
+KeyNoir - plays Spy
+KeyNoir - draws Gold
+KeyNoir - discards Copper
+Lady Sarra - places Copper on top of deck
+KeyNoir - plays Moat
+KeyNoir - draws Copper, Market
+KeyNoir - plays 1 Gold, 1 Copper
+KeyNoir - buys Market
+KeyNoir - gains Market
+KeyNoir - draws Village, Village, Market, Gold, Throne Room
+ 
+---------- Lady Sarra: turn 19 ----------
+Lady Sarra - plays Market
+Lady Sarra - draws Copper
+Lady Sarra - plays 3 Copper, 1 Gold
+Lady Sarra - buys Throne Room
+Lady Sarra - gains Throne Room
+Lady Sarra - buys Village
+Lady Sarra - gains Village
+Lady Sarra - draws Spy, Province, Gold, Throne Room, Spy
+ 
+---------- KeyNoir: turn 19 ----------
+KeyNoir - plays Throne Room
+KeyNoir - plays Village
+KeyNoir - draws Copper
+KeyNoir - plays Village
+KeyNoir - draws Copper
+KeyNoir - plays Village
+KeyNoir - shuffles deck
+KeyNoir - draws Spy
+KeyNoir - plays Spy
+KeyNoir - draws Copper
+KeyNoir - places Moat on top of deck
+Lady Sarra - discards Market
+KeyNoir - plays Market
+KeyNoir - draws Moat
+KeyNoir - plays Moat
+KeyNoir - draws Market, Market
+KeyNoir - plays Market
+KeyNoir - draws Copper
+KeyNoir - plays Market
+KeyNoir - draws Moat
+KeyNoir - plays Moat
+KeyNoir - draws Copper, Throne Room
+KeyNoir - plays Throne Room
+KeyNoir - plays 5 Copper, 1 Gold
+KeyNoir - buys Province
+KeyNoir - gains Province
+KeyNoir - buys Village
+KeyNoir - gains Village
+KeyNoir - draws Library, Copper, Gold, Estate, Copper
+ 
+---------- Lady Sarra: turn 20 ----------
+Lady Sarra - plays Throne Room
+Lady Sarra - plays Spy
+Lady Sarra - draws Gold
+Lady Sarra - places Workshop on top of deck
+KeyNoir - discards Gold
+Lady Sarra - plays Spy
+Lady Sarra - draws Workshop
+Lady Sarra - discards Estate
+KeyNoir - places Estate on top of deck
+Lady Sarra - plays Spy
+Lady Sarra - shuffles deck
+Lady Sarra - draws Spy
+Lady Sarra - discards Copper
+KeyNoir - places Estate on top of deck
+Lady Sarra - plays Spy
+Lady Sarra - draws Spy
+Lady Sarra - discards Copper
+KeyNoir - places Estate on top of deck
+Lady Sarra - plays Spy
+Lady Sarra - draws Province
+Lady Sarra - discards Copper
+KeyNoir - places Estate on top of deck
+Lady Sarra - plays Workshop
+Lady Sarra - gains Throne Room
+Lady Sarra - plays 2 Gold
+Lady Sarra - buys Gold
+Lady Sarra - gains Gold
+Lady Sarra - draws Gold, Copper, Copper, Throne Room, Estate
+ 
+---------- KeyNoir: turn 20 ----------
+KeyNoir - plays Library
+KeyNoir - draws Estate
+KeyNoir - discards Thief
+KeyNoir - draws Gold
+KeyNoir - discards Village
+KeyNoir - discards Market
+KeyNoir - draws Estate
+KeyNoir - discards: Thief, Village, Market
+KeyNoir - plays 2 Copper, 2 Gold
+KeyNoir - buys Province
+KeyNoir - gains Province
+KeyNoir - shuffles deck
+KeyNoir - draws Market, Copper, Thief, Village, Market
+ 
+---------- Lady Sarra: turn 21 ----------
+Lady Sarra - plays 2 Copper, 1 Gold
+Lady Sarra - buys Duchy
+Lady Sarra - gains Duchy
+Lady Sarra - draws Copper, Silver, Gold, Throne Room, Workshop
+ 
+---------- KeyNoir: turn 21 ----------
+KeyNoir - plays Village
+KeyNoir - draws Copper
+KeyNoir - plays Market
+KeyNoir - draws Estate
+KeyNoir - plays Market
+KeyNoir - draws Gold
+KeyNoir - plays Thief
+Lady Sarra - reveals: Estate, Gold
+KeyNoir - trashes Gold
+Lady Sarra - discards Estate
+KeyNoir - gains Gold
+KeyNoir - plays 2 Copper, 1 Gold
+KeyNoir - buys Duchy
+KeyNoir - gains Duchy
+KeyNoir - buys Moat
+KeyNoir - gains Moat
+KeyNoir - draws Market, Throne Room, Estate, Throne Room, Moat
+ 
+---------- Lady Sarra: turn 22 ----------
+Lady Sarra - plays Throne Room
+Lady Sarra - plays Workshop
+Lady Sarra - gains Spy
+Lady Sarra - plays Workshop
+Lady Sarra - gains Spy
+Lady Sarra - plays 1 Copper, 1 Silver, 1 Gold
+Lady Sarra - buys Duchy
+Lady Sarra - gains Duchy
+Lady Sarra - draws Gold, Market, Village, Market, Throne Room
+ 
+---------- KeyNoir: turn 22 ----------
+KeyNoir - plays Throne Room
+KeyNoir - plays Throne Room
+KeyNoir - plays Market
+KeyNoir - draws Village
+KeyNoir - plays Market
+KeyNoir - draws Village
+KeyNoir - plays Throne Room
+KeyNoir - plays Moat
+KeyNoir - draws Estate, Market
+KeyNoir - plays Moat
+KeyNoir - draws Spy, Library
+KeyNoir - plays Village
+KeyNoir - draws Province
+KeyNoir - plays Village
+KeyNoir - draws Copper
+KeyNoir - plays Market
+KeyNoir - draws Province
+KeyNoir - plays Spy
+KeyNoir - draws Village
+KeyNoir - discards Copper
+Lady Sarra - places Estate on top of deck
+KeyNoir - plays Village
+KeyNoir - draws Gold
+KeyNoir - plays Library
+KeyNoir - draws Gold
+KeyNoir - plays 2 Gold, 1 Copper
+KeyNoir - buys Province
+KeyNoir - gains Province
+KeyNoir - buys Moat
+KeyNoir - gains Moat
+KeyNoir - draws Copper, Moat, Copper, Copper, Gold
+ 
+---------- Lady Sarra: turn 23 ----------
+Lady Sarra - plays Throne Room
+Lady Sarra - plays Market
+Lady Sarra - draws Estate
+Lady Sarra - plays Market
+Lady Sarra - draws Village
+Lady Sarra - plays Village
+Lady Sarra - draws Province
+Lady Sarra - plays Village
+Lady Sarra - shuffles deck
+Lady Sarra - draws Gold
+Lady Sarra - plays Market
+Lady Sarra - draws Gold
+Lady Sarra - plays 3 Gold
+Lady Sarra - buys Province
+Lady Sarra - gains Province
+Lady Sarra - buys Estate
+Lady Sarra - gains Estate
+Lady Sarra - buys Estate
+Lady Sarra - gains Estate
+Lady Sarra - draws Province, Spy, Throne Room, Gold, Duchy
+ 
+---------- KeyNoir: turn 23 ----------
+KeyNoir - plays Moat
+KeyNoir - shuffles deck
+KeyNoir - draws Village, Thief
+KeyNoir - plays 3 Copper, 1 Gold
+KeyNoir - buys Duchy
+KeyNoir - gains Duchy
+KeyNoir - draws Gold, Moat, Copper, Market, Province
+ 
+---------- Lady Sarra: turn 24 ----------
+Lady Sarra - plays Throne Room
+Lady Sarra - plays Spy
+KeyNoir - reveals reaction Moat
+Lady Sarra - draws Copper
+Lady Sarra - places Spy on top of deck
+Lady Sarra - plays Spy
+KeyNoir - reveals reaction Moat
+Lady Sarra - draws Spy
+Lady Sarra - discards Copper
+Lady Sarra - plays Spy
+KeyNoir - reveals reaction Moat
+Lady Sarra - draws Silver
+Lady Sarra - discards Copper
+Lady Sarra - plays 1 Gold, 1 Copper, 1 Silver
+Lady Sarra - buys Duchy
+Lady Sarra - gains Duchy
+Lady Sarra - draws Spy, Copper, Throne Room, Province, Throne Room
+ 
+---------- KeyNoir: turn 24 ----------
+KeyNoir - plays Market
+KeyNoir - draws Market
+KeyNoir - plays Market
+KeyNoir - draws Market
+KeyNoir - plays Market
+KeyNoir - draws Library
+KeyNoir - plays Library
+KeyNoir - draws Estate
+KeyNoir - discards Moat
+KeyNoir - draws Gold
+KeyNoir - discards Spy
+KeyNoir - draws Province
+KeyNoir - discards: Moat, Spy
+KeyNoir - plays 2 Gold, 1 Copper
+KeyNoir - buys Province
+KeyNoir - gains Province
+KeyNoir - buys Estate
+KeyNoir - gains Estate
+KeyNoir - draws Province, Duchy, Copper, Village, Village
+ 
+------------ Game Over ------------
+Lady Sarra - cards: 6 Spy, 5 Throne Room, 2 Workshop, 2 Village, 2 Market, 6 Copper, 6 Gold, 1 Silver, 5 Estate, 4 Province, 3 Duchy
+Lady Sarra - total victory points: 38
+Lady Sarra - turns: 24
+ 
+KeyNoir - cards: 4 Village, 4 Moat, 4 Market, 2 Throne Room, 1 Library, 1 Thief, 1 Spy, 7 Copper, 5 Gold, 4 Estate, 4 Province, 2 Duchy
+KeyNoir - total victory points: 34
+KeyNoir - turns: 24
+ 
+1st place: Lady Sarra
+2nd place: KeyNoir
+ 

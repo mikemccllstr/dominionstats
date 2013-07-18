@@ -1,0 +1,717 @@
+------------ Game Setup ------------
+Supply cards: Poor House, Beggar, Forager, Market Square, Marauder, Bandit Camp, Counterfeit, Pillage, Rebuild, Rogue, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+attrill - starting cards: Copper, Copper, Copper, Copper, Copper, Copper, Silver, Hovel, Overgrown Estate, Necropolis
+Bonifacius - starting cards: Copper, Copper, Copper, Copper, Copper, Copper, Copper, Duchy, Duchy, Overgrown Estate
+Soldier - starting cards: Copper, Copper, Copper, Copper, Copper, Copper, Copper, Estate, Estate, Estate
+attrill - shuffles deck
+Bonifacius - shuffles deck
+Soldier - shuffles deck
+attrill - draws Necropolis, Hovel, Copper, Copper, Copper
+Bonifacius - draws Copper, Copper, Copper, Copper, Copper
+Soldier - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- attrill: turn 1 ----------
+attrill - plays 3 Copper
+attrill - buys Forager
+attrill - gains Forager
+attrill - draws Copper, Overgrown Estate, Silver, Copper, Copper
+ 
+---------- Bonifacius: turn 1 ----------
+Bonifacius - plays 5 Copper
+Bonifacius - buys Counterfeit
+Bonifacius - gains Counterfeit
+Bonifacius - draws Copper, Overgrown Estate, Copper, Duchy, Duchy
+ 
+---------- Soldier: turn 1 ----------
+Soldier - plays 3 Copper
+Soldier - buys Silver
+Soldier - gains Silver
+Soldier - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- attrill: turn 2 ----------
+attrill - plays 3 Copper, 1 Silver
+attrill - buys Rogue
+attrill - gains Rogue
+attrill - shuffles deck
+attrill - draws Hovel, Rogue, Copper, Silver, Forager
+ 
+---------- Bonifacius: turn 2 ----------
+Bonifacius - plays 2 Copper
+Bonifacius - buys Beggar
+Bonifacius - gains Beggar
+Bonifacius - shuffles deck
+Bonifacius - draws Counterfeit, Beggar, Copper, Copper, Duchy
+ 
+---------- Soldier: turn 2 ----------
+Soldier - plays 4 Copper
+Soldier - buys Marauder
+Soldier - gains Marauder
+Soldier - shuffles deck
+Soldier - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- attrill: turn 3 ----------
+attrill - plays Forager
+attrill - trashes Hovel
+attrill - plays Rogue
+Bonifacius - reveals reaction Beggar
+Bonifacius - discards Beggar
+Bonifacius - gains Silver
+Bonifacius - gains Silver
+Bonifacius - reveals: Silver, Copper
+Bonifacius - trashes Silver
+Bonifacius - discards Copper
+Soldier - reveals: Silver, Copper
+Soldier - trashes Silver
+Soldier - discards Copper
+attrill - plays 1 Copper, 1 Silver
+attrill - buys Counterfeit
+attrill - gains Counterfeit
+attrill - draws Copper, Overgrown Estate, Copper, Copper, Necropolis
+ 
+---------- Bonifacius: turn 3 ----------
+Bonifacius - plays Counterfeit
+Bonifacius - plays Copper
+Bonifacius - plays Copper
+Bonifacius - trashes Copper
+Bonifacius - plays 1 Copper
+Bonifacius - buys Silver
+Bonifacius - gains Silver
+Bonifacius - buys Poor House
+Bonifacius - gains Poor House
+Bonifacius - draws Copper, Copper, Copper, Overgrown Estate, Duchy
+ 
+---------- Soldier: turn 3 ----------
+Soldier - plays 4 Copper
+Soldier - buys Marauder
+Soldier - gains Marauder
+Soldier - draws Marauder, Copper, Copper, Estate, Estate
+ 
+---------- attrill: turn 4 ----------
+attrill - plays 3 Copper
+attrill - buys Silver
+attrill - gains Silver
+attrill - draws Copper, Copper
+attrill - shuffles deck
+attrill - draws Silver, Copper, Forager
+ 
+---------- Bonifacius: turn 4 ----------
+Bonifacius - plays 3 Copper
+Bonifacius - buys Silver
+Bonifacius - gains Silver
+Bonifacius - draws Copper
+Bonifacius - shuffles deck
+Bonifacius - draws Silver, Copper, Duchy, Copper
+ 
+---------- Soldier: turn 4 ----------
+Soldier - plays Marauder
+Soldier - gains Spoils
+attrill - gains Survivors
+Bonifacius - gains Ruined Library
+Soldier - plays 2 Copper
+Soldier - buys Beggar
+Soldier - gains Beggar
+Soldier - shuffles deck
+Soldier - draws Estate, Copper, Estate, Spoils, Marauder
+ 
+---------- attrill: turn 5 ----------
+attrill - plays Forager
+attrill - trashes Copper
+attrill - plays 2 Copper, 1 Silver
+attrill - buys Gold
+attrill - gains Gold
+attrill - draws Copper, Necropolis, Copper, Rogue, Counterfeit
+ 
+---------- Bonifacius: turn 5 ----------
+Bonifacius - plays 3 Copper, 1 Silver
+Bonifacius - buys Bandit Camp
+Bonifacius - gains Bandit Camp
+Bonifacius - draws Silver, Copper, Poor House, Beggar, Counterfeit
+ 
+---------- Soldier: turn 5 ----------
+Soldier - plays Marauder
+Bonifacius - reveals reaction Beggar
+Bonifacius - discards Beggar
+Bonifacius - gains Silver
+Bonifacius - gains Silver
+Soldier - gains Spoils
+attrill - gains Ruined Library
+Bonifacius - gains Ruined Village
+Soldier - plays 1 Copper
+Soldier - plays Spoils
+Soldier - buys Forager
+Soldier - gains Forager
+Soldier - draws Copper, Marauder, Copper, Copper, Estate
+ 
+---------- attrill: turn 6 ----------
+attrill - plays Rogue
+attrill - gains Silver
+attrill - plays 2 Copper
+attrill - plays Counterfeit
+attrill - buys Counterfeit
+attrill - gains Counterfeit
+attrill - draws Silver, Copper, Overgrown Estate
+attrill - shuffles deck
+attrill - draws Forager, Survivors
+ 
+---------- Bonifacius: turn 6 ----------
+Bonifacius - plays Poor House
+Bonifacius - reveals hand: Silver, Copper, Counterfeit
+Bonifacius - plays Counterfeit
+Bonifacius - plays Copper
+Bonifacius - plays Copper
+Bonifacius - trashes Copper
+Bonifacius - plays 1 Silver
+Bonifacius - buys Gold
+Bonifacius - gains Gold
+Bonifacius - draws Silver, Copper, Silver, Copper, Overgrown Estate
+ 
+---------- Soldier: turn 6 ----------
+Soldier - plays Marauder
+Soldier - gains Spoils
+attrill - gains Abandoned Mine
+Bonifacius - gains Survivors
+Soldier - plays 3 Copper
+Soldier - buys Market Square
+Soldier - gains Market Square
+Soldier - draws Beggar, Copper, Copper, Copper
+Soldier - shuffles deck
+Soldier - draws Estate
+ 
+---------- attrill: turn 7 ----------
+attrill - plays Forager
+attrill - trashes Overgrown Estate
+attrill - draws Ruined Library
+attrill - plays Ruined Library
+attrill - draws Copper
+attrill - plays 2 Copper, 1 Silver
+attrill - buys Gold
+attrill - gains Gold
+attrill - draws Silver, Counterfeit, Copper, Necropolis, Gold
+ 
+---------- Bonifacius: turn 7 ----------
+Bonifacius - plays 2 Silver, 2 Copper
+Bonifacius - buys Gold
+Bonifacius - gains Gold
+Bonifacius - draws Duchy
+Bonifacius - shuffles deck
+Bonifacius - draws Silver, Bandit Camp, Copper, Copper
+ 
+---------- Soldier: turn 7 ----------
+Soldier - plays 3 Copper
+Soldier - buys Market Square
+Soldier - gains Market Square
+Soldier - draws Marauder, Estate, Copper, Estate, Copper
+ 
+---------- attrill: turn 8 ----------
+attrill - plays Necropolis
+attrill - plays Counterfeit
+attrill - plays Gold
+attrill - plays Gold
+attrill - trashes Gold
+attrill - plays 1 Silver, 1 Copper
+attrill - buys Gold
+attrill - gains Gold
+attrill - buys Forager
+attrill - gains Forager
+attrill - draws Rogue, Copper, Silver, Copper, Counterfeit
+ 
+---------- Bonifacius: turn 8 ----------
+Bonifacius - plays Bandit Camp
+Bonifacius - draws Silver
+Bonifacius - gains Spoils
+Bonifacius - plays 2 Silver, 2 Copper
+Bonifacius - buys Gold
+Bonifacius - gains Gold
+Bonifacius - draws Copper, Copper, Ruined Library, Gold, Poor House
+ 
+---------- Soldier: turn 8 ----------
+Soldier - plays Marauder
+Soldier - gains Spoils
+attrill - gains Ruined Village
+Bonifacius - gains Abandoned Mine
+Soldier - plays 2 Copper
+Soldier - draws Spoils, Copper, Marauder, Market Square, Forager
+ 
+---------- attrill: turn 9 ----------
+attrill - plays Rogue
+attrill - gains Gold
+attrill - plays Counterfeit
+attrill - plays Copper
+attrill - plays Copper
+attrill - trashes Copper
+attrill - plays 1 Copper, 1 Silver
+attrill - buys Province
+attrill - gains Province
+attrill - shuffles deck
+attrill - draws Silver, Gold, Necropolis, Ruined Library, Forager
+ 
+---------- Bonifacius: turn 9 ----------
+Bonifacius - plays Ruined Library
+Bonifacius - draws Silver
+Bonifacius - plays 2 Copper, 1 Gold, 1 Silver
+Bonifacius - buys Gold
+Bonifacius - gains Gold
+Bonifacius - draws Overgrown Estate, Survivors, Silver, Gold, Silver
+ 
+---------- Soldier: turn 9 ----------
+Soldier - plays Forager
+Soldier - trashes Copper
+Soldier - reveals reaction Market Square
+Soldier - discards Market Square
+Soldier - gains Gold
+Soldier - plays Marauder
+Soldier - gains Spoils
+attrill - gains Ruined Library
+Bonifacius - gains Ruined Market
+Soldier - plays Spoils
+Soldier - buys Bandit Camp
+Soldier - gains Bandit Camp
+Soldier - draws Spoils, Copper
+Soldier - shuffles deck
+Soldier - draws Spoils, Forager, Estate
+ 
+---------- attrill: turn 10 ----------
+attrill - plays Forager
+attrill - trashes Necropolis
+attrill - plays Ruined Library
+attrill - draws Abandoned Mine
+attrill - plays 1 Silver, 1 Gold
+attrill - buys Gold
+attrill - gains Gold
+attrill - draws Forager, Copper, Survivors, Gold, Ruined Village
+ 
+---------- Bonifacius: turn 10 ----------
+Bonifacius - plays Survivors
+Bonifacius - looks at Ruined Village, Counterfeit
+Bonifacius - discards: Ruined Village, Counterfeit
+Bonifacius - plays 2 Silver, 1 Gold
+Bonifacius - buys Gold
+Bonifacius - gains Gold
+Bonifacius - draws Beggar, Copper, Duchy
+Bonifacius - shuffles deck
+Bonifacius - draws Silver, Silver
+ 
+---------- Soldier: turn 10 ----------
+Soldier - plays Forager
+Soldier - trashes Copper
+Soldier - plays Spoils
+Soldier - plays Spoils
+Soldier - buys Bandit Camp
+Soldier - gains Bandit Camp
+Soldier - buys Market Square
+Soldier - gains Market Square
+Soldier - draws Copper, Copper, Estate, Marauder, Estate
+ 
+---------- attrill: turn 11 ----------
+attrill - plays Forager
+attrill - trashes Ruined Village
+attrill - plays Survivors
+attrill - looks at Copper, Copper
+attrill - discards: Copper, Copper
+attrill - plays 1 Copper, 1 Gold
+attrill - buys Gold
+attrill - gains Gold
+attrill - draws Rogue, Gold, Counterfeit, Silver, Silver
+ 
+---------- Bonifacius: turn 11 ----------
+Bonifacius - plays 2 Silver, 1 Copper
+Bonifacius - buys Pillage
+Bonifacius - gains Pillage
+Bonifacius - draws Spoils, Survivors, Gold, Abandoned Mine, Copper
+ 
+---------- Soldier: turn 11 ----------
+Soldier - plays Marauder
+Soldier - gains Spoils
+attrill - gains Ruined Market
+Bonifacius - gains Ruined Library
+Soldier - plays 2 Copper
+Soldier - draws Market Square, Copper, Marauder, Spoils, Copper
+ 
+---------- attrill: turn 12 ----------
+attrill - plays Rogue
+attrill - gains Silver
+attrill - plays Counterfeit
+attrill - plays Silver
+attrill - plays Silver
+attrill - trashes Silver
+attrill - plays 1 Gold, 1 Silver
+attrill - buys Province
+attrill - gains Province
+attrill - buys Market Square
+attrill - gains Market Square
+attrill - draws Province, Counterfeit, Copper
+attrill - shuffles deck
+attrill - draws Gold, Ruined Library
+ 
+---------- Bonifacius: turn 12 ----------
+Bonifacius - plays Abandoned Mine
+Bonifacius - plays 1 Gold, 1 Copper
+Bonifacius - plays Spoils
+Bonifacius - buys Province
+Bonifacius - gains Province
+Bonifacius - draws Counterfeit, Bandit Camp, Overgrown Estate, Copper, Gold
+ 
+---------- Soldier: turn 12 ----------
+Soldier - plays Market Square
+Soldier - draws Copper
+Soldier - plays Marauder
+Soldier - gains Spoils
+attrill - gains Ruined Market
+Bonifacius - gains Abandoned Mine
+Soldier - plays 3 Copper
+Soldier - plays Spoils
+Soldier - buys Gold
+Soldier - gains Gold
+Soldier - draws Beggar, Bandit Camp, Market Square, Gold
+Soldier - shuffles deck
+Soldier - draws Marauder
+ 
+---------- attrill: turn 13 ----------
+attrill - plays Ruined Library
+attrill - draws Copper
+attrill - plays Counterfeit
+attrill - plays Copper
+attrill - plays Copper
+attrill - trashes Copper
+attrill - plays 1 Copper, 1 Gold
+attrill - buys Rebuild
+attrill - gains Rebuild
+attrill - buys Beggar
+attrill - gains Beggar
+attrill - draws Silver, Gold, Gold, Silver, Ruined Market
+ 
+---------- Bonifacius: turn 13 ----------
+Bonifacius - plays Bandit Camp
+Bonifacius - draws Duchy
+Bonifacius - gains Spoils
+Bonifacius - plays Counterfeit
+Bonifacius - plays Copper
+Bonifacius - plays Copper
+Bonifacius - trashes Copper
+Bonifacius - plays 1 Gold
+Bonifacius - buys Gold
+Bonifacius - gains Gold
+Bonifacius - draws Silver, Ruined Market, Ruined Village, Ruined Library, Gold
+ 
+---------- Soldier: turn 13 ----------
+Soldier - plays Bandit Camp
+Soldier - draws Bandit Camp
+Soldier - gains Spoils
+Soldier - plays Bandit Camp
+Soldier - draws Spoils
+Soldier - gains Spoils
+Soldier - plays Market Square
+Soldier - draws Estate
+Soldier - plays Marauder
+Soldier - gains Spoils
+attrill - gains Survivors
+Bonifacius - gains Ruined Market
+Soldier - plays 1 Gold
+Soldier - plays Spoils
+Soldier - buys Gold
+Soldier - gains Gold
+Soldier - draws Copper, Forager, Copper, Copper, Copper
+ 
+---------- attrill: turn 14 ----------
+attrill - plays Ruined Market
+attrill - plays 2 Silver, 2 Gold
+attrill - buys Province
+attrill - gains Province
+attrill - buys Beggar
+attrill - gains Beggar
+attrill - draws Counterfeit, Abandoned Mine, Ruined Library, Province, Gold
+ 
+---------- Bonifacius: turn 14 ----------
+Bonifacius - plays Ruined Library
+Bonifacius - draws Silver
+Bonifacius - plays 2 Silver, 1 Gold
+Bonifacius - buys Duchy
+Bonifacius - gains Duchy
+Bonifacius - draws Silver, Gold, Gold, Copper, Poor House
+ 
+---------- Soldier: turn 14 ----------
+Soldier - plays Forager
+Soldier - trashes Copper
+Soldier - plays 3 Copper
+Soldier - buys Bandit Camp
+Soldier - gains Bandit Camp
+Soldier - draws Estate, Market Square, Marauder, Market Square, Estate
+ 
+---------- attrill: turn 15 ----------
+attrill - plays Abandoned Mine
+attrill - plays Counterfeit
+attrill - plays Gold
+attrill - plays Gold
+attrill - trashes Gold
+attrill - buys Province
+attrill - gains Province
+attrill - draws Forager, Copper, Silver, Rogue, Forager
+ 
+---------- Bonifacius: turn 15 ----------
+Bonifacius - plays 2 Gold, 1 Silver, 1 Copper
+Bonifacius - buys Province
+Bonifacius - gains Province
+Bonifacius - draws Copper
+Bonifacius - shuffles deck
+Bonifacius - draws Gold, Silver, Duchy, Gold
+ 
+---------- Soldier: turn 15 ----------
+Soldier - plays Market Square
+Soldier - draws Gold
+Soldier - plays Market Square
+Soldier - draws Spoils
+Soldier - plays Marauder
+Soldier - gains Spoils
+attrill - gains Ruined Market
+Bonifacius - gains Ruined Market
+Soldier - plays 1 Gold
+Soldier - plays Spoils
+Soldier - buys Rogue
+Soldier - gains Rogue
+Soldier - draws Copper
+Soldier - shuffles deck
+Soldier - draws Gold, Market Square, Estate, Copper
+ 
+---------- attrill: turn 16 ----------
+attrill - plays Rogue
+attrill - gains Gold
+attrill - plays 1 Copper, 1 Silver
+attrill - buys Rebuild
+attrill - gains Rebuild
+attrill - draws Gold, Market Square, Survivors, Copper
+attrill - shuffles deck
+attrill - draws Silver
+ 
+---------- Bonifacius: turn 16 ----------
+Bonifacius - plays 2 Gold, 1 Copper, 1 Silver
+Bonifacius - buys Province
+Bonifacius - gains Province
+Bonifacius - draws Ruined Market, Pillage, Abandoned Mine, Province, Silver
+ 
+---------- Soldier: turn 16 ----------
+Soldier - plays Market Square
+Soldier - draws Gold
+Soldier - plays 2 Copper, 2 Gold
+Soldier - buys Province
+Soldier - gains Province
+Soldier - buys Ruined Library
+Soldier - gains Ruined Library
+Soldier - draws Gold, Forager, Market Square, Copper, Spoils
+ 
+---------- attrill: turn 17 ----------
+attrill - plays Market Square
+attrill - draws Rebuild
+attrill - plays Rebuild
+attrill - names Province
+attrill - reveals Silver, Province, Gold, Ruined Library, Forager, Rogue, Gold, Silver, Ruined Market, Counterfeit, Province, Copper, Copper, Beggar, Province, Counterfeit, Gold, Province, Ruined Market, Forager, Abandoned Mine, Rebuild, Beggar, Gold, Survivors, Ruined Market, Ruined Library
+attrill - discards: Silver, Province, Gold, Ruined Library, Forager, Rogue, Gold, Silver, Ruined Market, Counterfeit, Province, Copper, Copper, Beggar, Province, Counterfeit, Gold, Province, Ruined Market, Forager, Abandoned Mine, Rebuild, Beggar, Gold, Survivors, Ruined Market, Ruined Library
+attrill - plays Survivors
+attrill - shuffles deck
+attrill - looks at Copper, Gold
+attrill - discards Gold
+attrill - discards Copper
+attrill - plays 1 Gold, 1 Copper, 1 Silver
+attrill - buys Duchy
+attrill - gains Duchy
+attrill - draws Forager, Rebuild, Silver, Forager, Abandoned Mine
+ 
+---------- Bonifacius: turn 17 ----------
+Bonifacius - plays Pillage
+Bonifacius - trashes Pillage
+Soldier - reveals Gold, Forager, Market Square, Copper, Spoils
+Soldier - discards Gold
+attrill - reveals Forager, Rebuild, Silver, Forager, Abandoned Mine
+attrill - discards Rebuild
+Bonifacius - gains Spoils
+Bonifacius - gains Spoils
+Bonifacius - plays 1 Silver
+Bonifacius - buys Estate
+Bonifacius - gains Estate
+Bonifacius - draws Overgrown Estate, Beggar, Gold, Copper, Ruined Library
+ 
+---------- Soldier: turn 17 ----------
+Soldier - plays Forager
+Soldier - trashes Copper
+Soldier - reveals reaction Market Square
+Soldier - discards Market Square
+Soldier - gains Gold
+Soldier - plays Spoils
+Soldier - buys Duchy
+Soldier - gains Duchy
+Soldier - draws Marauder, Bandit Camp, Spoils, Marauder, Rogue
+ 
+---------- attrill: turn 18 ----------
+attrill - plays Forager
+attrill - trashes Abandoned Mine
+attrill - plays Forager
+attrill - trashes Silver
+attrill - buys Estate
+attrill - gains Estate
+attrill - buys Estate
+attrill - gains Estate
+attrill - draws Ruined Market, Gold, Rogue, Beggar, Province
+ 
+---------- Bonifacius: turn 18 ----------
+Bonifacius - plays Ruined Library
+Bonifacius - draws Silver
+Bonifacius - plays 1 Gold, 1 Copper, 1 Silver
+Bonifacius - buys Duchy
+Bonifacius - gains Duchy
+Bonifacius - draws Copper, Gold, Spoils, Bandit Camp, Gold
+ 
+---------- Soldier: turn 18 ----------
+Soldier - plays Bandit Camp
+Soldier - draws Spoils
+Soldier - gains Spoils
+Soldier - plays Rogue
+attrill - reveals reaction Beggar
+attrill - discards Beggar
+attrill - gains Silver
+attrill - gains Silver
+Soldier - gains Pillage
+Soldier - plays Marauder
+Soldier - gains Spoils
+attrill - gains Survivors
+Soldier - plays Spoils
+Soldier - plays Spoils
+Soldier - buys Province
+Soldier - gains Province
+Soldier - draws Bandit Camp, Copper, Estate, Spoils, Bandit Camp
+ 
+---------- attrill: turn 19 ----------
+attrill - plays Rogue
+attrill - gains Silver
+attrill - plays 1 Gold
+attrill - buys Duchy
+attrill - gains Duchy
+attrill - draws Silver, Ruined Market, Copper, Province, Counterfeit
+ 
+---------- Bonifacius: turn 19 ----------
+Bonifacius - plays Bandit Camp
+Bonifacius - draws Counterfeit
+Bonifacius - gains Spoils
+Bonifacius - plays Counterfeit
+Bonifacius - plays Spoils
+Bonifacius - plays Spoils
+Bonifacius - plays 2 Gold, 1 Copper
+Bonifacius - buys Province
+Bonifacius - gains Province
+Bonifacius - buys Duchy
+Bonifacius - gains Duchy
+Bonifacius - draws Gold, Survivors, Silver, Ruined Library, Copper
+ 
+---------- Soldier: turn 19 ----------
+Soldier - plays Bandit Camp
+Soldier - draws Estate
+Soldier - gains Spoils
+Soldier - plays Bandit Camp
+Soldier - draws Market Square
+Soldier - gains Spoils
+Soldier - plays Market Square
+Soldier - draws Beggar
+Soldier - plays 1 Copper
+Soldier - plays Spoils
+Soldier - buys Estate
+Soldier - gains Estate
+Soldier - buys Estate
+Soldier - gains Estate
+Soldier - shuffles deck
+Soldier - draws Marauder, Pillage, Gold, Bandit Camp, Ruined Library
+ 
+---------- attrill: turn 20 ----------
+attrill - plays Ruined Market
+attrill - plays Counterfeit
+attrill - plays Copper
+attrill - plays Copper
+attrill - trashes Copper
+attrill - plays 1 Silver
+attrill - buys Duchy
+attrill - gains Duchy
+attrill - draws Ruined Library, Survivors, Beggar, Gold, Province
+ 
+---------- Bonifacius: turn 20 ----------
+Bonifacius - plays Ruined Library
+Bonifacius - draws Ruined Market
+Bonifacius - plays 1 Gold, 1 Silver, 1 Copper
+Bonifacius - buys Duchy
+Bonifacius - gains Duchy
+Bonifacius - draws Duchy, Duchy, Silver, Province, Ruined Village
+ 
+---------- Soldier: turn 20 ----------
+Soldier - plays Bandit Camp
+Soldier - draws Market Square
+Soldier - gains Spoils
+Soldier - plays Market Square
+Soldier - draws Gold
+Soldier - plays Marauder
+attrill - reveals reaction Beggar
+attrill - discards Beggar
+attrill - gains Silver
+attrill - gains Silver
+Soldier - gains Spoils
+Soldier - plays Pillage
+Soldier - trashes Pillage
+Bonifacius - reveals Duchy, Duchy, Silver, Province, Ruined Village
+Bonifacius - discards Silver
+Soldier - gains Spoils
+Soldier - gains Spoils
+Soldier - plays 2 Gold
+Soldier - buys Duchy
+Soldier - gains Duchy
+Soldier - draws Spoils, Market Square, Gold, Spoils, Estate
+ 
+---------- attrill: turn 21 ----------
+attrill - plays Ruined Library
+attrill - draws Silver
+attrill - plays 1 Gold, 1 Silver
+attrill - buys Duchy
+attrill - gains Duchy
+attrill - draws Province, Silver, Gold, Counterfeit, Ruined Market
+ 
+---------- Bonifacius: turn 21 ----------
+Bonifacius - draws Poor House, Abandoned Mine
+Bonifacius - shuffles deck
+Bonifacius - draws Ruined Market, Duchy, Silver
+ 
+---------- Soldier: turn 21 ----------
+Soldier - plays Market Square
+Soldier - draws Forager
+Soldier - plays 1 Gold
+Soldier - plays Spoils
+Soldier - plays Spoils
+Soldier - buys Province
+Soldier - gains Province
+Soldier - draws Estate, Spoils, Estate, Copper, Estate
+ 
+---------- attrill: turn 22 ----------
+attrill - plays Ruined Market
+attrill - plays Counterfeit
+attrill - plays Gold
+attrill - plays Gold
+attrill - trashes Gold
+attrill - plays 1 Silver
+attrill - buys Province
+attrill - gains Province
+attrill - buys Poor House
+attrill - gains Poor House
+attrill - draws Ruined Library
+attrill - shuffles deck
+attrill - draws Duchy, Estate, Province, Forager
+ 
+------------ Game Over ------------
+attrill - cards: 3 Ruined Market, 3 Survivors, 2 Beggar, 2 Ruined Library, 2 Forager, 2 Rebuild, 1 Poor House, 1 Market Square, 1 Rogue, 7 Silver, 4 Gold, 2 Copper, 2 Counterfeit, 5 Province, 4 Duchy, 2 Estate
+attrill - total victory points: 44
+attrill - turns: 22
+ 
+Bonifacius - cards: 3 Ruined Market, 2 Ruined Library, 2 Abandoned Mine, 1 Poor House, 1 Bandit Camp, 1 Ruined Village, 1 Beggar, 1 Survivors, 6 Gold, 5 Silver, 4 Copper, 3 Spoils, 1 Counterfeit, 6 Duchy, 4 Province, 1 Overgrown Estate, 1 Estate
+Bonifacius - total victory points: 43
+Bonifacius - turns: 21
+ 
+Soldier - cards: 3 Bandit Camp, 3 Market Square, 2 Marauder, 1 Forager, 1 Rogue, 1 Beggar, 1 Ruined Library, 6 Spoils, 4 Gold, 3 Copper, 5 Estate, 3 Province, 2 Duchy
+Soldier - total victory points: 29
+Soldier - turns: 21
+ 
+1st place: attrill
+2nd place: Bonifacius
+3rd place: Soldier
+ 

@@ -1,0 +1,1200 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Native Village, Watchtower, Workshop, Island, Pirate Ship, Spy, Laboratory, Tactician, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+dikdik - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+sandyttc - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+konichiwa - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Ali Iskandar Othman - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dikdik - shuffles deck
+sandyttc - shuffles deck
+konichiwa - shuffles deck
+Ali Iskandar Othman - shuffles deck
+dikdik - draws Copper, Copper, Copper, Estate, Copper
+sandyttc - draws Copper, Estate, Copper, Copper, Copper
+konichiwa - draws Copper, Copper, Copper, Estate, Copper
+Ali Iskandar Othman - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- konichiwa: turn 1 ----------
+konichiwa - plays 4 Copper
+konichiwa - buys Silver
+konichiwa - gains Silver
+konichiwa - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Ali Iskandar Othman: turn 1 ----------
+Ali Iskandar Othman - plays 4 Copper
+Ali Iskandar Othman - buys Pirate Ship
+Ali Iskandar Othman - gains Pirate Ship
+Ali Iskandar Othman - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- dikdik: turn 1 ----------
+dikdik - plays 4 Copper
+dikdik - buys Embargo
+dikdik - gains Embargo
+dikdik - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- sandyttc: turn 1 ----------
+sandyttc - plays 4 Copper
+sandyttc - buys Island
+sandyttc - gains Island
+sandyttc - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- konichiwa: turn 2 ----------
+konichiwa - plays 3 Copper
+konichiwa - buys Watchtower
+konichiwa - gains Watchtower
+konichiwa - shuffles deck
+konichiwa - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Ali Iskandar Othman: turn 2 ----------
+Ali Iskandar Othman - plays 3 Copper
+Ali Iskandar Othman - buys Workshop
+Ali Iskandar Othman - gains Workshop
+Ali Iskandar Othman - shuffles deck
+Ali Iskandar Othman - draws Copper, Pirate Ship, Estate, Copper, Workshop
+ 
+---------- dikdik: turn 2 ----------
+dikdik - plays 3 Copper
+dikdik - buys Embargo
+dikdik - gains Embargo
+dikdik - shuffles deck
+dikdik - draws Copper, Copper, Copper, Embargo, Estate
+ 
+---------- sandyttc: turn 2 ----------
+sandyttc - plays 3 Copper
+sandyttc - buys Watchtower
+sandyttc - gains Watchtower
+sandyttc - shuffles deck
+sandyttc - draws Copper, Copper, Island, Copper, Copper
+ 
+---------- konichiwa: turn 3 ----------
+konichiwa - plays 4 Copper
+konichiwa - buys Silver
+konichiwa - gains Silver
+konichiwa - draws Copper, Watchtower, Estate, Copper, Copper
+ 
+---------- Ali Iskandar Othman: turn 3 ----------
+Ali Iskandar Othman - plays Pirate Ship
+dikdik - reveals Estate, Copper
+Ali Iskandar Othman - trashes Copper
+dikdik - discards Estate
+sandyttc - reveals Watchtower, Estate
+sandyttc - discards: Watchtower, Estate
+konichiwa - reveals Estate, Silver
+Ali Iskandar Othman - trashes Silver
+konichiwa - discards Estate
+Ali Iskandar Othman - receives a pirate coin, now has 1 pirate coin(s)
+Ali Iskandar Othman - plays 2 Copper
+Ali Iskandar Othman - buys Embargo
+Ali Iskandar Othman - gains Embargo
+Ali Iskandar Othman - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- dikdik: turn 3 ----------
+dikdik - plays Embargo
+dikdik - embargoes Pirate Ship
+dikdik - trashes Embargo
+dikdik - plays 3 Copper
+dikdik - buys Witch
+dikdik - gains Witch
+dikdik - draws Copper, Embargo, Copper, Copper, Estate
+ 
+---------- sandyttc: turn 3 ----------
+sandyttc - plays Island
+sandyttc - sets aside Copper
+sandyttc - plays 3 Copper
+sandyttc - buys Embargo
+sandyttc - gains Embargo
+sandyttc - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- konichiwa: turn 4 ----------
+konichiwa - plays Watchtower
+konichiwa - shuffles deck
+konichiwa - draws Copper, Copper
+konichiwa - plays 5 Copper
+konichiwa - buys Laboratory
+konichiwa - gains Laboratory
+konichiwa - draws Estate, Silver, Copper, Copper, Estate
+ 
+---------- Ali Iskandar Othman: turn 4 ----------
+Ali Iskandar Othman - plays 4 Copper
+Ali Iskandar Othman - buys Island
+Ali Iskandar Othman - gains Island
+Ali Iskandar Othman - draws Copper, Estate
+Ali Iskandar Othman - shuffles deck
+Ali Iskandar Othman - draws Pirate Ship, Estate, Workshop
+ 
+---------- dikdik: turn 4 ----------
+dikdik - plays Embargo
+dikdik - embargoes Witch
+dikdik - trashes Embargo
+dikdik - plays 3 Copper
+dikdik - buys Laboratory
+dikdik - gains Laboratory
+dikdik - shuffles deck
+dikdik - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- sandyttc: turn 4 ----------
+sandyttc - plays 3 Copper
+sandyttc - buys Silver
+sandyttc - gains Silver
+sandyttc - shuffles deck
+sandyttc - draws Silver, Copper, Watchtower, Copper, Copper
+ 
+---------- konichiwa: turn 5 ----------
+konichiwa - plays 2 Copper, 1 Silver
+konichiwa - buys Island
+konichiwa - gains Island
+konichiwa - shuffles deck
+konichiwa - draws Silver, Copper, Estate, Copper, Watchtower
+ 
+---------- Ali Iskandar Othman: turn 5 ----------
+Ali Iskandar Othman - plays Pirate Ship
+dikdik - reveals Laboratory, Estate
+dikdik - discards: Laboratory, Estate
+sandyttc - reveals Estate, Estate
+sandyttc - discards: Estate, Estate
+konichiwa - reveals Copper, Copper
+Ali Iskandar Othman - trashes Copper
+konichiwa - discards Copper
+Ali Iskandar Othman - receives a pirate coin, now has 2 pirate coin(s)
+Ali Iskandar Othman - plays 1 Copper
+Ali Iskandar Othman - draws Copper, Island, Estate, Copper, Copper
+ 
+---------- dikdik: turn 5 ----------
+dikdik - plays 3 Copper
+dikdik - buys Silver
+dikdik - gains Silver
+dikdik - draws Copper, Witch, Copper, Copper
+dikdik - shuffles deck
+dikdik - draws Estate
+ 
+---------- sandyttc: turn 5 ----------
+sandyttc - plays 3 Copper, 1 Silver
+sandyttc - buys Witch
+sandyttc - gains Curse
+sandyttc - applied Watchtower to trash Curse
+sandyttc - trashes Curse
+sandyttc - gains Witch
+sandyttc - applied Watchtower to place Witch on top of the deck
+sandyttc - draws Witch, Copper, Embargo, Copper, Estate
+ 
+---------- konichiwa: turn 6 ----------
+konichiwa - plays Watchtower
+konichiwa - draws Copper, Estate
+konichiwa - plays 3 Copper, 1 Silver
+konichiwa - buys Laboratory
+konichiwa - gains Laboratory
+konichiwa - draws Copper, Copper, Laboratory, Estate, Island
+ 
+---------- Ali Iskandar Othman: turn 6 ----------
+Ali Iskandar Othman - plays Island
+Ali Iskandar Othman - sets aside Estate
+Ali Iskandar Othman - plays 3 Copper
+Ali Iskandar Othman - buys Watchtower
+Ali Iskandar Othman - gains Watchtower
+Ali Iskandar Othman - draws Embargo, Copper, Copper, Copper
+Ali Iskandar Othman - shuffles deck
+Ali Iskandar Othman - draws Copper
+ 
+---------- dikdik: turn 6 ----------
+dikdik - plays Witch
+dikdik - draws Copper, Copper
+sandyttc - gains Curse
+konichiwa - gains Curse
+Ali Iskandar Othman - gains Curse
+dikdik - plays 5 Copper
+dikdik - buys Watchtower
+dikdik - gains Watchtower
+dikdik - draws Estate, Copper, Silver, Laboratory, Estate
+ 
+---------- sandyttc: turn 6 ----------
+sandyttc - plays Witch
+sandyttc - draws Copper
+sandyttc - shuffles deck
+sandyttc - draws Copper
+konichiwa - gains Curse
+Ali Iskandar Othman - gains Curse
+dikdik - gains Curse
+sandyttc - plays 4 Copper
+sandyttc - buys Watchtower
+sandyttc - gains Watchtower
+sandyttc - draws Estate, Copper, Estate, Silver, Curse
+ 
+---------- konichiwa: turn 7 ----------
+konichiwa - plays Laboratory
+konichiwa - shuffles deck
+konichiwa - draws Estate, Silver
+konichiwa - plays Island
+konichiwa - sets aside Estate
+konichiwa - plays 2 Copper, 1 Silver
+konichiwa - buys Island
+konichiwa - gains Island
+konichiwa - draws Copper, Estate, Curse, Copper, Copper
+ 
+---------- Ali Iskandar Othman: turn 7 ----------
+Ali Iskandar Othman - plays Embargo
+Ali Iskandar Othman - embargoes Laboratory
+Ali Iskandar Othman - trashes Embargo
+Ali Iskandar Othman - plays 4 Copper
+Ali Iskandar Othman - buys Pirate Ship
+Ali Iskandar Othman - gains Curse
+Ali Iskandar Othman - gains Pirate Ship
+Ali Iskandar Othman - draws Estate, Copper, Copper, Pirate Ship, Workshop
+ 
+---------- dikdik: turn 7 ----------
+dikdik - plays Laboratory
+dikdik - shuffles deck
+dikdik - draws Copper, Copper
+dikdik - plays 3 Copper, 1 Silver
+dikdik - buys Watchtower
+dikdik - gains Watchtower
+dikdik - draws Watchtower, Witch, Curse, Estate, Copper
+ 
+---------- sandyttc: turn 7 ----------
+sandyttc - plays Silver
+sandyttc - plays 1 Copper
+sandyttc - buys Watchtower
+sandyttc - gains Watchtower
+sandyttc - draws Watchtower, Copper
+sandyttc - shuffles deck
+sandyttc - draws Copper, Embargo, Copper
+ 
+---------- konichiwa: turn 8 ----------
+konichiwa - plays 3 Copper
+konichiwa - buys Watchtower
+konichiwa - gains Watchtower
+konichiwa - draws Watchtower, Laboratory, Copper, Curse
+konichiwa - shuffles deck
+konichiwa - draws Copper
+ 
+---------- Ali Iskandar Othman: turn 8 ----------
+Ali Iskandar Othman - plays Pirate Ship
+dikdik - reveals Copper, Copper
+Ali Iskandar Othman - trashes Copper
+dikdik - discards Copper
+sandyttc - reveals Witch, Silver
+Ali Iskandar Othman - trashes Silver
+sandyttc - discards Witch
+konichiwa - reveals Silver, Watchtower
+Ali Iskandar Othman - trashes Silver
+konichiwa - discards Watchtower
+Ali Iskandar Othman - receives a pirate coin, now has 3 pirate coin(s)
+Ali Iskandar Othman - plays 2 Copper
+Ali Iskandar Othman - buys Embargo
+Ali Iskandar Othman - gains Embargo
+Ali Iskandar Othman - draws Copper, Estate, Watchtower
+Ali Iskandar Othman - shuffles deck
+Ali Iskandar Othman - draws Estate, Copper
+ 
+---------- dikdik: turn 8 ----------
+dikdik - plays Witch
+dikdik - shuffles deck
+dikdik - draws Copper, Laboratory
+sandyttc - gains Curse
+sandyttc - applied Watchtower to trash Curse
+sandyttc - trashes Curse
+konichiwa - gains Curse
+konichiwa - applied Watchtower to trash Curse
+konichiwa - trashes Curse
+Ali Iskandar Othman - gains Curse
+Ali Iskandar Othman - applied Watchtower to trash Curse
+Ali Iskandar Othman - trashes Curse
+dikdik - plays 2 Copper
+dikdik - buys Embargo
+dikdik - gains Embargo
+dikdik - applied Watchtower to place Embargo on top of the deck
+dikdik - draws Embargo, Watchtower, Silver, Copper, Estate
+ 
+---------- sandyttc: turn 8 ----------
+sandyttc - plays Embargo
+sandyttc - embargoes Laboratory
+sandyttc - trashes Embargo
+sandyttc - plays 3 Copper
+sandyttc - buys Tactician
+sandyttc - gains Tactician
+sandyttc - applied Watchtower to place Tactician on top of the deck
+sandyttc - draws Tactician, Copper, Copper, Estate, Estate
+ 
+---------- konichiwa: turn 9 ----------
+konichiwa - plays Laboratory
+konichiwa - draws Laboratory, Copper
+konichiwa - plays Laboratory
+konichiwa - draws Estate, Copper
+konichiwa - plays 4 Copper
+konichiwa - buys Silver
+konichiwa - gains Silver
+konichiwa - applied Watchtower to place Silver on top of the deck
+konichiwa - draws Silver, Island, Copper, Curse, Copper
+ 
+---------- Ali Iskandar Othman: turn 9 ----------
+Ali Iskandar Othman - plays Watchtower
+Ali Iskandar Othman - draws Embargo, Curse
+Ali Iskandar Othman - plays 2 Copper
+Ali Iskandar Othman - buys Estate
+Ali Iskandar Othman - gains Estate
+Ali Iskandar Othman - draws Copper, Copper, Copper, Workshop, Curse
+ 
+---------- dikdik: turn 9 ----------
+dikdik - plays Embargo
+dikdik - embargoes Pirate Ship
+dikdik - trashes Embargo
+dikdik - plays 1 Silver, 1 Copper
+dikdik - buys Laboratory
+dikdik - gains Curse
+dikdik - applied Watchtower to trash Curse
+dikdik - trashes Curse
+dikdik - gains Curse
+dikdik - applied Watchtower to trash Curse
+dikdik - trashes Curse
+dikdik - gains Laboratory
+dikdik - applied Watchtower to place Laboratory on top of the deck
+dikdik - draws Laboratory, Copper, Estate, Copper
+dikdik - shuffles deck
+dikdik - draws Copper
+ 
+---------- sandyttc: turn 9 ----------
+sandyttc - plays Tactician
+sandyttc - discards: Copper, Copper, Estate, Estate
+sandyttc - draws Copper, Watchtower, Watchtower, Estate, Curse
+ 
+---------- konichiwa: turn 10 ----------
+konichiwa - plays Island
+konichiwa - sets aside Curse
+konichiwa - plays 2 Copper, 1 Silver
+konichiwa - buys Island
+konichiwa - gains Island
+konichiwa - draws Estate
+konichiwa - shuffles deck
+konichiwa - draws Island, Copper, Laboratory, Estate
+ 
+---------- Ali Iskandar Othman: turn 10 ----------
+Ali Iskandar Othman - plays Workshop
+Ali Iskandar Othman - gains Pirate Ship
+Ali Iskandar Othman - plays 3 Copper
+Ali Iskandar Othman - buys Watchtower
+Ali Iskandar Othman - gains Watchtower
+Ali Iskandar Othman - draws Copper, Pirate Ship, Curse, Copper, Pirate Ship
+ 
+---------- dikdik: turn 10 ----------
+dikdik - plays Laboratory
+dikdik - draws Copper, Witch
+dikdik - plays Witch
+dikdik - draws Silver, Estate
+sandyttc - gains Curse
+sandyttc - applied Watchtower to trash Curse
+sandyttc - trashes Curse
+konichiwa - gains Curse
+Ali Iskandar Othman - gains Curse
+dikdik - plays 4 Copper, 1 Silver
+dikdik - buys Gold
+dikdik - gains Gold
+dikdik - draws Estate, Laboratory, Watchtower, Watchtower, Copper
+ 
+---------- sandyttc: turn 10 ----------
+sandyttc - duration Tactician
+sandyttc - shuffles deck
+sandyttc - draws Estate, Copper, Witch, Copper, Copper
+sandyttc - plays Witch
+sandyttc - draws Estate, Copper
+konichiwa - gains Curse
+Ali Iskandar Othman - gains Curse
+dikdik - gains Curse
+dikdik - applied Watchtower to trash Curse
+dikdik - trashes Curse
+sandyttc - plays Watchtower
+sandyttc - plays 5 Copper
+sandyttc - buys Laboratory
+sandyttc - gains Curse
+sandyttc - applied Watchtower to trash Curse
+sandyttc - trashes Curse
+sandyttc - gains Curse
+sandyttc - applied Watchtower to trash Curse
+sandyttc - trashes Curse
+sandyttc - gains Laboratory
+sandyttc - applied Watchtower to place Laboratory on top of the deck
+sandyttc - draws Laboratory, Copper, Watchtower
+sandyttc - shuffles deck
+sandyttc - draws Copper, Curse
+ 
+---------- konichiwa: turn 11 ----------
+konichiwa - plays Laboratory
+konichiwa - draws Copper, Laboratory
+konichiwa - plays Laboratory
+konichiwa - draws Copper, Copper
+konichiwa - plays Island
+konichiwa - sets aside Estate
+konichiwa - plays 4 Copper
+konichiwa - buys Island
+konichiwa - gains Island
+konichiwa - draws Silver, Watchtower, Curse, Copper, Copper
+ 
+---------- Ali Iskandar Othman: turn 11 ----------
+Ali Iskandar Othman - plays Pirate Ship
+dikdik - reveals Curse
+dikdik - shuffles deck
+dikdik - reveals Copper
+Ali Iskandar Othman - trashes Copper
+dikdik - discards Curse
+sandyttc - reveals Watchtower, Copper
+Ali Iskandar Othman - trashes Copper
+sandyttc - discards Watchtower
+konichiwa - reveals Watchtower
+konichiwa - shuffles deck
+konichiwa - reveals Laboratory
+konichiwa - discards: Watchtower, Laboratory
+Ali Iskandar Othman - receives a pirate coin, now has 4 pirate coin(s)
+Ali Iskandar Othman - plays 2 Copper
+Ali Iskandar Othman - buys Native Village
+Ali Iskandar Othman - gains Native Village
+Ali Iskandar Othman - shuffles deck
+Ali Iskandar Othman - draws Copper, Estate, Copper, Curse, Workshop
+ 
+---------- dikdik: turn 11 ----------
+dikdik - plays Laboratory
+dikdik - draws Silver, Estate
+dikdik - plays Watchtower
+dikdik - draws Estate
+dikdik - plays 1 Copper, 1 Silver
+dikdik - buys Native Village
+dikdik - gains Native Village
+dikdik - applied Watchtower to place Native Village on top of the deck
+dikdik - draws Native Village, Laboratory, Copper, Gold, Copper
+ 
+---------- sandyttc: turn 11 ----------
+sandyttc - plays Laboratory
+sandyttc - draws Tactician, Estate
+sandyttc - plays Watchtower
+sandyttc - draws Estate
+sandyttc - plays 2 Copper
+sandyttc - buys Native Village
+sandyttc - gains Native Village
+sandyttc - draws Estate, Copper, Copper, Copper, Watchtower
+ 
+---------- konichiwa: turn 12 ----------
+konichiwa - plays Watchtower
+konichiwa - draws Estate, Copper
+konichiwa - plays 3 Copper, 1 Silver
+konichiwa - buys Tactician
+konichiwa - gains Tactician
+konichiwa - draws Curse, Island, Laboratory, Curse, Copper
+ 
+---------- Ali Iskandar Othman: turn 12 ----------
+Ali Iskandar Othman - plays Workshop
+Ali Iskandar Othman - gains Pirate Ship
+Ali Iskandar Othman - plays 2 Copper
+Ali Iskandar Othman - buys Estate
+Ali Iskandar Othman - gains Estate
+Ali Iskandar Othman - draws Copper, Embargo, Curse, Copper, Pirate Ship
+ 
+---------- dikdik: turn 12 ----------
+dikdik - plays Native Village
+dikdik - takes set aside cards: 
+dikdik - plays Laboratory
+dikdik - draws Copper, Witch
+dikdik - plays Witch
+dikdik - shuffles deck
+dikdik - draws Watchtower, Watchtower
+sandyttc - gains Curse
+sandyttc - applied Watchtower to trash Curse
+sandyttc - trashes Curse
+konichiwa - gains Curse
+Ali Iskandar Othman - gains Curse
+dikdik - plays Watchtower
+dikdik - draws Estate
+dikdik - plays 3 Copper, 1 Gold
+dikdik - buys Laboratory
+dikdik - gains Curse
+dikdik - applied Watchtower to trash Curse
+dikdik - trashes Curse
+dikdik - gains Curse
+dikdik - applied Watchtower to trash Curse
+dikdik - trashes Curse
+dikdik - gains Laboratory
+dikdik - applied Watchtower to place Laboratory on top of the deck
+dikdik - draws Laboratory, Estate, Curse, Copper, Laboratory
+ 
+---------- sandyttc: turn 12 ----------
+sandyttc - plays Watchtower
+sandyttc - draws Witch
+sandyttc - shuffles deck
+sandyttc - draws Watchtower
+sandyttc - plays 3 Copper
+sandyttc - buys Silver
+sandyttc - gains Silver
+sandyttc - applied Watchtower to place Silver on top of the deck
+sandyttc - draws Silver, Estate, Copper, Estate, Native Village
+ 
+---------- konichiwa: turn 13 ----------
+konichiwa - plays Laboratory
+konichiwa - draws Copper, Copper
+konichiwa - plays Island
+konichiwa - sets aside Curse
+konichiwa - plays 3 Copper
+konichiwa - buys Silver
+konichiwa - gains Silver
+konichiwa - shuffles deck
+konichiwa - draws Copper, Estate, Tactician, Watchtower, Silver
+ 
+---------- Ali Iskandar Othman: turn 13 ----------
+Ali Iskandar Othman - plays Pirate Ship
+dikdik - reveals Silver, Estate
+Ali Iskandar Othman - trashes Silver
+dikdik - discards Estate
+sandyttc - reveals Copper, Tactician
+Ali Iskandar Othman - trashes Copper
+sandyttc - discards Tactician
+konichiwa - reveals Curse, Silver
+Ali Iskandar Othman - trashes Silver
+konichiwa - discards Curse
+Ali Iskandar Othman - receives a pirate coin, now has 5 pirate coin(s)
+Ali Iskandar Othman - plays 2 Copper
+Ali Iskandar Othman - buys Estate
+Ali Iskandar Othman - gains Estate
+Ali Iskandar Othman - draws Curse, Estate, Copper, Pirate Ship, Watchtower
+ 
+---------- dikdik: turn 13 ----------
+dikdik - plays Laboratory
+dikdik - shuffles deck
+dikdik - draws Copper, Native Village
+dikdik - plays Native Village
+dikdik - takes set aside cards: 
+dikdik - plays Laboratory
+dikdik - draws Copper, Laboratory
+dikdik - plays Laboratory
+dikdik - draws Copper, Estate
+dikdik - plays 4 Copper
+dikdik - buys Silver
+dikdik - gains Silver
+dikdik - draws Gold, Witch, Watchtower, Estate, Watchtower
+ 
+---------- sandyttc: turn 13 ----------
+sandyttc - plays Native Village
+sandyttc - sets aside Watchtower
+sandyttc - plays 1 Silver, 1 Copper
+sandyttc - buys Silver
+sandyttc - gains Silver
+sandyttc - draws Laboratory, Curse
+sandyttc - shuffles deck
+sandyttc - draws Copper, Copper, Silver
+ 
+---------- konichiwa: turn 14 ----------
+konichiwa - plays Tactician
+konichiwa - discards: Copper, Estate, Watchtower, Silver
+konichiwa - draws Copper, Copper, Laboratory, Laboratory, Watchtower
+ 
+---------- Ali Iskandar Othman: turn 14 ----------
+Ali Iskandar Othman - plays Pirate Ship
+dikdik - shuffles deck
+dikdik - reveals Laboratory, Silver
+Ali Iskandar Othman - trashes Silver
+dikdik - discards Laboratory
+sandyttc - reveals Estate, Watchtower
+sandyttc - discards: Estate, Watchtower
+konichiwa - reveals Copper, Copper
+Ali Iskandar Othman - trashes Copper
+konichiwa - discards Copper
+Ali Iskandar Othman - receives a pirate coin, now has 6 pirate coin(s)
+Ali Iskandar Othman - plays 1 Copper
+Ali Iskandar Othman - draws Pirate Ship, Curse, Copper, Curse, Copper
+ 
+---------- dikdik: turn 14 ----------
+dikdik - plays Witch
+dikdik - draws Copper, Estate
+sandyttc - gains Curse
+konichiwa - gains Curse
+konichiwa - applied Watchtower to trash Curse
+konichiwa - trashes Curse
+Ali Iskandar Othman - gains Curse
+dikdik - plays 1 Gold, 1 Copper
+dikdik - buys Silver
+dikdik - gains Silver
+dikdik - applied Watchtower to place Silver on top of the deck
+dikdik - draws Silver, Copper, Curse, Laboratory, Native Village
+ 
+---------- sandyttc: turn 14 ----------
+sandyttc - plays Laboratory
+sandyttc - draws Estate, Witch
+sandyttc - plays Witch
+sandyttc - draws Native Village, Copper
+konichiwa - gains Curse
+konichiwa - applied Watchtower to trash Curse
+konichiwa - trashes Curse
+sandyttc - plays 3 Copper, 1 Silver
+sandyttc - buys Duchy
+sandyttc - gains Duchy
+sandyttc - draws Silver, Copper, Tactician, Watchtower, Estate
+ 
+---------- konichiwa: turn 15 ----------
+konichiwa - duration Tactician
+konichiwa - draws Copper, Curse, Curse
+konichiwa - shuffles deck
+konichiwa - draws Watchtower, Estate
+konichiwa - plays Laboratory
+konichiwa - draws Copper, Copper
+konichiwa - plays Laboratory
+konichiwa - draws Silver, Curse
+konichiwa - plays 5 Copper, 1 Silver
+konichiwa - buys Gold
+konichiwa - gains Gold
+konichiwa - applied Watchtower to place Gold on top of the deck
+konichiwa - draws Gold
+konichiwa - shuffles deck
+konichiwa - draws Copper, Copper, Curse, Silver
+ 
+---------- Ali Iskandar Othman: turn 15 ----------
+Ali Iskandar Othman - plays Pirate Ship
+Ali Iskandar Othman - takes 6 coins
+Ali Iskandar Othman - plays 2 Copper
+Ali Iskandar Othman - buys Province
+Ali Iskandar Othman - gains Province
+Ali Iskandar Othman - draws Native Village, Watchtower, Estate
+Ali Iskandar Othman - shuffles deck
+Ali Iskandar Othman - draws Estate, Curse
+ 
+---------- dikdik: turn 15 ----------
+dikdik - plays Native Village
+dikdik - takes set aside cards: 
+dikdik - plays Laboratory
+dikdik - draws Laboratory, Copper
+dikdik - plays Laboratory
+dikdik - draws Copper, Estate
+dikdik - plays 3 Copper, 1 Silver
+dikdik - buys Duchy
+dikdik - gains Duchy
+dikdik - shuffles deck
+dikdik - draws Witch, Duchy, Laboratory, Copper, Gold
+ 
+---------- sandyttc: turn 15 ----------
+sandyttc - plays Tactician
+sandyttc - discards: Silver, Copper, Watchtower, Estate
+sandyttc - shuffles deck
+sandyttc - draws Watchtower, Duchy, Curse, Copper, Laboratory
+ 
+---------- konichiwa: turn 16 ----------
+konichiwa - plays Silver
+konichiwa - plays 2 Copper, 1 Gold
+konichiwa - buys Gold
+konichiwa - gains Gold
+konichiwa - draws Watchtower, Curse, Estate, Tactician, Copper
+ 
+---------- Ali Iskandar Othman: turn 16 ----------
+Ali Iskandar Othman - plays Native Village
+Ali Iskandar Othman - takes set aside cards: 
+Ali Iskandar Othman - plays Watchtower
+Ali Iskandar Othman - draws Pirate Ship, Pirate Ship, Embargo
+Ali Iskandar Othman - plays Pirate Ship
+dikdik - reveals Copper, Curse
+Ali Iskandar Othman - trashes Copper
+dikdik - discards Curse
+sandyttc - reveals Silver, Estate
+Ali Iskandar Othman - trashes Silver
+sandyttc - discards Estate
+konichiwa - reveals Watchtower, Laboratory
+konichiwa - discards: Watchtower, Laboratory
+Ali Iskandar Othman - receives a pirate coin, now has 7 pirate coin(s)
+Ali Iskandar Othman - draws Copper, Estate, Curse, Copper, Estate
+ 
+---------- dikdik: turn 16 ----------
+dikdik - plays Laboratory
+dikdik - draws Laboratory, Watchtower
+dikdik - plays Laboratory
+dikdik - draws Native Village, Laboratory
+dikdik - plays Native Village
+dikdik - takes set aside cards: 
+dikdik - plays Laboratory
+dikdik - draws Estate, Estate
+dikdik - plays Witch
+dikdik - draws Silver, Copper
+dikdik - plays Watchtower
+dikdik - plays 2 Copper, 1 Gold, 1 Silver
+dikdik - buys Gold
+dikdik - gains Gold
+dikdik - draws Watchtower, Estate, Copper
+dikdik - shuffles deck
+dikdik - draws Laboratory, Duchy
+ 
+---------- sandyttc: turn 16 ----------
+sandyttc - duration Tactician
+sandyttc - draws Silver, Witch, Copper, Copper, Curse
+sandyttc - plays Laboratory
+sandyttc - draws Estate, Estate
+sandyttc - plays Witch
+sandyttc - draws Copper, Native Village
+sandyttc - plays Native Village
+sandyttc - sets aside Watchtower
+sandyttc - plays Watchtower
+sandyttc - plays 4 Copper, 1 Silver
+sandyttc - buys Gold
+sandyttc - gains Gold
+sandyttc - shuffles deck
+sandyttc - draws Copper, Copper, Duchy, Silver, Estate
+ 
+---------- konichiwa: turn 17 ----------
+konichiwa - plays Tactician
+konichiwa - discards: Watchtower, Curse, Estate, Copper
+konichiwa - draws Curse, Laboratory, Copper, Copper
+konichiwa - shuffles deck
+konichiwa - draws Watchtower
+ 
+---------- Ali Iskandar Othman: turn 17 ----------
+Ali Iskandar Othman - plays 2 Copper
+Ali Iskandar Othman - buys Native Village
+Ali Iskandar Othman - gains Native Village
+Ali Iskandar Othman - draws Copper, Curse, Curse, Estate, Watchtower
+ 
+---------- dikdik: turn 17 ----------
+dikdik - plays Laboratory
+dikdik - draws Copper, Laboratory
+dikdik - plays Laboratory
+dikdik - draws Gold, Gold
+dikdik - plays 2 Copper, 2 Gold
+dikdik - buys Province
+dikdik - gains Province
+dikdik - draws Watchtower, Estate, Witch, Curse, Copper
+ 
+---------- sandyttc: turn 17 ----------
+sandyttc - plays 2 Copper, 1 Silver
+sandyttc - buys Island
+sandyttc - gains Island
+sandyttc - draws Curse, Copper, Witch, Native Village, Tactician
+ 
+---------- konichiwa: turn 18 ----------
+konichiwa - duration Tactician
+konichiwa - draws Watchtower, Laboratory, Curse, Gold, Silver
+konichiwa - plays Laboratory
+konichiwa - draws Gold, Curse
+konichiwa - plays Laboratory
+konichiwa - draws Estate, Copper
+konichiwa - plays Watchtower
+konichiwa - plays Watchtower
+konichiwa - plays 3 Copper, 2 Gold, 1 Silver
+konichiwa - buys Province
+konichiwa - gains Province
+konichiwa - buys Silver
+konichiwa - gains Silver
+konichiwa - draws Copper, Copper
+konichiwa - shuffles deck
+konichiwa - draws Province, Curse, Curse
+ 
+---------- Ali Iskandar Othman: turn 18 ----------
+Ali Iskandar Othman - plays Watchtower
+Ali Iskandar Othman - draws Workshop, Copper
+Ali Iskandar Othman - plays 2 Copper
+Ali Iskandar Othman - buys Embargo
+Ali Iskandar Othman - gains Embargo
+Ali Iskandar Othman - draws Copper, Pirate Ship, Curse, Curse, Pirate Ship
+ 
+---------- dikdik: turn 18 ----------
+dikdik - plays Watchtower
+dikdik - draws Laboratory, Silver
+dikdik - plays 1 Copper, 1 Silver
+dikdik - buys Silver
+dikdik - gains Silver
+dikdik - draws Estate, Native Village
+dikdik - shuffles deck
+dikdik - draws Laboratory, Witch, Estate
+ 
+---------- sandyttc: turn 18 ----------
+sandyttc - plays Native Village
+sandyttc - sets aside Gold
+sandyttc - plays Witch
+sandyttc - draws Estate, Curse
+sandyttc - plays Tactician
+sandyttc - discards: Curse, Copper, Estate, Curse
+sandyttc - draws Estate, Copper, Laboratory, Watchtower
+sandyttc - shuffles deck
+sandyttc - draws Native Village
+ 
+---------- konichiwa: turn 19 ----------
+konichiwa - plays 2 Copper
+konichiwa - buys Native Village
+konichiwa - gains Native Village
+konichiwa - draws Estate, Curse, Silver, Copper, Laboratory
+ 
+---------- Ali Iskandar Othman: turn 19 ----------
+Ali Iskandar Othman - plays Pirate Ship
+Ali Iskandar Othman - takes 7 coins
+Ali Iskandar Othman - plays Copper
+Ali Iskandar Othman - buys Province
+Ali Iskandar Othman - gains Province
+Ali Iskandar Othman - draws Province, Curse, Copper, Copper
+Ali Iskandar Othman - shuffles deck
+Ali Iskandar Othman - draws Copper
+ 
+---------- dikdik: turn 19 ----------
+dikdik - plays Native Village
+dikdik - takes set aside cards: 
+dikdik - plays Witch
+dikdik - draws Silver, Copper
+dikdik - plays Laboratory
+dikdik - draws Copper, Gold
+dikdik - plays 2 Copper, 1 Silver, 1 Gold
+dikdik - buys Gold
+dikdik - gains Gold
+dikdik - draws Watchtower, Duchy, Watchtower, Silver, Copper
+ 
+---------- sandyttc: turn 19 ----------
+sandyttc - duration Tactician
+sandyttc - draws Witch, Curse, Island, Copper, Copper
+sandyttc - plays Laboratory
+sandyttc - draws Curse, Estate
+sandyttc - plays Native Village
+sandyttc - takes set aside cards: Watchtower, Watchtower, Gold
+sandyttc - plays Island
+sandyttc - sets aside Curse
+sandyttc - plays Witch
+sandyttc - draws Estate, Duchy
+sandyttc - plays Watchtower
+sandyttc - plays 3 Copper, 1 Gold
+sandyttc - buys Duchy
+sandyttc - gains Duchy
+sandyttc - applied Watchtower to place Duchy on top of the deck
+sandyttc - draws Duchy, Silver, Copper
+sandyttc - shuffles deck
+sandyttc - draws Copper, Tactician
+ 
+---------- konichiwa: turn 20 ----------
+konichiwa - plays Laboratory
+konichiwa - draws Tactician, Gold
+konichiwa - plays 1 Silver, 1 Copper, 1 Gold
+konichiwa - buys Gold
+konichiwa - gains Gold
+konichiwa - draws Copper, Copper, Watchtower, Laboratory, Silver
+ 
+---------- Ali Iskandar Othman: turn 20 ----------
+Ali Iskandar Othman - plays 3 Copper
+Ali Iskandar Othman - buys Native Village
+Ali Iskandar Othman - gains Native Village
+Ali Iskandar Othman - draws Copper, Estate, Province, Pirate Ship, Estate
+ 
+---------- dikdik: turn 20 ----------
+dikdik - plays Watchtower
+dikdik - draws Curse, Gold
+dikdik - plays 1 Silver, 1 Copper, 1 Gold
+dikdik - buys Duchy
+dikdik - gains Duchy
+dikdik - draws Province, Estate, Laboratory, Laboratory
+dikdik - shuffles deck
+dikdik - draws Estate
+ 
+---------- sandyttc: turn 20 ----------
+sandyttc - plays Tactician
+sandyttc - discards: Duchy, Silver, Copper, Copper
+sandyttc - draws Curse, Watchtower, Estate, Estate, Copper
+ 
+---------- konichiwa: turn 21 ----------
+konichiwa - plays Laboratory
+konichiwa - draws Watchtower, Gold
+konichiwa - plays Watchtower
+konichiwa - shuffles deck
+konichiwa - draws Province
+konichiwa - plays 2 Copper, 1 Silver, 1 Gold
+konichiwa - buys Gold
+konichiwa - gains Gold
+konichiwa - applied Watchtower to place Gold on top of the deck
+konichiwa - draws Gold, Curse, Estate, Tactician, Gold
+ 
+---------- Ali Iskandar Othman: turn 21 ----------
+Ali Iskandar Othman - plays Pirate Ship
+Ali Iskandar Othman - takes 7 coins
+Ali Iskandar Othman - plays 1 Copper
+Ali Iskandar Othman - buys Province
+Ali Iskandar Othman - gains Province
+Ali Iskandar Othman - draws Curse, Copper, Estate, Curse, Pirate Ship
+ 
+---------- dikdik: turn 21 ----------
+dikdik - plays Laboratory
+dikdik - draws Watchtower, Silver
+dikdik - plays Laboratory
+dikdik - draws Silver, Gold
+dikdik - plays Watchtower
+dikdik - plays 2 Silver, 1 Gold
+dikdik - buys Duchy
+dikdik - gains Duchy
+dikdik - draws Copper, Duchy, Laboratory, Curse, Gold
+ 
+---------- sandyttc: turn 21 ----------
+sandyttc - duration Tactician
+sandyttc - draws Watchtower, Duchy, Watchtower, Native Village, Estate
+sandyttc - plays Native Village
+sandyttc - takes set aside cards: 
+sandyttc - plays Watchtower
+sandyttc - plays Watchtower
+sandyttc - plays Watchtower
+sandyttc - plays 1 Copper
+sandyttc - draws Witch, Laboratory, Copper, Gold
+sandyttc - shuffles deck
+sandyttc - draws Curse
+ 
+---------- konichiwa: turn 22 ----------
+konichiwa - plays 2 Gold
+konichiwa - buys Island
+konichiwa - gains Island
+konichiwa - draws Curse, Copper, Laboratory, Copper, Gold
+ 
+---------- Ali Iskandar Othman: turn 22 ----------
+Ali Iskandar Othman - plays Pirate Ship
+Ali Iskandar Othman - takes 7 coins
+Ali Iskandar Othman - plays Copper
+Ali Iskandar Othman - buys Province
+Ali Iskandar Othman - gains Province
+Ali Iskandar Othman - draws Curse, Pirate Ship, Embargo, Copper, Native Village
+ 
+---------- dikdik: turn 22 ----------
+dikdik - plays Laboratory
+dikdik - draws Copper, Estate
+dikdik - plays 2 Copper, 1 Gold
+dikdik - buys Duchy
+dikdik - gains Duchy
+dikdik - draws Gold, Native Village, Watchtower, Duchy, Witch
+ 
+---------- sandyttc: turn 22 ----------
+sandyttc - plays Laboratory
+sandyttc - draws Watchtower, Estate
+sandyttc - plays Witch
+sandyttc - draws Silver, Watchtower
+sandyttc - plays 1 Copper, 1 Gold, 1 Silver
+sandyttc - buys Duchy
+sandyttc - gains Duchy
+sandyttc - draws Native Village, Estate, Tactician, Copper, Duchy
+ 
+---------- konichiwa: turn 23 ----------
+konichiwa - plays Laboratory
+konichiwa - draws Curse, Silver
+konichiwa - plays 2 Copper, 1 Gold, 1 Silver
+konichiwa - buys Duchy
+konichiwa - gains Duchy
+konichiwa - draws Native Village, Copper
+konichiwa - shuffles deck
+konichiwa - draws Copper, Island, Copper
+ 
+---------- Ali Iskandar Othman: turn 23 ----------
+Ali Iskandar Othman - plays Pirate Ship
+Ali Iskandar Othman - takes 7 coins
+Ali Iskandar Othman - plays Copper
+Ali Iskandar Othman - buys Province
+Ali Iskandar Othman - gains Province
+Ali Iskandar Othman - draws Watchtower, Curse, Copper, Watchtower, Curse
+ 
+---------- dikdik: turn 23 ----------
+dikdik - plays Native Village
+dikdik - takes set aside cards: 
+dikdik - plays Watchtower
+dikdik - draws Copper
+dikdik - shuffles deck
+dikdik - draws Duchy, Laboratory
+dikdik - plays Laboratory
+dikdik - draws Province, Estate
+dikdik - plays Witch
+dikdik - draws Watchtower, Laboratory
+dikdik - plays 1 Gold, 1 Copper
+dikdik - buys Island
+dikdik - gains Island
+dikdik - applied Watchtower to place Island on top of the deck
+dikdik - draws Island, Duchy, Copper, Duchy, Gold
+ 
+---------- sandyttc: turn 23 ----------
+sandyttc - plays Native Village
+sandyttc - takes set aside cards: 
+sandyttc - plays Tactician
+sandyttc - discards: Estate, Copper, Duchy
+sandyttc - draws Watchtower, Copper, Duchy, Estate, Copper
+ 
+---------- konichiwa: turn 24 ----------
+konichiwa - plays Native Village
+konichiwa - takes set aside cards: 
+konichiwa - plays Island
+konichiwa - sets aside Copper
+konichiwa - plays 2 Copper
+konichiwa - buys Estate
+konichiwa - gains Estate
+konichiwa - draws Province, Tactician, Copper, Curse, Laboratory
+ 
+---------- Ali Iskandar Othman: turn 24 ----------
+Ali Iskandar Othman - plays Watchtower
+Ali Iskandar Othman - draws Workshop, Estate
+Ali Iskandar Othman - draws Pirate Ship, Embargo, Estate, Native Village, Curse
+ 
+---------- dikdik: turn 24 ----------
+dikdik - plays Island
+dikdik - sets aside Duchy
+dikdik - plays 1 Copper, 1 Gold
+dikdik - buys Island
+dikdik - gains Island
+dikdik - draws Estate, Estate, Gold, Copper, Silver
+ 
+---------- sandyttc: turn 24 ----------
+sandyttc - duration Tactician
+sandyttc - shuffles deck
+sandyttc - draws Curse, Watchtower, Estate, Duchy, Watchtower
+sandyttc - plays Watchtower
+sandyttc - plays Watchtower
+sandyttc - plays 2 Copper
+sandyttc - buys Estate
+sandyttc - gains Estate
+sandyttc - draws Laboratory, Witch, Copper, Gold, Duchy
+ 
+---------- konichiwa: turn 25 ----------
+konichiwa - plays Tactician
+konichiwa - discards: Province, Copper, Curse, Laboratory
+konichiwa - draws Curse, Watchtower, Gold, Laboratory, Gold
+ 
+---------- Ali Iskandar Othman: turn 25 ----------
+Ali Iskandar Othman - plays Native Village
+Ali Iskandar Othman - takes set aside cards: 
+Ali Iskandar Othman - plays Embargo
+Ali Iskandar Othman - embargoes Duchy
+Ali Iskandar Othman - trashes Embargo
+Ali Iskandar Othman - plays Pirate Ship
+Ali Iskandar Othman - takes 7 coins
+Ali Iskandar Othman - buys Province
+Ali Iskandar Othman - gains Province
+Ali Iskandar Othman - shuffles deck
+Ali Iskandar Othman - draws Curse, Curse, Curse, Copper, Estate
+ 
+---------- dikdik: turn 25 ----------
+dikdik - plays 1 Gold, 1 Copper, 1 Silver
+dikdik - buys Duchy
+dikdik - gains Duchy
+dikdik - draws Silver, Curse, Laboratory
+dikdik - shuffles deck
+dikdik - draws Copper, Duchy
+ 
+---------- sandyttc: turn 25 ----------
+sandyttc - plays Laboratory
+sandyttc - draws Native Village, Copper
+sandyttc - plays Witch
+sandyttc - draws Silver, Estate
+sandyttc - plays 2 Copper, 1 Gold, 1 Silver
+sandyttc - buys Duchy
+sandyttc - gains Duchy
+sandyttc - shuffles deck
+sandyttc - draws Estate, Duchy, Watchtower, Silver, Copper
+ 
+---------- konichiwa: turn 26 ----------
+konichiwa - duration Tactician
+konichiwa - draws Gold, Estate, Silver, Copper, Gold
+konichiwa - plays Laboratory
+konichiwa - draws Duchy, Silver
+konichiwa - plays Watchtower
+konichiwa - plays 4 Gold, 2 Silver, 1 Copper
+konichiwa - buys Province
+konichiwa - gains Province
+konichiwa - buys Province
+konichiwa - gains Province
+konichiwa - draws Curse, Watchtower
+konichiwa - shuffles deck
+konichiwa - draws Native Village, Gold, Tactician
+ 
+---------- Ali Iskandar Othman: turn 26 ----------
+Ali Iskandar Othman - plays 1 Copper
+Ali Iskandar Othman - draws Curse, Province, Native Village, Copper, Province
+ 
+---------- dikdik: turn 26 ----------
+dikdik - plays Laboratory
+dikdik - draws Estate, Gold
+dikdik - plays 1 Silver, 1 Copper, 1 Gold
+dikdik - buys Duchy
+dikdik - gains Duchy
+dikdik - draws Silver, Estate, Duchy, Witch, Island
+ 
+---------- sandyttc: turn 26 ----------
+sandyttc - plays Watchtower
+sandyttc - draws Copper, Curse
+sandyttc - plays 2 Copper, 1 Silver
+sandyttc - buys Estate
+sandyttc - gains Estate
+sandyttc - draws Estate, Gold, Witch, Native Village, Copper
+ 
+---------- konichiwa: turn 27 ----------
+konichiwa - plays Tactician
+konichiwa - discards: Curse, Watchtower, Native Village, Gold
+konichiwa - draws Laboratory, Watchtower, Gold, Province, Silver
+ 
+---------- Ali Iskandar Othman: turn 27 ----------
+Ali Iskandar Othman - plays Native Village
+Ali Iskandar Othman - takes set aside cards: 
+Ali Iskandar Othman - draws Estate, Curse, Watchtower, Estate, Copper
+ 
+---------- dikdik: turn 27 ----------
+dikdik - plays Witch
+dikdik - draws Estate, Province
+dikdik - plays 1 Silver
+dikdik - buys Estate
+dikdik - gains Estate
+dikdik - draws Watchtower, Gold, Duchy, Copper, Duchy
+ 
+---------- sandyttc: turn 27 ----------
+sandyttc - plays Witch
+sandyttc - draws Laboratory, Duchy
+sandyttc - plays 1 Gold, 1 Copper
+sandyttc - buys Island
+sandyttc - gains Island
+sandyttc - draws Estate, Duchy, Estate, Duchy, Watchtower
+ 
+---------- konichiwa: turn 28 ----------
+konichiwa - duration Tactician
+konichiwa - draws Gold, Curse, Estate, Copper, Estate
+konichiwa - plays Laboratory
+konichiwa - draws Copper, Curse
+konichiwa - plays Watchtower
+konichiwa - plays 2 Gold, 2 Copper, 1 Silver
+konichiwa - buys Province
+konichiwa - gains Province
+konichiwa - buys Estate
+konichiwa - gains Estate
+konichiwa - draws Copper, Silver, Duchy, Province, Province
+ 
+---------- Ali Iskandar Othman: turn 28 ----------
+Ali Iskandar Othman - plays Watchtower
+Ali Iskandar Othman - draws Copper, Pirate Ship
+Ali Iskandar Othman - plays 2 Copper
+Ali Iskandar Othman - buys Estate
+Ali Iskandar Othman - gains Estate
+Ali Iskandar Othman - draws Province, Copper, Workshop, Watchtower, Province
+ 
+---------- dikdik: turn 28 ----------
+dikdik - plays Watchtower
+dikdik - draws Watchtower, Gold
+dikdik - plays 2 Gold, 1 Copper
+dikdik - buys Duchy
+dikdik - gains Duchy
+dikdik - applied Watchtower to place Duchy on top of the deck
+dikdik - draws Duchy, Native Village, Laboratory, Copper, Laboratory
+ 
+---------- sandyttc: turn 28 ----------
+sandyttc - plays Watchtower
+sandyttc - draws Tactician, Copper
+sandyttc - plays Copper
+sandyttc - draws Watchtower
+sandyttc - shuffles deck
+sandyttc - draws Copper, Estate, Silver, Estate
+ 
+---------- konichiwa: turn 29 ----------
+konichiwa - plays 1 Copper, 1 Silver
+konichiwa - buys Watchtower
+konichiwa - gains Watchtower
+konichiwa - draws Laboratory, Copper, Gold
+konichiwa - shuffles deck
+konichiwa - draws Estate, Native Village
+ 
+------------ Game Over ------------
+Ali Iskandar Othman - cards: 4 Pirate Ship, 3 Native Village, 2 Watchtower, 1 Island, 1 Workshop, 1 Embargo, 7 Copper, 7 Estate, 6 Province, 7 Curse
+Ali Iskandar Othman - total victory points: 38
+Ali Iskandar Othman - turns: 28
+ 
+konichiwa - cards: 5 Island, 3 Watchtower, 2 Laboratory, 1 Native Village, 1 Tactician, 5 Copper, 4 Gold, 2 Silver, 5 Estate, 4 Province, 1 Duchy, 5 Curse
+konichiwa - total victory points: 37
+konichiwa - turns: 29
+ 
+dikdik - cards: 3 Laboratory, 2 Island, 2 Watchtower, 1 Native Village, 1 Witch, 3 Copper, 3 Gold, 2 Silver, 7 Duchy, 4 Estate, 1 Province, 1 Curse
+dikdik - total victory points: 34
+dikdik - turns: 28
+ 
+sandyttc - cards: 3 Island, 3 Watchtower, 1 Native Village, 1 Witch, 1 Laboratory, 1 Tactician, 5 Copper, 1 Silver, 1 Gold, 5 Estate, 4 Duchy, 2 Curse
+sandyttc - total victory points: 21
+sandyttc - turns: 28
+ 
+1st place: Ali Iskandar Othman
+2nd place: konichiwa
+3rd place: dikdik
+4th place: sandyttc
+ 

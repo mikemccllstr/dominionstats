@@ -1,0 +1,100 @@
+------------ Game Setup ------------
+Supply cards: Village, Feast, Gardens, Moneylender, Remodel, Smithy, Throne Room, Festival, Market, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: casual
+guest2666.0000 - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Defender Bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Banker Bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Villager Bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+guest2666.0000 - shuffles deck
+Defender Bot - shuffles deck
+Banker Bot - shuffles deck
+Villager Bot - shuffles deck
+guest2666.0000 - draws Estate, Estate, Copper, Copper, Estate
+Defender Bot - draws Copper, Estate, Estate, Copper, Copper
+Banker Bot - draws Copper, Copper, Copper, Estate, Copper
+Villager Bot - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Villager Bot: turn 1 ----------
+Villager Bot - plays 4 Copper
+Villager Bot - buys Moneylender
+Villager Bot - gains Moneylender
+Villager Bot - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- guest2666.0000: turn 1 ----------
+guest2666.0000 - plays 2 Copper
+guest2666.0000 - buys Estate
+guest2666.0000 - gains Estate
+guest2666.0000 - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Defender Bot: turn 1 ----------
+Defender Bot - plays 3 Copper
+Defender Bot - buys Silver
+Defender Bot - gains Silver
+Defender Bot - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Banker Bot: turn 1 ----------
+Banker Bot - plays 4 Copper
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Villager Bot: turn 2 ----------
+Villager Bot - plays 3 Copper
+Villager Bot - buys Silver
+Villager Bot - gains Silver
+Villager Bot - shuffles deck
+Villager Bot - draws Copper, Copper, Copper, Copper, Silver
+ 
+---------- guest2666.0000: turn 2 ----------
+guest2666.0000 - plays 5 Copper
+guest2666.0000 - buys Duchy
+guest2666.0000 - gains Duchy
+guest2666.0000 - shuffles deck
+guest2666.0000 - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Defender Bot: turn 2 ----------
+Defender Bot - plays 4 Copper
+Defender Bot - buys Moneylender
+Defender Bot - gains Moneylender
+Defender Bot - shuffles deck
+Defender Bot - draws Copper, Silver, Copper, Moneylender, Estate
+ 
+---------- Banker Bot: turn 2 ----------
+Banker Bot - plays 3 Copper
+Banker Bot - buys Silver
+Banker Bot - gains Silver
+Banker Bot - shuffles deck
+Banker Bot - draws Estate, Silver, Estate, Copper, Copper
+ 
+---------- Villager Bot: turn 3 ----------
+Villager Bot - plays 4 Copper, 1 Silver
+Villager Bot - buys Gold
+Villager Bot - gains Gold
+Villager Bot - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- guest2666.0000: turn 3 ----------
+guest2666.0000 - plays 4 Copper
+ 
+------------ Game Over ------------
+Defender Bot - cards: 1 Moneylender, 7 Copper, 1 Silver, 3 Estate
+Defender Bot - total victory points: 3
+Defender Bot - turns: 2
+ 
+Banker Bot - cards: 7 Copper, 2 Silver, 3 Estate
+Banker Bot - total victory points: 3
+Banker Bot - turns: 2
+ 
+Villager Bot - cards: 1 Moneylender, 7 Copper, 1 Gold, 1 Silver, 3 Estate
+Villager Bot - total victory points: 3
+Villager Bot - turns: 3
+ 
+guest2666.0000 - quit
+guest2666.0000 - cards: 3 Copper, 4 Estate, 1 Duchy
+guest2666.0000 - total victory points: 7
+guest2666.0000 - turns: 2
+ 
+1st place: Defender Bot
+1st place: Banker Bot
+2nd place: Villager Bot
+3rd place: guest2666.0000
+ 

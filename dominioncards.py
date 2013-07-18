@@ -33,9 +33,11 @@ class Card(object):
         # instead of in the getter during each call.
         self.vp = int_or_default(self.vp, 0)
         self.coins = int_or_default(self.coins, 0)
+        self.cointokens = int_or_default(self.cointokens, 0)
         self.trash = int_or_default(self.trash, 1)
-        self.actions = int_or_default(self.actions, 1)
+        self.actions = int_or_default(self.actions, 0)
         self.index = int(self.index)
+        self.coin_cost = int_or_default(self.cost.replace('P',''),0)
 
     def pluralize(self, freq):
         return self.singular if freq == 1 else self.plural
@@ -58,11 +60,23 @@ class Card(object):
     def is_attack(self):
         return self.attack == '1'
 
+    def is_shelter(self):
+        return self.shelter == '1'
+
+    def is_knight(self):
+        return self.knight == '1'
+
+    def is_ruins(self):
+        return self.ruins == '1'
+
     def vp_per_card(self):
         return self.vp
 
     def money_value(self):
         return self.coins
+
+    def coin_tokens(self):
+        return self.cointokens
 
     def trashes(self):
         return self.trash
@@ -72,6 +86,9 @@ class Card(object):
 
     def get_expansion(self):
         return self.expansion
+
+    def can_trash_self(self):
+        return self in [Feast, Pillage, MiningVillage, Embargo, TreasureMap, DeathCart]
 
     def __repr__(self):
         return "%s(%s)" % (self.__class__.__name__, self.singular)
@@ -108,6 +125,8 @@ representations (singular, plural, and __repr__()"""
 def get_card(name):
     """Look up a card by its name."""
     try:
+        if name == "JackOfAllTrades":
+            name = "Jack of All Trades"
         return _CARDS[name]
     except KeyError:
         raise CardNameError(name)
@@ -186,7 +205,8 @@ def opening_cards():
 
     This includes only cards costing between 0 and 5 coin."""
     return sorted([card for card in all_cards()
-            if card.cost in ('0', '2', '3', '4', '5')])
+            if (card.cost in ('0','1', '2', '3', '4', '5') and 
+                not card.is_shelter())])
 
 
 import collections

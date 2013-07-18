@@ -1,0 +1,711 @@
+------------ Game Setup ------------
+Supply cards: Fool's Gold, Pawn, Steward, Baron, Moneylender, Salvager, Count, Harvest, Minion, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: unrated
+ftl - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Serf Bot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ftl - shuffles deck
+Serf Bot - shuffles deck
+ftl - draws Copper, Copper, Estate, Estate, Copper
+Serf Bot - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Serf Bot: turn 1 ----------
+Serf Bot - plays 4 Copper
+Serf Bot - buys Baron
+Serf Bot - gains Baron
+Serf Bot - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- ftl: turn 1 ----------
+ftl - plays 3 Copper
+ftl - buys Fool's Gold
+ftl - gains Fool's Gold
+ftl - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Serf Bot: turn 2 ----------
+Serf Bot - plays 3 Copper
+Serf Bot - buys Silver
+Serf Bot - gains Silver
+Serf Bot - shuffles deck
+Serf Bot - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- ftl: turn 2 ----------
+ftl - plays 4 Copper
+ftl - buys Salvager
+ftl - gains Salvager
+ftl - shuffles deck
+ftl - draws Copper, Copper, Fool's Gold, Copper, Estate
+ 
+---------- Serf Bot: turn 3 ----------
+Serf Bot - plays 3 Copper
+Serf Bot - buys Steward
+Serf Bot - gains Steward
+Serf Bot - draws Copper, Baron, Copper, Copper, Copper
+ 
+---------- ftl: turn 3 ----------
+ftl - plays 3 Copper, 1 Fool's Gold
+ftl - buys Moneylender
+ftl - gains Moneylender
+ftl - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Serf Bot: turn 4 ----------
+Serf Bot - plays 4 Copper
+Serf Bot - buys Moneylender
+Serf Bot - gains Moneylender
+Serf Bot - draws Estate, Silver
+Serf Bot - shuffles deck
+Serf Bot - draws Copper, Moneylender, Steward
+ 
+---------- ftl: turn 4 ----------
+ftl - plays 3 Copper
+ftl - buys Pawn
+ftl - gains Pawn
+ftl - draws Copper, Salvager
+ftl - shuffles deck
+ftl - draws Copper, Pawn, Estate
+ 
+---------- Serf Bot: turn 5 ----------
+Serf Bot - plays Moneylender
+Serf Bot - trashes Copper
+Serf Bot - plays 1 Silver
+Serf Bot - buys Minion
+Serf Bot - gains Minion
+Serf Bot - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- ftl: turn 5 ----------
+ftl - plays Pawn
+ftl - takes 1 coin
+ftl - takes 1 action
+ftl - plays Salvager
+ftl - trashes Estate
+ftl - plays 2 Copper
+ftl - buys Minion
+ftl - gains Minion
+ftl - draws Estate, Fool's Gold, Copper, Copper, Copper
+ 
+---------- Serf Bot: turn 6 ----------
+Serf Bot - plays 4 Copper
+Serf Bot - buys Salvager
+Serf Bot - gains Salvager
+Serf Bot - draws Estate, Baron, Copper, Copper
+Serf Bot - shuffles deck
+Serf Bot - draws Minion
+ 
+---------- ftl: turn 6 ----------
+ftl - plays 3 Copper, 1 Fool's Gold
+ftl - buys Baron
+ftl - gains Baron
+ftl - draws Copper, Copper, Estate, Moneylender
+ftl - shuffles deck
+ftl - draws Estate
+ 
+---------- Serf Bot: turn 7 ----------
+Serf Bot - plays Minion
+Serf Bot - takes 2 coins
+Serf Bot - plays Baron
+Serf Bot - discards Estate
+Serf Bot - plays 2 Copper
+Serf Bot - buys Salvager
+Serf Bot - gains Salvager
+Serf Bot - buys Moneylender
+Serf Bot - gains Moneylender
+Serf Bot - draws Copper, Silver, Copper, Steward, Moneylender
+ 
+---------- ftl: turn 7 ----------
+ftl - plays Moneylender
+ftl - trashes Copper
+ftl - plays 1 Copper
+ftl - buys Steward
+ftl - gains Steward
+ftl - draws Fool's Gold, Copper, Copper, Pawn, Copper
+ 
+---------- Serf Bot: turn 8 ----------
+Serf Bot - plays Moneylender
+Serf Bot - trashes Copper
+Serf Bot - plays 1 Copper, 1 Silver
+Serf Bot - buys Gold
+Serf Bot - gains Gold
+Serf Bot - draws Salvager, Estate, Copper, Copper, Estate
+ 
+---------- ftl: turn 8 ----------
+ftl - plays Pawn
+ftl - takes 1 action
+ftl - draws Salvager
+ftl - plays Salvager
+ftl - trashes Copper
+ftl - plays 2 Copper, 1 Fool's Gold
+ftl - buys Fool's Gold
+ftl - gains Fool's Gold
+ftl - draws Minion, Baron, Copper, Copper
+ftl - shuffles deck
+ftl - draws Copper
+ 
+---------- Serf Bot: turn 9 ----------
+Serf Bot - plays Salvager
+Serf Bot - trashes Estate
+Serf Bot - plays 2 Copper
+Serf Bot - buys Moneylender
+Serf Bot - gains Moneylender
+Serf Bot - buys Copper
+Serf Bot - gains Copper
+Serf Bot - shuffles deck
+Serf Bot - draws Copper, Moneylender, Copper, Copper, Silver
+ 
+---------- ftl: turn 9 ----------
+ftl - plays Minion
+ftl - takes 2 coins
+ftl - plays Baron
+ftl - gains Estate
+ftl - plays 3 Copper
+ftl - buys Harvest
+ftl - gains Harvest
+ftl - draws Copper, Estate, Estate, Copper, Fool's Gold
+ 
+---------- Serf Bot: turn 10 ----------
+Serf Bot - plays Moneylender
+Serf Bot - trashes Copper
+Serf Bot - plays 2 Copper, 1 Silver
+Serf Bot - buys Bank
+Serf Bot - gains Bank
+Serf Bot - draws Moneylender, Steward, Salvager, Gold, Salvager
+ 
+---------- ftl: turn 10 ----------
+ftl - plays 2 Copper, 1 Fool's Gold
+ftl - buys Fool's Gold
+ftl - gains Fool's Gold
+ftl - draws Fool's Gold, Salvager, Pawn, Steward, Moneylender
+ 
+---------- Serf Bot: turn 11 ----------
+Serf Bot - plays Salvager
+Serf Bot - trashes Moneylender
+Serf Bot - plays 1 Gold
+Serf Bot - buys Harvest
+Serf Bot - gains Harvest
+Serf Bot - buys Pawn
+Serf Bot - gains Pawn
+Serf Bot - draws Estate, Moneylender, Copper, Estate, Baron
+ 
+---------- ftl: turn 11 ----------
+ftl - plays Pawn
+ftl - takes 1 action
+ftl - shuffles deck
+ftl - draws Estate
+ftl - plays Moneylender
+ftl - draws Estate, Estate, Minion, Harvest, Copper
+ 
+---------- Serf Bot: turn 12 ----------
+Serf Bot - plays Moneylender
+Serf Bot - trashes Copper
+Serf Bot - buys Steward
+Serf Bot - gains Steward
+Serf Bot - draws Copper, Minion, Copper
+Serf Bot - shuffles deck
+Serf Bot - draws Harvest, Copper
+ 
+---------- ftl: turn 12 ----------
+ftl - plays Minion
+ftl - takes 2 coins
+ftl - plays Harvest
+ftl - reveals: Copper, Fool's Gold, Fool's Gold, Copper
+ftl - discards: Copper, Fool's Gold, Fool's Gold, Copper
+ftl - plays 1 Copper
+ftl - buys Count
+ftl - gains Count
+ftl - draws Baron, Copper, Copper
+ftl - shuffles deck
+ftl - draws Moneylender, Copper
+ 
+---------- Serf Bot: turn 13 ----------
+Serf Bot - plays Minion
+Serf Bot - takes 2 coins
+Serf Bot - plays Harvest
+Serf Bot - reveals: Moneylender, Estate, Silver, Pawn
+Serf Bot - discards: Moneylender, Estate, Silver, Pawn
+Serf Bot - plays 3 Copper
+Serf Bot - buys Platinum
+Serf Bot - gains Platinum
+Serf Bot - draws Baron, Steward, Salvager, Gold, Bank
+ 
+---------- ftl: turn 13 ----------
+ftl - plays Moneylender
+ftl - trashes Copper
+ftl - plays 2 Copper
+ftl - buys Minion
+ftl - gains Minion
+ftl - draws Fool's Gold, Count, Fool's Gold, Steward, Copper
+ 
+---------- Serf Bot: turn 14 ----------
+Serf Bot - plays Salvager
+Serf Bot - trashes Steward
+Serf Bot - plays 1 Gold
+Serf Bot - plays Bank
+Serf Bot - buys Minion
+Serf Bot - gains Minion
+Serf Bot - buys Silver
+Serf Bot - gains Silver
+Serf Bot - draws Steward, Salvager, Copper, Moneylender, Estate
+ 
+---------- ftl: turn 14 ----------
+ftl - plays Count
+ftl - places Steward on top of deck
+ftl - takes 3 coins
+ftl - plays 2 Fool's Gold, 1 Copper
+ftl - buys Bank
+ftl - gains Bank
+ftl - draws Steward, Estate, Salvager, Fool's Gold, Estate
+ 
+---------- Serf Bot: turn 15 ----------
+Serf Bot - plays Salvager
+Serf Bot - trashes Moneylender
+Serf Bot - plays 1 Copper
+Serf Bot - buys Silver
+Serf Bot - gains Silver
+Serf Bot - buys Pawn
+Serf Bot - gains Pawn
+Serf Bot - shuffles deck
+Serf Bot - draws Moneylender, Silver, Harvest, Platinum, Copper
+ 
+---------- ftl: turn 15 ----------
+ftl - plays Steward
+ftl - takes 2 coins
+ftl - plays 1 Fool's Gold
+ftl - buys Fool's Gold
+ftl - gains Fool's Gold
+ftl - draws Pawn, Minion, Harvest, Copper, Estate
+ 
+---------- Serf Bot: turn 16 ----------
+Serf Bot - plays Harvest
+Serf Bot - reveals: Salvager, Pawn, Salvager, Steward
+Serf Bot - discards: Salvager, Pawn, Salvager, Steward
+Serf Bot - plays 1 Silver, 1 Platinum, 1 Copper
+Serf Bot - buys Colony
+Serf Bot - gains Colony
+Serf Bot - draws Minion, Silver, Pawn, Baron, Silver
+ 
+---------- ftl: turn 16 ----------
+ftl - plays Pawn
+ftl - takes 1 coin
+ftl - takes 1 action
+ftl - plays Minion
+ftl - discards: Harvest, Copper, Estate
+ftl - shuffles deck
+ftl - draws Harvest, Copper, Fool's Gold, Count
+Serf Bot - discards: Minion, Silver, Pawn, Baron, Silver
+Serf Bot - draws Minion, Estate, Copper, Copper
+ftl - plays Count
+ftl - places Harvest on top of deck
+ftl - gains Duchy
+ftl - plays 1 Copper, 1 Fool's Gold
+ftl - buys Fool's Gold
+ftl - gains Fool's Gold
+ftl - draws Harvest, Copper, Moneylender, Minion, Bank
+ 
+---------- Serf Bot: turn 17 ----------
+Serf Bot - plays Minion
+Serf Bot - discards: Estate, Copper, Copper
+Serf Bot - draws Gold, Bank, Copper, Estate
+ftl - discards: Harvest, Copper, Moneylender, Minion, Bank
+ftl - draws Copper, Copper, Estate, Fool's Gold
+Serf Bot - plays 1 Gold, 1 Copper
+Serf Bot - plays Bank
+Serf Bot - buys Bank
+Serf Bot - gains Bank
+Serf Bot - shuffles deck
+Serf Bot - draws Baron, Copper, Estate, Silver, Silver
+ 
+---------- ftl: turn 17 ----------
+ftl - plays 2 Copper, 1 Fool's Gold
+ftl - buys Fool's Gold
+ftl - gains Fool's Gold
+ftl - draws Estate, Fool's Gold, Steward, Fool's Gold, Estate
+ 
+---------- Serf Bot: turn 18 ----------
+Serf Bot - plays Baron
+Serf Bot - discards Estate
+Serf Bot - plays 2 Silver, 1 Copper
+Serf Bot - buys Minion
+Serf Bot - gains Minion
+Serf Bot - buys Moneylender
+Serf Bot - gains Moneylender
+Serf Bot - draws Gold, Pawn, Platinum, Copper, Steward
+ 
+---------- ftl: turn 18 ----------
+ftl - plays Steward
+ftl - trashes Estate, Estate
+ftl - plays 2 Fool's Gold
+ftl - buys Fool's Gold
+ftl - gains Fool's Gold
+ftl - draws Baron, Salvager
+ftl - shuffles deck
+ftl - draws Harvest, Bank, Copper
+ 
+---------- Serf Bot: turn 19 ----------
+Serf Bot - plays Pawn
+Serf Bot - takes 1 action
+Serf Bot - draws Copper
+Serf Bot - plays Steward
+Serf Bot - trashes Copper, Copper
+Serf Bot - plays 1 Gold, 1 Platinum
+Serf Bot - buys Province
+Serf Bot - gains Province
+Serf Bot - draws Bank, Moneylender, Salvager, Silver, Colony
+ 
+---------- ftl: turn 19 ----------
+ftl - plays Baron
+ftl - gains Estate
+ftl - plays 1 Copper
+ftl - plays Bank
+ftl - buys Fool's Gold
+ftl - gains Fool's Gold
+ftl - draws Fool's Gold, Duchy, Pawn, Estate, Fool's Gold
+ 
+---------- Serf Bot: turn 20 ----------
+Serf Bot - plays Salvager
+Serf Bot - trashes Moneylender
+Serf Bot - plays 1 Silver
+Serf Bot - plays Bank
+Serf Bot - buys Baron
+Serf Bot - gains Baron
+Serf Bot - buys Salvager
+Serf Bot - gains Salvager
+Serf Bot - draws Minion, Minion, Harvest, Pawn, Copper
+ 
+---------- ftl: turn 20 ----------
+ftl - plays Pawn
+ftl - takes 1 action
+ftl - draws Fool's Gold
+ftl - plays 3 Fool's Gold
+ftl - buys Platinum
+ftl - gains Platinum
+ftl - draws Fool's Gold, Moneylender, Copper, Fool's Gold, Steward
+ 
+---------- Serf Bot: turn 21 ----------
+Serf Bot - plays Minion
+Serf Bot - takes 2 coins
+Serf Bot - plays Minion
+Serf Bot - takes 2 coins
+Serf Bot - plays Pawn
+Serf Bot - takes 1 action
+Serf Bot - draws Bank
+Serf Bot - plays Harvest
+Serf Bot - reveals: Salvager, Estate
+Serf Bot - shuffles deck
+Serf Bot - reveals: Silver, Copper
+Serf Bot - discards: Salvager, Estate, Silver, Copper
+Serf Bot - plays 1 Copper
+Serf Bot - plays Bank
+Serf Bot - buys Colony
+Serf Bot - gains Colony
+Serf Bot - draws Colony, Moneylender, Baron, Estate, Silver
+ 
+---------- ftl: turn 21 ----------
+ftl - plays Moneylender
+ftl - trashes Copper
+ftl - plays 2 Fool's Gold
+ftl - buys Province
+ftl - gains Province
+ftl - draws Minion, Count, Fool's Gold, Minion, Fool's Gold
+ 
+---------- Serf Bot: turn 22 ----------
+Serf Bot - plays Baron
+Serf Bot - discards Estate
+Serf Bot - plays 1 Silver
+Serf Bot - buys Count
+Serf Bot - gains Count
+Serf Bot - draws Gold, Baron, Silver, Pawn, Bank
+ 
+---------- ftl: turn 22 ----------
+ftl - plays Minion
+ftl - takes 2 coins
+ftl - plays Minion
+ftl - takes 2 coins
+ftl - plays Count
+ftl - gains Copper
+ftl - takes 3 coins
+ftl - plays 2 Fool's Gold
+ftl - buys Colony
+ftl - gains Colony
+ftl - draws Copper, Copper
+ftl - shuffles deck
+ftl - draws Baron, Estate, Fool's Gold
+ 
+---------- Serf Bot: turn 23 ----------
+Serf Bot - plays Pawn
+Serf Bot - takes 1 action
+Serf Bot - draws Minion
+Serf Bot - plays Minion
+Serf Bot - takes 2 coins
+Serf Bot - plays Baron
+Serf Bot - gains Estate
+Serf Bot - plays 1 Gold, 1 Silver
+Serf Bot - plays Bank
+Serf Bot - buys Minion
+Serf Bot - gains Minion
+Serf Bot - buys Harvest
+Serf Bot - gains Harvest
+Serf Bot - draws Platinum, Province, Salvager, Salvager, Steward
+ 
+---------- ftl: turn 23 ----------
+ftl - plays Baron
+ftl - discards Estate
+ftl - plays 2 Copper, 1 Fool's Gold
+ftl - buys Bank
+ftl - gains Bank
+ftl - draws Fool's Gold, Copper, Estate, Colony, Minion
+ 
+---------- Serf Bot: turn 24 ----------
+Serf Bot - plays Salvager
+Serf Bot - trashes Salvager
+Serf Bot - plays 1 Platinum
+Serf Bot - buys Minion
+Serf Bot - gains Minion
+Serf Bot - buys Baron
+Serf Bot - gains Baron
+Serf Bot - shuffles deck
+Serf Bot - draws Baron, Steward, Province, Copper, Gold
+ 
+---------- ftl: turn 24 ----------
+ftl - plays Minion
+ftl - discards: Fool's Gold, Copper, Estate, Colony
+ftl - draws Pawn, Fool's Gold, Harvest, Moneylender
+Serf Bot - discards: Baron, Steward, Province, Copper, Gold
+Serf Bot - draws Estate, Moneylender, Colony, Minion
+ftl - plays Pawn
+ftl - takes 1 action
+ftl - draws Count
+ftl - plays Count
+ftl - places Fool's Gold on top of deck
+ftl - trashes Harvest, Moneylender
+ftl - draws Fool's Gold, Platinum, Salvager, Bank, Copper
+ 
+---------- Serf Bot: turn 25 ----------
+Serf Bot - plays Minion
+Serf Bot - takes 2 coins
+Serf Bot - buys Pawn
+Serf Bot - gains Pawn
+Serf Bot - draws Salvager, Copper, Minion, Silver, Silver
+ 
+---------- ftl: turn 25 ----------
+ftl - plays Salvager
+ftl - trashes Bank
+ftl - plays 1 Fool's Gold, 1 Platinum, 1 Copper
+ftl - buys Colony
+ftl - gains Colony
+ftl - buys Fool's Gold
+ftl - gains Fool's Gold
+ftl - draws Fool's Gold, Fool's Gold, Fool's Gold, Duchy, Province
+ 
+---------- Serf Bot: turn 26 ----------
+Serf Bot - plays Minion
+Serf Bot - takes 2 coins
+Serf Bot - plays Salvager
+Serf Bot - trashes Copper
+Serf Bot - plays 2 Silver
+Serf Bot - buys Gold
+Serf Bot - gains Gold
+Serf Bot - draws Silver, Platinum, Baron, Baron, Salvager
+ 
+---------- ftl: turn 26 ----------
+ftl - plays 3 Fool's Gold
+ftl - buys Platinum
+ftl - gains Platinum
+ftl - draws Fool's Gold, Minion, Fool's Gold, Steward
+ftl - shuffles deck
+ftl - draws Fool's Gold
+ 
+---------- Serf Bot: turn 27 ----------
+Serf Bot - plays Salvager
+Serf Bot - trashes Baron
+Serf Bot - plays 1 Silver, 1 Platinum
+Serf Bot - buys Province
+Serf Bot - gains Province
+ftl - trashes Fool's Gold
+ftl - gains Gold
+ftl - trashes Fool's Gold
+ftl - gains Gold
+ftl - trashes Fool's Gold
+ftl - gains Gold
+Serf Bot - buys Pawn
+Serf Bot - gains Pawn
+Serf Bot - draws Pawn, Minion, Bank, Count, Minion
+ 
+---------- ftl: turn 27 ----------
+ftl - plays Minion
+ftl - discards Steward
+ftl - draws Gold, Gold, Gold, Fool's Gold
+Serf Bot - discards: Pawn, Minion, Bank, Count, Minion
+Serf Bot - draws Estate, Harvest, Estate, Bank
+ftl - plays 3 Gold, 1 Fool's Gold
+ftl - buys Platinum
+ftl - gains Platinum
+ftl - draws Estate, Fool's Gold, Platinum, Bank, Fool's Gold
+ 
+---------- Serf Bot: turn 28 ----------
+Serf Bot - plays Harvest
+Serf Bot - reveals: Harvest, Pawn, Minion, Colony
+Serf Bot - discards: Harvest, Pawn, Minion, Colony
+Serf Bot - plays Bank
+Serf Bot - buys Count
+Serf Bot - gains Count
+Serf Bot - shuffles deck
+Serf Bot - draws Colony, Province, Count, Platinum, Bank
+ 
+---------- ftl: turn 28 ----------
+ftl - plays 2 Fool's Gold, 1 Platinum
+ftl - plays Bank
+ftl - buys Colony
+ftl - gains Colony
+ftl - draws Platinum, Fool's Gold, Colony, Fool's Gold, Province
+ 
+---------- Serf Bot: turn 29 ----------
+Serf Bot - plays Count
+Serf Bot - gains Copper
+Serf Bot - gains Duchy
+Serf Bot - plays 1 Platinum
+Serf Bot - plays Bank
+Serf Bot - buys Bank
+Serf Bot - gains Bank
+Serf Bot - draws Gold, Moneylender, Salvager, Gold, Province
+ 
+---------- ftl: turn 29 ----------
+ftl - plays 2 Fool's Gold, 1 Platinum
+ftl - buys Platinum
+ftl - gains Platinum
+ftl - draws Salvager, Count, Duchy, Copper, Baron
+ 
+---------- Serf Bot: turn 30 ----------
+Serf Bot - plays Salvager
+Serf Bot - trashes Moneylender
+Serf Bot - plays 2 Gold
+Serf Bot - buys Province
+Serf Bot - gains Province
+Serf Bot - buys Estate
+Serf Bot - gains Estate
+Serf Bot - draws Minion, Minion, Estate, Steward, Estate
+ 
+---------- ftl: turn 30 ----------
+ftl - plays Count
+ftl - places Salvager on top of deck
+ftl - gains Duchy
+ftl - draws Salvager, Minion, Estate, Pawn, Copper
+ 
+---------- Serf Bot: turn 31 ----------
+Serf Bot - plays Minion
+Serf Bot - takes 2 coins
+Serf Bot - plays Minion
+Serf Bot - takes 2 coins
+Serf Bot - plays Steward
+Serf Bot - takes 2 coins
+Serf Bot - buys Duchy
+Serf Bot - gains Duchy
+Serf Bot - draws Pawn, Minion, Estate, Baron, Copper
+ 
+---------- ftl: turn 31 ----------
+ftl - plays Pawn
+ftl - takes 1 coin
+ftl - takes 1 action
+ftl - plays Minion
+ftl - discards: Salvager, Estate, Copper
+ftl - draws Copper, Copper, Colony, Fool's Gold
+Serf Bot - discards: Pawn, Minion, Estate, Baron, Copper
+Serf Bot - draws Pawn, Silver, Silver, Harvest
+ftl - plays 2 Copper, 1 Fool's Gold
+ftl - buys Fool's Gold
+ftl - gains Fool's Gold
+ftl - shuffles deck
+ftl - draws Pawn, Count, Colony, Duchy, Gold
+ 
+---------- Serf Bot: turn 32 ----------
+Serf Bot - plays Pawn
+Serf Bot - takes 1 action
+Serf Bot - draws Harvest
+Serf Bot - plays Harvest
+Serf Bot - reveals: Salvager, Bank, Pawn, Silver
+Serf Bot - discards: Salvager, Bank, Pawn, Silver
+Serf Bot - plays 2 Silver
+Serf Bot - buys Province
+Serf Bot - gains Province
+Serf Bot - draws Pawn, Minion, Baron, Colony, Minion
+ 
+---------- ftl: turn 32 ----------
+ftl - plays Pawn
+ftl - takes 1 action
+ftl - draws Platinum
+ftl - plays Count
+ftl - discards Duchy
+ftl - discards Colony
+ftl - takes 3 coins
+ftl - plays 1 Gold, 1 Platinum
+ftl - buys Colony
+ftl - gains Colony
+ftl - draws Salvager, Fool's Gold, Minion, Fool's Gold, Fool's Gold
+ 
+---------- Serf Bot: turn 33 ----------
+Serf Bot - plays Minion
+Serf Bot - takes 2 coins
+Serf Bot - plays Minion
+Serf Bot - takes 2 coins
+Serf Bot - plays Pawn
+Serf Bot - takes 1 action
+Serf Bot - draws Count
+Serf Bot - plays Count
+Serf Bot - places Baron on top of deck
+Serf Bot - gains Duchy
+Serf Bot - buys Salvager
+Serf Bot - gains Salvager
+Serf Bot - draws Baron
+Serf Bot - shuffles deck
+Serf Bot - draws Count, Harvest, Minion, Harvest
+ 
+---------- ftl: turn 33 ----------
+ftl - plays Salvager
+ftl - trashes Minion
+ftl - plays 3 Fool's Gold
+ftl - buys Colony
+ftl - gains Colony
+ftl - draws Baron, Province, Copper, Fool's Gold, Colony
+ 
+---------- Serf Bot: turn 34 ----------
+Serf Bot - plays Minion
+Serf Bot - takes 2 coins
+Serf Bot - plays Baron
+Serf Bot - gains Estate
+Serf Bot - buys Estate
+Serf Bot - gains Estate
+Serf Bot - draws Steward, Province, Silver, Copper, Minion
+ 
+---------- ftl: turn 34 ----------
+ftl - plays Baron
+ftl - gains Estate
+ftl - plays 1 Copper, 1 Fool's Gold
+ftl - buys Estate
+ftl - gains Estate
+ftl - draws Fool's Gold, Bank, Platinum, Fool's Gold, Colony
+ 
+---------- Serf Bot: turn 35 ----------
+Serf Bot - plays Minion
+Serf Bot - takes 2 coins
+Serf Bot - plays Steward
+Serf Bot - takes 2 coins
+Serf Bot - plays 1 Silver, 1 Copper
+Serf Bot - buys Bank
+Serf Bot - gains Bank
+Serf Bot - draws Duchy, Salvager, Estate, Copper, Minion
+ 
+---------- ftl: turn 35 ----------
+ftl - plays 2 Fool's Gold, 1 Platinum
+ftl - plays Bank
+ftl - buys Colony
+ftl - gains Colony
+ftl - draws Copper, Estate, Duchy, Fool's Gold, Gold
+ 
+------------ Game Over ------------
+ftl - cards: 1 Count, 1 Steward, 1 Minion, 1 Baron, 1 Salvager, 1 Pawn, 7 Fool's Gold, 4 Platinum, 4 Copper, 3 Gold, 1 Bank, 6 Colony, 4 Estate, 2 Duchy, 1 Province
+ftl - total victory points: 76
+ftl - turns: 35
+ 
+Serf Bot - cards: 5 Minion, 4 Pawn, 3 Salvager, 2 Count, 2 Baron, 2 Harvest, 1 Steward, 4 Bank, 3 Silver, 2 Gold, 2 Copper, 1 Platinum, 6 Estate, 4 Province, 3 Duchy, 2 Colony
+Serf Bot - total victory points: 59
+Serf Bot - turns: 35
+ 
+1st place: ftl
+2nd place: Serf Bot
+ 
